@@ -1,0 +1,56 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en" data-theme="effigy">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <title>
+      {% unless page.titles %}
+      {{ page.title }}
+      {% else %}
+      {{ page.titles[0].gez }} ({{ page.titles[0].en }})
+      {% endunless %}
+      {% if page.title or page.titles %}|{% endif %}
+      {{ site.alt_title }}
+    </title>
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+    <section class="section">
+      <div class="container">
+        
+        <div class="mb-6">
+          {% unless page.title %}
+          <h1 class="title" lang="gez">{{ site.title | fidal }}</h1>
+          <h2 class="subtitle" lang="gez-latn">{{ site.title }}</h2>
+          {% endunless %}
+
+          {% unless page.titles %}
+          <h1 class="title">{{ page.title }}</h1>
+          {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+          {% else %}
+          <h1 class="title">
+            <span lang="gez">{{ page.titles[0].gez | fidal }}</span>
+            <wbr>
+            <small lang="gez-latn">{{ page.titles[0].gez }}</small>
+          </h1>
+          <h2 class="subtitle">
+            <span lang="en">{{ page.titles[0].en }}</span>
+          </h2>
+          {% endunless %}
+        </div>
+        
+        {{ content }}
+
+      </div>
+    </section>
+
+    {% include footer.html %}
+
+  </body>
+</html>

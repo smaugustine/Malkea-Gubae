@@ -1,0 +1,48 @@
+{% assign subjects = site.data.subjects[include.type] %}
+
+<h3 class="title is-5">{{ include.type | capitalize }}</h3>
+
+<table class="table is-fullwidth my-3">
+
+  {% for subject in subjects %}
+  <tbody id="{{ subject.id }}">
+
+    <tr>
+
+      <td>
+        <strong>{{ subject.name.gez | fidal }}</strong>
+        <small>{{ subject.name.gez }}</small>
+      </td>
+
+      <td>{{ subject.name.en }}</td>
+
+      <td>
+        {% for commemoration in subject.commemorations %}
+        {{ commemoration | monthday_to_string_ethiopic }}
+        {% endfor %}
+      </td>
+      
+    </tr>
+
+    <tr>
+
+      <td colspan="3">
+      {% assign works = site.works | where_exp: "work", "work.subjects contains subject.id" %}
+        <ol>
+          {% for work in works %}
+          <li value="{{ work.title }}">
+            <a href="{{ work.url }}">
+              <span lang="gez">{{ work.titles[0].gez }}</span>
+              <span lang="en">{{ work.titles[0].en }}</span>
+            </a>
+          </li>
+          {% endfor %}
+        </ol>
+      </td>
+      
+    </tr>
+
+  </tbody>
+  {% endfor %}
+
+</table>

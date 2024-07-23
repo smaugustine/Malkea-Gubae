@@ -1,0 +1,50 @@
+title: Ṣəḥufāna Malkəʾ
+description: Unpacking the malkəʾ tradition
+alt_title: Malkəʾa Gubāʾe
+
+collections:
+  works:
+    output: true
+  subjects:
+    output: true
+
+defaults:
+  - # blog posts
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog/post"
+      permalink: /blog/:categories/:year/:month/:day/:title:output_ext
+
+  - # works
+    scope:
+      path: ""
+      type: "works"
+    values:
+      layout: "work"
+      subjects: []
+
+  - # subjects
+    scope:
+      path: ""
+      type: "subjects"
+    values:
+      layout: "subjects"
+
+  - # *
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+permalink: pretty
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md

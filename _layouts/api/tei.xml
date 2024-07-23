@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ page.title }}" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        {% for title in page.titles %}
+        <title xml:id="t{{ forloop.index }}" xml:lang="gez">{{ title.gez | fidal }}</title>
+        <title corresp="#t{{ forloop.index }}" xml:lang="gez" type="normalized">{{ title.gez }}</title>
+        <title corresp="#t{{ forloop.index }}" xml:lang="en">{{ title.en }}</title>
+        {% endfor %}
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>{{ "now" | date: "%Y" }}</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>{{ site.title }}</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      {% if page.subjects.size > 0 %}
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              {% for subject in page.subjects %}
+              <person xml:id="{{ subject.id }}">
+                <persName xml:lang="gez">{{ subject.name.gez | fidal }}</persName>
+                <persName xml:lang="gez" type="normalized">{{ subject.name.gez }}</persName>
+                <persName xml:lang="en">{{ subject.name.en }}</persName>
+                <trait>{{ subject.category }}</trait>
+              </person>
+              {% endfor %}
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      {% endif %}
+
+      <div type="edition" xml:lang="gez">
+
+        {% if page.masgabiya %}<div type="textpart" xml:id="masgabiya">
+          {% for stanza in page.masgabiya %}
+          <lg type="stanza" n="{{ stanza[0] }}">
+            {% for line in stanza[1] %}
+            <l n="{{ forloop.index }}">{{ line }}</l>
+            {%- endfor %}
+
+          </lg>
+          {% endfor %}
+        </div>{% endif %}
+
+        <div type="textpart" xml:id="malke">
+          {% for stanza in page.stanzas %}
+          <lg type="stanza" n="{{ stanza[0] }}">
+            {% for line in stanza[1] %}
+            <l n="{{ forloop.index }}">{{ line }}</l>
+            {%- endfor %}
+
+          </lg>
+          {% endfor %}
+        </div>
+
+        {% if page.tarafa_malke %}<div type="textpart" xml:id="tarafa-malke">
+          {% for stanza in page.tarafa_malke %}
+          <lg type="stanza" n="{{ stanza[0] }}">
+            {% for line in stanza[1] %}
+            <l n="{{ forloop.index }}">{{ line }}</l>
+            {%- endfor %}
+
+          </lg>
+          {% endfor %}
+        </div>{% endif %}
+        
+      </div>
+
+      {% if page.bibliography %}
+      <div type="bibliography">
+        {{ page.bibliography }}
+      </div>
+      {% endif %}
+
+    </body>
+
+  </text>
+</TEI>

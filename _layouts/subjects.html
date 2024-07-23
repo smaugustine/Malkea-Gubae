@@ -1,0 +1,83 @@
+---
+layout: default
+types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Other]
+---
+
+<div class="columns">
+  
+  <div class="column is-2-desktop is-3-tablet">
+
+    <aside class="menu">
+      <p class="menu-label">Categories</p>
+      <ul class="menu-list">
+        {% for type in layout.types %}
+        {% assign menu_url = type | downcase | replace: '/', '-' | prepend: '/subjects/' | append: '/' %}
+        <li>
+          <a class="{% if menu_url == page.url %}is-active{% endif %}" href="{{ menu_url | relative_url }}">{{ type }}</a>
+          {% if type == 'Righteous' %}
+          {% assign subgroups = site.subjects | where_exp: "page", "page.id contains 'righteous/'" %}
+          <ul>
+            {% for subgroup in subgroups %}
+            <li>
+              <a class="{% if subgroup.url == page.url %}is-active{% endif %}" href="{{ subgroup.url | relative_url }}">{{ subgroup.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </aside>
+
+  </div>
+
+  <div class="column">
+
+    <table class="table is-fullwidth my-3">
+
+      {% for subject in page.subjects %}
+
+      <tbody id="{{ subject.id }}">
+
+        <tr>
+
+          <td>
+            <strong lang="gez">{{ subject.name.gez | fidal }}</strong>
+            <br><small lang="gez-latn">{{ subject.name.gez }}</small>
+          </td>
+
+          <td>{{ subject.name.en }}</td>
+
+          <td>
+            {% for commemoration in subject.commemorations %}
+            {{ commemoration | monthday_to_string_ethiopic }}
+            {% endfor %}
+          </td>
+          
+        </tr>
+
+        <tr>
+
+          <td colspan="3">
+            <ol>
+              {% for work in subject.works %}
+              <li value="{{ work.title }}">
+                <a href="{{ work.url }}">
+                  <span lang="gez">{{ work.titles[0].gez }}</span>
+                  <span lang="en">{{ work.titles[0].en }}</span>
+                </a>
+              </li>
+              {% endfor %}
+            </ol>
+          </td>
+          
+        </tr>
+
+      </tbody>
+      {% endfor %}
+
+    </table>
+
+  </div>
+
+</div>

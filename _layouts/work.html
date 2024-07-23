@@ -1,0 +1,153 @@
+---
+layout: default
+---
+{% assign notes = page.content | strip %}
+
+<div class="columns">
+
+  {% if page.titles.size > 1 or page.subjects.size > 0 or page.content %}
+
+  <div class="column is-4">
+
+    {% if page.titles.size > 1 %}
+
+    <article class="message" id="titles">
+      <div class="message-header">
+        <p>Other Titles</p>
+      </div>
+      <div class="message-body">
+        <ul>
+          {% for title in page.titles %}
+          {% unless forloop.first %}
+          <li>
+            <strong lang="gez">{{ title.gez | fidal }}</strong>
+            <small lang="gez-latn">{{ title.gez }}</small>
+            <br><span lang="en">{{ title.en }}</span>
+          </li>
+          {% endunless %}
+          {% endfor %}
+        </ul>
+      </div>
+    </article>
+
+    {% endif %}
+
+    {% if page.subjects.size > 0 %}
+
+    <article class="message" id="subjects">
+      <div class="message-header">
+        <p>Subjects</p>
+      </div>
+      <div class="message-body">
+        {% for subject in page.subjects %}
+        <a href="{{ subject.url }}">
+          <strong lang="gez">{{ subject.name.gez | fidal }}</strong><br>
+          <small lang="gez-latn">{{ subject.name.gez }}</small><br>
+          <span lang="en">{{ subject.name.en }}</span><br>
+          {{ subject.category }}
+        </a>
+        {% endfor %}
+      </div>
+    </article>
+    
+    {% endif %}
+
+    {% if notes.size > 0 %}
+    <article class="message is-hidden-mobile">
+      <div class="message-header">
+        <p>Notes</p>
+      </div>
+      <div class="message-body">{{ notes }}</div>
+    </article>
+    {% endif %}
+
+  </div>
+
+  {% endif %}
+
+  <div class="column">
+
+    {% if page.masgabiya %}
+
+    <article class="message" id="masgabiya">
+      <div class="message-header">
+        <p lang="gez-latn">Māsgabiyā</p>
+      </div>
+      <div class="message-body">
+        {% include textpart.html stanzas=page.masgabiya numbering='A' %}
+      </div>
+    </article>
+
+    {% endif %}
+
+    <main class="message" id="malke">
+      <div class="message-header">
+        <p lang="gez-latn">Malkəʾ</p>
+      </div>
+      <div class="message-body">
+        {% include textpart.html stanzas=page.stanzas %}
+      </div>
+    </main>
+
+    {% if page.tarafa_malke %}
+
+    <article class="message" id="taraf">
+      <div class="message-header">
+        <p lang="gez-latn">Tarafa Malkəʾ</p>
+      </div>
+      <div class="message-body">
+        {% include textpart.html stanzas=page.tarafa_malke numbering='A' %}
+      </div>
+    </article>
+
+    {% endif %}
+  
+  </div>
+
+</div>
+
+<div class="columns">
+
+  {% if notes.size > 0 %}
+  <div class="column is-hidden-tablet">
+    <article class="message">
+      <div class="message-header">
+        <p>Notes</p>
+      </div>
+      <div class="message-body">{{ notes }}</div>
+    </article>
+  </div>
+  {% endif %}
+  
+  {% if page.bibliography %}
+  <div class="column is-9-desktop is-8-tablet">
+    <article class="message" id="bibliography">
+      <div class="message-header">
+        <span>Bibliography</span>
+        <span class="is-pulled-right">
+          <a href="{{ 'https://www.zotero.org/groups/5599348/malkea_gubae/collections/' | append: page.zotero_key | append: '/' }}" target="_blank" style="color: #db2c3a; text-decoration: none;">Z</a>
+        </span>
+      </div>
+      <div class="message-body">
+        {{ page.bibliography }}
+      </div>
+    </article>
+  </div>
+  {% endif %}
+
+  <div class="column">
+    <article class="message" id="api">
+      <div class="message-header">
+        <span>API</span>
+      </div>
+      <div class="message-body">
+        <div class="buttons {% if page.bibliography %}is-centered{% endif %}">
+          <a class="button is-small is-dark" href="{{ '/api/xml/works/' | append: page.title | append: '.xml' | absolute_url }}" title="TEI XML">XML</a>
+          <a class="button is-small is-dark" href="{{ '/api/json/works/' | append: page.title | append: '.json' | absolute_url }}" title="JSON API">JSON</a>
+          <a class="button is-small is-dark" href="https://betamasaheft.eu/newSearch.html?searchType=clavis&query={{ page.title }}#results" target="_blank" title="Beta Maṣāḥəft">BetMas</a>
+        </div>
+      </div>
+    </article>
+  </div>
+
+</div>

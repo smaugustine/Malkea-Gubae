@@ -1,0 +1,47 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en" data-theme="reader">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% feed_meta %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    {% seo %}
+  </head>
+
+  <body>
+
+    {% include blog/header.html %}
+
+    {% if page.title %}
+    <section class="section py-0">
+      <div class="container py-6">
+        <div class="columns is-centered">
+          <div class="column is-10-tablet is-8-desktop">
+            <h1 class="title is-2">{{ page.title }}</h1>
+            {% if page.date %}
+            <h3 class="subtitle">
+              <span>Posted </span>
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | to_ethiopic }}</time>
+              <time datetime="{{ post.date | date_to_xmlschema }}">({{ page.date | date: "%-d %B %Y" }})</time>
+              {% assign data_id = page.name | remove: '.md' %}
+              {% if site.data.iiif[data_id] %}
+              <a class="tag is-warning is-pulled-right" href="#post">Jump to post</a>
+              {% endif %}
+            </h3>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </section>
+    {% endif %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    <script src="https://ncsu-libraries.github.io/annona/dist/annona.js"></script>
+
+  </body>
+</html>

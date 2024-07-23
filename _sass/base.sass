@@ -1,0 +1,100 @@
+@use "bulma/sass/utilities/mixins"
+@import "bulma/bulma"
+@import "theme"
+
+html body
+  user-select: none
+
+  :not(a) > h1, :not(a) > h2, :not(a) > h3, :not(a) > h4, :not(a) > h5, :not(a) > h6, p, li, td
+    cursor: text
+
+  [lang="gez-latn"]
+    font-style: italic
+
+  h1.title small
+    @include mixins.touch
+      display: block
+
+  .table, .message-body, .content
+    font-family: var(--bulma-family-secondary)
+    .button
+      font-family: var(--bulma-family-primary)
+  
+  table.table
+
+    tbody
+      border-color: var(--bulma-table-cell-border-color)
+      border-style: var(--bulma-table-cell-border-style)
+      border-width: 1px
+    
+    td
+      border: 0
+
+      &.is-linked a
+        display: block
+        width: 100%
+        height: 100%
+        color: inherit
+
+  ol.stanzas
+    list-style-position: outside
+    margin-inline-start: 2em
+
+    li + li
+      margin-top: 0.25em
+
+    li ul
+      list-style: none
+      list-style-position: outside
+      margin-bottom: 1em
+      padding-left: 1em
+      text-indent:-1em
+
+    &.can-break
+      @include mixins.widescreen
+        columns: 2
+
+      li
+        page-break-inside: avoid
+
+  div.columns div.column article.message
+    &:not(:first-child)
+      padding-top: calc( 2 * var(--bulma-column-gap) )
+
+    .buttons
+      @include mixins.mobile
+        justify-content: center
+
+  div#calendar
+    &>ol
+      @include mixins.tablet
+        columns: 2
+
+      @include mixins.desktop
+        columns: 3
+
+      &>li
+        page-break-inside: avoid
+        
+        &>ul>li
+
+          &[data-category="Trinitarian"]::marker
+            color: var(--bulma-success)
+
+          &[data-category="Marian"]::marker
+            color: var(--bulma-info)
+
+          &[data-category="Angelic"]::marker
+            color: var(--bulma-warning)
+
+          &[data-category="Martyrs"]::marker
+            color: var(--bulma-danger)
+
+  table.table#chaine
+    td[colspan="2"]
+      a:after
+        content: ","
+        color: var(--bulma-table-color)
+
+      a:last-child:after
+        content: ""

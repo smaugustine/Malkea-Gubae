@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="columns is-centered">
+  <div class="column is-8-widescreen is-10-tablet">
+
+    <h1 class="title is-3 mb-6" style="margin-top: -3rem;">
+      <span>Bibliography</span>
+      <span class="is-pulled-right">
+        <a href="https://www.zotero.org/groups/5599348/malka_gube/library" target="_blank" style="color: #db2c3a; text-decoration: none;"><small>Z</small></a>
+      </span>
+    </h1>
+    
+    {% for bibliography in page.bibliographies %}
+      <h2 class="title is-4 mb-3">
+        <span>{{ bibliography[0] | capitalize }}{% unless forloop.first %}s{% endunless %}</span>
+        <span class="is-pulled-right">
+          <a href="{{ 'https://www.zotero.org/groups/5599348/malkea_gubae/tags/' | append: bibliography[0] | append: '/library/' }}" target="_blank" style="color: #db2c3a; text-decoration: none;"><small>Z</small></a>
+        </span>
+      </h2>
+      <article class="content mb-6">{{ bibliography[1] }}</article>
+    {% endfor %}
+
+  </div>
+</div>

@@ -1,0 +1,13 @@
+<ol {% if include.numbering %}type="{{ include.numbering }}"{% endif %} class="stanzas {% if include.stanzas.size > 5 %}can-break{% endif %}">
+  {% for stanza in include.stanzas %}
+  <li class="stanza" value="{{ stanza[0] }}">
+    <ul>
+
+      {% for line in stanza[1] %}
+      <li>{{ line }}</li>
+      {% endfor %}
+
+    </ul>
+  </li>
+  {% endfor %}
+</ol>
