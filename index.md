@@ -1,5 +1,11 @@
 ---
 ---
+
+<p>
+  <em>CAe</em> = <em>Clavis Aethiopica</em><br>
+  Chaîne = Marius Chaîne, “<a href="{{ '/works/chaine/' | relative_url }}">Répertoire des salam et malke'e</a>,” <i>ROC</i> 18 (1913): 183–203, 337–57.
+</p>
+
 <table class="table is-fullwidth">
     
   {% for work in site.works %}
@@ -45,8 +51,3 @@
   {% endfor %}
 
 </table>
-
-<p>
-  <em>CAe</em> = <em>Clavis Aethiopica</em><br>
-  Chaîne = Marius Chaîne, “<a href="{{ '/works/chaine/' | relative_url }}">Répertoire des salam et malke'e</a>,” <i>ROC</i> 18 (1913): 183–203, 337–57.
-</p>

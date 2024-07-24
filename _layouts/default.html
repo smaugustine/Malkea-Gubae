@@ -26,8 +26,8 @@
         
         <div class="mb-6">
           {% unless page.title %}
-          <h1 class="title" lang="gez">{{ site.title | fidal }}</h1>
-          <h2 class="subtitle" lang="gez-latn">{{ site.title }}</h2>
+          <h1 class="title" lang="gez">{{ site.alt_title | fidal }}</h1>
+          <h2 class="subtitle" lang="gez-latn">{{ site.alt_title }}</h2>
           {% endunless %}
 
           {% unless page.titles %}
