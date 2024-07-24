@@ -9,7 +9,7 @@ subjects:
       - [21, 5]
 
   -
-    id: ledat
+    id: nativity-mary
     name:
       gez: Lədatā la-Māryām
       en: The Nativity of Mary
@@ -17,9 +17,9 @@ subjects:
       - [1, 9]
 
   -
-    id: baata
+    id: entrance-mary
     name:
-      gez: Baʾatā la-Māryām wəsta Maqdas
+      gez: Baʾatā la-Māryām wəsta Beta Maqdas
       en: The Entrance of Mary into the Temple
     commemorations:
       - [3, 4]
@@ -42,7 +42,7 @@ subjects:
       - [16,6]
 
   -
-    id: felsata
+    id: assumption-mary
     name:
       gez: Fəlsatā la-Māryām
       en: The Assumption of Mary
