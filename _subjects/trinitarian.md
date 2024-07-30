@@ -1,4 +1,6 @@
 ---
+title: Trinitarian Subjects
+
 subjects:
   -
     id: trinity

@@ -19,7 +19,18 @@ module JSONAPI
               "stanzas": work.data['stanzas']
             },
             "relationships": {
-              "subjects": [],
+              "subjects": work.data['subjects'].map{|subject| {
+                "type": "subjects",
+                "id": subject['id'],
+                "attributes": {
+                  "category": subject['category'],
+                  "name": subject['name'],
+                  "commemorations": subject['commemorations']
+                },
+                "links": {
+                  "self": "#{site.baseurl}/api/json/subjects/#{subject['id']}.json"
+                }
+              }},
               "bibliography": {
                 "type": "collection",
                 "id": work.data['zotero_key'],
@@ -29,7 +40,7 @@ module JSONAPI
               }
             },
             "links": {
-              "self": "#{site.baseurl}/api/json/#{work.data['title']}.json"
+              "self": "#{site.baseurl}/api/json/works/#{work.data['title']}.json"
             },
             "meta": {
               "copyright": "Copyright #{Date.today.year} Augustine Dickinson.",

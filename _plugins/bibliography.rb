@@ -7,8 +7,21 @@ module Bibliography
     def generate(site)
 
       begin
-        zotero_collections = URI.open('https://api.zotero.org/groups/5599348/collections?v=3').read
-        zotero_collections = JSON.parse(zotero_collections)
+        zotero_collections = []
+        api_url = 'https://api.zotero.org/groups/5599348/collections?v=3'
+
+        loop do
+
+          response = URI.open(api_url)
+          zotero_collections.concat(JSON.parse(response.read))
+
+          header_links = response.meta['link']
+          api_url = header_links.gsub(/.*<(.+?)>; rel="next".*/, '\1')
+         
+        break if !header_links.include? "next"
+         
+        end
+
         zotero_collections.map!{ |collection| collection['data'] }
 
         site.collections['works'].docs.each do |work|

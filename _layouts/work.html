@@ -10,12 +10,11 @@ layout: default
   <div class="column is-4">
 
     {% if page.titles.size > 1 %}
-
     <article class="message" id="titles">
       <div class="message-header">
         <p>Other Titles</p>
       </div>
-      <div class="message-body">
+      <div class="message-body content">
         <ul>
           {% for title in page.titles %}
           {% unless forloop.first %}
@@ -29,27 +28,26 @@ layout: default
         </ul>
       </div>
     </article>
-
     {% endif %}
 
     {% if page.subjects.size > 0 %}
-
     <article class="message" id="subjects">
       <div class="message-header">
         <p>Subjects</p>
       </div>
-      <div class="message-body">
+      <div class="message-body content">
         {% for subject in page.subjects %}
+        <span class="tag is-dark is-pulled-right">{{ subject.category }}</span>
         <a href="{{ subject.url }}">
-          <strong lang="gez">{{ subject.name.gez | fidal }}</strong><br>
-          <small lang="gez-latn">{{ subject.name.gez }}</small><br>
-          <span lang="en">{{ subject.name.en }}</span><br>
-          {{ subject.category }}
+          <strong lang="gez">{{ subject.name.gez | fidal }}</strong>
+          {% if subject.name.gez.size > 10 %}<br>{% endif %}
+          <small lang="gez-latn">{{ subject.name.gez }}</small>
+          <br><span lang="en">{{ subject.name.en }}</span>
         </a>
+        {% unless forloop.last %}<hr>{% endunless %}
         {% endfor %}
       </div>
     </article>
-    
     {% endif %}
 
     {% if notes.size > 0 %}
@@ -106,7 +104,7 @@ layout: default
 
 </div>
 
-<div class="columns">
+<div class="columns is-multiline">
 
   {% if notes.size > 0 %}
   <div class="column is-hidden-tablet">
@@ -119,8 +117,8 @@ layout: default
   </div>
   {% endif %}
   
-  {% if page.bibliography %}
-  <div class="column is-9-desktop is-8-tablet">
+  {% if page.zotero_key %}
+  <div class="column is-7-desktop is-8-tablet">
     <article class="message" id="bibliography">
       <div class="message-header">
         <span>Bibliography</span>
@@ -146,6 +144,17 @@ layout: default
           <a class="button is-small is-dark" href="{{ '/api/json/works/' | append: page.title | append: '.json' | absolute_url }}" title="JSON API">JSON</a>
           <a class="button is-small is-dark" href="https://betamasaheft.eu/newSearch.html?searchType=clavis&query={{ page.title }}#results" target="_blank" title="Beta Maṣāḥəft">BetMas</a>
         </div>
+      </div>
+    </article>
+  </div>
+
+  <div class="column is-3-desktop is-full-tablet">
+    <article class="message" id="bibliography">
+      <div class="message-header">
+        <span>Meta</span>
+      </div>
+      <div class="message-body">
+        <p>Last modified: <time datetime="{{ page.last_modified | date_to_xmlschema }}">{{ page.last_modified | date: "%-d %B %Y" }}</time>.</p>
       </div>
     </article>
   </div>

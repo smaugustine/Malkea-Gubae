@@ -1,4 +1,6 @@
 ---
+title: Angelic Subjects
+
 subjects:
   -
     id: michael

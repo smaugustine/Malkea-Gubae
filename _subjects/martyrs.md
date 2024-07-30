@@ -117,7 +117,7 @@ subjects:
   -
     id: jacob-intercisus
     name:
-      gez: Yāʿqob za-gəmud
+      gez: Yāʿqob za-Gəmud
       en: Jacob Intercisus
     commemorations:
       - [27, 3]
@@ -227,6 +227,14 @@ subjects:
       - [22, 3]
 
   -
+    id: damian
+    name:
+      gez: Damyānos
+      en: Damian
+    commemorations:
+      - [22, 3]
+
+  -
     id: serapamon
     name:
       gez: Sarabāmon
@@ -259,7 +267,7 @@ subjects:
       - [20, 11]
 
   -
-    id: martyrs-sebaste
+    id: forty-martyrs
     name:
       gez: ʾArbəʿā Ḥarā
       en: The Forty Martyrs of Sebaste

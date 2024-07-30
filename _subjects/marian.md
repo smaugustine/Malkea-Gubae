@@ -1,4 +1,6 @@
 ---
+title: Marian Subjects
+
 subjects:
   -
     id: mary

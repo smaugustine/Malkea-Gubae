@@ -3,13 +3,27 @@
 
 @include cv.bulma-theme($name: "effigy") {
 
+  --bulma-primary-h: 90deg;
+  --bulma-primary-l: 52%;
+  --bulma-link-h: 210deg;
+  --bulma-link-l: 52%;
+  --bulma-info-h: 270deg;
+  --bulma-info-l: 52%;
+  --bulma-success-h: 150deg;
+  --bulma-success-s: 100%;
+  --bulma-success-l: 52%;
+  --bulma-warning-h: 30deg;
+  --bulma-warning-l: 52%;
+  --bulma-danger-h: 330deg;
+  --bulma-danger-l: 52%;
+
   --bulma-family-serif: 'Noto Serif', Bembino, Garamond, Times, serif;
   --bulma-family-sans-serif: 'Noto Sans', Helvetica, Arial, sans-serif;
-
   --bulma-family-primary: var(--bulma-family-sans-serif);
   --bulma-family-secondary: var(--bulma-family-serif);
 
-  --bulma-panel-shadow: 0 !important;
+  --bulma-hr-height: 1.5px;
+  --bulma-hr-margin: 1rem 0;
 
   @include setup.setup-theme;
 }

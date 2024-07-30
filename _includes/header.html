@@ -15,15 +15,12 @@
   <div class="navbar-menu">
     <div class="navbar-start">
       
-      <a class="navbar-item" href="{{ site.url }}">Works</a>
-      <a class="navbar-item" href="{{ site.url }}/subjects">Subjects</a>
+      <a class="navbar-item" href="{% link index.md %}">Works</a>
+      <a class="navbar-item" href="{% link _subjects/index.md %}">Subjects</a>
       <a class="navbar-item" href="{{ site.url }}/bibliography">Bibliography</a>
-
-    </div>
-
-    <div class="navbar-end">
-
-      <a class="navbar-item" href="{{ site.url }}/blog">Blog!</a>
+      <div class="navbar-item">
+        <a class="button" href="{% link blog/index.md %}">Blog</a>
+      </div>
 
     </div>
   </div>

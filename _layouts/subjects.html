@@ -27,6 +27,12 @@ types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Oth
         </li>
         {% endfor %}
       </ul>
+      <p class="menu-label">Views</p>
+      <ul class="menu-list">
+        <li>
+          <a href="{% link _subjects/calendar.md %}">Calendar</a>
+        </li>
+      </ul>
     </aside>
 
   </div>
@@ -49,9 +55,11 @@ types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Oth
           <td>{{ subject.name.en }}</td>
 
           <td>
-            {% for commemoration in subject.commemorations %}
-            {{ commemoration | monthday_to_string_ethiopic }}
-            {% endfor %}
+            <ul>
+              {% for commemoration in subject.commemorations %}
+              <li>{{ commemoration | monthday_to_string_ethiopic }}</li>
+              {% endfor %}
+            </ul>
           </td>
           
         </tr>
@@ -59,13 +67,17 @@ types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Oth
         <tr>
 
           <td colspan="3">
-            <ol>
+            <hr class="mt-0">
+            <ol class="pl-5">
               {% for work in subject.works %}
               <li value="{{ work.title }}">
                 <a href="{{ work.url }}">
-                  <span lang="gez">{{ work.titles[0].gez }}</span>
-                  <span lang="en">{{ work.titles[0].en }}</span>
+                  <strong lang="gez">{{ work.titles[0].gez | fidal }}</strong>
+                  <small lang="gez-latn">{{ work.titles[0].gez }}&nbsp;</small>
+                  <span lang="en">&mdash; {{ work.titles[0].en }}</span>
                 </a>
+                <br>
+                <small lang="gez">{{ work.stanzas[1][0] }}</small>
               </li>
               {% endfor %}
             </ol>

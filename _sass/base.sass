@@ -1,6 +1,6 @@
 @use "bulma/sass/utilities/mixins"
 @import "bulma/bulma"
-@import "theme"
+@import "themes"
 
 html body
   user-select: none
@@ -21,7 +21,6 @@ html body
       font-family: var(--bulma-family-primary)
   
   table.table
-
     tbody
       border-color: var(--bulma-table-cell-border-color)
       border-style: var(--bulma-table-cell-border-style)
@@ -30,15 +29,27 @@ html body
     td
       border: 0
 
-      &.is-linked a
+      ol
+        margin-inline-start: 2em
+
+        li:not(:last-child)
+          margin-bottom: 0.75rem
+
+      /*&.is-linked a
         display: block
         width: 100%
-        height: 100%
-        color: inherit
+        height: 100%*/
 
   ol.stanzas
     list-style-position: outside
     margin-inline-start: 2em
+
+    li.ellipsis
+      list-style-type: none
+      margin-bottom: 1em
+
+      &:after
+       content: "⋮" 
 
     li + li
       margin-top: 0.25em
@@ -57,13 +68,22 @@ html body
       li
         page-break-inside: avoid
 
-  div.columns div.column article.message
+  div.columns div.column .message
     &:not(:first-child)
       padding-top: calc( 2 * var(--bulma-column-gap) )
 
     .buttons
       @include mixins.mobile
         justify-content: center
+
+    .message-body.content
+      ul
+        margin-top: 0
+      a
+        color: var(--bulma-link-text)
+        text-decoration: none
+      hr
+        background: hsl(var(--bulma-message-h), var(--bulma-message-s), var(--bulma-message-header-background-l))
 
   div#calendar
     &>ol
@@ -75,20 +95,19 @@ html body
 
       &>li
         page-break-inside: avoid
-        
-        &>ul>li
+  
+  li
+    &[data-category="Trinitarian"]::marker
+      color: var(--bulma-success)
 
-          &[data-category="Trinitarian"]::marker
-            color: var(--bulma-success)
+    &[data-category="Marian"]::marker
+      color: var(--bulma-link)
 
-          &[data-category="Marian"]::marker
-            color: var(--bulma-info)
+    &[data-category="Angelic"]::marker
+      color: var(--bulma-warning)
 
-          &[data-category="Angelic"]::marker
-            color: var(--bulma-warning)
-
-          &[data-category="Martyrs"]::marker
-            color: var(--bulma-danger)
+    &[data-category="Martyrs"]::marker
+      color: var(--bulma-danger)
 
   table.table#chaine
     td[colspan="2"]

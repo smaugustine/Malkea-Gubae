@@ -1,8 +1,18 @@
 <ol {% if include.numbering %}type="{{ include.numbering }}"{% endif %} class="stanzas {% if include.stanzas.size > 5 %}can-break{% endif %}">
+  {% assign i = 0 %}
   {% for stanza in include.stanzas %}
+
+  {% unless forloop.first or i == stanza[0] %}
+  <li value="0" class="ellipsis"></li>
+  {% endunless %}
+  {% assign i = stanza[0] | plus: 1 %}
+
+  {% if forloop.first != true and stanza[0] == 1 %}
+  <li value="0" class="divider">---</li>
+  {% endif %}
+  
   <li class="stanza" value="{{ stanza[0] }}">
     <ul>
-
       {% for line in stanza[1] %}
       <li>{{ line }}</li>
       {% endfor %}

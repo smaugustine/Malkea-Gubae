@@ -1,6 +1,13 @@
+require 'git'
+
 module DerivedValues
   class Generator < Jekyll::Generator
+
     def generate(site)
+
+      git = Git.open('.')
+
+      site.config['last_modified'] = git.log(1).first.date # set date of the latest commit as site var
 
       site.collections['subjects'].docs.each do |category|
         if category.data.include? 'subjects'
@@ -28,7 +35,15 @@ module DerivedValues
         end
       end
 
+      # last modified date according to git
       site.collections['works'].docs.each do |work|
+
+        commit = git.log(1).object(work.relative_path).first
+        unless commit.nil?
+          work.data['last_modified'] = commit.date
+        else
+          work.data['last_modified'] = DateTime.now.to_s
+        end
 
         # propagate subject data
         if work.data.include? 'subjects'
@@ -41,15 +56,16 @@ module DerivedValues
         unless work.data.include? 'titles'
           if work.data['type'] == 'malkəʾ'
 
-            gez_names = work.data['subjects'].map{ |subject| subject['name']['gez'] }
+            gez_names = work.data['subjects'].map{ |subject| subject['name']['gez'] }.map(&:clone)
             if gez_names.size > 1 then gez_names.last.prepend('wa-') end
             
-            en_names = work.data['subjects'].map{ |subject| subject['name']['en'] }
+            en_names = work.data['subjects'].map{ |subject| subject['name']['en'] }.map(&:clone)
             if en_names.size > 1 then en_names.last.prepend('and ') end
+            if en_names.size > 2 then en_names = en_names.join(", ") else en_names = en_names.join(" ") end
 
             work.data['titles'] = [{
               "gez" => gez_names.join(" ").prepend('Malkəʾa '),
-              "en" => en_names.join(", ").gsub(/The\s/, 'the ').prepend('Image of ')
+              "en" => en_names.gsub(/The\s/, 'the ').prepend('Image of ')
             }]
 
           end
