@@ -5,7 +5,7 @@ layout: default
 
 <div class="columns">
 
-  {% if page.titles.size > 1 or page.subjects.size > 0 or page.content %}
+  {% if page.titles.size > 1 or page.subjects.size > 0 or notes.size > 0 %}
 
   <div class="column is-4">
 
@@ -55,7 +55,7 @@ layout: default
       <div class="message-header">
         <p>Notes</p>
       </div>
-      <div class="message-body">{{ notes }}</div>
+      <div class="message-body content">{{ notes }}</div>
     </article>
     {% endif %}
 
@@ -112,7 +112,7 @@ layout: default
       <div class="message-header">
         <p>Notes</p>
       </div>
-      <div class="message-body">{{ notes }}</div>
+      <div class="message-body content">{{ notes }}</div>
     </article>
   </div>
   {% endif %}

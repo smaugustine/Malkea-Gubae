@@ -32,13 +32,14 @@ permalink: /works/chaine
 
         {% for subject_id in item[1].subjects %}
         {% assign subject = site.data.subjects | find: "id", subject_id %}
-        <a href="{{ subject.url }}">{{ subject.name.en }}</a>
+        <a href="{{ subject.url }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
+        
         {% endfor %}
 
         {% else %}
 
         {% for subject in work.subjects %}
-        <a href="{{ subject.url }}">{{ subject.name.en }}</a>
+        <a href="{{ subject.url }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
         {% endfor %}
 
         {% endif %}
@@ -46,7 +47,7 @@ permalink: /works/chaine
 
       <td>
         {% for subject in work.subjects %}
-        <a href="{{ subject.url }}">{{ subject.name.en }}</a>
+        <a href="{{ subject.url }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
         {% endfor %}
       </td>
 

@@ -9,7 +9,7 @@
 <table class="table is-fullwidth">
     
   {% for work in site.works %}
-  <tbody>
+  <tbody id="{{ work.title }}">
 
     <tr>
 
@@ -34,19 +34,80 @@
       </td>
 
       <td rowspan="2" style="text-align: center;">
-        <a class="button is-link is-size-4 px-4 py-1 mt-5">+</a>
+        <a class="button expands is-link is-size-4 px-4 py-1 mt-5" data-target="">+</a>
       </td>
 
     </tr>
 
     <tr>
       
-      <td class="is-linked" colspan="2">
-        <ul>
-          {% for line in work.stanzas[1] %}
-          <li {% unless forloop.first %}class="is-hidden"{% endunless %} lang="gez">{{ line }}</li>
+      <td class="is-linked is-hidden-desktop" colspan="2">
+        <span class="collapsible">{{ work.stanzas[1][0] }}</span>
+        <ol class="stanzas collapsible is-hidden">
+          <li>
+            <ul>
+              <li>{{ work.stanzas[1][0] }}</li>
+              <li>{{ work.stanzas[1][1] }}</li>
+              <li class="ellipsis"></li>
+            </ul>
+          </li>
+          {% if work.stanzas[2] %}
+          <li>
+            <ul>
+              <li>{{ work.stanzas[2][0] }}</li>
+              <li>{{ work.stanzas[2][1] }}</li>
+              <li class="ellipsis"></li>
+            </ul>
+          </li>
+          {% endif %}
+        </ol>
+      </td>
+
+      <td class="is-linked is-hidden-touch" colspan="1">
+        <span class="collapsible">{{ work.stanzas[1][0] }}</span>
+        <ol class="stanzas collapsible is-hidden">
+          <li>
+            <ul>
+              <li>{{ work.stanzas[1][0] }}</li>
+              <li>{{ work.stanzas[1][1] }}</li>
+              <li class="ellipsis"></li>
+            </ul>
+          </li>
+          {% if work.stanzas[2] %}
+          <li>
+            <ul>
+              <li>{{ work.stanzas[2][0] }}</li>
+              <li>{{ work.stanzas[2][1] }}</li>
+              <li class="ellipsis"></li>
+            </ul>
+          </li>
+          {% endif %}
+        </ol>
+      </td>
+
+      <td class="is-linked is-hidden-touch" colspan="1">
+        {% if work.subjects.size > 0 %}
+        <span class="collapsible">
+          {% for subject in work.subjects %}
+          <a href="{{ subject.url }}">{{ subject.name.en }}</a>{% unless forloop.last %}, {% endunless %}
           {% endfor %}
-        </ul>
+        </span>
+        <span class="collapsible is-hidden">
+          <ul style="list-style-position: outside; margin-inline-start: 2em;">
+            {% for subject in work.subjects %}
+            <li style="list-style: disc; margin-bottom: 0.75rem;">
+              <span class="tag is-dark is-pulled-right">{{ subject.category }}</span>
+              <a href="{{ subject.url }}">
+                <strong lang="gez">{{ subject.name.gez | fidal }}</strong>
+                {% if subject.name.gez.size > 10 %}<br>{% endif %}
+                <small lang="gez-latn">{{ subject.name.gez }}</small>
+                <br><span lang="en">{{ subject.name.en }}</span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </span>
+        {% endif %}
       </td>
 
     </tr>
@@ -55,5 +116,17 @@
   {% endfor %}
 
 </table>
+
+<script>
+$(document).ready(function() {
+
+  $('.button.expands').on('click', function() {
+
+      $(this).parents('tbody').find('.collapsible').toggleClass('is-hidden');
+
+  });
+
+});
+</script>
 
 <script src="{{ '/assets/scripts/lunr/lunr.js' | relative_url }}"></script>

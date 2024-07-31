@@ -1,12 +1,16 @@
 1:
-  incipit: 
+  incipit: ሃሌሉያ፡ ሰላም፡ ለከ፡ ዮሐንስ፡ ወልደ፡ ነጐድጓድ።
+  subjects: [john-evangelist]
+  notes: The hymn which follows the reading of the Miracles of Mary.
 
 2:
   incipit: ለዘኢነበቡ፡ አማልክት፡ ከሢቶሙ፡ አፈ።
+  notes: This is the second line of stanza 40 of Malkəʾa Fasiladas.
 
 3:
   incipit: ለፍልሰተ፡ ሥጋኪ፡ ኀበ፡ መካነ፡ ሕይወት፡ ዘተሐደሰ።
   subjects: [mary]
+  notes: This is the end of Malkəʾa Kidāna Məḥrat beginning with stanza 41.
 
 4:
   incipit: 
@@ -63,6 +67,7 @@
 21:
   incipit: ሰላም፡ ለልደትከ፡ አመሰ፡ ሰኑዩ፡ ለጥር።
   subjects: [george]
+  notes: This is a nagś which concludes Dərsāna Lədatu la-Giyorgis.
 
 22:
   incipit: ሰላም፡ ለልደትከ፡ እንተ፡ ኮኖሙ፡ ትፍሥሕ።
@@ -205,7 +210,8 @@
   incipit: 
 
 68:
-  incipit: 
+  incipit: ሰላም፡ ለከ፡ ወላዴ፡ አእላፍ፡ ህርያቆስ፡ ካልአ፡ እንጦንዮስ፡ አብ።
+  notes: This is the tarafa malkəʾ for no. 254.
 
 69:
   incipit: 
@@ -445,6 +451,7 @@
 
 145:
   incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ዘምዑዝ፡ ጣዕማ።
+  subjects: [andrew]
 
 146:
   incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ዘሰሌዳ፡ መንፈስ፡ ልኩዕ።
@@ -486,7 +493,7 @@
   incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተጸውዓ፡ በክብር።
 
 159:
-  incipit: 
+  incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ዘትምካሕተ፡ ሀገር፡ እስያ።
 
 160:
   incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ዘትእምርተ፡ መስቀል፡ ጥንተ፡ ፊደሉ።
@@ -495,7 +502,7 @@
   incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ዘኍልቈ፡ ፊደሉ፡ ክልኤቱ።
 
 162:
-  incipit: 
+  incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ዘሆህያቲሁ፡ ቅሩጽ።
 
 163:
   incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ዘአፈ፡ (ውስተ፡ አፈ፡) ኵሉ፡ ጥዑም።
@@ -519,7 +526,7 @@
   incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ገብረ፡ ኢየሱስ፡ ብሂል።
 
 170:
-  incipit: 
+  incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ ጸዳለ፡ ምሥራቅ፡ ወምዕራብ።
 
 171:
   incipit: 
@@ -531,7 +538,8 @@
   incipit: ሰላም፡ ለዝክረ፡ ስምኪ፡ ሞገሰ፡ ሃይማኖት፡ ዘተረሰየ።
 
 174:
-  incipit: 
+  incipit: ሰላም፡ ለዝክረ፡ ስምኪ፡ ስመ፡ ዕበይ፡ ወተልዕሎ።
+  subjects: [mary]
 
 175:
   incipit: ሰላም፡ ለዝክረ፡ ስምከ፡ በመጽሐፈ፡ ሕይወት፡ ልኩእ።
@@ -703,6 +711,7 @@
 
 230:
   incipit: ሰዊተ፡ ትእምርቱ፡ ለታዴዎስ፡ ወለበርተሎሜዎስ፡ ወይኑ።
+  notes: This is stanza 85 of Māḥleta Ṣəge.
 
 231:
   incipit: 
@@ -1038,7 +1047,7 @@
   incipit: 
 
 340:
-  incipit: እሴብሖ፡ ለእግዚአብሔር፡ ተወካፊ፡ ስብሔት፡ ወቅዳሴ።
+  incipit: እሴብሖ፡ ለእግዚአብሔር፡ ተወካፌ፡ ስብሐት፡ ወቅዳሴ።
 
 341:
   incipit: 

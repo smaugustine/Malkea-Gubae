@@ -48,3 +48,7 @@ exclude:
   - CNAME
   - LICENSE
   - README.md
+  - assets/scripts/lunr
+
+include:
+  - assets/scripts/lunr/lunr.js

@@ -191,12 +191,16 @@ subjects:
     commemorations:
       - [30, 4]
 
+  -
+    id: salama-endreyas
+    name: Salāmā ʾƎndrəyās
+
   # Groups
 
   -
     id: nicaea
     name:
-      gez: Śallastu Məʾt ʿAśśartu wa-Samāntu Rətuʾāna Hāymānot
+      gez: Śalastu Məʾt ʿAśśartu wa-Samāntu Rətuʿāna Hāymānot
       en: The Three-Hundred and Eighteen Orthodox
     commemorations:
       - [9, 3]

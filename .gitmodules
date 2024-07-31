@@ -1,3 +1,6 @@
 [submodule "_sass/bulma"]
 	path = _sass/bulma
 	url = https://github.com/jgthms/bulma.git
+[submodule "assets/scripts/lunr"]
+	path = assets/scripts/lunr
+	url = https://github.com/olivernn/lunr.js.git
