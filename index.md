@@ -2,7 +2,7 @@
 ---
 
 <p class="mb-3">
-  <em>CAe</em> = <em>Clavis Aethiopica</em><br>
+  <em>CAe</em> = <em>Clavis Aethiopica</em>.<br>
   Chaîne = Marius Chaîne, “<a href="{{ '/works/chaine/' | relative_url }}">Répertoire des salam et malke'e</a>,” <i>ROC</i> 18 (1913): 183–203, 337–57.
 </p>
 
@@ -116,6 +116,10 @@
   {% endfor %}
 
 </table>
+
+<p class="has-text-right is-size-7 mt-3">
+  <strong>{{ site.works.size }}</strong> total work records.
+</p>
 
 <script>
 $(document).ready(function() {

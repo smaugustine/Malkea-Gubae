@@ -45,10 +45,12 @@ titles_from_headings:
   collections: true
 
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
   - CNAME
   - LICENSE
   - README.md
-  - assets/scripts/lunr
+  - assets/scripts/lunr/
 
 include:
   - assets/scripts/lunr/lunr.js

@@ -1,6 +1,7 @@
 ---
 title: Chaîne, “Répertoire des salam et malke'e”
-permalink: /works/chaine
+layout: default
+permalink: /works/chaine/
 ---
 
 <table class="table" id="chaine">
