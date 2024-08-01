@@ -9,50 +9,25 @@ module JSONAPI
 
         site.pages << Jekyll::PageWithoutAFile.new(site, site.source, 'api/json/works', "#{work.data['title']}.json").tap do |file|
 
-          file.data['layout'] = nil
-          file.content = JSON.generate({
-            "type": "works",
-            "id": work.data['title'],
-            "attributes": {
-              "type": work.data['type'],
-              "titles": work.data['titles'],
-              "stanzas": work.data['stanzas']
-            },
-            "relationships": {
-              "subjects": work.data['subjects'].map{|subject| {
-                "type": "subjects",
-                "id": subject['id'],
-                "attributes": {
-                  "category": subject['category'],
-                  "name": subject['name'],
-                  "commemorations": subject['commemorations']
-                },
-                "links": {
-                  "self": "#{site.baseurl}/api/json/subjects/#{subject['id']}.json"
-                }
-              }},
-              "bibliography": {
-                "type": "collection",
-                "id": work.data['zotero_key'],
-                "links": {
-                  "self": "https://api.zotero.org/groups/5599348/collections/#{work.data['zotero_key']}/items?v=3"
-                }
-              }
-            },
-            "links": {
-              "self": "#{site.baseurl}/api/json/works/#{work.data['title']}.json"
-            },
-            "meta": {
-              "copyright": "Copyright #{Date.today.year} Augustine Dickinson.",
-              "license": 'This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International.'
-            }
-          })
+          file.data.merge!(work.data)
+          file.data['layout'] = 'api/jsonapi'
 
           file.output
 
         end
 
       end
+
+      # subjects
+
+      # JSON.generate({
+      #   "type": "subjects",
+      #   "id": subject.data['id'],
+      #   "attributes": {
+      #     "type": subject.data['category']
+      #   },
+      #   relationships: { }
+      # })
 
     end
   end

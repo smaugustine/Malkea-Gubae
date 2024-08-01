@@ -12,7 +12,7 @@ permalink: /works/chaine/
 
     <tr>
       
-      <td rowspan="{% if work.chaine.size > 1 %}3{% else %}2{% endif %}">
+      <td rowspan="{% if work.chaine.size > 1 or item[1].notes %}3{% else %}2{% endif %}">
         <strong>{{ item[0] | replace: 'b', ' bis' }}.</strong>
       </td>
 
@@ -54,20 +54,25 @@ permalink: /works/chaine/
 
     </tr>
 
+    {% if work.chaine.size > 1 or item[1].notes %}
     <tr>
-      
-      {% if work.chaine.size > 1 %}
       <td colspan="2" class="is-size-7 pl-3">
-        <span>Duplicate of:</span>
+        {% if work.chaine.size > 1 %}
+        <strong>Duplicate of:</strong>
         {% for number in work.chaine %}
         {% unless number == item[0] %}
         <a href="#{{ number | replace: 'b', 'bis' }}">{{ number | replace: 'b', 'bis' }}</a>
         {% endunless %}
         {% endfor %}
+        {% endif %}
+        <br>
+        {% if item[1].notes %}
+        <strong>Remarks:</strong>
+        <span>{{ item[1].notes }}</span>
+        {% endif %}
       </td>
-      {% endif %}
-
     </tr>
+    {% endif %}    
 
   </tbody>
   {% endfor %}

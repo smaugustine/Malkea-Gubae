@@ -5,7 +5,7 @@
 html body
   user-select: none
 
-  :not(a) > h1, :not(a) > h2, :not(a) > h3, :not(a) > h4, :not(a) > h5, :not(a) > h6, p, li, td
+  :not(a) > h1, :not(a) > h2, :not(a) > h3, :not(a) > h4, :not(a) > h5, :not(a) > h6, p, li, td, .content
     cursor: text
 
   [lang="gez-latn"]
@@ -111,9 +111,6 @@ html body
 
   table.table#chaine
     td[colspan="2"]
-      a:after
+      a:not(:last-of-type):after
         content: ","
         color: var(--bulma-table-color)
-
-      a:last-child:after
-        content: ""

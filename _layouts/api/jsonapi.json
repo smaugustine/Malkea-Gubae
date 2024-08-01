@@ -1,0 +1,42 @@
+{
+  "type": "works",
+  "id": "{{ page.title }}",
+  "attributes": {
+      "type": "{{ page.type }}",
+      "titles": {{ page.titles | jsonify }},
+      "stanzas": {{ page.stanzas | jsonify }}
+  },
+  "relationships": {
+      {% if page.subjects.size > 0 %}"subjects": [{% for subject in page.subjects %}
+          {
+              "type": "subjects",
+              "id": "{{ subject.id }}",
+              "attributes": {
+                  "category": "{{ subject.category | downcase }}",
+                  "name": {
+                      "gez": "{{ subject.name.gez }}",
+                      "en": "{{ subject.name.en }}"
+                  },
+                  "commemorations": {{ subject.commemorations | jsonify }}
+              },
+              "links": {
+                  "self": "{{ '/api/json/subjects/' | append: subject.id | append: '.json' | absolute_url }}"
+              }
+          }{% unless forloop.last %},{% endunless %}
+      {% endfor %}]{% endif %}{% if page.zotero_key %}{% if page.subjects > 0 %},{% endif %}
+      "bibliography": {
+          "type": "collection",
+          "id": "{{ page.zotero_key }}",
+          "links": {
+              "self": "https://api.zotero.org/groups/5599348/collections/{{ page.zotero_key }}/items?v=3"
+          }
+      }{% endif %}
+  },
+  "links": {
+      "self": "{{ '/api/json/works/' | append: page.title | append: '.json' | absolute_url }}"
+  },
+  "meta": {
+      "copyright": "Copyright {{ "now" | date: "%Y" }} Augustine Dickinson.",
+      "license": "This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International."
+  }
+}
