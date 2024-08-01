@@ -14,6 +14,7 @@ module TEI
 
           if work.data.include? 'zotero_key'
             begin
+              raise "Skipping Zotero API call in development environment" if Jekyll::env == 'development'
               file.data['bibliography'] = URI.open("https://api.zotero.org/groups/5599348/collections/#{work.data['zotero_key']}/items?v=3&format=tei").read.gsub!(/<\?.+\?>/, '')
             rescue
               file.data.delete('bibliography')

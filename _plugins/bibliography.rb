@@ -35,6 +35,7 @@ module Bibliography
             work.data['zotero_key'] = zotero_collection['key']
 
             begin
+              raise "Skipping Zotero API call in development environment" if Jekyll::env == 'development'
               work.data['bibliography'] = URI.open("https://api.zotero.org/groups/5599348/collections/#{work.data['zotero_key']}/items?format=bib&v=3").read
             rescue
               work.data['bibliography'] = "<a href=\"https://www.zotero.org/groups/5599348/malkea_gubae/collections/#{work.data['zotero_key']}/\">Open in Zotero</a>."

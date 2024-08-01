@@ -1,4 +1,4 @@
-require 'octokit'
+require 'octokit' if Jekyll::env == 'production'
 
 module DerivedValues
   class Generator < Jekyll::Generator
@@ -6,7 +6,6 @@ module DerivedValues
     def generate(site)
 
       if Jekyll::env == 'production' then git = Octokit::Client.new(:access_token => ENV["GH_TOKEN"]) end
-      puts "the token is #{ENV["GH_TOKEN"]}"
 
       site.config['last_modified'] = DateTime.now.to_s
 
@@ -41,6 +40,7 @@ module DerivedValues
 
         if Jekyll::env == 'production'
         
+          # use octokit instead of git because GH action git logs only have one commit
           commits = git.commits('smaugustine/Malkea-Gubae', options = {
             "path" => work.relative_path,
             "per_page" => 1
