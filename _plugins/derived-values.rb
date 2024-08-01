@@ -38,10 +38,11 @@ module DerivedValues
       # last modified date according to git
       site.collections['works'].docs.each do |work|
 
-        commit = git.log(:all).object(work.relative_path).first
+        puts "#{git.log(:all).size} commits in log"
+
+        commit = git.log(1).object(work.relative_path).first
         unless commit.nil?
           work.data['last_modified'] = commit.date
-          puts "#{work.relative_path} last commit on #{commit.date}"
         else
           work.data['last_modified'] = DateTime.now.to_s
         end
