@@ -40,9 +40,11 @@ module DerivedValues
 
         commit = git.log(1).object(work.relative_path).first
         unless commit.nil?
-          work.data['last_modified'] = commit.date
+          work.data['last_modified'] = commit.date # last commit to modify file
+          puts "#{work.relative_path} last commit on #{git.log(1).object(work.relative_path).first.date}"
         else
-          work.data['last_modified'] = DateTime.now.to_s
+          work.data['last_modified'] = git.log(1).first.date # otherwise revert to last repo commit
+          puts "#{work.relative_path} no commit found"
         end
 
         # propagate subject data
