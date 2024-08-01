@@ -10,4 +10,4 @@ group :jekyll_plugins do
  #gem "jekyll-last-modified-at"
 end
 
-gem "git", "~> 2.1"
+gem "octokit"

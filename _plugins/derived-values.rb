@@ -1,13 +1,13 @@
-require 'git'
+require 'octokit'
 
 module DerivedValues
   class Generator < Jekyll::Generator
 
     def generate(site)
 
-      git = Git.open('.')
+      git = Octokit::Client.new(:access_token => ENV["GH_TOKEN"])
 
-      site.config['last_modified'] = git.log(1).first.date # set date of the latest commit as site var
+      site.config['last_modified'] = DateTime.now.to_s
 
       site.collections['subjects'].docs.each do |category|
         if category.data.include? 'subjects'
@@ -35,14 +35,18 @@ module DerivedValues
         end
       end
 
-      # last modified date according to git
+      # last modified date according to GitHub
       site.collections['works'].docs.each do |work|
 
-        puts "#{git.log(:all).size} commits in log"
+        puts Jekyll::env
 
-        commit = git.log(1).object(work.relative_path).first
-        unless commit.nil?
-          work.data['last_modified'] = commit.date
+        commit = git.commits('smaugustine/Malkea-Gubae', options = {
+          "path" => work.relative_path,
+          "per_page" => 1
+        })
+
+        unless commit.size < 1
+          work.data['last_modified'] = commit[0][:commit][:committer][:date]
         else
           work.data['last_modified'] = DateTime.now.to_s
         end
