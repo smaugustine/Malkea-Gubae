@@ -6,7 +6,7 @@ module DerivedValues
     def generate(site)
 
       if Jekyll::env == 'production' then git = Octokit::Client.new(:access_token => ENV["GH_TOKEN"]) end
-      puts ENV["GH_TOKEN"]
+      puts "the token is #{ENV["GH_TOKEN"]}"
 
       site.config['last_modified'] = DateTime.now.to_s
 
