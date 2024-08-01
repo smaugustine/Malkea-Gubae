@@ -5,7 +5,8 @@ module DerivedValues
 
     def generate(site)
 
-      git = Octokit::Client.new(:access_token => ENV["GH_TOKEN"])
+      if Jekyll::env == 'production' then git = Octokit::Client.new(:access_token => ENV["GH_TOKEN"]) end
+      puts ENV["GH_TOKEN"]
 
       site.config['last_modified'] = DateTime.now.to_s
 
@@ -38,17 +39,21 @@ module DerivedValues
       # last modified date according to GitHub
       site.collections['works'].docs.each do |work|
 
-        puts Jekyll::env
+        if Jekyll::env == 'production'
+        
+          commits = git.commits('smaugustine/Malkea-Gubae', options = {
+            "path" => work.relative_path,
+            "per_page" => 1
+          })
 
-        commit = git.commits('smaugustine/Malkea-Gubae', options = {
-          "path" => work.relative_path,
-          "per_page" => 1
-        })
+          unless commits.size < 1
+            work.data['last_modified'] = commits[0][:commit][:committer][:date]
+          end
 
-        unless commit.size < 1
-          work.data['last_modified'] = commit[0][:commit][:committer][:date]
         else
+          
           work.data['last_modified'] = DateTime.now.to_s
+
         end
 
         # propagate subject data
