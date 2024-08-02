@@ -7,6 +7,20 @@
 </p>
 
 <table class="table is-fullwidth">
+
+  <thead>
+
+    <tr>
+      <td>
+        <input class="input" type="number" placeholder="CAe" min="{{ site.works.first.title }}" max="{{ site.works.last.title }}" style="max-width: 5em; min-width: 3.5em;" />
+      </td>
+
+      <td colspan="2">
+        <input class="input" type="text" placeholder="Title or incipit" />
+      </td>
+    </tr>
+
+  </thead>
     
   {% for work in site.works %}
   <tbody id="{{ work.title }}">
@@ -121,16 +135,57 @@
   <strong>{{ site.works.size }}</strong> total work records.
 </p>
 
+<script src="{{ '/assets/scripts/fuse/dist/fuse.min.js' | relative_url }}"></script>
 <script>
+
 $(document).ready(function() {
 
   $('.button.expands').on('click', function() {
 
-      $(this).parents('tbody').find('.collapsible').toggleClass('is-hidden');
+    $(this).parents('tbody').find('.collapsible').toggleClass('is-hidden');
+
+  });
+
+
+  $.getJSON('api/search-index-small.json', function( data ) {
+
+    const fuse = new Fuse(data, {
+      includeScore: true,
+      keys: [
+        { 'name': 'titles', 'weight': 0.7 },
+        { 'name': 'incipit', 'weight': 0.3 }
+      ]
+    });
+
+    $('input.input').on('keyup keypress change', function() {
+
+      $('table.table').addClass('results').children().removeAttr('data-rank');
+
+      var search = $(this).val();
+
+      if ( $(this).attr('type') == 'number' ) $(`tbody[id^='${search}']`).attr('data-rank', 1);
+
+      else {
+
+        var results = fuse.search(search);
+
+        results.forEach(function ( result ) {
+          $(`#${result.item.clavis}`).attr('data-rank', result.score);
+        });
+      
+      }
+
+      if ( search == "" ) $('table.table tbody').attr('data-rank', 0);
+
+      $('table.table tbody[data-rank]').sort(function (a, b) {
+        score = parseFloat(a.dataset.rank) - parseFloat(b.dataset.rank);
+        if (score == 0) return parseInt(a.id) - parseInt(b.id);
+        else return score;
+      }).appendTo('table.table');
+
+    });
 
   });
 
 });
 </script>
-
-<script src="{{ '/assets/scripts/lunr/lunr.js' | relative_url }}"></script>

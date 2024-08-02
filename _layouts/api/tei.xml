@@ -25,7 +25,7 @@
       </publicationStmt>
 
       <sourceDesc>
-        <p>{{ site.title }}</p>
+        <p>{{ site.alt_title }}</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -23,7 +23,7 @@
                   "self": "{{ '/api/json/subjects/' | append: subject.id | append: '.json' | absolute_url }}"
               }
           }{% unless forloop.last %},{% endunless %}
-      {% endfor %}]{% endif %}{% if page.zotero_key %}{% if page.subjects > 0 %},{% endif %}
+      {% endfor %}]{% endif %}{% if page.zotero_key %}{% if page.subjects.size > 0 %},{% endif %}
       "bibliography": {
           "type": "collection",
           "id": "{{ page.zotero_key }}",

@@ -1,0 +1,13 @@
+---
+layout: 
+---
+[
+  {% for work in site.works %}
+  {
+    "clavis": "{{ work.title }}",
+    "titles": [{% for title in work.titles %}"{{ title.gez | fidal }}","{{ title.gez }}","{{ title.en }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
+    "incipit": "{{ work.stanzas[1][0] }}"
+  }
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

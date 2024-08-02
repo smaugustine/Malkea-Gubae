@@ -255,6 +255,24 @@ module Jekyll::Ethiopic
 
   end
 
+  def searchify(input)
+
+    begin
+      input = input.delete('-')
+
+      input = input.gsub(/ḥ|ḫ/, 'h')
+      input = input.gsub(/ʿ/, 'ʾ')
+      input = input.gsub(/([h|ʾ])ā/, '\1a')
+
+      input = input.gsub(/ś/, 's')
+      input = input.gsub(/ḍ/, 'ṣ')
+    rescue
+    end
+    
+    input
+
+  end
+
   def monthday_to_string_ethiopic(input)
 
     unless input == '/'

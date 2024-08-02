@@ -21,7 +21,7 @@ html body
       font-family: var(--bulma-family-primary)
   
   table.table
-    tbody
+    thead, tbody
       border-color: var(--bulma-table-cell-border-color)
       border-style: var(--bulma-table-cell-border-style)
       border-width: 1px
@@ -34,11 +34,17 @@ html body
 
         li:not(:last-child)
           margin-bottom: 0.75rem
+    
+    &.results
+      tbody:not([data-rank])
+        display: none
 
-      /*&.is-linked a
-        display: block
-        width: 100%
-        height: 100%*/
+    thead input[type="number"]
+      &::-webkit-outer-spin-button, &::-webkit-inner-spin-button
+        display: none
+        
+      &::placeholder
+        font-style: italic
 
   ol.stanzas
     list-style-position: outside
