@@ -42,7 +42,7 @@ html body
     thead input[type="number"]
       &::-webkit-outer-spin-button, &::-webkit-inner-spin-button
         display: none
-        
+
       &::placeholder
         font-style: italic
 
@@ -112,8 +112,14 @@ html body
     &[data-category="Angelic"]::marker
       color: var(--bulma-warning)
 
+    &[data-category="Prophets/Apostles"]::marker
+      color: var(--bulma-primary)
+
     &[data-category="Martyrs"]::marker
       color: var(--bulma-danger)
+
+    &[data-category="Righteous"]::marker
+      color: var(--bulma-info)
 
   table.table#chaine
     td[colspan="2"]

@@ -1,21 +1,111 @@
 @use "bulma/sass/utilities/css-variables" as cv;
+
 @use "bulma/sass/themes/setup";
+@use "bulma/sass/themes/light";
+@use "bulma/sass/themes/dark";
+
+$primary-dark: #3fc5b7;
+$link-dark: #368aeb;
+$success-dark: #70b433;
+$info-dark: #eb6eb7;
+$warning-dark: #dbb32d;
+$danger-dark: #ed4a46;
+
+$primary-light: #00ad9c;
+$link-light: #0064e4;
+$success-light: #1d9700;
+$info-light: #dd0f9d;
+$warning-light: #c49700;
+$danger-light: #d6000c;
+
+@mixin light-theme-config {
+  @include light.light-theme;
+
+  @include cv.register-hsl("primary", $primary-light);
+  @include cv.generate-color-palette("primary", $primary-light);
+  @include cv.generate-on-scheme-colors("primary", $primary-light, light.$scheme-main);
+
+  @include cv.register-hsl("link", $link-light);
+  @include cv.generate-color-palette("link", $link-light);
+  @include cv.generate-on-scheme-colors("link", $link-light, light.$scheme-main);
+
+  @include cv.register-hsl("success", $success-light);
+  @include cv.generate-color-palette("success", $success-light);
+  @include cv.generate-on-scheme-colors("success", $success-light, light.$scheme-main);
+
+  @include cv.register-hsl("info", $info-light);
+  @include cv.generate-color-palette("info", $info-light);
+  @include cv.generate-on-scheme-colors("info", $info-light, light.$scheme-main);
+
+  @include cv.register-hsl("warning", $warning-light);
+  @include cv.generate-color-palette("warning", $warning-light);
+  @include cv.generate-on-scheme-colors("warning", $warning-light, light.$scheme-main);
+
+  @include cv.register-hsl("danger", $danger-light);
+  @include cv.generate-color-palette("danger", $danger-light);
+  @include cv.generate-on-scheme-colors("danger", $danger-light, light.$scheme-main);
+}
+
+@mixin dark-theme-config {
+  @include dark.dark-theme;
+
+  @include cv.register-hsl("primary", $primary-dark);
+  @include cv.generate-color-palette("primary", $primary-dark);
+  @include cv.generate-on-scheme-colors("primary", $primary-dark, dark.$scheme-main);
+
+  @include cv.register-hsl("link", $link-dark);
+  @include cv.generate-color-palette("link", $link-dark);
+  @include cv.generate-on-scheme-colors("link", $link-dark, dark.$scheme-main);
+
+  @include cv.register-hsl("success", $success-dark);
+  @include cv.generate-color-palette("success", $success-dark);
+  @include cv.generate-on-scheme-colors("success", $success-dark, dark.$scheme-main);
+
+  @include cv.register-hsl("info", $info-dark);
+  @include cv.generate-color-palette("info", $info-dark);
+  @include cv.generate-on-scheme-colors("info", $info-dark, dark.$scheme-main);
+
+  @include cv.register-hsl("warning", $warning-dark);
+  @include cv.generate-color-palette("warning", $warning-dark);
+  @include cv.generate-on-scheme-colors("warning", $warning-dark, dark.$scheme-main);
+
+  @include cv.register-hsl("danger", $danger-dark);
+  @include cv.generate-color-palette("danger", $danger-dark);
+  @include cv.generate-on-scheme-colors("danger", $danger-dark, dark.$scheme-main);
+}
+
+// Setup the light theme as the default theme
+:root {
+  @include light-theme-config;
+  @include setup.setup-theme;
+}
+
+// Include the prefers-color-scheme: dark and [data-theme=dark], .theme-dark sections for our dark theme
+@include cv.system-theme($name: "dark") {
+  @include dark-theme-config;
+}
+
+@include cv.bulma-theme($name: "dark") {
+  @include dark-theme-config;
+  @include setup.setup-theme;
+}
 
 @include cv.bulma-theme($name: "effigy") {
 
-  --bulma-primary-h: 90deg;
-  --bulma-primary-l: 52%;
-  --bulma-link-h: 210deg;
-  --bulma-link-l: 52%;
-  --bulma-info-h: 270deg;
-  --bulma-info-l: 52%;
-  --bulma-success-h: 150deg;
-  --bulma-success-s: 100%;
-  --bulma-success-l: 52%;
-  --bulma-warning-h: 30deg;
-  --bulma-warning-l: 52%;
-  --bulma-danger-h: 330deg;
-  --bulma-danger-l: 52%;
+  --bulma-primary-h: 160deg;
+  --bulma-primary-s: 62%;
+  --bulma-primary-l: 74%;
+  --bulma-link-h: 202deg;
+  --bulma-link-l: 67%;
+  --bulma-info-h: 50deg;
+  --bulma-info-l: 80%;
+  --bulma-success-h: 70deg;
+  --bulma-success-s: 65%;
+  --bulma-success-l: 57%;
+  --bulma-warning-h: 25deg;
+  --bulma-warning-l: 63%;
+  --bulma-danger-h: 0deg;
+  --bulma-danger-l: 60%;
 
   --bulma-family-serif: 'Noto Serif', Bembino, Garamond, Times, serif;
   --bulma-family-sans-serif: 'Noto Sans', Helvetica, Arial, sans-serif;
