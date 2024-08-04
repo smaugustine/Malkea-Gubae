@@ -1,4 +1,4 @@
-<ol {% if include.numbering %}type="{{ include.numbering }}"{% endif %} class="stanzas {% if include.stanzas.size > 5 %}can-break{% endif %}">
+<ol {% if include.numbering %}type="{{ include.numbering }}"{% endif %} class="stanzas{% if include.stanzas.size > 3 %} can-break{% endif %}">
   {% assign i = 0 %}
   {% for stanza in include.stanzas %}
 

@@ -5,7 +5,7 @@
 @font-face {
   font-family: "Noto Serif";
   font-weight: 400;
-  font-display: swap;
+  font-display: auto;
   src: local("Noto Serif Ethiopic"),
        local("NotoSerifEthiopic-Regular"),
        url("https://cdn.jsdelivr.net/gh/googlefonts/noto-fonts/hinted/ttf/NotoSerifEthiopic/NotoSerifEthiopic-Regular.ttf") format("truetype");
@@ -15,7 +15,7 @@
 @font-face {
   font-family: "Noto Serif";
   font-weight: 600;
-  font-display: swap;
+  font-display: auto;
   src: local("Noto Serif Ethiopic"),
        local("NotoSerifEthiopic-SemiBold"),
        url("https://cdn.jsdelivr.net/gh/googlefonts/noto-fonts/hinted/ttf/NotoSerifEthiopic/NotoSerifEthiopic-SemiBold.ttf") format("truetype");
@@ -27,7 +27,7 @@
 @font-face {
   font-family: "Noto Sans";
   font-weight: 400;
-  font-display: swap;
+  font-display: auto;
   src: local("Noto Sans Ethiopic"),
        local("NotoSansEthiopic-Regular"),
        url("https://cdn.jsdelivr.net/gh/googlefonts/noto-fonts/hinted/ttf/NotoSansEthiopic/NotoSansEthiopic-Regular.ttf") format("truetype");
@@ -37,7 +37,7 @@
 @font-face {
   font-family: "Noto Sans";
   font-weight: 600;
-  font-display: swap;
+  font-display: auto;
   src: local("Noto Sans Ethiopic"),
        local("NotoSansEthiopic-SemiBold"),
        url("https://cdn.jsdelivr.net/gh/googlefonts/noto-fonts/hinted/ttf/NotoSansEthiopic/NotoSansEthiopic-SemiBold.ttf") format("truetype");

@@ -118,7 +118,7 @@ layout: default
   {% endif %}
   
   {% if page.zotero_key %}
-  <div class="column is-7-desktop is-8-tablet">
+  <div class="column is-8-desktop is-full-tablet">
     <article class="message" id="bibliography">
       <div class="message-header">
         <span>Bibliography</span>
@@ -136,9 +136,16 @@ layout: default
   <div class="column">
     <article class="message" id="api">
       <div class="message-header">
-        <span>API</span>
+        <span>Meta</span>
       </div>
-      <div class="message-body">
+      <div class="message-body content">
+        <p>
+          <span>Last modified: <time datetime="{{ page.last_modified | date_to_xmlschema }}">{{ page.last_modified | date: "%-d %B %Y" }}</time>.</span>
+          {% if page.zotero_key %}<br class="is-hidden-touch">{% endif %}
+          <br class="is-hidden-tablet">
+          <span>Permalink: <a href="{{ 'https://w3id.org/malke/' | append: page.title }}">{{ 'https://w3id.org/malke/' | append: page.title }}</a>.</span>
+        </p>
+        <hr>
         <div class="buttons {% if page.bibliography %}is-centered{% endif %}">
           <a class="button is-small is-dark" href="{{ '/api/xml/works/' | append: page.title | append: '.xml' | absolute_url }}" title="TEI XML">XML</a>
           <a class="button is-small is-dark" href="{{ '/api/json/works/' | append: page.title | append: '.json' | absolute_url }}" title="JSON API">JSON</a>
@@ -147,16 +154,6 @@ layout: default
       </div>
     </article>
   </div>
-
-  <div class="column is-3-desktop is-full-tablet">
-    <article class="message" id="bibliography">
-      <div class="message-header">
-        <span>Meta</span>
-      </div>
-      <div class="message-body">
-        <p>Last modified: <time datetime="{{ page.last_modified | date_to_xmlschema }}">{{ page.last_modified | date: "%-d %B %Y" }}</time>.</p>
-      </div>
-    </article>
   </div>
 
 </div>

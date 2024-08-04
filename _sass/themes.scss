@@ -44,6 +44,14 @@ $danger-light: #d6000c;
   @include cv.register-hsl("danger", $danger-light);
   @include cv.generate-color-palette("danger", $danger-light);
   @include cv.generate-on-scheme-colors("danger", $danger-light, light.$scheme-main);
+
+  --bulma-family-serif: 'Noto Serif', Bembino, Garamond, Times, serif;
+  --bulma-family-sans-serif: 'Noto Sans', Helvetica, Arial, sans-serif;
+  --bulma-family-primary: var(--bulma-family-sans-serif);
+  --bulma-family-secondary: var(--bulma-family-serif);
+
+  --bulma-hr-height: 1.5px;
+  --bulma-hr-margin: 1rem 0;
 }
 
 @mixin dark-theme-config {
@@ -72,6 +80,14 @@ $danger-light: #d6000c;
   @include cv.register-hsl("danger", $danger-dark);
   @include cv.generate-color-palette("danger", $danger-dark);
   @include cv.generate-on-scheme-colors("danger", $danger-dark, dark.$scheme-main);
+
+  --bulma-family-serif: 'Noto Serif', Bembino, Garamond, Times, serif;
+  --bulma-family-sans-serif: 'Noto Sans', Helvetica, Arial, sans-serif;
+  --bulma-family-primary: var(--bulma-family-sans-serif);
+  --bulma-family-secondary: var(--bulma-family-serif);
+
+  --bulma-hr-height: 1.5px;
+  --bulma-hr-margin: 1rem 0;
 }
 
 // Setup the light theme as the default theme
