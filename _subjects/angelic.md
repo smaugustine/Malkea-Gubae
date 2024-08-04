@@ -71,7 +71,7 @@ subjects:
     id: afnin
     name:
       gez: ʾAfnin
-      en: Afnin
+      en: Afnin (Ophanim)
     commemorations:
       - [8, 3]
 
@@ -104,4 +104,8 @@ subjects:
       en: The Angels
     commemorations:
       - [13, 3]
+  
+  -
+    id: satnael
+    name: Sāṭnāʾel
 ---

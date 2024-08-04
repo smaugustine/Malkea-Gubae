@@ -23,8 +23,4 @@ subjects:
     name: Walda Gabrəʾel
     commemorations:
       - [5, 2]
-  
-  -
-    id: satnael
-    name: Sāṭnāʾel
 ---
