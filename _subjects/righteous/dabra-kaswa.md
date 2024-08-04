@@ -1,4 +1,6 @@
 ---
+title: Dabra Kaswā (Gunda Gunde)
+
 subjects:
   -
     id: estifanos-gg

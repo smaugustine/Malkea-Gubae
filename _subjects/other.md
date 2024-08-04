@@ -17,10 +17,4 @@ subjects:
     name:
       gez: ʿĀlam
       en: The World
-  
-  -
-    id: walda-gabreel
-    name: Walda Gabrəʾel
-    commemorations:
-      - [5, 2]
 ---

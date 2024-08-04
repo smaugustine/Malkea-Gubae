@@ -19,30 +19,6 @@ subjects:
       - [6, 12]
 
   -
-    id: anthony
-    name:
-      gez: ʾƎntonyos
-      en: Anthony
-    commemorations:
-      - [22, 5]
-
-  -
-    id: alexius
-    name:
-      gez: Gabra Krəstos
-      en: Alexius
-    commemorations:
-      - [14, 2]
-
-  -
-    id: cyrus
-    name:
-      gez: Kiros
-      en: Cyrus
-    commemorations:
-      - [8, 11]
-
-  -
     id: libanos
     name: Libānos
     commemorations:
@@ -56,29 +32,6 @@ subjects:
     commemorations:
       - [26, 11]
 
-  -
-    id: severian
-    name:
-      gez: Sāwiryānos za-Gablon
-      en: Severian of Gabala
-    commemorations:
-      - [7, 1]
-
-  -
-    id: abib
-    name:
-      gez: ʾAbib
-      en: Phib
-    commemorations:
-      - [25, 2]
-
-  -
-    id: barsauma
-    name:
-      gez: Barsumā Soryāwi
-      en: Barsauma the Syrian
-    commemorations:
-      - [9, 6]
 
   # Popular Ethiopians
 
@@ -121,23 +74,7 @@ subjects:
     commemorations:
       - [12, 9]
 
-  -
-    id: walatta-petros
-    name: Walatta Ṗeṭros
-    commemorations:
-      - [17, 3]
-
-  -
-    id: zena-maryam
-    name: Zenā Māryām
-    commemorations:
-      - [23, 12]
-
-  -
-    id: eheta-krestos
-    name: ʾƎḫəta Krəstos
-    commemorations:
-      - [23, 12]
+  
 
   # Daqiqa Takla Haymanot
   -
