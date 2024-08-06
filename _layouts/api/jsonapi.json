@@ -33,7 +33,8 @@
       }{% endif %}
   },
   "links": {
-      "self": "{{ '/api/json/works/' | append: page.title | append: '.json' | absolute_url }}"
+      "self": "{{ '/api/json/works/' | append: page.title | append: '.json' | absolute_url }}",
+      "permalink": "{{ 'https://w3id.org/malke/' | append: page.title | append: '/' }}"
   },
   "meta": {
       "copyright": "Copyright {{ "now" | date: "%Y" }} Augustine Dickinson.",

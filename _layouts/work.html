@@ -143,7 +143,7 @@ layout: default
           <span>Last modified: <time datetime="{{ page.last_modified | date_to_xmlschema }}">{{ page.last_modified | date: "%-d %B %Y" }}</time>.</span>
           {% if page.zotero_key %}<br class="is-hidden-touch">{% endif %}
           <br class="is-hidden-tablet">
-          <span>Permalink: <a href="{{ 'https://w3id.org/malke/' | append: page.title }}">{{ 'https://w3id.org/malke/' | append: page.title }}</a>.</span>
+          <span>Permalink: <a href="{{ 'https://w3id.org/malke/' | append: page.title | append: '/' }}">{{ 'https://w3id.org/malke/' | append: page.title | append: '/' }}</a>.</span>
         </p>
         <hr>
         <div class="buttons {% if page.bibliography %}is-centered{% endif %}">
