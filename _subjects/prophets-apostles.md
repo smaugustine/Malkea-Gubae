@@ -35,6 +35,14 @@ subjects:
       - [4, 9]
 
   -
+    id: job
+    name:
+      gez: ʾIyob
+      en: Job
+    commemorations:
+      - [2, 9]
+
+  -
     id: moses
     name:
       gez: Muse
