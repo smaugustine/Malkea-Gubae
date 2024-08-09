@@ -39,9 +39,9 @@ subjects:
     id: takla-haymanot
     name: Takla Hāymānot
     commemorations:
+      - [24, 12]
       - [24, 4]
       - [12, 9]
-      - [24, 12]
 
   -
     id: gabra-manfas-qeddus
@@ -132,6 +132,10 @@ subjects:
     id: salama-endreyas
     name: Salāmā ʾƎndrəyās
 
+  -
+    id: akala-krestos
+    name: ʾAkāla Krəstos
+    
   # Groups
 
   -
