@@ -65,7 +65,10 @@ html body
       list-style-position: outside
       margin-bottom: 1em
       padding-left: 1em
-      text-indent:-1em
+      text-indent: -1em
+
+    li:has(ul>li:empty)
+      display: none
 
     &.can-break
       @include mixins.widescreen
