@@ -38,7 +38,7 @@ module Bibliography
               raise "Skipping Zotero API call in development environment" if Jekyll::env == 'development'
               work.data['bibliography'] = URI.open("https://api.zotero.org/groups/5599348/collections/#{work.data['zotero_key']}/items?format=bib&v=3").read
             rescue
-              work.data['bibliography'] = "<a href=\"https://www.zotero.org/groups/5599348/malkea_gubae/collections/#{work.data['zotero_key']}/\">Open in Zotero</a>."
+              work.data['bibliography'] = "<a href=\"https://www.zotero.org/groups/5599348/malkea_gubae/collections/#{work.data['zotero_key']}/\" target=\"_blank\">Open in Zotero</a>."
             end
 
           end
@@ -58,19 +58,19 @@ module Bibliography
         begin
           file.data['bibliographies']['general'] = URI.open('https://api.zotero.org/groups/5599348/items?tag=general&format=bib&v=3').read
         rescue
-          file.data['bibliographies']['general'] = '<a href="https://www.zotero.org/groups/5599348/malkea_gubae/tags/general/library/">Open in Zotero</a>.'
+          file.data['bibliographies']['general'] = '<a href="https://www.zotero.org/groups/5599348/malkea_gubae/tags/general/library/" target="_blank">Open in Zotero</a>.'
         end
 
         begin
           file.data['bibliographies']['edition'] = URI.open('https://api.zotero.org/groups/5599348/items?tag=edition&format=bib&v=3').read
         rescue
-          file.data['bibliographies']['edition'] = '<a href="https://www.zotero.org/groups/5599348/malkea_gubae/tags/edition/library/">Open in Zotero</a>.'
+          file.data['bibliographies']['edition'] = '<a href="https://www.zotero.org/groups/5599348/malkea_gubae/tags/edition/library/" target="_blank">Open in Zotero</a>.'
         end
 
         begin
           file.data['bibliographies']['translation'] = URI.open('https://api.zotero.org/groups/5599348/items?tag=translation&format=bib&v=3').read
         rescue
-          file.data['bibliographies']['translation'] = '<a href="https://www.zotero.org/groups/5599348/malkea_gubae/tags/translation/library/">Open in Zotero</a>.'
+          file.data['bibliographies']['translation'] = '<a href="https://www.zotero.org/groups/5599348/malkea_gubae/tags/translation/library/" target="_blank">Open in Zotero</a>.'
         end
 
         file.output
