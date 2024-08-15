@@ -105,7 +105,8 @@
   incipit: 
 
 33:
-  incipit: 
+  incipit: ሰላም፡ ለአስከናፍር፡ ድደ፡ ሃይማኖት፡ ሱሩር።
+  notes: Nagś for Xenophon (ʾAskanāfər).
 
 34:
   incipit: 
@@ -114,7 +115,9 @@
   incipit: 
 
 36:
-  incipit: 
+  incipit: ሰላም፡ ለከ፡ ሊቀ፡ መላእክት፡ ሚካኤል።
+  subjects: [michael]
+  notes: Nagś.
 
 37:
   incipit: 
@@ -280,7 +283,9 @@
   incipit: 
 
 90:
-  incipit: 
+  incipit: ሰላም፡ ለኪ፡ ማርያም፡ እምነ፡ መገመሪተ፡ ነድ፡ ርስነ፡ እምባሕርይ።
+  subjects: [mary]
+  notes: Nagś.
 
 91:
   incipit: 
@@ -322,7 +327,9 @@
   incipit: 
 
 104:
-  incipit: 
+  incipit: ሰላም፡ ልክሙ፡ ሚካኤል፡ ወገብርኤል።
+  subjects: [angels]
+  notes: Nagś.
 
 105:
   incipit: 
@@ -337,7 +344,9 @@
   incipit: 
 
 109:
-  incipit: 
+  incipit: ሰላም፡ ልክሙ፡ አእላፈ፡ አእላፋት።
+  subjects: [angels]
+  notes: Nagś.
 
 110:
   incipit: 
@@ -695,13 +704,17 @@
   incipit: 
 
 224:
-  incipit: 
+  incipit: ሰላም፡ እብል፡ ለሚናስ፡ ድንግል፡ በሰይፈ፡ ሐራዊ፡ ቅቱል።
+  subjects: [menas]
+  notes: Nagś.
 
 225:
   incipit: 
 
 226:
-  incipit: 
+  incipit: ሰላም፡ እብል፡ ዮሐንስሃ፡ ፍጹመ፡ ዘደብረ፡ ቢዘን።
+  subjects: [yohannes-d-bizan]
+  notes: Nagś.
 
 227:
   incipit: 

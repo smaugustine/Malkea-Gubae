@@ -56,7 +56,7 @@ subjects:
   -
     id: yohannes-i
     name:
-      gez: Yoḥannǝs
+      gez: ʾAṣe Yoḥannǝs
       en: Yoḥannǝs I
     commemorations:
       - [15, 11]
