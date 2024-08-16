@@ -135,6 +135,8 @@ subjects:
   -
     id: akala-krestos
     name: ʾAkāla Krəstos
+    commemorations:
+      - [13, 5]
     
   # Groups
 
