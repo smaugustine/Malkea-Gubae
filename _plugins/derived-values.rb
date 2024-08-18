@@ -63,6 +63,13 @@ module DerivedValues
           end
         end
 
+        # determine text completeness
+        if work.data['stanzas'].size == work.data['stanzas'].max_by{ |k, v| k }[0]
+          work.data['full_text'] = true
+        else
+          work.data['full_text'] = false
+        end
+
         # infer title if undefined
         unless work.data.include? 'titles'
           if work.data['type'] == 'malkəʾ'

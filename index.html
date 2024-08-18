@@ -6,24 +6,40 @@
   Chaîne = Marius Chaîne, “<a href="{{ '/works/chaine/' | relative_url }}">Répertoire des salam et malke'e</a>,” <i>ROC</i> 18 (1913): 183–203, 337–57.
 </p>
 
-<table class="table is-fullwidth">
+<table class="table is-fullwidth" id="list">
 
   <thead>
 
     <tr>
       <td>
-        <input class="input" type="number" placeholder="CAe" min="{{ site.works.first.title }}" max="{{ site.works.last.title }}" style="max-width: 5em; min-width: 3.5em;" />
+        <input class="input" type="number" placeholder="CAe #" min="{{ site.works.first.title }}" max="{{ site.works.last.title }}" style="max-width: 5em; min-width: 3.5em;" />
+      </td>
+
+      <td class="is-hidden-mobile">
+        <div class="select">
+          <select id="filter-type">
+            <option value="" selected>Filter:</option>
+            {% assign types = site.works | map: "type" | uniq | sort %}
+            {% for type in types %}
+            <option value="{{ type }}">{{ type | capitalize }}</option>
+            {% endfor %}
+          </select>
+        </div>
       </td>
 
       <td colspan="2">
         <input class="input" type="text" placeholder="Title or incipit" />
+      </td>
+
+      <td style="vertical-align: middle;">
+        <input id="fulltext" type="checkbox" title="Full Text Available" />
       </td>
     </tr>
 
   </thead>
     
   {% for work in site.works %}
-  <tbody id="{{ work.title }}">
+  <tbody id="{{ work.title }}" data-type="{{ work.type }}" data-fulltext="{{ work.full_text }}" data-rank="0">
 
     <tr>
 
@@ -32,6 +48,10 @@
         {% if work.chaine %}
         <br><small>Chaîne: {{ work.chaine | join: ", " }}</small>
         {% endif %}
+      </td>
+
+      <td rowspan="2" class="is-hidden-mobile">
+        <span>{{ work.type | capitalize }}</span>
       </td>
 
       <td>
@@ -43,8 +63,14 @@
 
       <td>
         <a href="{{ work.url }}">
-          <strong>{{ work.titles[0].en }}</strong>
+          <strong lang="en">{{ work.titles[0].en }}</strong>
         </a>
+      </td>
+
+      <td rowspan="2">
+        {% if work.full_text %}
+        <span class="has-text-success">&#8226;</span>
+        {% endif %}
       </td>
 
     </tr>
@@ -68,15 +94,7 @@
 
 <script src="{{ '/assets/scripts/fuse/dist/fuse.min.js' | relative_url }}"></script>
 <script>
-
 $(document).ready(function() {
-
-  $('a.expands').on('click', function() {
-
-    $(this).parents('tbody').find('.collapsible').toggleClass('is-hidden');
-
-  });
-
 
   $.getJSON('api/search-index-small.json', function( data ) {
 
@@ -84,29 +102,36 @@ $(document).ready(function() {
       includeScore: true,
       keys: [
         { 'name': 'titles', 'weight': 0.7 },
-        { 'name': 'incipit', 'weight': 0.3 }
+        { 'name': 'incipits', 'weight': 0.3 }
       ]
     });
 
-    $('input.input').on('keyup keypress change', function() {
 
-      $('table.table').addClass('results').children().removeAttr('data-rank');
+    $('select, input').on('keyup keypress change', function () {
 
-      var search = $(this).val();
+      $('table.table').children().removeClass('is-hidden');
 
-      if ( $(this).attr('type') == 'number' ) $(`tbody[id^='${search}']`).attr('data-rank', 1);
+      const type = $('select#filter-type').val();
+      const fulltext = $('input#fulltext').is(':checked');
+      const clavis = $('input.input[type="number"]').val();
+      const search = $('input.input[type="text"]').val();
 
-      else {
+      if ( type !== '' ) $(`tbody[data-type!='${type}']`).addClass('is-hidden');
+      if ( fulltext ) $(`tbody[data-fulltext!='true']`).addClass('is-hidden');
+      if ( clavis !== '' ) $(`tbody:not([id^='${clavis}'])`).addClass('is-hidden');
 
-        var results = fuse.search(search);
+      if ( search !== '' ) {
+
+        $('table.table').children().removeAttr('data-rank');
+
+        const results = fuse.search(search);
 
         results.forEach(function ( result ) {
           $(`#${result.item.clavis}`).attr('data-rank', result.score);
         });
-      
-      }
 
-      if ( search == "" ) $('table.table tbody').attr('data-rank', 0);
+      }
+      else $('table.table').children().attr('data-rank', 0);
 
       $('table.table tbody[data-rank]').sort(function (a, b) {
         score = parseFloat(a.dataset.rank) - parseFloat(b.dataset.rank);
@@ -114,7 +139,7 @@ $(document).ready(function() {
         else return score;
       }).appendTo('table.table');
 
-    });
+    }).trigger('change');
 
   });
 

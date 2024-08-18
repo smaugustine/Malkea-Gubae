@@ -6,7 +6,7 @@ layout:
   {
     "clavis": "{{ work.title }}",
     "titles": [{% for title in work.titles %}"{{ title.gez | fidal }}","{{ title.gez }}","{{ title.en }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
-    "incipit": "{{ work.stanzas[1][0] }}"
+    "incipits": [{% if work.masgabiya %}"{{ work.masgabiya[1][0] }}", {% endif %}"{{ work.stanzas[1][0] }}"]
   }
   {% unless forloop.last %},{% endunless %}
   {% endfor %}
