@@ -157,7 +157,7 @@
   incipit: 
 
 49:
-  incipit: 
+  incipit: ሰላም፡ ለከ፡ ሰዳዴ፡ ሰይጣናት፡ ፋኑኤል።
 
 50:
   incipit: 
@@ -277,7 +277,7 @@
   incipit: 
 
 88:
-  incipit: 
+  incipit: ሰላም፡ ለኪ፡ ማርያም፡ ለኖኅ፡ ሐመሩ። ሰላም፡ ለኪ፡ ለአሮን፡ በትሩ።
 
 89:
   incipit: 
@@ -564,7 +564,7 @@
   incipit: ሰላም፡ ለዝክረ፡ ስምኪ፡ አምሳለ፡ ስቴ፡ ወይን፡ መጥለሊ።
 
 178:
-  incipit: 
+  incipit: ሰላም፡ ለዝክረ፡ ስምኪ፡ እምዝክረ፡ ማኅሌት፡ አዳም።
 
 179:
   incipit: 
@@ -767,7 +767,7 @@
   subjects: [george]
 
 243:
-  incipit: 
+  incipit: በሐኪ፡ ማርያም፡ እምነ፡ እግዝእትነ፡ ትምክህቶሙ፡ አንቲ፡ ለዘመድነ።
 
 244:
   incipit: በመሰረተ፡ ቃል፡ አንባርኩ፡ ለማኅፈደ፡ ዝክረ፡ ስሞ።
@@ -785,7 +785,7 @@
   incipit: 
 
 249:
-  incipit: 
+  incipit: በሰጊድ፡ ሰላም፡ ለኵሎን፡ መልክዐኪ፡ ማርያም።
 
 250:
   incipit: 
@@ -973,7 +973,7 @@
   subjects: [jesus]
 
 310:
-  incipit: 
+  incipit: ነዓ፡ ኀቤየ፡ ዳዊት፡ ንጉሠ፡ እስራኤል።
 
 311:
   incipit: 
@@ -1186,13 +1186,14 @@
   incipit: ኦዘወሀብከ፡ ለእጓለ፡ እመሕያው፡ አፈ።
 
 380:
-  incipit: 
+  incipit: ኦፍጡነ፡ ረድኤት፡ እምሩጸት፡ ነፋስ፡ ወዓውሎ።
 
 381:
   incipit: 
 
 382:
-  incipit: 
+  incipit: ክርስቶስ፡ አምላኪየ፡ ወተስፋየ፡ አንተ።
+  subjects: [jesus]
 
 383:
   incipit: 
