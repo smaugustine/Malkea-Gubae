@@ -267,6 +267,12 @@ subjects:
       - [20, 11]
 
   -
+    id: hor
+    name: Ḥor
+    commemortions:
+      - [2, 4]
+
+  -
     id: forty-martyrs
     name:
       gez: ʾArbəʿā Ḥarā
@@ -282,6 +288,14 @@ subjects:
       en: The Holy Innocents
     commemorations:
       - [30, 4]
+
+  -
+    id: akhmim
+    name:
+      gez: Samāʿtāta ʾAkmim
+      en: The Martyrs of Akhmim
+    commemorations:
+      - [1, 5]
 
   -
     id: sad-baraknaha
