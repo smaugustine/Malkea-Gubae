@@ -1,0 +1,22 @@
+@use "bulma/sass/utilities/mixins"
+@import "bulma/bulma"
+@import "themes/blog"
+@import "common"
+
+html body
+  
+  article.card
+    &:not(:last-child)
+      @extend .mb-6
+
+    .title
+      font-weight: var(--bulma-subtitle-weight)
+    .subtitle
+      font-weight: var(--bulma-title-weight)
+
+  a.button.is-disabled
+    @extend [disabled]
+    pointer-events: none
+
+  .storyboard_viewer
+    padding-bottom: 0

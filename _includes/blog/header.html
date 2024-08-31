@@ -1,9 +1,7 @@
-{% assign links = "what-is-malke,about,indices" | split: "," | join: ".md," | append: ".md" | split: "," %}
-
 <section class="hero is-link">
   <div class="hero-body">
     <div class="container has-text-centered">
-      <a href="{{ '/blog' | relative_url }}" aria-label="Logo">
+      <a href="{% link blog/index.html %}" aria-label="Logo">
         <svg height="10rem" viewBox="0 0 7100 2200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1;">
           <g transform="matrix(1,0,0,1,-179,-58.9988)">
             <g>
@@ -99,11 +97,9 @@
     <nav class="tabs is-centered">
       <div class="container">
         <ul>
-          <li><a href="{{ site.url }}">Posts</a></li>
-          {% for slug in links %}
-          {% assign link = site.pages | find: "path",slug %}
-          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
+          <li><a href="{% link blog/index.html %}">Posts</a></li>
+          <li><a href="{% link blog/what-is-malke.md %}">What is Malkəʾ?</a></li>
+          <li><a href="{% link blog/about.md %}">About</a></li>
         </ul>
       </div>
     </nav>

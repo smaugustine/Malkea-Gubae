@@ -1,0 +1,24 @@
+<section class="section has-background-dark">
+  <div class="container has-background-dark">
+
+    <script type="application/json" id="iiif-manifest">{{ page.iiif_annotations }}</script>
+      
+    <script id="config" type="application/json">
+    {
+      "toggleoverlay": true,
+      "fit": "fill",
+      "hide_autorun": true,
+      "hide_reloadbutton": true,
+      "hide_overlaybutton": true,
+      "hide_perpagebutton": true,
+      "hide_settingsbutton": true,
+      "hide_keyboardbutton": true
+    }
+    </script>
+    
+    <iiif-storyboard annotationurl="iiif-manifest"></iiif-storyboard>
+
+    <script src="https://ncsu-libraries.github.io/annona/dist/annona.js"></script>
+
+  </div>
+</section>

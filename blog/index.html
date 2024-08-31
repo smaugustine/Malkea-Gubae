@@ -1,0 +1,37 @@
+---
+layout: blog/default
+permalink: /blog
+---
+
+<section class="section">
+  <div class="container" style="background: inherit;">
+    <div class="columns is-centered">
+      <div class="column is-10-tablet is-8-desktop">
+    
+        {% for post in site.posts %}
+        <article class="card">
+          <div class="card-content">
+            <a href="{{ post.url }}">
+              <h1 class="title is-5">
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | to_ethiopic }}</time>
+                <time datetime="{{ post.date | date_to_xmlschema }}">({{ post.date | date: "%-d %B %Y" }})</time>
+              </h1>
+            </a>
+            <a href="{{ post.url }}"><h2 class="subtitle is-2">{{ post.title }}</h2></a>
+            {{ post.excerpt }} <span class="tag"><a href="{{ post.url }}">Continue reading</a></span>
+          </div>
+        </article>
+        {% endfor %}
+
+        {% unless site.posts.size > 0 %}
+        <article class="card">
+          <div class="card-content">
+            <p>There are currently no posts. Please check back soon.</p>
+          </div>
+        </article>
+        {% endunless %}
+    
+      </div>
+    </div>
+  </div>
+</section>

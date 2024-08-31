@@ -1,0 +1,9 @@
+---
+title: What is Malkəʾ?
+layout: blog/post
+---
+This is a surprisingly complex question that deserves a much longer and more in-depth answer than can be given here.
+
+Put simply, malkəʾ is a genre of Gəʿəz Christian poetry, one which developed in the Middle Ages and continues to be read and recited to the present day (with new texts being composed even now). The most well-known characteristic of a malkəʾ is that it consists of stanzas saluting the members of the body of a saint — or even God Himself — from head to toe, feature by feature, organ by organ. These stanzas begin with a common headword, usually *salām* ("salutation"), and are made up of five lines sharing a common rhyme. When we look at the manuscript evidence, though, we find that at many points in history the genre was seen in a more expanded sense, including texts that deviate from this strict format. Some texts employ a different headword or follow a different sequence than parts of the body. Some do not even follow a sequence at all. Others are merely versifications of prose works that have nothing in common except that they consist of stanzas having five rhymed lines. But all of these are found together in the same manuscripts, the same books, the same lists, and ought to be included in discussions of the genre.
+
+This blog features texts relevant to the malkəʾ genre in the broadest sense. Some texts conform to the strictest definition of a malkəʾ, while others may not seem to be a malkəʾ at all except for their verse structure and inclusion in certain manuscripts. Others may debate what is "good" poetry or "bad," what is or is not "technically" a malkəʾ, but this blog is not the place for that. Here you will find simply an open, honest presentation of the evidence which is extant for us to consider.

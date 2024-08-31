@@ -1,15 +1,9 @@
 @use "bulma/sass/utilities/mixins"
 @import "bulma/bulma"
-@import "themes"
+@import "themes/default"
+@import "common"
 
 html body
-  user-select: none
-
-  :not(a) > h1, :not(a) > h2, :not(a) > h3, :not(a) > h4, :not(a) > h5, :not(a) > h6, p, li, td, .content
-    cursor: text
-
-  [lang="gez-latn"]
-    font-style: italic
 
   h1.title small
     @include mixins.touch
@@ -93,6 +87,13 @@ html body
         text-decoration: none
       hr
         background: hsl(var(--bulma-message-h), var(--bulma-message-s), var(--bulma-message-header-background-l))
+  
+  a.to-expand
+    &:after
+      content: "◀"
+    
+    &.is-active:after
+      content: "▼"
 
   div#calendar
     &>ol

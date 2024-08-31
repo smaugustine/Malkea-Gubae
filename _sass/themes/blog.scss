@@ -1,0 +1,87 @@
+@use "bulma/sass/utilities/css-variables" as cv;
+
+@use "bulma/sass/themes/setup";
+@use "bulma/sass/themes/light";
+
+@mixin light-theme-config {
+  @include light.light-theme;
+
+  --bulma-scheme-h: 40;
+  --bulma-scheme-s: 24%;
+  --bulma-scheme-main-l: 78%;
+  --bulma-scheme-main-bis-l: 12%;
+
+  --bulma-text-h: 320;
+  --bulma-text-s: 31%;
+  --bulma-text-l: 10%;
+  --bulma-text-strong-l: 10%;
+
+  --bulma-success-h: 72;
+  --bulma-success-s: 46%;
+  --bulma-success-l: 41%;
+
+  --bulma-warning-h: 34;
+  --bulma-warning-s: 79%;
+  --bulma-warning-l: 60%;
+
+  --bulma-danger-h: 1;
+  --bulma-danger-s: 86%;
+  --bulma-danger-l: 40%;
+
+  --bulma-paper-h: 48;
+  --bulma-paper-s: 100%;
+  --bulma-paper-l: 97%;
+  --bulma-paper: hsl(var(--bulma-paper-h), var(--bulma-paper-s), var(--bulma-paper-l));
+
+  @include cv.register-hsl("link", hsl(196, 29%, 37%));
+  @include cv.generate-color-palette("link", hsl(196, 29%, 37%));
+  @include cv.generate-on-scheme-colors("link", hsl(196, 29%, 37%), light.$scheme-main);
+
+  @include cv.register-hsl("info", hsl(196, 29%, 37%));
+  @include cv.generate-color-palette("info", hsl(196, 29%, 37%));
+  @include cv.generate-on-scheme-colors("info", hsl(196, 29%, 37%), light.$scheme-main);
+
+  --bulma-family-serif: 'Noto Serif Ethiopic', 'Noto Serif', Bembino, Garamond, Times, serif;
+  --bulma-family-sans-serif: 'Fira Sans', Helvetica, Arial, sans-serif;
+  --bulma-family-primary: var(--bulma-family-serif);
+  --bulma-family-secondary: var(--bulma-family-sans-serif);
+
+  color: hsl(var(--bulma-burger-h), var(--bulma-burger-s), var(--bulma-burger-l));
+
+  --bulma-hr-height: 1.5px;
+  --bulma-hr-margin: 1rem 0;
+  --bulma-hr-background-color: var(--bulma-scheme-main-bis);
+}
+
+:root {
+  @include light-theme-config;
+  @include setup.setup-theme;
+}
+
+html{
+  body{
+
+    .hero, .hero.is-link {
+      --bulma-hero-background-l: 63%;
+    }
+
+    .card {
+      --bulma-card-content-background-color: var(--bulma-paper);
+      --bulma-card-radius: 0;
+    }
+    
+    section.section > div.container {
+      background: var(--bulma-paper);
+    }
+    
+    h1, h2, h3, h4, h5, h6, .hero {
+      font-family: var(--bulma-family-secondary);
+    }
+
+    .footer {
+      --bulma-footer-color: var(--bulma-paper);
+      color: var(--bulma-footer-color);
+    }
+
+  }
+}

@@ -1,0 +1,51 @@
+@use "bulma/sass/utilities/css-variables" as cv;
+
+@use "bulma/sass/themes/setup";
+@use "bulma/sass/themes/light";
+
+@mixin light-theme-config {
+  @include light.light-theme;
+
+  --bulma-scheme-main-l: 94%;
+  --bulma-scheme-main-bis-l: 90%;
+
+  @include cv.register-hsl("primary", #3AA99F);
+  @include cv.generate-color-palette("primary", #3AA99F);
+  @include cv.generate-on-scheme-colors("primary", #3AA99F, light.$scheme-main);
+
+  @include cv.register-hsl("link", #205EA6);
+  @include cv.generate-color-palette("link", #205EA6);
+  @include cv.generate-on-scheme-colors("link", #205EA6, light.$scheme-main);
+
+  @include cv.register-hsl("success", #879A39);
+  @include cv.generate-color-palette("success", #879A39);
+  @include cv.generate-on-scheme-colors("success", #879A39, light.$scheme-main);
+
+  @include cv.register-hsl("info", #4385BE);
+  @include cv.generate-color-palette("info", #4385BE);
+  @include cv.generate-on-scheme-colors("info", #4385BE, light.$scheme-main);
+
+  @include cv.register-hsl("warning", #D0A215);
+  @include cv.generate-color-palette("warning", #D0A215);
+  @include cv.generate-on-scheme-colors("warning", #D0A215, light.$scheme-main);
+
+  @include cv.register-hsl("danger", #D14D41);
+  @include cv.generate-color-palette("danger", #D14D41);
+  @include cv.generate-on-scheme-colors("danger", #D14D41, light.$scheme-main);
+
+  --bulma-family-serif: 'Noto Serif Ethiopic', 'Noto Serif', Bembino, Garamond, Times, serif;
+  --bulma-family-sans-serif: 'Noto Sans Ethiopic', 'Noto Sans', Helvetica, Arial, sans-serif;
+  --bulma-family-primary: var(--bulma-family-sans-serif);
+  --bulma-family-secondary: var(--bulma-family-serif);
+
+  color: hsl(var(--bulma-burger-h), var(--bulma-burger-s), var(--bulma-burger-l));
+
+  --bulma-hr-height: 1.5px;
+  --bulma-hr-margin: 1rem 0;
+  --bulma-hr-background-color: var(--bulma-scheme-main-bis);
+}
+
+:root {
+  @include light-theme-config;
+  @include setup.setup-theme;
+}

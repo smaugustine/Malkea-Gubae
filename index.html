@@ -31,7 +31,7 @@
         <input class="input" type="text" placeholder="Title or incipit" />
       </td>
 
-      <td style="vertical-align: middle;">
+      <td style="vertical-align: middle; width: 1em;" class="is-hidden-mobile">
         <input id="fulltext" type="checkbox" title="Full Text Available" />
       </td>
     </tr>
@@ -44,9 +44,9 @@
     <tr>
 
       <td rowspan="2">
-        <span><em>CAe</em>: {{ work.title }}</span>
+        <span><em class="is-hidden-mobile">CAe:</em> {{ work.title }}</span>
         {% if work.chaine %}
-        <br><small>Chaîne: {{ work.chaine | join: ", " }}</small>
+        <br><small class="is-hidden-mobile">Chaîne: {{ work.chaine | join: ", " }}</small>
         {% endif %}
       </td>
 
@@ -67,9 +67,9 @@
         </a>
       </td>
 
-      <td rowspan="2">
+      <td rowspan="2" class="is-hidden-mobile">
         {% if work.full_text %}
-        <span class="has-text-success">&#8226;</span>
+        <span class="has-text-link">&#8226;</span>
         {% endif %}
       </td>
 

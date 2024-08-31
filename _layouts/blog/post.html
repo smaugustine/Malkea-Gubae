@@ -1,4 +1,21 @@
 ---
 layout: blog/default
 ---
-<article class="content">{{ content }}</article>
+
+{% if page.iiif %}
+{% include iiif.html %}
+{% endif %}
+
+<section class="section py-0" id="post">
+  <div class="container {% if page.iiif %}py-6{% else %}pb-6{% endif %}">
+
+    <div class="columns is-centered">
+      <div class="column is-10-tablet is-8-desktop">
+    
+        <article class="content">{{ content }}</article>
+    
+      </div>
+    </div>
+
+  </div>
+</section>

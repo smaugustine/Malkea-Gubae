@@ -1,12 +1,14 @@
 ---
 ---
 <!DOCTYPE html>
-<html lang="en" data-theme="reader">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% feed_meta %}
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/blog-style.css' | relative_url }}">
+    <link rel="stylesheet" href="https://ncsu-libraries.github.io/annona/dist/annona.css">
     {% seo %}
   </head>
 
@@ -40,8 +42,6 @@
     {{ content }}
 
     {% include footer.html %}
-
-    <script src="https://ncsu-libraries.github.io/annona/dist/annona.js"></script>
 
   </body>
 </html>

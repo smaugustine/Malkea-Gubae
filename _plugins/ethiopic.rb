@@ -5,6 +5,7 @@ module Jekyll::Ethiopic
   def fidal(input)
 
     if input.respond_to?(:join) then input = input.join end
+    if input.respond_to?(:to_s) then input = input.to_s end
 
     begin
       input = input.downcase
@@ -246,11 +247,61 @@ module Jekyll::Ethiopic
       input = input.gsub(/p{1,2}o/, 'ፖ')
       input = input.gsub(/p{1,2}[ǝə]?/, 'ፕ')
 
+      input = input.gsub(/1(?=\d{2})/, '፻')
+      input = input.gsub(/2(?=\d{2})/, '፪፻')
+      input = input.gsub(/3(?=\d{2})/, '፫፻')
+      input = input.gsub(/4(?=\d{2})/, '፬፻')
+      input = input.gsub(/5(?=\d{2})/, '፭፻')
+      input = input.gsub(/6(?=\d{2})/, '፮፻')
+      input = input.gsub(/7(?=\d{2})/, '፯፻')
+      input = input.gsub(/8(?=\d{2})/, '፰፻')
+      input = input.gsub(/9(?=\d{2})/, '፱፻')
+
+      input = input.gsub(/1(?=\d{1})/, '፲')
+      input = input.gsub(/2(?=\d{1})/, '፳')
+      input = input.gsub(/3(?=\d{1})/, '፴')
+      input = input.gsub(/4(?=\d{1})/, '፵')
+      input = input.gsub(/5(?=\d{1})/, '፶')
+      input = input.gsub(/6(?=\d{1})/, '፷')
+      input = input.gsub(/7(?=\d{1})/, '፸')
+      input = input.gsub(/8(?=\d{1})/, '፹')
+      input = input.gsub(/9(?=\d{1})/, '፺')
+      
+      input = input.gsub(/1/, '፩')
+      input = input.gsub(/2/, '፪')
+      input = input.gsub(/3/, '፫')
+      input = input.gsub(/4/, '፬')
+      input = input.gsub(/5/, '፭')
+      input = input.gsub(/6/, '፮')
+      input = input.gsub(/7/, '፯')
+      input = input.gsub(/8/, '፰')
+      input = input.gsub(/9/, '፱')
+      input = input.gsub(/0/, '')
+
       input = input.gsub(/(\s)/, '፡\1')
       input = input.gsub(/(\b)$/, '፡')
     rescue
     end
     
+    input
+
+  end
+
+  def escape_ethiopic(input)
+
+    input = input.downcase
+    input = input.delete('-')
+
+    input = input.gsub(/[ā]/, 'a')
+    input = input.gsub(/[ǝəƎ]/, 'e')
+    input = input.gsub(/[ḥḫ]/, 'h')
+    input = input.gsub(/[ṗ]/, 'p')
+    input = input.gsub(/[śṣḍ]/, 's')
+    input = input.gsub(/[ṭ]/, 't')
+    input = input.gsub(/[ʾʿ]/, '')
+    input = input.gsub(/[ʷ]/, 'w')
+    input = input.gsub(/[\s]/, '-')
+
     input
 
   end
@@ -306,6 +357,20 @@ module Jekyll::Ethiopic
     name = %w{Maskaram Ṭəqəmt Ḫədār Tāḫśāś Ṭərr Yakkātit Maggābit Miyāzyā Gənbot Sane Ḥamle Naḥase Ṗāgʷəmen}
 
     "#{day.round} #{name[month]} #{year}"
+
+  end
+
+  def to_gregorian(input)
+
+    y = Integer(input.split("-")[0])
+    m = Integer(input.split("-")[1])
+    d = Integer(input.split("-")[2])
+
+    n = 30 * m + d - 31
+
+    jdn = (1723856 + 365) + 365 * (y - 1) + (y / 4).floor + n
+
+    Date.jd(jdn)
 
   end
 
