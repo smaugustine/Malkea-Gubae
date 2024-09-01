@@ -1,6 +1,7 @@
 ---
 layout: default
 types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Other]
+months: [Maskaram, Ṭəqəmt, Ḫədār, Tāḫśāś, Ṭərr, Yakkātit, Maggābit, Miyāzyā, Gənbot, Sane, Ḥamle, Naḥase, Ṗāgʷəmen]
 ---
 
 <div class="columns">
@@ -11,26 +12,28 @@ types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Oth
       <p class="menu-label">Categories</p>
       <ul class="menu-list">
         {% for type in layout.types %}
-        {% assign menu_url = type | downcase | replace: '/', '-' | prepend: '/subjects/' | append: '/' %}
+        {% assign menu_url = type | downcase | replace: '/', '-' | prepend: "/subjects/" | append: "/" %}
         <li>
           <a class="{% if menu_url == page.url %}is-active{% endif %}" href="{{ menu_url | relative_url }}">{{ type }}</a>
+
           {% if type == 'Righteous' %}
-          {% assign subgroups = site.subjects | where_exp: "page", "page.id contains 'righteous/'" %}
+          {% assign groups = site.subjects | map: "group" | uniq | shift %}
           <ul>
-            {% for subgroup in subgroups %}
+            {% for group in groups %}
             <li>
-              <a class="{% if subgroup.url == page.url %}is-active{% endif %}" href="{{ subgroup.url | relative_url }}">{{ subgroup.title }}</a>
+              <a class="{% if page.group == group %}is-active{% endif %}" href="{{ group | prepend: '/subjects/righteous/' | relative_url }}">{{ site.data.groups[group] }}</a>
             </li>
             {% endfor %}
           </ul>
           {% endif %}
+          
         </li>
         {% endfor %}
       </ul>
       <p class="menu-label">Views</p>
       <ul class="menu-list">
         <li>
-          <a href="{% link _subjects/calendar.md %}">Calendar</a>
+          <a href="{% link subjects/calendar.html %}">Calendar</a>
         </li>
       </ul>
     </aside>
@@ -40,11 +43,25 @@ types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Oth
   <div class="column">
 
     <table class="table is-fullwidth my-3">
+      {% unless page.group %}
 
-      {% for subject in page.subjects %}
+      {% unless page.type == "prophets-apostles" %}
+      {% assign subjects = site.subjects | where_exp: "subject", "subject.type == page.type and subject.group == nil" %}
+      {% else %}
+      {% assign subjects = site.subjects | where_exp: "subject", "subject.type == 'prophet' or subject.type == 'apostle'" %}
+      {% endunless %}
 
-      <tbody id="{{ subject.id }}">
+      {% else %}
 
+      {% assign subjects = site.subjects | where: "group", page.group %}
+
+      {% endunless %}
+
+      {% for subject in subjects %}
+      {% assign works = site.works | where_exp: "work", "work.subjects contains subject.key" %}
+
+      {% if works.size > 0 %}
+      <tbody id="{{ subject.key }}">
         <tr>
 
           <td>
@@ -52,44 +69,84 @@ types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Oth
             <br><small lang="gez-latn">{{ subject.name.gez }}</small>
           </td>
 
-          <td>{{ subject.name.en }}</td>
-
           <td>
-            <ul>
-              {% for commemoration in subject.commemorations %}
-              <li>{{ commemoration | monthday_to_string_ethiopic }}</li>
-              {% endfor %}
-            </ul>
+            <span lang="en">{{ subject.name.en }}</span>
           </td>
-          
+
+          <td class="is-hidden-touch" style="width: 11.5em;">
+            {% if subject.commemorations.size > 0 %}
+            {% assign month = subject.commemorations[0][1] | minus: 1 %}
+            <span>{{ subject.commemorations[0][0] }} {{ layout.months[month] }}</span>
+            <small class="is-hidden-touch">({{ subject.commemorations[0] | push: "2001" | reverse | join: "-" | to_gregorian | date: "%-d %b" }})</small>
+            {% endif %}
+          </td>
+
+          <td style="width: 2.5em;">
+            <a class="to-expand"></a>
+          </td>
+
         </tr>
 
-        <tr>
+        <tr class="is-hidden">
 
-          <td colspan="3">
-            <hr class="mt-0">
-            <ol class="pl-5">
-              {% for work in subject.works %}
-              <li value="{{ work.title }}">
-                <a href="{{ work.url }}">
-                  <strong lang="gez">{{ work.titles[0].gez | fidal }}</strong>
-                  <small lang="gez-latn">{{ work.titles[0].gez }}&nbsp;</small>
-                  <span lang="en">&mdash; {{ work.titles[0].en }}</span>
-                </a>
-                <br>
-                <small lang="gez">{{ work.stanzas[1][0] }}</small>
-              </li>
-              {% endfor %}
-            </ol>
+          <td colspan="2">
+            <table class="table is-fullwidth is-narrow">
+              {% for work in works %}
+              <tbody>
+                <tr>
+                  <td>{{ work.title }}</td>
+                  <td class="is-hidden-touch">
+                    <span>{{ work.type | capitalize }}</span>
+                  </td>
+                  <td>
+                    <a href="{{ work.url }}">
+                      <strong lang="gez">{{ work.titles[0].gez | fidal }}</strong>
+                      <br><small lang="gez-latn">{{ work.titles[0].gez }}</small>
+                    </a>
+                  </td>
+                  <td>
+                    <a href="{{ work.url }}">
+                      <strong lang="en">{{ work.titles[0].en }}</strong>
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            {% endfor %}
+            </table>
           </td>
-          
+
+          <td class="is-hidden-touch">
+            {% if subject.commemorations.size > 0 %}
+            {% for commemoration in subject.commemorations %}{% unless forloop.first %}
+            {% assign month = commemoration[1] | minus: 1 %}
+            <span>{{ commemoration[0] }} {{ layout.months[month] }}</span>
+            <small>({{ commemoration | push: "2001" | reverse | join: "-" | to_gregorian | date: "%-d %b" }})</small>
+            <br>
+            {% endunless %}{% endfor %}
+            {% endif %}
+          </td>
+
         </tr>
 
       </tbody>
-      {% endfor %}
+      {% endif %}
 
+      {% endfor %}
     </table>
 
   </div>
 
 </div>
+
+<script>
+$(document).ready(function() {
+
+  $('a.to-expand').on('click', function() {
+
+    $(this).toggleClass('is-active');
+    $(this).parents('tbody').children('tr:last-child').toggleClass('is-hidden');
+
+  });
+
+});
+</script>

@@ -9,6 +9,9 @@ html body
     @include mixins.touch
       display: block
 
+  .tag
+    font-family: var(--bulma-family-primary)
+
   .table, .message-body, .content
     font-family: var(--bulma-family-secondary)
     .button
@@ -94,17 +97,6 @@ html body
     
     &.is-active:after
       content: "▼"
-
-  div#calendar
-    &>ol
-      @include mixins.tablet
-        columns: 2
-
-      @include mixins.desktop
-        columns: 3
-
-      &>li
-        page-break-inside: avoid
   
   li
     &[data-category="Trinitarian"]::marker
