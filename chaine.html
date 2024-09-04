@@ -32,23 +32,25 @@ permalink: /works/chaine/
         {% if item[1].subjects.size > 0 %}
 
         {% for subject_id in item[1].subjects %}
-        {% assign subject = site.data.subjects | find: "id", subject_id %}
-        <a href="{{ subject.url }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
+        {% assign subject = site.subjects | find: "key", subject_id %}
+        <a href="{{ subject.link }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
         
         {% endfor %}
 
         {% else %}
 
-        {% for subject in work.subjects %}
-        <a href="{{ subject.url }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
+        {% for subject_id in work.subjects %}
+        {% assign subject = site.subjects | find: "key", subject_id %}
+        <a href="{{ subject.link }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
         {% endfor %}
 
         {% endif %}
       </td>
 
       <td>
-        {% for subject in work.subjects %}
-        <a href="{{ subject.url }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
+        {% for subject_id in work.subjects %}
+        {% assign subject = site.subjects | find: "key", subject_id %}
+        <a href="{{ subject.link }}">{{ subject.name.en }}</a>{% unless forloop.last %},{% endunless %}
         {% endfor %}
       </td>
 
@@ -58,7 +60,7 @@ permalink: /works/chaine/
     <tr>
       <td colspan="2" class="is-size-7 pl-3">
         {% if work.chaine.size > 1 %}
-        <strong>Duplicate of:</strong>
+        <strong>See also:</strong>
         {% for number in work.chaine %}
         {% unless number == item[0] %}
         <a href="#{{ number | replace: 'b', 'bis' }}">{{ number | replace: 'b', 'bis' }}</a>

@@ -17,6 +17,7 @@
       
       <a class="navbar-item" href="{% link index.html %}">Works</a>
       <a class="navbar-item" href="{% link subjects/index.html %}">Subjects</a>
+      {% if jekyll.environment == 'development' %}<a class="navbar-item" href="{% link manuscripts.html %}">Manuscripts</a>{% endif %}
       <a class="navbar-item" href="{{ site.url }}/bibliography">Bibliography</a>
       <div class="navbar-item">
         <a class="button" href="{% link blog/index.html %}">Blog</a>

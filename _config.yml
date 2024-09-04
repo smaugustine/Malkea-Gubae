@@ -9,6 +9,8 @@ collections:
     output: true
   subjects:
     output: false
+  manuscripts:
+    output: false
 
 defaults:
   - # blog posts
