@@ -290,10 +290,12 @@ module Jekyll::Ethiopic
     input = input.delete('-')
 
     input = input.gsub(/[ā]/, 'a')
+    input = input.gsub(/[č]/, 'c')
     input = input.gsub(/[ǝəƎ]/, 'e')
+    input = input.gsub(/[ǧ]/, 'g')
     input = input.gsub(/[ḥḫ]/, 'h')
     input = input.gsub(/[ṗ]/, 'p')
-    input = input.gsub(/[śṣḍ]/, 's')
+    input = input.gsub(/[śṣḍš]/, 's')
     input = input.gsub(/[ṭ]/, 't')
     input = input.gsub(/[ʾʿ]/, '')
     input = input.gsub(/[ʷ]/, 'w')
@@ -334,6 +336,12 @@ module Jekyll::Ethiopic
 
     Date.jd(jdn)
 
+  end
+
+  def camelize(input)
+    skip = %w{and or}
+
+    input.split(' ').map{ |word| unless skip.include? word then word.capitalize else word end }.join(' ')
   end
 
 end
