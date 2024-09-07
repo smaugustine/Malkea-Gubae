@@ -52,6 +52,8 @@ exclude:
   - README.md
   - build-index.js
   - assets/scripts/fuse/
+  - .git*
+  - .vscode*
 
 include:
   - assets/scripts/fuse/dist/fuse.min.js
