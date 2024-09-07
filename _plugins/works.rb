@@ -5,7 +5,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     work.data["clavis"] = work.data["title"]
 
     unless work.data.include? "titles"
-      if work.data["type"] == "malkəʾ" || work.data["type"] == "pseudo-malkəʾ"
+      if work.data["type"] == "malkəʾ" || work.data["type"] == "quasi-malkəʾ"
 
         names = work.data["subjects"].map do |key|
           subject = site.collections["subjects"].docs.find{ |subject| subject.data["key"] == key }
