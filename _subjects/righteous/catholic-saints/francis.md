@@ -1,5 +1,5 @@
 ---
 name:
-  gez: Frānsiskos # need to confirm
+  gez: Frānsiskos
   en: Francis of Assisi
 ---

@@ -1,5 +1,5 @@
 ---
 name:
-  gez: Barnārdos # need to confirm
+  gez: Barnardos
   en: Bernard of Clairvaux
 ---
