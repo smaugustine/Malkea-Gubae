@@ -107,6 +107,32 @@ layout: default
 
 </div>
 
+{% if jekyll.environment == 'development' %}
+{% assign witnesses = site.data.items | where: "clavis", page.clavis %}
+{% if witnesses.size > 0 %}
+<div class="columns">
+  <div class="column is-full">
+    <article class="message is-info">
+      <div class="message-header">
+        <p>Witnesses</p>
+      </div>
+      <div class="message-body content">
+        <table class="table">
+          {% for item in witnesses %}
+          <tr>
+            <td>{{ item.manuscript.short }}</td>
+            <td>{{ item.manuscript.origin }}</td>
+            <td>ff. {{ item.locus }}</td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+    </article>
+  </div>
+</div>
+{% endif %}
+{% endif %}
+
 <div class="columns is-multiline">
 
   {% if notes.size > 0 %}
@@ -156,7 +182,6 @@ layout: default
         </div>
       </div>
     </article>
-  </div>
   </div>
 
 </div>
