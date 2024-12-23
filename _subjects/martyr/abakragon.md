@@ -1,7 +1,7 @@
 ---
 name:
   gez: ʾAbakərazun
-  en: Aba Cragon
+  en: Aba Kragon
 commemorations:
   - [25, 11]
 ---

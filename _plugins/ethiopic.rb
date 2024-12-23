@@ -286,6 +286,8 @@ module Jekyll::Ethiopic
 
   def escape_ethiopic(input)
 
+    if input.respond_to?(:to_s) then input = input.to_s end
+
     input = input.downcase
     input = input.delete('-')
 
