@@ -1,7 +1,7 @@
 ---
 name:
   gez: ʾElyās
-  en: Elijah
+  en: Elias
 commemorations:
   - [1, 4]
   - [26, 12]
