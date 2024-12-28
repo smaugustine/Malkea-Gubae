@@ -1,7 +1,7 @@
 ---
 name:
   gez: ʾIyyāsu
-  en: ʾIyyāsu I
+  en: ʾIyyāsu II
 commemorations:
   - [5, 2]
 ---

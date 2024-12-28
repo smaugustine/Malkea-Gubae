@@ -1,5 +1,5 @@
 ---
-name: Fiqṭor of Dabra Bəsrāt
+name: Fiqṭor za-Dabra Bəsrāt
 commemorations:
   - [11, 2]
 ---

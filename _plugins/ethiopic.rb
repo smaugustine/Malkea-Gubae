@@ -205,6 +205,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/ṭ{1,2}[ǝə]?/, 'ጥ')
 
     input = input.gsub(/(č̣){1,2}a/, 'ጨ')
+    input = input.gsub(/(č̣){1,2}ā/, 'ጫ')
 
     input = input.gsub(/ṗ{1,2}a/, 'ጰ')
     input = input.gsub(/ṗ{1,2}u/, 'ጱ')
