@@ -1,5 +1,5 @@
 ---
-name: Walda Gabrəʾel
+name: Šəttā Ləyaw #Walda Gabrəʾel
 commemorations:
   - [5, 2]
 ---

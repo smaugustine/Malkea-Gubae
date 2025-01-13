@@ -66,6 +66,8 @@ module Jekyll::Ethiopic
     input = input.gsub(/s{1,2}o/, 'ሶ')
     input = input.gsub(/s{1,2}[ǝə]?/, 'ስ')
 
+    input = input.gsub(/š{1,2}[ǝə]?/, 'ሽ')
+
     input = input.gsub(/q{1,2}ʷa/, 'ቈ')
     input = input.gsub(/q{1,2}ʷi/, 'ቊ')
     input = input.gsub(/q{1,2}ʷā/, 'ቋ')
