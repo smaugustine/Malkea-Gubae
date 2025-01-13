@@ -90,6 +90,8 @@
 </table>
 
 <p class="has-text-right is-size-7 mt-3">
+  <strong>{{ site.works | where: "type", "malkəʾ" | size }}</strong> malkəʾ records.<br>
+  <strong>{{ site.works | where: "type", "quasi-malkəʾ" | size }}</strong> quasi-malkəʾ records.<br>
   <strong>{{ site.works.size }}</strong> total work records.
 </p>
 
