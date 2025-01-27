@@ -72,16 +72,14 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Switch to TEI
-        run: |
-          & git switch tei
       - name: Download TEI artifact
         uses: actions/download-artifact@v4
         with:
           name: tei
       - 
-        name: Commit artifact
+        name: Commit artifact to TEI branch
         run: |
+          git switch tei
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "{{ env.CI_COMMIT_AUTHOR_EMAIL }}"
           git add tei
