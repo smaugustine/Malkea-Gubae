@@ -84,6 +84,6 @@ jobs:
         run: |
           git config --global user.name "${{ github.event.pull_request.pull_request.user.name }}"
           git config --global user.email "${{ github.event.pull_request.pull_request.user.email }}"
-          git add tei
+          git add .
           git commit -m "Archive TEI files"
           git push origin tei
