@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="6389" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቴዎድሮስ፡ ሊቀ፡ ሠራዊት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tewodros Liqa Śarāwit</title>
+        <title corresp="#t1" xml:lang="en">Image of Theodore the General</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ወሃቤ፡ ጥበብ፡ ለጠቢባነ፡ ምድር፡ ኵሉ፨</l>
+            <l n="2">ወምሥጢረ፡ ስብሕት፡ ዘይከሥት፡ ለኃይላተ፡ ብርሃን፡ ዘላዕሉ፨</l>
+            <l n="3">ቅድመ፡ ጉቡኣን፡ አነብብ፡ መልክአ፡ ቴዎድሮስ፡ በበ፡ አምሳሉ፨</l>
+            <l n="4">እንተ፡ ተለወ፡ ድኅሬሁ፡ በአሰረ፡ ቅዱስ፡ መስቀሉ፨</l>
+            <l n="5">ለዋሕድ፡ ወልዱ፡ ጥበቡ፡ ወቃሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘሆህያቲሁ፡ ኃምስ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሰላም፡ ወለርእስከ፡ ውዱስ፨</l>
+            <l n="3">ቴዎድሮስ፡ ኀያል፡ ዘዲበ፡ ሠራዊት፡ ርእስ፨</l>
+            <l n="4">አንጽሐኒ፡ እግዚእየ፡ እምደነሰ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="5">በማየ፡ ደምከ፡ ማየ፡ ጸጋ፡ ዘመንፈስ፡ ቅዱስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በእደ፡ ኅሩያን፡ ካህናት፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ ምልእተ፡ በረከት፨</l>
+            <l n="3">ቢጸ፡ ምሥራቃዊ፡ ቴዎድሮስ፡ ዘእምሠራዊት፨</l>
+            <l n="4">አስተዳሉ፡ መካነ፡ ብዕል፡ ኀበ፡ ተርኅወ፡ ገነት፨</l>
+            <l n="5">ለፍቁራኒከ፡ ዘጸገወ፡ ሀብት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">አምጣነ፡ ብየ፡ ኅዳጠ፡ አቅረብኩ፡ ለከ፡ ስባሔ፨</l>
+            <l n="2">በጽዋዐ፡ ስምከ፡ አፈወ፡ ርኄ፨</l>
+            <l n="3">ቴዎድሮስ፡ ፍትው፡ ወጥዑመ፡ ዝክር፡ ውስተ፡ ኵለሄ፨</l>
+            <l n="4">ተወከፍ፡ ማሕሌትየ፡ ቅድመ፡ ገጸ፡ አምላክ፡ ኤሎሄ፨</l>
+            <l n="5">ከመ፡ መሥዋዕተ፡ ኖኅ፡ ውኩፍ፡ ወጻድቅ፡ ማኑሄ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

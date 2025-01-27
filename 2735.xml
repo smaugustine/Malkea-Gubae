@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2735" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዐቢየ፡ እግዚእ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʿAbiya ʾƎgziʾ</title>
+        <title corresp="#t1" xml:lang="en">Image of ʿAbiya ʾƎgziʾ</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሥሉስ፡ ቅዱስ፡ እለ፡ ዕሩያን፡ በመንበር፨</l>
+            <l n="2">ዜና፡ ውዳሴሁ፡ ንግሩኒ፡ ለዐቢየ፡ እግዚእ፡ ክቡር፨</l>
+            <l n="3">እስመ፡ እምኔክሙ፡ ጸጋ፡ ወእምኔክሙ፡ ምክር፨</l>
+            <l n="4">እንበለ፡ ምክርክሙሰ፡ አመ፡ ባህለ፡ ዕጹብ፡ ነገር፨</l>
+            <l n="5">እምኢተመሰለ፡ ዮሐንስ፡ በንስር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘፊደለ፡ አሌፍ፡ ጥንቱ፨</l>
+            <l n="2">ወዘፍጻሜሁ፡ በዝንቱ፨</l>
+            <l n="3">ዐቢየ፡ እግዚእ፡ ጴጥሮስ፡ ለክርስቶስ፡ ኰኵሐ፡ ትእምርቱ፨</l>
+            <l n="4">ዘተሐንጸ፡ በላዕሌከ፡ ጽኑዐ፡ መሠረት፡ ውእቱ፨</l>
+            <l n="5">ወቅድመ፡ ነፋሳት፡ ይቀውም፡ ሶበ፡ ነፍሑ፡ ቦቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘዕሩይ፡ መጠና፨</l>
+            <l n="2">ምስለ፡ ደብረ፡ ታቦር፡ ወደብረ፡ ሲና፨</l>
+            <l n="3">ዐቢየ፡ እግዚእ፡ ነዓ፡ ምስለ፡ ገብርኤል፡ መልአከ፡ ዳኅና፨</l>
+            <l n="4">ታብዕለኒ፡ በንዋዮሙ፡ ውዱሰ፡ ነገር፡ ወዜና፨</l>
+            <l n="5">ለኢየሉጣ፡ ሰማዕት፡ ወቂርቆስ፡ ሕፃና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="54">
+            
+            <l n="1">ኦዐቢየ፡ እግዚእ፡ ንዋየ፡ ልቡና፡ ማሕሌተ፨</l>
+            <l n="2">አምጣነ፡ አቅረብኩ፡ ለከ፡ ከመ፡ ይኩንከ፡ ጸባሕተ፨</l>
+            <l n="3">በእንተ፡ ማርያም፡ ድንግል፡ እንተ፡ አግመረት፡ እሳተ፨</l>
+            <l n="4">ልቡናከ፡ ይዘከረኒ፡ ኵሎ፡ ዕለተ፨</l>
+            <l n="5">ንሣእ፡ ንሣእ፡ ወተወከፍ፡ አንተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

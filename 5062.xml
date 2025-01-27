@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="5062" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አናንያ፡ ዘደብረ፡ ጸራቢ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAnānyā za-Dabra Ṣarābi</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAnānyā of Dabra Ṣarābi</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘፍካሬሁ፡ ደመና፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሰላም፡ ዘኢተቀብአ፡ ቅብአ፡ ሙስና፨</l>
+            <l n="3">አናንያ፡ ጳውሎስ፡ ለቤተ፡ ክርስቲያን፡ ቀርና፨</l>
+            <l n="4">ከመ፡ እዜኑ፡ ስብሐቲከ፡ ወዘዚአከ፡ ልዕልና፨</l>
+            <l n="5">በዲበ፡ እንግድዓየ፡ አክብድ፡ ወምላእ፡ ልቦና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ አክሊለ፡ ጻማ፡ ዘተቀጸለ፨</l>
+            <l n="2">ወለገጽከ፡ ሰላም፡ ዘተሳተፈ፡ ጸዳለ፨</l>
+            <l n="3">አናንያ፡ አቡየ፡ እስእለ፨</l>
+            <l n="4">አብያጺከ፡ መነኮሳት፡ ኀበ፡ ረሰዩ፡ መድበለ፨</l>
+            <l n="5">አሀሉ፡ ምስሌሆሙ፡ ጸግወኒ፡ ክፍለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="22">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በእደ፡ ኄራን፡ አበው፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ በውሣጤ፡ ገዳም፡ ፍትው፨</l>
+            <l n="3">አናንያ፡ ያዕቆብ፡ መፍቀሬ፡ አምላክ፡ ሕያው፨</l>
+            <l n="4">ከመ፡ ኢይቅትክጸ፡ ፍትወተ፡ ሥጋ፡ ኤሳው፨</l>
+            <l n="5">ቀቲለ፡ ዚአየ፡ ቀደምከ፡ በነገር፡ ህልው፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ዘንተ፡ ስብሐታተ፡ ዘአቅረብኩ፡ ነያ፨</l>
+            <l n="2">ከመ፡ መሥዋዕተ፡ ላህም፡ ሥሙር፡ ሠመርከ፡ አናንያ፨</l>
+            <l n="3">አልቦ፡ እምይእዜ፡ ለነፍስየ፡ ዘያጠንያ፨</l>
+            <l n="4">ኢጠቢብ፡ ወኢኬንያ፨</l>
+            <l n="5">ዕሤተ፡ በረከትከ፡ ምሉአ፡ ዳእሙ፡ እሥያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">እስመ፡ ውዳሴሁ፡ ፈጸምኩ፡ ወዘዚአሁ፡ መልክእ፨</l>
+            <l n="2">መጠነ፡ ተክህለኒ፡ ሊተ፡ መጠነ፡ ዕሥራ፡ ወርብዕ፨</l>
+            <l n="3">ሶበ፡ አናንያ፡ ተዐርግ፡ ጸሎተ፡ ቅዱሳን፡ ሰብእ፨</l>
+            <l n="4">ኢታውርድ፡ ተሚኦከ፡ ላዕለ፡ ወልድከ፡ ኃጥእ፨</l>
+            <l n="5">አፍሐመ፡ እሳት፡ ውዑይ፡ እምሥር፡ ኅቡእ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Raineri1990" corresp="http://zotero.org/groups/5599348/items/PAPY2P2L"><analytic><title level="a">Atti di Anania, santo monaco etiopico del SVI secolo</title><author><forename>Osvaldo</forename><surname>Raineri</surname></author></analytic><monogr><title level="j">Ephemerides liturgicae</title><imprint><biblScope unit="volume">104</biblScope><biblScope unit="page">65-91</biblScope><date>1990</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Raineri1989" corresp="http://zotero.org/groups/5599348/items/RMUB965Q"><analytic><title level="a">Il testo etiopico dell’«Effigie di Anania»</title><author><forename>Osvaldo</forename><surname>Raineri</surname></author></analytic><monogr><title level="j">Quaderni Utinensi</title><imprint><biblScope unit="volume">7</biblScope><biblScope unit="issue">13/14</biblScope><biblScope unit="page">165-166</biblScope><date>1989</date></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

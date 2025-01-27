@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="1867" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጽዮን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṣəyon</title>
+        <title corresp="#t1" xml:lang="en">Image of Sion</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ እንተ፡ ይጼዋዕ፡ በወትር፨</l>
+            <l n="2">በአፈ፡ መላእክት፡ ወሰብእ፡ በጊዜ፡ ስብሐት፡ ወክብር፨</l>
+            <l n="3">ጽዮን፡ እምነ፡ ንግሥተ፡ ሰማይ፡ ወምድር፨</l>
+            <l n="4">እለ፡ ይክህዱ፡ ድንግልናኪ፡ ውሉደ፡ ኵነኔ፡ ወፃዕር፨</l>
+            <l n="5">ይጥፍኡ፡ ወይማስኑ፡ እምኵሉ፡ ሀገር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስኪ፡ በዕንቈ፡ ሰንፔር፡ ሰማያዊ፨</l>
+            <l n="2">ዘተሰርገወ፡ ናሁ፡ በቤተ፡ መቅደስ፡ ዘሌዊ፨</l>
+            <l n="3">መድኃኒተ፡ ዓለም፡ ጽዮን፡ እመ፡ ክርስቶስ፡ ሰማያዊ፨</l>
+            <l n="4">አድንኅንኒ፡ በእንተ፡ ስምኪ፡ እምነ፡ ሕማም፡ ግብታዊ፨</l>
+            <l n="5">ዘአልብየ፡ ጥዒና፡ እስመ፡ አንሰ፡ እደዊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ ለመቃብርኪ፡ ማኅደረ፡ ሠለስቱ፡ ዕለት፨</l>
+            <l n="2">ወለፍልሰትኪ፡ ሰላም፡ ወዘዚአኪ፡ ዕርገት፨</l>
+            <l n="3">ተስፋ፡ መላእክት፡ ጽዮን፡ ወተስፋ፡ ዕደው፡ ወአንስት፨</l>
+            <l n="4">ይልህሱ፡ ፀበለ፡ እግርኪ፡ ሊቃነ፡ መላእክት፡ ወነገሥታት፨</l>
+            <l n="5">እስመ፡ አንቲ፡ እመ፡ አምላክ፡ ወላዕለ፡ ኵሉ፡ ፍጥረት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">በእሉ፡ ሰንበታትኪ፡ ንስእለኪ፡ ድንግል፨</l>
+            <l n="2">ፀሐየ፡ ፀሐያት፡ እምነ፡ ወእመ፡ ምሕረት፡ ወሣህል፨</l>
+            <l n="3">ወንዌድሰኪ፡ ጽዮን፡ እመ፡ ክርስቶስ፡ ልዑል፨</l>
+            <l n="4">ለዘተሰምየ፡ በስምኪ፡ ገብረ፡ ዚአኪ፡ ወተክል፨</l>
+            <l n="5">ኢታብዒ፡ ንግሥትየ፡ ውስተ፡ ገሐነም፡ ወሲኦል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="53">
+            
+            <l n="1">ስብሐት፡ ለኪ፡ ጽዮን፡ እመ፡ አዶናይ፨</l>
+            <l n="2">ስብሐት፡ ለኪ፡ ጽዮን፡ ደብረ፡ ብርሃን፡ ወደብረ፡ ፀሓይ፨</l>
+            <l n="3">ስብሐት፡ ለኪ፡ ጽዮን፡ ለባሕታውያን፡ ሲሳይ፨</l>
+            <l n="4">ስብሐት፡ ለኪ፡ ጽዮን፡ ኀይለ፡ ሰማዕታት፡ ወምስካይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="54">
+            
+            <l n="1">ንዑ፡ ንስግድ፡ ለጽዮን፡ ማርያም፨</l>
+            <l n="2">ንዑ፡ ንስግድ፡ ለመድኃኔ፡ ዓለም፡ እም፨</l>
+            <l n="3">ንዑ፡ ንስግድ፡ ለተስፋ፡ ቀዳማዊ፡ አዳም፨</l>
+            <l n="4">ንዑ፡ ንስግድ፡ በፍርሃት፡ ለንግሥተ፡ ሰማይ፡ ወአርያም፨</l>
+            <l n="5">በይነ፡ ዘይደልዋ፡ ሰጊድ፡ ለዓለም፡ ወለዓለመ፡ ዓለም፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Amsalu_Tefera2015" corresp="http://zotero.org/groups/5599348/items/QN5FLZTB"><monogr><title level="m">The Ethiopian Homily on the Ark of the Covenant: Critical Edition and Annotated Translation of &lt;hi rend="italics"&gt;Dǝrsanä Ṣǝyon&lt;/hi&gt;</title><author><name>Amsalu Tefera</name></author><imprint><pubPlace>Leiden–Boston</pubPlace><publisher>Brill</publisher><date>2015</date></imprint></monogr><series><title level="s">Texts and Studies in Eastern Christianity</title><biblScope unit="volume">5</biblScope></series></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

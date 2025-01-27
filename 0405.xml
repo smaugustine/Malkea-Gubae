@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0405" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሀብተ፡ ሥላሴ፡ ዘጉንደ፡ ጉንዴ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Habta Śǝllāse za-Gunda Gunde</title>
+        <title corresp="#t1" xml:lang="en">Image of Habta Śǝllāse II of Gunda Gunde</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እምአስማተ፡ ጻድቃን፡ ትሩፍ፨</l>
+            <l n="2">እስመ፡ ያዜክር፡ ዘሀለው፡ ወይሄልው፡ ለዘልፍ፨</l>
+            <l n="3">ሀብተ፡ ሥላሴ፡ ክቡር፡ አበ፡ መነኮሳት፡ አእላፍ፨</l>
+            <l n="4">ሶበ፡ ይዌጥን፡ ትርጒሞቶ፡ ለውዳሴከ፡ መጽሐፍ፨</l>
+            <l n="5">እምፈጽምቱ፡ ይስእን፡ ወይደክም፡ አፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ መካነ፡ አዕናቍ፡ ክቡራን፨</l>
+            <l n="2">ዘውእቱ፡ ሥጋሆሙ፡ ለአበዊነ፡ ዜራን፨</l>
+            <l n="3">ሀብተ፡ ሥላሴ፡ ተወከፍ፡ ተወክፎተ፡ ክቡር፡ ዕጣን፨</l>
+            <l n="4">አምኃ፡ ውዳሴ፡ እምአፈ፡ ብእሲ፡ ምኑን፨</l>
+            <l n="5">አምጣነ፡ ስኩር፡ ውእቱ፡ በፍቅርከ፡ ወይን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="42">
+            
+            <l n="1">ስብሐት፡ ለከ፡ እግዚአብሔር፡ ንጉሥ፨</l>
+            <l n="2">ኰናኔ፡ ቀላያት፡ ወየብስ፨</l>
+            <l n="3">ዘወሀብከኒ፡ ልሳነ፡ ለነቢበ፡ ግብሩ፡ ውዱስ፨</l>
+            <l n="4">ለሀብተሥላሴ፡ በዓለ፡ ብዙኅ፡ ሞገስ፨</l>
+            <l n="5">በኀሢሠ፡ ክብር፡ እምበረከቱ፡ ወክብሩ፡ ቅዱስ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

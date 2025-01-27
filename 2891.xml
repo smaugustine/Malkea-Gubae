@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2891" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ማርያም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Māryām</title>
+        <title corresp="#t1" xml:lang="en">Image of Mary</title>
+        
+        <title xml:id="t2" xml:lang="gez">መልክአ እግዝእትነ፡ ማርያም፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa ʾƎgzəʾtəna Māryām</title>
+        <title corresp="#t2" xml:lang="en">Image of Our Lady Mary</title>
+        
+        <title xml:id="t3" xml:lang="gez">መልክአ፡ ማርያም፡ ዘደብረ፡ ሲና፡ ወዘማርያም፡ ዓይላ፡</title>
+        <title corresp="#t3" xml:lang="gez" type="normalized">Malkəʾa Māryām za-Dabra Sinā wa-za-Māryām ʿĀylā</title>
+        <title corresp="#t3" xml:lang="en">Image of Mary of Dabra Sinā and of Māryām ʿĀylā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        <div type="textpart" xml:id="masgabiya">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ማርያምሰ፡ ኀርየት፡ መክፈልተ፡ ሠናየ፡ ዘኢየኀይድዋ፨</l>
+            <l n="2">ይእቲ፡ ፀምር፡ ጸዓዳ፡ ዘእምነገደ፡ ይሁዳ፨</l>
+            <l n="3">ሰረገላ፡ አሚናዳብ፡ ንብረታ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ስምኪ፡ ሐዋዝ፨</l>
+            <l n="2">እምነ፡ ከልበኔ፡ ወቊስጥ፡ ወእምነ፡ ሰንበልት፡ ምዑዝ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ለባሲተ፡ ዓቢይ፡ ትዕዛዝ፨</l>
+            <l n="4">ይስቅየኒ፡ ለለጽባሑ፡ ወይነ፡ ፍቅርኪ፡ ዐዚዝ፨</l>
+            <l n="5">ከመ፡ ይሰቅዮ፡ ውኂዝ፡ ለሠናይ፡ አርዝ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስኪ፡ ዘተንእደ፡ ጽፍሮሁ፨</l>
+            <l n="2">ለአቡኪ፡ በከናፍሪሁ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ለእግዚአብሔር፡ ጽርሑ፨</l>
+            <l n="4">ለገብርኪ፡ እግዝእትየ፡ ኢትኅድግኒ፡ እላሁ፨</l>
+            <l n="5">ከመ፡ ኢይበሉኒ፡ ፀር፡ አይቴኑ፡ ምክሑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለርእስኪ፡ በቅብአ፡ ቅዳሴ፡ ርሑስ፨</l>
+            <l n="2">አኮ፡ አኮ፡ በቅብአ፡ ደነስ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ንጽሕተ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="4">ያንጽሐኒ፡ እምነ፡ ርኵስ፤ በፍሕመ፡ ቍርባኑ፡ ቅዱስ፨</l>
+            <l n="5">አዝዚዮ፡ ለሱራፊ፡ ዘሰማይ፡ ቀሲስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="22">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="34">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="35">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="36">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="38">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="39">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="40">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="42">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="43">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="53">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="54">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="55">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="56">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+          <lg type="stanza" n="57">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ደባትረ፡ ብርሃን፡ ኀበ፡ ተተክሉ፨</l>
+            <l n="2">ለገነተ፡ ጽባሕ፡ በማእከሉ፨</l>
+            <l n="3">ስብሕት፡ አንቲ፡ ወውድስት፡ በአፈ፡ ኵሉ፨</l>
+            <l n="4">እምነ፡ ጻድቃን፡ ዘታሕቱ፡ ወእምትጉሃን፡ ዘላዕሉ፨</l>
+            <l n="5">ማርያም፡ ለኪ፡ ስብሐተ፡ አደሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="58">
+            
+            <l n="1">በዝንቱ፡ ቃለ፡ ማሕሌት፡ ወበዝንቱ፡ ይባቤ፨</l>
+            <l n="2">ለዘይስእለኪ፡ ብእሲ፡ ጊዜ፡ ረከቦ፡ ምንዳቤ፨</l>
+            <l n="3">ብጽሒ፡ ፍጥዑነ፡ ትሰጠውዮ፡ ዘይቤ፨</l>
+            <l n="4">ማርያም፡ ዕንቍየ፡ ክርስቲሎቤ፤ ምዕዝተ፡ ምግባር፡ እምከርቤ፨</l>
+            <l n="5">ዘጸገየ፡ ማሕፀንኪ፡ አፈወ፡ ነባቤ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Tedros_Abraha2008" corresp="http://zotero.org/groups/5599348/items/7IWU6HND"><analytic><title level="a">Il &lt;hi rend="italics"&gt;Mälkǝʾa Maryam&lt;/hi&gt; I (Effigie di Maria I)</title><author><name>Tedros Abraha</name></author></analytic><monogr><title level="j">Orientalia Christiana Periodica</title><imprint><biblScope unit="volume">74</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page">49-69</biblScope><date>2008</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_N5I3F6AD" corresp="http://zotero.org/groups/5599348/items/N5I3F6AD"><monogr><title level="m">መልክአ ቅዱሳን በዐማርኛ</title><imprint><pubPlace>አዲስ አበባ</pubPlace><publisher>ማኅበረ ቅዱሳን</publisher><date>፳፻፲፫ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_W3PTU9ZK" corresp="http://zotero.org/groups/5599348/items/W3PTU9ZK"><monogr><title level="m">መልክዐ ጉባኤ</title><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፸፬ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_ANSQZB4T" corresp="http://zotero.org/groups/5599348/items/ANSQZB4T"><monogr><title level="m">መልክዐተ ቅዱሳን አበው ዘገዳማተ ኤርትራ</title><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፷፪ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct><biblStruct type="encyclopediaArticle" xml:id="Böll2007" corresp="http://zotero.org/groups/5599348/items/G56BFRHL"><analytic><title level="a">Mälkǝʾa Maryam</title><title type="short">EAe</title><author><forename>Verena</forename><surname>Böll</surname></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">708a-709a</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

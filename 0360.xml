@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0360" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዲዮስቆሮስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Diyosqoros</title>
+        <title corresp="#t1" xml:lang="en">Image of Dioscorus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ለሃይማኖት፡ ርእሳ፨</l>
+            <l n="2">ወለገጽነ፡ ሞገሳ፨</l>
+            <l n="3">ዲዮስቆሮስ፡ መምህር፡ ወነቢየ፡ ልዑል፡ ዘምድረ፡ ሱሳ፨</l>
+            <l n="4">በገድሉ፡ ወጻማሁ፡ እንተ፡ አግነየ፡ አንበሳ፨</l>
+            <l n="5">ወበፍትሐ፡ ጽድቅ፡ ዘቀነየ፡ ነገሥታት፡ ስሳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ቆብዐ፡ ድንጋሌ፡ ዘተገልበበ፨</l>
+            <l n="2">ወለገጽከ፡ ስቡሕ፡ ዘበደመ፡ ሥቃይ፡ ተሐጽበ፨</l>
+            <l n="3">ዲዮስቆሮስ፡ ዝክርከ፡ ዘያስተፌሥሕ፡ አልባበ፨</l>
+            <l n="4">ቅድመ፡ ገጸ፡ አምላክ፡ ሚመጠነ፡ ረከበ፨</l>
+            <l n="5">ጸጋ፡ ብዙኀ፡ ወሠናየ፡ ዐሥበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ተዘኪረከ፡ ክርስቶስ፡ ከመ፡ አፈቅሮሙ፡ ጥቀ፨</l>
+            <l n="2">በእንቲአከ፡ ጻድቃን፡ እስመ፡ ተገበሩ፡ ጽድቀ፨</l>
+            <l n="3">ድኩም፡ ሥጋየ፡ ሶበ፡ ተንተነ፡ ወወድቀ፨</l>
+            <l n="4">እስመ፡ በጽሐ፡ ጊዜ፡ ሠዊቅ፡ ወጊዜ፡ አንሥአ፡ አልጸቀ፨</l>
+            <l n="5">እስመ፡ ከመ፡ ከማከ፡ አብ፡ ያነሥእ፡ ጥዩቀ፨</l>
+            <l n="6">ታፈቅር፡ ጽድቀ፡ ለለ፡ ጊዜ፡ ኩነኒ፡ ሠዋቀ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

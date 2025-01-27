@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2977" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኢያቄም፡ ወሐና፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾIyāqem wa-Ḥannā</title>
+        <title corresp="#t1" xml:lang="en">Image of Joachim and Hanna</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ መራኁተ፡ ኵሉ፡ አእምሮ፨</l>
+            <l n="2">እወጥን፡ ለክሙ፡ ስብሐተ፡ መልክእ፡ በአማኅብሮ፨</l>
+            <l n="3">ኢያቄም፡ ወሐና፡ አንቅዕተ፡ ሰላም፡ ወተፋቅሮ፨</l>
+            <l n="4">ከመ፡ ትምሀሩኒ፡ ለመዝሙረ፡ ማሕሌት፡ ምሥጢሮ፨</l>
+            <l n="5">ንሥኡ፡ መዝሙረ፡ ወሀቡ፡ ከበሮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለአስማቲክሙ፡ በደርግ፨</l>
+            <l n="2">እስመ፡ ኅቡራን፡ አንትሙ፡ ወእሱራን፡ በሕግ፨</l>
+            <l n="3">ኢያቄም፡ ወሐና፡ ምሉኣነ፡ ስብሐት፡ አፍላግ፨</l>
+            <l n="4">እስመ፡ ተጽሕፈ፡ ስምክሙ፡ ለፍጻሜ፡ ኵሉ፡ መዓርግ፨</l>
+            <l n="5">መልዕልተ፡ ስሞሙ፡ ለሠላስ፡ አዕሩግ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርትክሙ፡ ዘእግዚአብሔር፡ ፈተዎ፨</l>
+            <l n="2">እስከነ፡ ዐትብዐ፡ ውስተ፡ ሥጋክሙ፡ ተሰግዎ፨</l>
+            <l n="3">ኢያቄም፡ ወሐና፡ ምክንያተ፡ ድኂን፡ ወተቤዝዎ፨</l>
+            <l n="4">ጽድቅክሙ፡ ህየንተ፡ ኵሉ፡ ለሙተትየ፡ ያሐይዎ፨</l>
+            <l n="5">ወለጌጋይየ፡ ከመ፡ ሰምዕ፡ ይምስዎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለመቃብሪክሙ፡ ካዕበ፨</l>
+            <l n="2">ንዋየ፡ አዕጽምቲክሙ፡ ባሕርይ፡ እስመ፡ በውስቴታ፡ ተዘግበ፨</l>
+            <l n="3">ኢያቄም፡ ወሐና፡ ዘፈረይክሙ፡ ጥበበ፨</l>
+            <l n="4">በሰማያት፡ እመ፡ ዘአልቦቱ፡ ወበምድር፡ አበ፨</l>
+            <l n="5">እስመ፡ አሥረቅሙ፡ አሐደ፡ ኮከበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ናሁ፡ አብጻሕኩ፡ ውዳሴክሙ፡ ጥንቁቀ፨</l>
+            <l n="2">አምጣነ፡ ልብየ፡ ጽህቀ፨</l>
+            <l n="3">ኢያቄም፡ ወሐና፡ እንዘ፡ ትትፌሥሑ፡ ጥቀ፨</l>
+            <l n="4">ስቅዩኒ፡ ህየንተ፡ ዐስብ፡ በረከትክሙ፡ ጽድቀ፨</l>
+            <l n="5">ዘያረዊ፡ ሥርወ፡ ወያጠልል፡ ዐጽቀ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

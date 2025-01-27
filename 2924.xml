@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2924" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ በርተሎሜዎስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Bartalomewos</title>
+        <title corresp="#t1" xml:lang="en">Image of Bartholomew</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ እንበለ፡ ያእምሩ፡ አዝማዲከ፨</l>
+            <l n="2">ወለልደትከ፡ ትሑር፡ መንገለ፡ ሖረ፡ ዕፃከ፨</l>
+            <l n="3">በርተሎሜዎስ፡ አምላክ፡ ከመ፡ ወልደ፡ አምላክ፨</l>
+            <l n="4">መኑ፡ እምለበወ፡ ወእንዘ፡ ያነውኅ፡ ሰቢከ፨</l>
+            <l n="5">እመ፡ ውስተ፡ ኵሉ፡ ኢጸርሐ፡ ዐዋዲ፡ ቃልከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘበአፈ፡ ኵሉ፡ ዝኩር፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሰላም፡ ምስለ፡ ርእስከ፡ ክቡር፨</l>
+            <l n="3">በደብረ፡ ሃይማኖት፡ ጥሉል፡ በርተሎሜዎስ፡ ሀገር፨</l>
+            <l n="4">እንተ፡ ተሐነጽከ፡ በእደ፡ ፈጣሪ፡ ፍጡር፨</l>
+            <l n="5">ተከብቶ፡ ኢትክል፡ በሰማይ፡ ወምድር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ውስተ፡ መካን፡ ሠናይ፨</l>
+            <l n="2">ወለትንሣኤከ፡ በክብር፡ አመ፡ ዕለተ፡ ምሥቲር፡ ዐባይ፨</l>
+            <l n="3">በርተሎሜዎስ፡ ዕረፍት፡ ወቤተ፡ መርዓዊ፡ ርሱይ፨</l>
+            <l n="4">ንትሜነይ፡ ናጽልል፡ በኀቤከ፡ እምጻማ፡ ሐሩር፡ ሥቃይ፨</l>
+            <l n="5">አመ፡ እምተዐጽዎ፡ ጽኑዕ፡ ይትረኀው፡ ሰማይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለዕለተ፡ ሞትከ፡ ድኅረ፡ አንሣእከ፡ ሙታነ፨</l>
+            <l n="2">እሞተ፡ ሥጋ፡ ወነፍስ፡ በዘአጥረይከ፡ ሥልጣነ፨</l>
+            <l n="3">በርተሎሜዎስ፡ ፀጋመ፡ እንተ፡ ትሬሲ፡ የማነ፨</l>
+            <l n="4">ዕቀበነ፡ በኀይልከ፡ ከመ፡ ኢንትሉ፡ ሰይጣነ፨</l>
+            <l n="5">አርአያ፡ በድካም፡ ተለወ፡ በይነ፡ ዕፅ፡ አቡነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">ስብሐተ፡ ክቡር፡ ስምከ፡ በጾታ፡ ብዙኅ፡ ሐልዮ፨</l>
+            <l n="2">እስመ፡ ነገርኩ፡ ለኵሉ፡ ብእሲ፡ ድካም፡ ወተጋንዮ፨</l>
+            <l n="3">በርተሎሜዎስ፡ ንግረኒ፡ ተስፋ፡ ቅቡፃን፡ ተባርዮ፨</l>
+            <l n="4">ከመ፡ ሀለወኒ፡ እንዘ፡ ተኀድግ፡ ጌግዮ፨</l>
+            <l n="5">ለሥጋየ፡ ዘአውተረ፡ ኀቤከ፡ ጸልዮ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ በርተሎሜዎስ፡ ጠል፡ ልምላሜ፡ ገነት፡ ዘየብሰ፨</l>
+            <l n="2">ለዐውደ፡ ዓመት፡ እፍረይ፡ አርውየኒ፡ ፈውሰ፨</l>
+            <l n="3">ውዳሴከ፡ ዘተወደሰ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ በርተሎሜዎስ፡ ሥርግው፡ ሜላተ፡ ሐዲስ፡ ምልክና፨</l>
+            <l n="2">ብልየተ፡ ሰብእናየ፡ ሐድስ፡ በጥዒና፨</l>
+            <l n="3">እስመ፡ ቀርበ፡ ለሙስና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ወንጌለ፡ መንግሥት፡ ኅወተ፡ በርተሎሜዎስ፡ ዘራኢ፨</l>
+            <l n="2">ውስተ፡ ገራህትከ፡ እዝነ፡ ሰማዒ፨</l>
+            <l n="3">አመ፡ ማዕረርከ፡ በላ፡ ለነፍስየ፡ ንዒ፨</l>
+            <l n="4">እክለ፡ ጸጋ፡ በጸጋ፡ ትንሥኢ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

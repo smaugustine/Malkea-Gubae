@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2875" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብርኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabrəʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Gabriel</title>
+        
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ገብርኤል፡ ካልእ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Gabrəʾel Kāləʾ</title>
+        <title corresp="#t2" xml:lang="en">Second Image of Gabriel</title>
+        
+        <title xml:id="t3" xml:lang="gez">መልክአ፡ ደቅስዮስ፡</title>
+        <title corresp="#t3" xml:lang="gez" type="normalized">Malkəʾa Daqsəyos</title>
+        <title corresp="#t3" xml:lang="en">Image of Dexius</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተጸውዐ፡ ቀዲሙ፨</l>
+            <l n="2">ለፀሓይ፡ እምዝክረ፡ ስሙ፨</l>
+            <l n="3">ገብርኤል፡ ኅሩይ፡ ለእግዚአብሔር፡ መልአከ፡ አርያሙ፨</l>
+            <l n="4">እምጠባይዐ፡ ሥጋ፡ ካልእ፡ ለጠባይዕከ፡ ዐቅሙ፨</l>
+            <l n="5">ነፋስ፡ ረቁ፡ ወእሳት፡ ቀለሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ከመ፡ እንተ፡ ጠል፡ ወነፍኒፍ፨</l>
+            <l n="2">ዲቤሁ፡ ዘመልአ፡ ኀይለ፡ አርያም፡ ትሩፍ፨</l>
+            <l n="3">ገብርኤል፡ መልአክ፡ ወሊቀ፡ አእላፍ፨</l>
+            <l n="4">አስተበቍዐከ፡ መሐስአ፡ በግዕ፡ ግዱፍ፨</l>
+            <l n="5">እምብሔረ፡ መርቄ፡ ወሐፍ፡ ስደኒ፡ በክንፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ሰላም፡ ለሥነ፡ መልክእከ፡ ዘግሩም፡ ራእዩ፨</l>
+            <l n="2">ወብዙኅ፡ ውዳሴ፡ ዕበዩ፨</l>
+            <l n="3">ርእሰ፡ ኀያላን፡ ገብርኤል፡ ለእግዚአብሔር፡ ኀይለ፡ ሰማዩ፨</l>
+            <l n="4">ከመ፡ ጸባእኮሙ፡ ለመንዚራን፡ አመ፡ ውሉደ፡ ምድር፡ ሰከዩ፨</l>
+            <l n="5">ጽባእ፡ ፀርየ፡ ወኪያየ፡ አሕዩ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct><biblStruct type="encyclopediaArticle" xml:id="Getatchew_Haile2007" corresp="http://zotero.org/groups/5599348/items/3PT5ZG4N"><analytic><title level="a">Mälkǝʾa Gäbrǝʾel</title><title type="short">EAe</title><author><name>Getatchew Haile</name></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">702b-704a</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

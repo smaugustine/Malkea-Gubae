@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2833" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ ፍቁረ፡ እግዚእ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Fəqura ʾƎgziʾ</title>
+        <title corresp="#t1" xml:lang="en">Image of John, Beloved of the Lord</title>
+        
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ዮሐንስ፡ ወልደ፡ ዘብዴዎስ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Walda Zabdewos</title>
+        <title corresp="#t2" xml:lang="en">Image of John, Son of Zebedee</title>
+        
+        <title xml:id="t3" xml:lang="gez">መልክአ፡ ዮሐንስ፡ ወልደ፡ ነጐድጓድ፡</title>
+        <title corresp="#t3" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Walda Nagʷadgʷād</title>
+        <title corresp="#t3" xml:lang="en">Image of John, Son of Thunder</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ቅቡአ፡ መገስ፡ ወጸጋ፨</l>
+            <l n="2">እንበለ፡ ሕጸጽ፡ ወንትጋ፨</l>
+            <l n="3">ዮሐንስ፡ መልአክ፡ እንዘ፡ ብእሴ፡ ደም፡ ወሥጋ፨</l>
+            <l n="4">ምልአኒ፡ ከመ፡ ተከዚ፡ ለጥበብከ፡ ፈለጋ፨</l>
+            <l n="5">ወፍካሬ፡ ብዝኅት፡ ራእይከ፡ ከመ፡ እጠይቅ፡ ህጋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ጠለ፡ አርያም፡ ዘኮኖ፨</l>
+            <l n="2">ከመ፡ ዕፍረተ፡ አሮን፡ ቅብአ፡ ተክህኖ፨</l>
+            <l n="3">ምድራዊ፡ ዮሐንስ፡ ለሰማይ፡ ዘትኴንኖ፨</l>
+            <l n="4">አስተምሕር፡ ሣህለ፡ ዓለም፡ ወዘዚአየ፡ አድኅኖ፨</l>
+            <l n="5">ኀበ፡ መምህርከ፡ ዘረፈቀ፡ ሕፅኖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ ዮሐንስ፡ ሕያው፨</l>
+            <l n="2">በከመ፡ ወፅአ፡ ነገር፡ በኀበ፡ አኃው፨</l>
+            <l n="3">በቅድስና፡ ወንጽሕ፡ አባላቲከ፡ ሥርግው፨</l>
+            <l n="4">አብአኒ፡ በነሶሳው፡ ውስተ፡ ጽርሕከ፡ ርኅው፨</l>
+            <l n="5">ኀበ፡ ይነብሩ፡ ስንዕከ፡ እደው፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም ለአልባሲከ፡ ምስለ፡ ክዳንከ፡ ደርገ፨</l>
+            <l n="2">ተዝካረ፡ ሕይወትከ፡ ታዑቅ፡ ለአብሮክራ፡ ኀደገ፨</l>
+            <l n="3">ዮሐንስ፡ ዘኮንከ፡ ምስለ፡ መላእክት፡ ደርገ፨</l>
+            <l n="4">ምሉአ፡ ወድንጉገ፡ ዘሰላምከ፡ ፈለገ፨</l>
+            <l n="5">በውሳጤ፡ ከርስየ፡ ረሲ፡ ኢይኩን፡ ንቱገ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ለዘሰአለከ፡ ሀቦ፡ ወኢትክልዖ፡ ዘይብል፨</l>
+            <l n="2">እስመ፡ ተኣምር፡ ለሊከ፡ በስተ፡ ወንጌል፨</l>
+            <l n="3">ኀሠሥኩ፡ በረከተከ፡ እንተ፡ ላዕለ፡ ኀይል፨</l>
+            <l n="4">ገብርከ፡ መሬታዊ፡ ዮሐንስ፡ ባዕል፨</l>
+            <l n="5">እስመ፡ ሕይወቱ፡ ለነዳይ፡ ስኢል፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

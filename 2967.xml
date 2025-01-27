@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2967" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">በሰማይ፡ ወበምድር፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Ba-samāy wa-Ba-mədr</title>
+        <title corresp="#t1" xml:lang="en">“In Heaven and On Earth…”</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በሰማይ፡ ወበምድር፡ አልብየ፡ ባዕደ፨</l>
+            <l n="2">አበ፡ ወእመ፡ እኅተ፡ ወውሉደ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ እትአመነኪ፡ ገሀደ፨</l>
+            <l n="4">ኪያኪ፡ ተስፋ፡ ኪያኪ፡ መፍቅደ፨</l>
+            <l n="5">ኪያኪ፡ ዐውቀ፡ ኪያኪ፡ ዘመደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">በሰማይ፡ ወበምድር፡ እንዘ፡ ሀሎክኒ፡ ረድኤተ፨</l>
+            <l n="2">ምንትኑ፡ ያፈርሀኒ፡ ሊተ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ እትአመነኪ፡ ክሡተ፨</l>
+            <l n="4">ኪያኪ፡ ልዕልና፡ ኪያኪ፡ ሢመተ፨</l>
+            <l n="5">ኪያኪ፡ ርስተ፡ ኪያኪ፡ አብያተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">አልብየ፡ እመ፡ በኵሉ፡ መዋዕል፨</l>
+            <l n="2">ስምዕየ፡ ሊተ፡ እግዚአብሔር፡ ልዑል፨</l>
+            <l n="3">እትአመነኪ፡ ፈድፋደ፡ ማርያም፡ ድንግል፨</l>
+            <l n="4">ፍቅርኪ፡ ጽሙና፡ ፍቅርኪ፡ ገድል፨</l>
+            <l n="5">ፍቅርኪ፡ ትርሲት፡ ፍቅርኪ፡ አክሊል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ኢትኅድግኒ፡ ዐቂበ፡ ኵሎ፡ መዐልተ፡ ወሌሊተ፨</l>
+            <l n="2">ኀበ፡ ሖርኩ፡ በፍና፡ ወኀበ፡ ኀደርኩ፡ ቤተ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ዘትመግቢ፡ ነፍሳተ፨</l>
+            <l n="4">በልብስ፡ ወበሲሳይ፡ ኢታርእይኒ፡ ንዴተ፨</l>
+            <l n="5">እስመ፡ ቍር፡ ወርኀብ፡ ያረስዕ፡ ጸሎተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

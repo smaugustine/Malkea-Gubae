@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0282" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሰብዓ፡ ወክልኤ፡ አርድእት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Sabʿā wa-Kəlʾe ʾArdəʾət</title>
+        <title corresp="#t1" xml:lang="en">Image of the Seventy-Two Disciples</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ በጽላተ፡ ሰማይ፡ ዘቀጽሕፋ፨</l>
+            <l n="2">ሰብዓ፡ ወክልኤ፡ አርድእተ፡ ኢየሱስ፡ አልፋ፨</l>
+            <l n="3">መስገርተ፡ ሕቀ፡ አንትሙ፡ ዘቤተ፡ ሳውል፡ ወኬፋ፨</l>
+            <l n="4">እስእለክሙ፡ አጋእዝትየ፡ ጸግዉኒ፡ ተስፋ፨</l>
+            <l n="5">ታሕተ፡ ሕፅንክሙ፡ ትረሲ፡ ነፍስየ፡ ምዕራፋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርትክሙ፡ ትእምርተ፡ ኀይል፡ ዘቦን፨</l>
+            <l n="2">ከመ፡ ቈናዝዒሁ፡ ለሰምሶን፨</l>
+            <l n="3">ሰብዓ፡ ወክልኤ፡ አርድእተ፡ ኢየሱስ፡ መድኅን፨</l>
+            <l n="4">በሥዕርትክሙ፡ ተማሕፀንኩ፡ አጋእዝትየ፡ ኄራን፨</l>
+            <l n="5">ኢይቅትለኒ፡ በልሳን፡ ወልደ፡ ሀጕል፡ ሰይጣን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለገጽክሙ፡ በብርሃነ፡ ስብሐት፡ ዘተሞገሳ፨</l>
+            <l n="2">አርብዓ፡ ወክልኤ፡ ወዓዲ፡ ሥላሳ፨</l>
+            <l n="3">ክቡራን፡ አርድእት፡ መምህራነ፡ ሕግ፡ ዘከኒሳ፨</l>
+            <l n="4">ሜላተ፡ ንጽሕ፡ ዘላዕሌክሙ፡ ነፍስየ፡ ለቢሳ፨</l>
+            <l n="5">ተሀሉ፡ ምስሌክሙ፡ በሰማይ፡ ነጊሣ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲክሙ፡ ጽድቀ፡ እለ፡ ቀጸባ፨</l>
+            <l n="2">ለመጽሐፈ፡ ሰሎሞን፡ ከመ፡ ንባባ፨</l>
+            <l n="3">ሰብዓ፡ ወክልኤ፡ ለ</l>
+            <l n="4">[The remainder of the text is lost.]</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

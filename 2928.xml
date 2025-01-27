@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2928" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ ወንጌላዊ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Wangelāwi</title>
+        <title corresp="#t1" xml:lang="en">Image of John the Evangelist</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ወለልደትከ፡ እማሕፀና፨</l>
+            <l n="2">ለቅርብተ፡ ልደት፡ እምከ፡ እምልደተ፡ ድንግል፡ ወሐና፨</l>
+            <l n="3">ሐዋርያ፡ ብስራት፡ ዮሐንስ፡ ወጸዋሬ፡ ሐዲስ፡ ዜና፨</l>
+            <l n="4">ሀገረ፡ ስብሐቲከ፡ እርአይ፡ አዘዘኒ፡ መኰንነ፡ ኵሉ፡ ኅሊና፨</l>
+            <l n="5">ባሕቱ፡ መንፈሳዊት፡ አምረኒ፡ ፍና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተወደሰ፡ ብዙኅ፨</l>
+            <l n="2">ወለሥዕርትከ፡ አቄርብ፡ ፍሬ፡ ከናፍር፡ አምኃ፨</l>
+            <l n="3">ዘተረሰይከ፡ ዮሐንስ፡ ትርሲተ፡ መላእክት፡ ንጽሓ፨</l>
+            <l n="4">ቃል፡ ኀደረ፡ ላዕሌነ፡ ወኮነ፡ መሢሐ፨</l>
+            <l n="5">ቃለ፡ ዐዋዲ፡ ቃልከ፡ እንዘ፡ ይብል፡ ጸርሐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="99">
+            
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

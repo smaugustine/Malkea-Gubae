@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0224" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርምህናም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marməhnām</title>
+        <title corresp="#t1" xml:lang="en">Image of Mar Behnam</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ዘዚአከ፡ ተአምረ፨</l>
+            <l n="2">ማእከለ፡ ጉባኤ፡ ዘኮነ፡ አመ፡ ርእስከ፡ ተመትረ፨</l>
+            <l n="3">አምላከ፡ አማልክት፡ መርምህናም፡ ዘታድለቀልቅ፡ አድባረ፨</l>
+            <l n="4">ዕቀበኒ፡ እማዕቀፍ፡ ነግሀ፡ ወቀትረ፨</l>
+            <l n="5">እስመ፡ እንበሌከ፡ ኢየአምር፡ ግብረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ተስፋ፡ ኃጥኣን፡ ባሕቲቱ፨</l>
+            <l n="2">ኅዙነ፡ ልቡና፡ ዓለም፡ ዘያስተፌሥሕ፡ ቦቱ፨</l>
+            <l n="3">ዐርዘ፡ ሊባኖስ፡ መርምህናም፡ ምጽላለ፡ አዕዋፍ፡ እሙንቱ፨</l>
+            <l n="4">ኢይደቅ፡ ገብረ፡ ዚአከ፡ እምዐጽቀ፡ ልቡናከ፡ ዝንቱ፨</l>
+            <l n="5">እስመ፡ ኀጢአትየ፡ ብዙኅ፡ ወፍድፉድ፡ ውእቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ከመ፡ ከማከ፡ ይኄይስ፡ ሠናይ፡ ስም፨</l>
+            <l n="2">እምቅብዐ፡ መዐዛ፡ ፍጹም፨</l>
+            <l n="3">ነቢየ፡ ዮርዳኖስ፡ መርምህናም፡ ዑጹፈ፡ አነዳ፡ ሰላም፨</l>
+            <l n="4">ለዘወጠነ፡ ወፈጸመ፡ ዝክረ፡ ስምከ፡ ጥዑም፨</l>
+            <l n="5">ኢትዝክር፡ አበሳሁ፡ በዝንቱ፡ ዓለም፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

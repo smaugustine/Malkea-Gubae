@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0237" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፋሲለደስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Fāsiladas</title>
+        <title corresp="#t1" xml:lang="en">Image of Basilides</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ሰላም፡ መቅደመ፡ እብል፨</l>
+            <l n="2">ለዝክረ፡ ስምከ፡ ጥዑም፡ እምደመ፡ አስካል፨</l>
+            <l n="3">ሐራዊ፡ ጽኑዕ፡ መዋኢ፡ በገል፨</l>
+            <l n="4">ተማሕፀንኩ፡ በዝክረ፡ ስምከ፡ ፋሲለደስ፡ ኀያል፨</l>
+            <l n="5">ከመ፡ አፍሐሙ፡ ለሐቅል፡ አሕጻከ፡ ስሑል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለቀጸላ፡ ስምዕከ፡ ግብረ፡ እደ፡ ሰብእ፡ ኢኮነ፨</l>
+            <l n="2">እብሩር፡ ዘተፈትነ፡ ወእምወአቅ፡ ዘተረስነ፨</l>
+            <l n="3">ፋሲለደስ፡ ሥርግው፡ እመንፈስ፡ ቅዱስ፡ ብርሃነ፨</l>
+            <l n="4">ተማሕፀንኩ፡ በቀጸላከ፡ ወአስመኩ፡ አነ፨</l>
+            <l n="5">ወበዘአድማዕከ፡ እምልዑል፡ ኪዳነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="54">
+            
+            <l n="1">ሰላመ፡ መልክእከ፡ ኵሎሙ፡ ተፈጸመ፡ በዝየ፨</l>
+            <l n="2">ፋሲለደስ፡ አቡየ፡ ወእግዚእየ፨</l>
+            <l n="3">ተኣምር፡ ልቦና፡ ከመ፡ አልብየ፨</l>
+            <l n="4">ለኃጥእ፡ ከናፍርየ፡ እመ፡ ክርዳደ፡ ፈረየ፨</l>
+            <l n="5">በኪዳነ፡ ስምዕከ፡ ተማሕፀንኩ፡ ረሰዮ፡ ከርናየ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0261" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አርባዕቱ፡ እንስሳ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾArbāʿəttu ʾƎnsəsā</title>
+        <title corresp="#t1" xml:lang="en">Image of the Four Living Creatures</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እጽሕፍ፡ ውዳሴ፡ መልክኦሙ፡ ለአርባዕቱ፡ እንስሳ፨</l>
+            <l n="2">እለ፡ ያስተስርዩ፡ አበሳ፡ ዘእጓለ፡ እመሕያው፡ በብዙኅ፡ ኀሠሣ፨</l>
+            <l n="3">ኀበ፡ አርያማዊ፡ አንበሳ፨</l>
+            <l n="4">ሀብተ፡ ረድኤቶሙ፡ መንገሌየ፡ ገይሳ፨</l>
+            <l n="5">ተሀሉ፡ ምስሌየ፡ በመንብርየ፡ ነጊሣ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ቃለ፡ እግዚአብሔር፡ ዘኮነ፡ ኀበ፡ ሕቅያል፡ ወልደ፡ ቡዝ፨</l>
+            <l n="2">በራእየ፡ ስብሐት፡ ሐዋዝ፨</l>
+            <l n="3">በኀሙስ፡ ሠርቀ፡ ዘወርኀ፡ ተሙዝ፨</l>
+            <l n="4">ዘእሳት፡ መንኰራኵር፡ ምስለ፡ ሰረገላ፡ እኁዝ፨</l>
+            <l n="5">ራእየ፡ እንስሳ፡ ኄራን፡ በኮቦር፡ ከመዝ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">አምኃ፡ ሰላም፡ ለመልክኦሙ፡ ከናፍርየ፡ ወጠና፨</l>
+            <l n="2">በከመ፡ ሰማዕኩ፡ እምሕዝቅያል፡ ዜና፨</l>
+            <l n="3">ግጻዌ፡ ሥላሴ፡ እቀድስ፡ ከማሆሙ፡ በደብረ፡ ሲና፨</l>
+            <l n="4">ይሰደኒ፡ ምስለ፡ ኪሩቡ፡ ክንፈ፡ ደቡባዊ፡ ደማና፨</l>
+            <l n="5">ከመዝ፡ ውእቱ፡ ዘልብየ፡ መና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="42">
+            
+            <l n="1">ሰላም፡ እብል፡ ለሰኰናክሙ፡ መከየዶ፨</l>
+            <l n="2">ግርማ፡ ነደ፡ እሳት፡ ዘዖዶ፨</l>
+            <l n="3">እለ፡ ገጽክሙ፡ ሰብእ፡ እንስሳ፡ ተብዕዶ፨</l>
+            <l n="4">ለልበ፡ ዚአየ፡ ፈጽሙ፡ ፈቃዶ፨</l>
+            <l n="5">እስመ፡ ዐይነ፡ ኵሉ፡ ፍጥረት፡ ያፈቅር፡ ዘመዶ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="43">
+            
+            <l n="1">_____ ወአብጻሕኩ፡ መላክዐ፡ ኪሩብ፡ ኵሎ፨</l>
+            <l n="2">በስምዐ፡ መጻሕፍት፡ ዘሀሎ፨</l>
+            <l n="3">ዘበበ፡ ሥርዓቱ፡ ወገጹ፡ እንዘ፡ ኣየድዕ፡ አምሳሎ፨</l>
+            <l n="4">ለቃለ፡ ዚአየ፡ ሕስው፡ ዘይብሎ፨</l>
+            <l n="5">አሌሎ፡ አሌሎ፡ ለብእሲ፡ አሌሎ፨</l>
+            <l n="6">እስመ፡ ጸግበ፡ ዘአንከለሎ፡ ዘጋኔን፡ ጼተሎ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

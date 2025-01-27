@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2889" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሰንበተ፡ ክርስቲያን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Sanbata Krəstiyān</title>
+        <title corresp="#t1" xml:lang="en">Image of the Sabbath of the Christians</title>
+        
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ሰንበት፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Sanbat</title>
+        <title corresp="#t2" xml:lang="en">Image of the Sabbath</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ ጸዳለ፡ ምሥራቅ፡ ወምዕራብ፨</l>
+            <l n="2">ሰሜን፡ ወደቡብ፨</l>
+            <l n="3">ሰንበተ፡ ክርስቲያን፡ ቅድስት፡ መርዓተ፡ በግዑ፡ ለአብ፨</l>
+            <l n="4">በመዓልት፡ ወበሌሊት፡ በልሳነ፡ ኵሉ፡ ንባብ፨</l>
+            <l n="5">ይትፌሥሑ፡ ብኪ፡ አሕዛብ፡ ወሕዝብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስኪ፡ ለአዳም፡ ዘጸለሎ፨</l>
+            <l n="2">አመ፡ አክበረኪ፡ ወልድ፡ በቃለ፡ ወንጌል፡ አብዕሎ፨</l>
+            <l n="3">ሰንበተ፡ ክርስቲያን፡ ቅድስት፡ እስእለኪ፡ በተወክሎ፨</l>
+            <l n="4">ሥዕርትየ፡ አንሰ፡ አምሳለ፡ ጌሚ፡ ሶበ፡ ይትረአይ፡ በቊሎ፨</l>
+            <l n="5">ዕፍረተ፡ ቅብእኪ፡ በርእስየ፡ ያጥልሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለቀራንብትኪ፡ ለኢየሩሳሌም፡ ያክንታ፨</l>
+            <l n="2">ቀዳሚ፡ አዳም፡ ዘኢተቀብረ፡ በውስቴታ፨</l>
+            <l n="3">ሰንበተ፡ ክርስቲያን፡ ቅድስት፡ ለጽዮን፡ ሠርጐ፡ ትርሲታ፨</l>
+            <l n="4">ምድርኒ፡ አመ፡ ታገብዕ፡ ማሕፀንታ፨</l>
+            <l n="5">በገነተ፡ ጽጌ፡ ሢምኒ፡ አንሶሱ፡ ውስቴታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ሰላም፡ ለከናፍርኪ፡ ዘነበበ፡ በኁባሬ፨</l>
+            <l n="2">እንበለ፡ እማሬ፨</l>
+            <l n="3">ሰንበተ፡ ክርስቲያን፡ ቅድስት፡ ሙዳየ፡ ምጽዋት፡ ዘቤተ፡ ኅሬ፨</l>
+            <l n="4">ክሥቲ፡ ልቡናየ፡ ዘአልቦ፡ እማሬ፨</l>
+            <l n="5">በመዝሙር፡ ሐዲስ፡ ወሠናይ፡ ዝማሬ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለአፉኪ፡ አፈ፡ ነቢያት፡ ዘከሠተ፨</l>
+            <l n="2">አምኃ፡ ሰንበተ፨</l>
+            <l n="3">እግዚአብሔር፡ ስቡሕ፡ ዘላዕሌኪ፡ ተአኵተ፨</l>
+            <l n="4">ክሥቲ፡ አእዛንየ፡ ወኅሊናየ፡ ጽሚተ፨</l>
+            <l n="5">ጸጋ፡ መንፈስ፡ ቅዱስኒ፡ ጸግውኒ፡ ሊተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለአስናንኪ፡ በቅድመ፡ ሥላሴ፡ እለ፡ አክሞሰሳ፨</l>
+            <l n="2">ለውሉደ፡ ሰብእ፡ ሣህለ፡ እንዘ፡ የኀሥሣ፨</l>
+            <l n="3">ሰንበተ፡ ክርስቲያን፡ ቅድስት፡ ለጽዮን፡ ሥነ፡ ሞገሳ፨</l>
+            <l n="4">አስናንየ፡ እለ፡ እምዓለም፡ ለነቅዐ፡ ኀጢአት፡ እምፅንሳ፨</l>
+            <l n="5">ጸጋ፡ መንፈስ፡ ቅዱስ፡ ሀብኒ፡ ዘይሰሪ፡ አበሳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለመልክእኪ፡ በሥምረተ፡ አብ፡ ወወልድ፨</l>
+            <l n="2">ወመንፈስ፡ ቅዱስ፡ ዋሕድ፨</l>
+            <l n="3">ሰንበተ፡ ክርስቲያን፡ ቅድስት፡ እስእለኪ፡ በዐምድ፨</l>
+            <l n="4">ብኪ፡ ለዘገብረ፡ ፯ቱ፡ ዘመድ፨</l>
+            <l n="5">መባርቅት፡ ወነጐድጓድ፡ ነፋሳት፡ ወነድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለመልክእኪ፡ እግዚአብሔር፡ ዘንዕዶ፨</l>
+            <l n="2">አክበረኪ፡ ወልድ፡ በቃለ፡ ወንጌል፡ አውሕዶ፨</l>
+            <l n="3">ሰንበተ፡ ክርስቲያን፡ ቅድስት፡ እስእለኪ፡ በተአንግዶ፨</l>
+            <l n="4">ለዘይጸልዐኪ፡ ሥላሴኪ፡ ክሒዶ፨</l>
+            <l n="5">መብረቀ፡ እሳት፡ ይኅርዶ፡ እምሰማይ፡ ወሪዶ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

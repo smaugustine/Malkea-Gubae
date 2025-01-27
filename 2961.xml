@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2961" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">በሓከ፡ ጊዮርጊስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Baḥāka Giyorgis</title>
+        <title corresp="#t1" xml:lang="en">Hail, George</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በሓከ፡ ጊዮርጊስ፡ በሓከ፡ ወሬዛ፡ ኃያል፨</l>
+            <l n="2">ከመ፡ አንበሳ፡ ውኩል፨</l>
+            <l n="3">እምከመ፡ ተነፍሐ፡ ቀርነ፡ ኢዮቤል፨</l>
+            <l n="4">እንቋዕ፡ ለመዓዛ፡ ቀተል፡ ፈረስከ፡ ይበል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">በሓከ፡ ጊዮርጊስ፡ በሓከ፡ አስባብ፡ ወልደ፡ ማዕቀብ፨</l>
+            <l n="2">በከመ፡ ይቤ፡ መክብብ፨</l>
+            <l n="3">እምርእሰ፡ ጸላም፡ ነሣኤ፡ ግልባብ፨</l>
+            <l n="4">ዘአንበሩ፡ በላዕሌሃ፡ መሪራን፡ ሕዝብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">በሓከ፡ ጊዮርጊስ፡ በሓከ፡ በእስትንፋሱ፡ ዘይንዑ፡ እምነ፡ አርያም፡ አዕዋፈ፨</l>
+            <l n="2">ከመ፡ ንስር፡ ዘቦ፡ በክልኤ፡ አክናፈ፨</l>
+            <l n="3">ደራጎን፡ ንጉሠ፡ ቢሩት፡ ዘይትበሀል፡ ዘልፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">በሓከ፡ ጊዮርጊስ፡ በሓከ፡ ለመስፍነ፡ ሀገር፡ ወለቱ፡ እንተ፡ ሀብዎ፡ አምኃ፨</l>
+            <l n="2">በትግርምት፡ መጺኦ፡ ኢይብላዕ፡ ኪያሃ፨</l>
+            <l n="3">ጊዮርጊስ፡ ለቀቲሎቱ፡ ዘቈልቈልከ፡ ረምሐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">በሓከ፡ ጊዮርጊስ፡ በሓከ፡ እምይእቲ፡ ሰዓት፡ ደናግለ፡ ቢሩት፨</l>
+            <l n="2">በዘዚአከ፡ ኂሩት፡ ድኂኖን፡ እሞት፨</l>
+            <l n="3">ተወስባ፡ ለምእት፡ ወኮና፡ በዓልታተ፡ ቤት፨</l>
+            <l n="4">እስከ፡ ዛቲ፡ ዕለት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">በሓከ፡ ጊዮርጊስ፡ በሓከ፡ ስእለተ፡ መበለት፡ ዘኮንከ፡ ሰማዔ፨</l>
+            <l n="2">በእንተ፡ አዕማድ፡ ክልኤ፨</l>
+            <l n="3">በእምርት፡ ዕለት፡ ወትንሣኤ፨</l>
+            <l n="4">ከመ፡ እጹር፡ አሣዕኒከ፡ ረስየኒ፡ ቍልዔ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">በሓከ፡ ጊዮርጊስ፡ በሓከ፡ ዘአቅረብኩ፡ ጻህቀ፨</l>
+            <l n="2">እምተጽናሰ፡ ቤትየ፡ ህቀ፨</l>
+            <l n="3">ለነዳይ፡ ተወከፍ፡ ጸራይቀ፨</l>
+            <l n="4">ከመ፡ መጽሐፍከ፡ ዝክረኒ፡ ጥዩቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">በሓከ፡ ጊዮርጊስ፡ በሓከ፡ ለማኅደረ፡ ስምከ፡ ዛቲ፡ በረድኤትከ፡ ሐውጻ፨</l>
+            <l n="2">እምዝኅርከ፡ ልዳ፡ ኢታሕፅፃ፨</l>
+            <l n="3">ወማዕጾ፡ ቄድሮስ፡ ግብር፡ በአናቅጻ፨</l>
+            <l n="4">ረሲ፡ ኍልቈ፡ ሕዝባ፡ ዘይበዝኅ፡ እምኆፃ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

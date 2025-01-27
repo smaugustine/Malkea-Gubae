@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0310" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ዘደብረ፡ ድማሕ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marqorewos za-Dabra Dəmāḥ</title>
+        <title corresp="#t1" xml:lang="en">Image of Marqorewos of Dabra Dəmāḥ</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኦእግዚአብሔር፡ ለዘካርያስ፡ ዘፈታሕኮ፨</l>
+            <l n="2">እማዕሠረ፡ ልሳን፡ ወአፍ፡ ወለአድገ፡ በለዓም፡ ዘአስተናበብኮ፨</l>
+            <l n="3">ድርሳነ፡ መርቆሬዎስ፡ ይንብብ፡ በጾታ፡ ፍካሬ፡ ተልእኮ፨</l>
+            <l n="4">ለልብየ፡ መሬታዊ፡ ዘአንተ፡ ፈጠርኮ፨</l>
+            <l n="5">በዲበ፡ ጥበብ፡ ጥበበ፡ ወስኮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘያስተፌሥሖ፡ ለነዳይ፨</l>
+            <l n="2">አመ፡ በዴዴሆሙ፡ ቆመ፡ ለአብዕልተ፡ ብዙኅ፡ ንዋይ፨</l>
+            <l n="3">መርቆሬዎስ፡ መስፍን፡ ኢያሱ፡ ዘምድረ፡ ጋይ፨</l>
+            <l n="4">እስከ፡ ንጸብኦ፡ ለአሞሬዎን፡ ጌጋይ፨</l>
+            <l n="5">አዝዛ፡ ኢይዕርበነ፡ ለዘመን፡ ፀሓይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ሰላም፡ ለትንሣኤ፡ ሥጋከ፡ እግዚአብሔር፡ አመ፡ ሐወጻ፨</l>
+            <l n="2">ዳግመ፡ ከመ፡ ይሕንጻ፨</l>
+            <l n="3">መርቆሬዎስ፡ ሥዩም፡ ለመንግሥተ፡ ሰማይ፡ በአናቅጻ፨</l>
+            <l n="4">ኅድገኒ፡ እኅልፍ፡ እግዚኦ፡ መንገለ፡ ጥባባት፡ ሮጻ፨</l>
+            <l n="5">ለማርያም፡ እግዝእትከ፡ ከመ፡ እርአይ፡ ገጻ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="53">
+            
+            <l n="1">ድርሳነ፡ መልክእከ፡ ዘንተ፡ ሶበ፡ ወጠንኩ፡ ወፈጸምኩ፨</l>
+            <l n="2">እመኒ፡ አሕሠምኩ፡ ወኢያሠነይኩ፨</l>
+            <l n="3">መርቆሬዎስ፡ ሥረይ፡ ኃጢአትየ፡ በእንተ፡ ዝኩ፨</l>
+            <l n="4">ወልድከ፡ ወንዳይከ፡ ኀበ፡ መንፈሳዊ፡ ቀናእኩ፨</l>
+            <l n="5">እስመ፡ አዘዘኒ፡ አምላክከ፡ ወአነ፡ ነበብኩ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

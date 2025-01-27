@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2872" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አርባዕቱ፡ እንስሳ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾArbāʿəttu ʾƎnsəsā</title>
+        <title corresp="#t1" xml:lang="en">Image of the Four Living Creatures</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        <div type="textpart" xml:id="masgabiya">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለተፈጥሮትክሙ፡ እምነፋስ፡ ወነድ፨</l>
+            <l n="2">ምስለ፡ ሰማያት፡ ወምድር፡ በዕለተ፡ እሑድ፨</l>
+            <l n="3">ዘታጸንዑ፡ እንስሳ፡ መንበረ፡ ሥላሴ፡ በእድ፨</l>
+            <l n="4">ክፍሉኒ፡ ለገብርክሙ፡ ለዘለክሙ፡ ጸማድ፨</l>
+            <l n="5">ከመ፡ እቁም፡ ምስሌክሙ፡ ድርገተ፡ በዐውድ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘተለዐለ፡ ዕበዩ፨</l>
+            <l n="2">እምዝክረ፡ ከዋክብት፡ አርባዕ፡ መዋዕለ፡ ዓመታት፡ ዘይሌልዩ፨</l>
+            <l n="3">እንስሳ፡ አርባዕ፡ ለእግዚአብሔር፡ ጸወርተ፡ ሰማዩ፨</l>
+            <l n="4">ለዝክረ፡ ስምክሙ፡ ቦቱ፡ ከመ፡ ይሰንቀው፡ ማሕልዩ፨</l>
+            <l n="5">ነገረ፡ ጥበብ፡  በአፉየ፡ ደዩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስክሙ፡ አርአያ፡ በረድ፡ ንጹሕ፨</l>
+            <l n="2">ወዘሕብረ፡ ያክንት፡ ቀይሕ፨</l>
+            <l n="3">ሰረገላቲሁ፡ ኪሩቤል፡ ለአምላክ፡ ስቡሕ፨</l>
+            <l n="4">ጸግዉኒ፡ አጋእዝትየ፡ እምጸጋክሙ፡ ብዙኅ፨</l>
+            <l n="5">ናህየ፡ በሰርክ፡ ወሣህለ፡ በነግህ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለቆምክሙ፡ ዘጥቀ፡ ሠናይ፨</l>
+            <l n="2">እምነ፡ ዓምደ፡ ወርቅ፡ ጽሩይ፨</l>
+            <l n="3">እንስሳ፡ አርባዕ፡ ጸወርተ፡ ሰማይ፨</l>
+            <l n="4">በከመ፡ ጽሑፍ፡ እንበለ፡ ይዕርብ፡ ፀሐይ፨</l>
+            <l n="5">ዐስበ፡ አስበ፡ ማሕሌትየ፡ አኃሥሥ፡ ነዳይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ሰላም፡ እብል፡ ለመልክእክሙ፡ መክብበ፨</l>
+            <l n="2">እንተ፡ ይሠረጎ፡ ላህበ፨</l>
+            <l n="3">እንስሳ፡ አርባዕ፡ ዘትሰመዩ፡ ኪሩበ፨</l>
+            <l n="4">ማሕሌትየ፡ በቅድሜክሙ፡ እመ፡ ሞገሰ፡ ረከበ፨</l>
+            <l n="5">ኑኀ፡ መዋዕል፡ ጸግዉኒ፡ ዓስበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ኦመናብርተ፡ አምላክ፡ አርባዕቱ፡ እንስሳ፨</l>
+            <l n="2">ገጸ፡ ላህም፡ ወንስር፡ ገጸ፡ ሰብእ፡ ወገጸ፡ አንበሳ፨</l>
+            <l n="3">ዲበ፡ ፍጥረትክሙ፡ አልቦ፡ ዘለሞት፡ አበሳ፨</l>
+            <l n="4">ረስዩ፡ ፍሬ፡ ዐስብየ፡ ህየንተ፡ አሐዱ፡ ሠላሳ፨</l>
+            <l n="5">ወተውሳኩ፡ ምስለ፡ ምእት፡ ወስሳ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

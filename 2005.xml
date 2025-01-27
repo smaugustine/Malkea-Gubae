@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2005" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መዝሙረ፡ ክርስቶስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Mazmura Krəstos</title>
+        <title corresp="#t1" xml:lang="en">Psalter of Christ</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        <div type="textpart" xml:id="masgabiya">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">መዝሙረ፡ ዳዊት፡ ትመስል፡ ገነተ፨</l>
+            <l n="2">ወታስተጋብእ፡ ኵሎ፡ አቅማሐ፡ ወጽጌያተ፨</l>
+            <l n="3">ትመልዕ፡ ፍሬያተ፡ ወታጸግብ፡ በረከተ፨</l>
+            <l n="4">ትሰድድ፡ አጋንንተ፡ ወታቀርብ፡ መላእክተ፨</l>
+            <l n="5">ለዘያነብባ፡ ኵሎ፡ ዕለተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ዘይኤብስ፡ ላዕለ፡ ፈጣሪሁ፡ ኃጥእ፡ ዝንቱ፨</l>
+            <l n="2">ወዘይገብር፡ ሕስመ፡ በርእሱ፡ ረሲእ፡ ዝክቱ፨</l>
+            <l n="3">ወበነዉረ፡ ቢጹ፡ ዘይስሕቅ፡ መስተሣልቅ፡ ውእቱ፨</l>
+            <l n="4">ብፁዕሰ፡ ዘሕገ፡ ክርስቶስ፡ ሥምረቱ፨</l>
+            <l n="5">ወምግባሪሁ፡ በዕፅ፡ ተመሰለት፡ ሎቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ዝሰ፡ መዝሙር፡ ትንቢት፡ በእንቲአከ፨</l>
+            <l n="2">እስመ፡ ይነግር፡ ወይብል፡ እግዚአብሔር፡ ቀብአከ፨</l>
+            <l n="3">በቅብአ፡ ተፍሥሕት፡ ዘይሄይስ፡ እምእለ፡ ከማከ፨</l>
+            <l n="4">ወላህይ፡ ዘይሤኒ፡ እምደቂቀ፡ ያዕቆብ፡ አፍቀርከ፨</l>
+            <l n="5">አበ፡ ጻድቃን፡ ክርስቶስ፡ ዘጽድቀ፡ አፍቀርከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="150">
+            
+            <l n="1">ለእግዚአብሔር፡ አመ፡ ሜጠት፡ ሰብሕዎ፡ ቅዱሳኑ፨</l>
+            <l n="2">በከመ፡ ይቤ፡ ዳዊት፡ መገሥጸ፡ ሕዝብ፡ ልሳኑ፨</l>
+            <l n="3">ዘሰባሕኩከ፡ ዮም፡ ወዘእሴብሐከ፡ ለለ፡ ዘመኑ፨</l>
+            <l n="4">ክርስቶስ፡ ተወከፍ፡ በኂሩትከ፡ ወመዐዛሁ፡ አጺኑ፨</l>
+            <l n="5">ጸሪቀ፡ መበለት፡ ኂሩትከ፡ ተወከፍ፡ አኮኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="151">
+            
+            <l n="1">በዝየ፡ ተፈጸመ፡ ክፍል፡ ኃምስ፨</l>
+            <l n="2">ዘምሳሌሁ፡ ገሢሥ፨</l>
+            <l n="3">እንዘ፡ እሰምዮ፡ ለስሙ፡ መዝሙረ፡ ክርስቶስ፨</l>
+            <l n="4">ፍደ፡ አስተሐመምኩ፡ በእንቲአከ፡ ተርጕሞተ፡ መዝሙር፡ ቅዱስ፨</l>
+            <l n="5">ሀበኒ፡ ዐስበ፡ ዘሥጋ፡ ወነፍስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="152">
+            
+            <l n="1">አመ፡ አስተዋደድኩ፡ ዘንተ፡ መዝሙረከ፡ ዘይሤለስ፡ በበ፡ ኃምሳ፨</l>
+            <l n="2">ንኡስ፡ አነ፡ ወልደ፡ ዓመታት፡ መንፈቀ፡ ኃምሳ፨</l>
+            <l n="3">እንዘ፡ ትከድነኒ፡ ክርስቶስ፡ ሞገሰ፡ ጰራቅሊጦስ፡ በዐለ፡ ኃምሳ፨</l>
+            <l n="4">ነፍስየ፡ አዕቢ፡ ከመ፡ ዐብዮዩ፡ ሊቀ፡ ሐራ፡ አከዐብ፡ ኃምሳ፨</l>
+            <l n="5">ወመቃዕለ፡ ተድላ፡ ሀበኒ፡ ካዕበቶ፡ ለኃምሳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="167">
+            
+            <l n="1">በማሕልይሁ፡ ሰሎሞን፡ ይቤለከ፡ ቅድመ፨</l>
+            <l n="2">ደናግለ፡ ዓለም፡ ኵሎን፡ አፍቀራከ፡ ፍጹመ፨</l>
+            <l n="3">ንጉሠ፡ ሰላም፡ ክርስቶስ፡ ዘአስተሳለምከ፡ ዓለመ፨</l>
+            <l n="4">ማሕየዊ፡ መስቀልከ፡ አመ፡ በእንተ፡ ሰብእ፡ ቆመ፨</l>
+            <l n="5">ወእምነ፡ ሰብእ፡ ሰአረ፡ መርገመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="171">
+            
+            <l n="1">ቤተ፡ ክርስቲያን፡ መርዓት፡ ትመሰል፡ ጎሐ፨</l>
+            <l n="2">እንዘ፡ ትሔውጽ፡ ኪያከ፡ ወልደ፡ እዱሃ፨</l>
+            <l n="3">እስመ፡ ተሠርገወት፡ ይእቲ፡ ሰንዱነ፡ ሃይማኖት፡ ንጹሐ፨</l>
+            <l n="4">ክርስቶስ፡ አምላኪየ፡ አሠርግወኒ፡ ከማሃ፨</l>
+            <l n="5">ልብሰ፡ ቅድስና፡ ወጸጋ፡ ብሩሃ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Uhlig2007" corresp="http://zotero.org/groups/5599348/items/M6VCW2MS"><analytic><title level="a">Mäzmurä Krəstos</title><title type="short">EAe</title><author><name>Getatchew Haile</name></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">897b-898b</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

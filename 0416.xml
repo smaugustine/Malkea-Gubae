@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0416" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሃይማኖት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Hāymānot</title>
+        <title corresp="#t1" xml:lang="en">Image of Faith</title>
+        
+        <title xml:id="t2" xml:lang="gez">ኣአምን፡ ወእትአመን፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">ʾĀʾammən wa-ʾƎtʾamman</title>
+        <title corresp="#t2" xml:lang="en">I Believe and I Confess</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኣአምን፡ ወእትአመን፡ በባሕርይከ፡ አሐቲ፨</l>
+            <l n="2">ሰማየ፡ ሰማያት፡ ወምድር፡ ዘኢያገምርዋ፡ ላቲ፨</l>
+            <l n="3">እግዚአብሔር፡ ኅቡእ፡ እምልበ፡ ኵሉ፡ ሐታቲ፨</l>
+            <l n="4">ባሕርየ፡ ዚአከሰ፡ ምንት፡ ይእቲ፨</l>
+            <l n="5">ድርገታተ፡ ኵሉ፡ ፍጥረት፡ እንተ፡ ቆሙ፡ ባቲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="43">
+            
+            <l n="1">ሶበ፡ ተሠጠምኩ፡ በቀላየ፡ ዐቢይ፡ አርምሞ፨</l>
+            <l n="2">ወከመ፡ መልህቅ፡ ወረድኩ፡ መትሕተ፡ ዕሙቅ፡ ባሕረ፡ ተደሞ፨</l>
+            <l n="3">እግዚአብሔር፡ ዜናከ፡ እንተ፡ ስእንኩ፡ ፈጽሞ፨</l>
+            <l n="4">ስረይ፡ ሊተ፡ ዳእሙ፡ እስመ፡ አኅሰምኩ፡ አኅሰሞ፨</l>
+            <l n="5">ለጥንተ፡ ባሕርይከ፡ ዘደፈርኩ፡ ከመ፡ እሕትት፡ ዐቅሞ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

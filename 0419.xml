@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0419" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቍርባን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Qʷərbān</title>
+        <title corresp="#t1" xml:lang="en">Image of the Eucharist</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">አሐዱ፡ አብ፡ ቅዱስ፡ አሐዱ፡ ወልድ፡ ቅዱስ፨</l>
+            <l n="2">ወአሐዱ፡ አንተ፡ መንፈስ፡ ቅዱስ፨</l>
+            <l n="3">ቀድሰኒ፡ ሊተ፡ ዳእሙ፡ ወአንጽሐኒ፡ እምርኵስ፨</l>
+            <l n="4">ነፍስት፡ ተዐጽብ፡ አኮኑ፡ እምስኢለዐራዝ፡ ወልብስ፨</l>
+            <l n="5">እምፍቅደ፡ ሲሳይ፡ እስመ፡ የዐጽብ፡ ነፍስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ነአኵቶ፡ ለእግዚአብሔር፡ ገባሬ፡ ሠናያት፡ ላዕሌነ፨</l>
+            <l n="2">መንፈሰ፡ ልቡና፡ ወአእምሮ፡ መጠነ፡ ሀለወ፡ ብነ፨</l>
+            <l n="3">ወንስአሎ፡ ካዕበ፡ ኪያሁ፡ ከመ፡ ይዕቀበነ፨</l>
+            <l n="4">በዛቲ፡ ዕለት፡ ቅድስት፡ ወኵሎ፡ መዋዕሊነ፨</l>
+            <l n="5">በኵሉ፡ ሰላም፡ እምሰይጣን፡ ፀርነ፨</l>
+            <l n="6">አኀዜ፡ ኵሉ፡ ውእቱ፡ አምላክነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">እምዘ፡ አብኡ፡ አብዕልት፡ ውስተ፡ ሙዳየ፡ ምጽዋት፡ ቅዱስ፨</l>
+            <l n="2">እምተረፈ፡ ብዙኅ፡ ብዕል፡ ወአኮ፡ ንኡስ፨</l>
+            <l n="3">ቍርባነ፡ ትሕትናየ፡ ዘንተ፡ ተወከፍ፡ ክርስቶስ፨</l>
+            <l n="4">ዘተወከፍኮን፡ ለአፅሩቀ፡ ዐቢይ፡ ተጽናስ፨</l>
+            <l n="5">እለ፡ ይትበሀላ፡ ቆንድራቆንቲስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ለአሐዱ፡ ቀሲስ፡ በደዌ፡ ኀጢአት፡ ዘሐመ፨</l>
+            <l n="2">መናፍስተ፡ ርኩሳን፡ ውስተ፡ አፉሁ፡ እስከ፡ ረስዩ፡ ልጓመ፨</l>
+            <l n="3">ሶበ፡ ለተልእኮ፡ ይለብስ፡ አልባሰ፡ ቅዳሴ፡ ግሩም፨</l>
+            <l n="4">እንበይነ፡ ክብረዝ፡ ቍርባን፡ በከመ፡ ተጽሕፎ፡ ቀደመ፨</l>
+            <l n="5">እስመ፡ ኵለንታሁ፡ ይከውን፡ እሳተ፡ ፍጹመ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

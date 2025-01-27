@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2998" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አረጋዊ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAragāwi</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAragāwi</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ እምግብጽ፡ ፍናዋተ፡ ግዕዛን፡ ዘመርሖ፨</l>
+            <l n="2">ለእግረ፡ እስራኤል፡ ሙቁሕ፡ እማእሰረ፡ ቅንየት፡ እንዘ፡ ይፈትሖ፨</l>
+            <l n="3">አረጋዊ፡ ክቡር፡ መምህረ፡ ሰላም፡ ወተአምኆ፨</l>
+            <l n="4">ከመ፡ እንግር፡ ዜና፡ ጽድቅከ፡ ለልሳንየ፡ አብሖ፨</l>
+            <l n="5">ወለኅሊናየ፡ ካዕበ፡ እምሀኬት፡ አንቅሖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ቀዋሚ፨</l>
+            <l n="2">ለዓለመ፡ ዓለም፡ ዘይሄሉ፡ ከመ፡ ተብህለ፡ ቀዳሚ፨</l>
+            <l n="3">አረጋዊ፡ የዋህ፡ ተመሳሌ፡ ዳዊት፡ ኢተቀያሚ፨</l>
+            <l n="4">ላዕሌየ፡ በተሀብሎ፡ እመ፡ ተንሥአ፡ ረጋሚ፨</l>
+            <l n="5">በሰዓተ፡ በቀል፡ ይብጽሖ፡ መክፈልቱ፡ ለሳሚ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለአካለ፡ ቆምከ፡ ዘኵለንታሁ፡ ፍትው፨</l>
+            <l n="2">ወለመልክእከ፡ ልሁይ፡ በትርሲተ፡ ጽጌ፡ ሥርግው፨</l>
+            <l n="3">አረጋዊ፡ እብለከ፡ ውስተ፡ ባሕረ፡ መንሱት፡ ድልው፨</l>
+            <l n="4">አሥጥሞሙ፡ ለጸላእትየ፡ ዘመደ፡ አራዊት፡ ዘበድው፨</l>
+            <l n="5">ከመ፡ ቀዳሚ፡ ተሠጥሙ፡ አኅርው፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለተከብቶትከ፡ አምሳለ፡ ነቢያት፡ ክልኤቱ፨</l>
+            <l n="2">እስመ፡ ኪያከ፡ ኀረየ፡ እግዚአብሔር፡ በሥነ፡ ኂሩቱ፨</l>
+            <l n="3">ገብር፡ ኄር፡ ወምእመን፡ መጋቤ፡ ቤቱ፨</l>
+            <l n="4">አንተኑ፡ በዓለ፡ መካልይ፡ ኀምስቱ፨</l>
+            <l n="5">እንተ፡ ተሠየምከ፡ አረጋዊ፡ በአህጉር፡ ዓሠርቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለተኀብኦትከ፡ ኀበ፡ ኢያእመረ፡ መኑ፨</l>
+            <l n="2">ለእግዚአብሔር፡ አምላክ፡ በምክረ፡ ጥበቡ፡ ወኪዳኑ፨</l>
+            <l n="3">አረጋዊ፡ ኢታንትግ፡ ሐውጾትየ፡ በበ፡ ዘመኑ፨</l>
+            <l n="4">ወሠውረኒ፡ እግዚኦ፡ ለመልአከ፡ ሞት፡ እምዐይኑ፨</l>
+            <l n="5">ከመ፡ ለማኅበር፡ ዐቢይ፡ ጽድቀከ፡ እዜኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ናሁ፡ አቅረብኩ፡ አምኃ፡ ማሕሌት፡ ንስቲተ፨</l>
+            <l n="2">ለዕበየ፡ መልክእከ፡ ክቡር፡ እንዘ፡ አወፈ፡ ዘንተ፨</l>
+            <l n="3">አረጋዊ፡ አውቅየ፡ ወማእምረ፡ ነፍስየ፡ አንተ፨</l>
+            <l n="4">እንበለ፡ ታጥፍእ፡ ባሕቱ፡ ዘተመነይኩ፡ ዕሤተ፨</l>
+            <l n="5">በዓለመ፡ ተድላ፡ ዘይመጽእ፡ ሀበኒ፡ ትፍሥሕተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ተረፈ፡ እንጦና፡ ውዱስ፡ ወተልሚደ፡ መቃርስ፡ ጻማዊ፨</l>
+            <l n="2">ሰማያዊ፡ ብእሲ፡ ወመልአክ፡ ምድራዊ፨</l>
+            <l n="3">ብሔረ፡ አግዓዚ፡ ነጺራ፡ ብዙኀ፡ መንክራቲከ፡ ተኣምራዊ፨</l>
+            <l n="4">ትቤ፡ ትቤ፡ በቃለ፡ ማሕሌት፡ ስንዓዊ፨</l>
+            <l n="5">ፀሓየ፡ ኮነ፡ አረካዊ፡ ኮከበ፡ ኮነ፡ አረጋዊ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዐምደ፡ ጳዝዮን፡ ትኩል፨</l>
+            <l n="2">ወደብተራ፡ ብርሃን፡ ጽዱል፨</l>
+            <l n="3">አረጋዊ፡ ጴጥሮስ፡ ሱታፌ፡ ወንጌል፨</l>
+            <l n="4">ኀያል፡ መስተጋድል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ለለ፡ ንብለከ፡ ሰላም፡ ሰላመ፡ ዳኅና፡ ሀበነ፨</l>
+            <l n="2">አረጋዊ፡ መምህርነ፨</l>
+            <l n="3">ወህየንተ፡ ሰላም፡ ካዕበ፡ ዘየዐቅበነ፨</l>
+            <l n="4">ጸሎትከ፡ የሀሉ፡ ምስሌነ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

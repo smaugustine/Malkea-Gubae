@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0202" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ በርተሎሜዎስ፡ ዘደብረ፡ ዘመዶ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Bartalomewos za-Dabra Zamaddo</title>
+        <title corresp="#t1" xml:lang="en">Image of Bartalomewos of Dabra Zamaddo</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እወጥን፡ አንሰ፡ መልክአ፡ ውዳሴከ፡ ወማሕሌተከ፡ አሐሊ፨</l>
+            <l n="2">ለአብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ በረድኤቶሙ፡ ከሃሊ፨</l>
+            <l n="3">በርተሎሜዎስ፡ ጻድቅ፡ ወመትልወ፡ ኢዮብ፡ ተጋዳሊ፨</l>
+            <l n="4">እመ፡ ይፈቅድ፡ ፀር፡ ይጽብአኒ፡ ወአህጕሎትየ፡ ይሔሊ፨</l>
+            <l n="5">በእንቲአየ፡ አስተምሕር፡ ወጸሊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ስምከ፡ ቅዱስ፨</l>
+            <l n="2">ዘተጸውዐ፡ ቀዳሚ፡ በአፈ፡ ነባቢ፡ መንፈስ፨</l>
+            <l n="3">በርተሎሜዎስ፡ ኅሩይ፡ እምነ፡ ማሕፀን፡ ወከርሥ፨</l>
+            <l n="4">አመ፡ ቆምከ፡ ጊዜ፡ ጸሎት፡ ለአርእዮ፡ ትእምርት፡ ሐዲስ፨</l>
+            <l n="5">ሐሊበ፡ ልቡና፡ አንቃዕከ፡ እምኰኵሕ፡ ይቡስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘያገኒ፡ ኵሎ፨</l>
+            <l n="2">እንዘ፡ መንገሌሁ፡ ይስሕብ፡ ወያረውጽ፡ በተሣህሎ፨</l>
+            <l n="3">በርተሎሜዎስ፡ ወልድከ፡ እስመ፡ እጼው፡ በተወክሎ፨</l>
+            <l n="4">ጸሐፍ፡ በስምከ፡ ስመ፡ ዚአየ፡ በመትሎ፨</l>
+            <l n="5">በሰሌዳ፡ ንጹሕ፡ ጽሑፍ፡ ዘሀሎ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Getatchew_Haile2013" corresp="http://zotero.org/groups/5599348/items/7S97EEQ7"><monogr><title level="m">Voices from Däbrä Zämäddo. Acts of Abba Bärtälomewos and Abba Yoḥannǝs, 45 Miracles of Mary</title><author><name>Getatchew Haile</name></author><imprint><pubPlace>Wiesbaden</pubPlace><publisher>Harrassowitz Verlag</publisher><date>2013</date></imprint></monogr><series><title level="s">Aethiopistische Forschungen</title><biblScope unit="volume">79</biblScope></series></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

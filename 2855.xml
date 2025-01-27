@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2855" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፊልጶስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Filəṗṗos</title>
+        <title corresp="#t1" xml:lang="en">Image of Philip</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርትከ፡ ሠርጐ፡ ርእስ፨</l>
+            <l n="2">ለገጽከኒ፡ ዘየዐውዶ፡ ሞገስ፨</l>
+            <l n="3">ሐዋርያሁ፡ ፊልጶስ፡ ለሐዋርያ፡ አብ፡ ክርስቶስ፨</l>
+            <l n="4">ፈውሰኒ፡ በጸጋከ፡ እምሕማመ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="5">አምጣነ፡ ሀለወ፡ ብከ፡ ሀብተ፡ ኀይል፡ ወፈውስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርትከ፡ ሠርጐ፡ ርእስ፨</l>
+            <l n="2">ለገጽከኒ፡ ዘየዐውዶ፡ ሞገስ፨</l>
+            <l n="3">ሐዋርያሁ፡ ፊልጶስ፡ ለሐዋርያ፡ አብ፡ ክርስቶስ፨</l>
+            <l n="4">ከውሰኒ፡ በጸጋከ፡ እምሕማመ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="5">አምጣነ፡ ሀለወ፡ ብከ፡ ሀብተ፡ ኀይል፡ ወፈውስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ፈዋሴ፡ ሕሙማን፡ ነገድ፨</l>
+            <l n="2">ወለትንሣኤከ፡ ድኅረ፡ በዕለተ፡ ኀይልከ፡ ክቡድ፨</l>
+            <l n="3">ልሳነ፡ አምላክ፡ ፊልጶስ፡ ወከሣቴ፡ ምሥጢር፡ እድ፨</l>
+            <l n="4">መሐርከ፡ ከመ፡ ሀለወ፡ አብ፡ በወልድ፨</l>
+            <l n="5">ወልድኒ፡ ዋሕድ፡ ምስለ፡ አብ፡ ዋሕድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ወርቀ፡ ማሕሌትከ፡ ጾርኩ፡ ዲበ፡ ልሳንየ፡ ጸርቅ፨</l>
+            <l n="2">እስመ፡ ጸርቅ፡ ምኑን፡ ጸዋሬ፡ ክቡር፡ ወርቅ፨</l>
+            <l n="3">አንተ፡ ፊልጶስ፡ እምግበ፡ ተሐጕሎ፡ ዕሙቅ፨</l>
+            <l n="4">ጹረኒ፡ ዕርግ፡ ዕርገተከ፡ ላዕለ፡ ደብረ፡ ሣህል፡ ምጡቅ፨</l>
+            <l n="5">አመ፡ ምግበ፡ ሐስት፡ ይሠዐር፡ ወትነግሥ፡ ጽድቅ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

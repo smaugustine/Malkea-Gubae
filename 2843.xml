@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2843" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብርኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabrəʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Gabriel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በመጽሐፈ፡ ዳንኤል፡ ዘተጠየቀ፨</l>
+            <l n="2">እስመ፡ ወርኀ፡ ብስራት፡ ቀርበ፡ ወዘመነ፡ ወንጌል፡ አልጸቀ፨</l>
+            <l n="3">ገብርኤል፡ ዘኮንከ፡ ለመገብተ፡ ሐዲስ፡ ሊቀ፨</l>
+            <l n="4">ናሁ፡ ወጠንኩ፡ እግዚኦ፡ ከመ፡ እወድስከ፡ ሕቀ፨</l>
+            <l n="5">ሞገሰ፡ ጰራቅሊጦስ፡ ጸግወኒ፡ ዘይፌጽም፡ ጻህቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ሥነ፡ ጽእዳዌ፡ ዘለብሰ፨</l>
+            <l n="2">አመ፡ ለማርያም፡ አብሰርከ፡ በድንግልና፡ ጸኒሰ፨</l>
+            <l n="3">ሐዋርያ፡ ክርስቶስ፡ ገብርኤል፡ እንተ፡ ትትኖለው፡ ሐዲሰ፨</l>
+            <l n="4">አጽሕዶ፡ ለሥዕርትየ፡ በቅብአ፡ ኃጥኣን፡ ዘረኵሰ፨</l>
+            <l n="5">ወሱጥ፡ በላዕሌሁ፡ ቅብአከ፡ ቅዱሰ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="38">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ ዘአስተርአየ፡ በሥነ፡ መብረቅ፨</l>
+            <l n="2">ዐቀብተ፡ መቃብር፡ ያደንግፅ፡ አመ፡ ትንሣኤሁ፡ ለሊቅ፨</l>
+            <l n="3">ዕቀበኒ፡ ገብርኤል፡ ለዐቃቤ፡ ፍቅርከ፡ ጽድቅ፨</l>
+            <l n="4">ከመ፡ ይትዐቀቡ፡ በበ፡ በይኖሙ፡ እስከ፡ ኑኀ፡ ዘመን፡ ርኁቅ፨</l>
+            <l n="5">ሐዲስ፡ ወይን፡ ወሐዲስ፡ ዝቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="39">
+            
+            <l n="1">ውዳሴ፡ መልክእከ፡ እንብብ፡ አገበረኒ፡ ፍቅርየ፨</l>
+            <l n="2">ወኢተሀበልኩ፡ እንከ፡ በእንተ፡ አእምሮ፡ ዘብየ፨</l>
+            <l n="3">ኢይኩን፡ በከ፡ ባሕቱ፡ ግብረ፡ ትጋህየ፨</l>
+            <l n="4">ገብርኤል፡ ዕሥየኒ፡ ዕሤተ፡ ሠናየ፡ ዘዐይን፡ ኢርእየ፨</l>
+            <l n="5">ወእዝን፡ ኢሰምዐ፡ ውስተ፡ ልበ፡ ሰብእ፡ ዘኢተሐለየ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Getatchew_Haile2007" corresp="http://zotero.org/groups/5599348/items/3PT5ZG4N"><analytic><title level="a">Mälkǝʾa Gäbrǝʾel</title><title type="short">EAe</title><author><name>Getatchew Haile</name></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">702b-704a</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

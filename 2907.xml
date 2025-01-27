@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2907" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቅዱሳን፡ ኄራን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Qəddusān Ḫerān</title>
+        <title corresp="#t1" xml:lang="en">Image of the Good Saints</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘኢይፌጽም፡ ጸሓፊ፨</l>
+            <l n="2">ቢጸ፡ ኪሩቤል፡ አንትሙ፡ ወዘውገ፡ ሱራፊ፨</l>
+            <l n="3">ቅዱሳን፡ ኄራን፡ ዘምስለ፡ አቢብ፡ ዘሀገረ፡ ሎፊ፨</l>
+            <l n="4">ከመ፡ ታዕደወኒ፡ እምዓለመ፡ ጽልመት፡ ኀላፊ፨</l>
+            <l n="5">አምኃ፡ ስብሐት፡ ለክሙ፡ አወፊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለርእስክሙ፡ ቆብዐ፡ ብርሃን፡ ዘከለሎ፨</l>
+            <l n="2">እስእለክሙ፡ በተማህልሎ፨</l>
+            <l n="3">ቅዱሳን፡ ኄራን፡ ምስለ፡ አቡናፍር፡ ወአባ፡ እብሎ፨</l>
+            <l n="4">ከመ፡ ተሀቡኒ፡ ወትጸግዉኒ፡ ኵሎ፨</l>
+            <l n="5">እመዝገበ፡ ጽድቅ፡ በሰማይ፡ ዘሀሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለመቃብሪክሙ፡ ለርኅበ፡ ዓለም፡ በምልኡ፨</l>
+            <l n="2">ወለፍልሰትክሙ፡ ሰላም፡ ወስተ፡ ገጸ፡ ሰማይ፡ ሳብዑ፨</l>
+            <l n="3">ቅዱሳን፡ ኄራን፡ ኤዎስጣቴዎስ፡ ወአባ፡ በግዑ፨</l>
+            <l n="4">ለገብርክሙ፡ ጊዜ፡ ይትከዐው፡ አንብዑ፨</l>
+            <l n="5">አዕርግዎ፡ ሰማየ፡ ለግፍዑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ለዝንቱ፡ ቃለ፡ ማሕሌት፡ ዘከናፍርየ፡ ነበባ፨</l>
+            <l n="2">ጸሐፍዎ፡ ቅዱሳን፡ ለማርያም፡ በውስተ፡ ልባ፨</l>
+            <l n="3">ቅዱሳን፡ ኄራን፡ ዘምስለ፡ ሳሙኤል፡ ወአባ፡ ጉባ፨</l>
+            <l n="4">ያልዕለኒ፡ ጸሎትክሙ፡ ለዓለመ፡ ጽልመት፡ እምግባ፨</l>
+            <l n="5">ወእመሠግራን፡ ብዙኅ፡ ላዕሌየ፡ ዘረባ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

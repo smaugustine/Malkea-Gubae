@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="3034" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ልሳን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ləssān</title>
+        <title corresp="#t1" xml:lang="en">Image of the Tongue</title>
+        
+        <title xml:id="t2" xml:lang="gez">ልሳነ፡ ሰብእ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Ləssāna Sabəʾ</title>
+        <title corresp="#t2" xml:lang="en">Tongue of Men</title>
+        
+        <title xml:id="t3" xml:lang="gez">መልክአ፡ ልሳነ፡ ሰብእ፡</title>
+        <title corresp="#t3" xml:lang="gez" type="normalized">Malkəʾa Ləssāna Sabəʾ</title>
+        <title corresp="#t3" xml:lang="en">Image of the Tongue of Men</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ተማሕፀንኩ፡ በሆህያተ፡ ስምከ፡ ካፍ፨</l>
+            <l n="2">ወበቀዳማይ፡ የውጣ፡ ዘጥንተ፡ ፊደሎን፡ አሌፍ፨</l>
+            <l n="3">ከመ፡ ታድኅነኒ፡ ክርስቶስ፡ እምትንሣኤ፡ ልሳን፡ ወአፍ፨</l>
+            <l n="4">እስመ፡ ልሳን፡ ቀተሎሙ፡ ለማኅበረ፡ ሰማዕት፡ አእላፍ፨</l>
+            <l n="5">በነገረ፡ ውዴት፡ ጽኑዕ፡ ዘይበልሕ፡ እምሰይፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ተማሕፀንኩ፡ በፀዓትከ፡ እምባሕርየ፡ አብ፡ ወላዲ፨</l>
+            <l n="2">ወበንብረትከ፡ እምቅድም፡ ለዓለመ፡ ዓለም፡ ወዓዲ፨</l>
+            <l n="3">ከመ፡ ታድኅነኒ፡ ክርስቶስ፡ እማዕገተ፡ ልሳን፡ ረዋዲ፨</l>
+            <l n="4">ለዳንኤል፡ ዘአድኀንኮ፡ እምናቡከደነጾር፡ ከሀዲ፨</l>
+            <l n="5">አመ፡ አኃዊሁ፡ ተወድዩ፡ በእሳት፡ ነዳዲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="36">
+            
+            <l n="1">ተማሕፀንኩ፡ በልሳንከ፡ ወእምልሳነ፡ ሰብእ፡ ነኪራን፨</l>
+            <l n="2">አድኅነኒ፡ ክርስቶስ፡ በመስቀልከ፡ መድኅን፨</l>
+            <l n="3">እስመ፡ እምልሳን፡ ውእቱ፡ ሙፃአ፡ ኵሉ፡ ኀዘን፨</l>
+            <l n="4">ሶበሰ፡ ኢተፈጥረ፡ ለተናግሮ፡ ልሳን፨</l>
+            <l n="5">አስሕቶተ፡ አዳም፡ በምንት፡ እምክህለ፡ ሰይጣን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1">እምደቂቀ፡ አዳም፡ ወሔዋን፡ ዘአምሠጠ፡ መኑ፨</l>
+            <l n="2">እምልሳነ፡ ርእሱ፡ ቀታሊ፡ ወእምልሳነ፡ ሰብእ፡ ካልአኑ፨</l>
+            <l n="3">እንዳዒ፡ አጋቶን፡ ወጠቢባነ፡ ጽድቅ፡ እለ፡ ፌባኑ፨</l>
+            <l n="4">አብድሰ፡ እመ፡ አርመመ፡ ልሳኑ፨</l>
+            <l n="5">በአጻብዒሁ፡ ይኤምር፡ ወይቀጽብ፡ በዓይኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="38">
+            
+            <l n="1">ኵሉ፡ ነገር፡ እምአንቀጸ፡ ልሳን፡ ይወፅእ፨</l>
+            <l n="2">እመኒ፡ ዘሰላም፡ ወእመኒ፡ ዘጽልእ፨</l>
+            <l n="3">ወሐዋርያት፡ ይቤሉ፡ በመልእክተ፡ ያዕቆብ፡ ረድእ፨</l>
+            <l n="4">ባቲ፡ ንባርኮ፡ ለእግዚአብሔር፡ እግዚእ፨</l>
+            <l n="5">ወባቲ፡ ንረግሞ፡ ለእኁነ፡ ሰብእ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="39">
+            
+            <l n="1">ኵሉ፡ ይገርር፡ ለዘመደ፡ ሰብእ፡ መዋቲ፨</l>
+            <l n="2">እስከ፡ አራዊት፡ ወአእዋፍ፡ ወእንሰሳ፡ ቀላይ፡ ኢተአታቲ፨</l>
+            <l n="3">ልሳነ፡ ዚአነሰ፡ አባለ፡ ዘማ፡ አሐቲ፨</l>
+            <l n="4">አልቦ፡ ዘይክል፡ አግርሮታ፡ እስመ፡ እኪት፡ ይእቲ፨</l>
+            <l n="5">ወነፍሰ፡ ንጹሐን፡ ዘይቀትል፡ ኅምዘ፡ ሞት፡ ባቲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="40">
+            
+            <l n="1">እስፍንተ፡ ንዜኑ፡ እከያቲሃ፡ ለልሳን፨</l>
+            <l n="2">ወበእንተዝ፡ ኃደግነ፡ አንኆተ፡ ዝንቱ፡ ድርሳን፨</l>
+            <l n="3">ኅድጉሰ፡ ዘለፋ፡ መዋቲ፡ ምኑን፨</l>
+            <l n="4">ዲበ፡ መንፈስ፡ ቅዱስኒ፡ ዘየዓውዶ፡ ብርሃን፨</l>
+            <l n="5">ባቲ፡ ጽርፈት፡ ነበቡ፡ ዕልዋን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ኣአኵተከ፡ እግዚኦ፡ እማዕምቀ፡ ልብየ፡ አእኳቲ፨</l>
+            <l n="2">አምጣነ፡ ህልው፡ አነ፡ በልባዊ፡ ሥጋ፡ መዋቲ፨</l>
+            <l n="3">ለዘአድኃንከኒ፡ ክርስቶስ፡ እምልሳነ፡ ዓለም፡ ኢተአታቲ፨</l>
+            <l n="4">ፍጹመ፡ ትኩን፡ ባሕቱ፡ ወኢትትርፍከ፡ አሐቲ፨</l>
+            <l n="5">በዕለተ፡ ኵነኔ፡ መሐራ፡ ለነፍስየ፡ ዛቲ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Habtemichael_Kidane2007" corresp="http://zotero.org/groups/5599348/items/XPALDFSZ"><analytic><title level="a">Ləssanä säbəʾ</title><title type="short">EAe</title><author><name>Habtemichael Kidane</name></author><author><forename>Denis</forename><surname>Nosnitsin</surname></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">553b-554b</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Grébaut1935" corresp="http://zotero.org/groups/5599348/items/SIEI9BA6"><analytic><title level="a">L'Hymne-Invocation Lesâna Sab'e</title><author><forename>Sylvain</forename><surname>Grébaut</surname></author></analytic><monogr><title level="j">Aethiopica : revue philologique</title><imprint><biblScope unit="volume">3</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page">6-12</biblScope><date>1935</date></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

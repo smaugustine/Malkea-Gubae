@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2932" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፍልሰታ፡ ለማርያም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Fəlsatā la-Māryām</title>
+        <title corresp="#t1" xml:lang="en">Image of the Assumption of Mary</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        <div type="textpart" xml:id="masgabiya">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ማርያም፡ እምነ፨</l>
+            <l n="2">መግመሪተ፡ ነድ፡ ርስነ፨</l>
+            <l n="3">ዐምደ፡ ባሕርይ፡ ዘኢተእምሪ፡ ጸኒነ፨</l>
+            <l n="4">ድንግልናተ፡ ክሌተ፡ ምልአ፡ ሥጋኪ፡ ተከድነ፨</l>
+            <l n="5">አፍለሰኪ፡ ወልድ፡ ሉዓሌ፡ መካነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ምንተ፡ ኣዐሥዮ፡ ለእግዚአብሔር፡ አሐተ፨</l>
+            <l n="2">በእንተ፡ ኵሉ፡ ዘገብረ፡ ሊተ፨</l>
+            <l n="3">ረስዪኒ፡ እሙ፡ አሥምሮ፡ ግብተ፨</l>
+            <l n="4">ማርያም፡ እግዝእትየ፡ ዘሜጥኪ፡ እሳተ፨</l>
+            <l n="5">ድኅረ፡ በጽሐ፡ ልሳኑ፡ ዘለኪ፡ ቤተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">አፉየ፡ አስተንፈሰ፡ ወልሳንየ፡ አልኆሰሰ፨</l>
+            <l n="2">ለክብረ፡ ፍልሰትኪ፡ ድንግል፡ ሶበ፡ ኣቄርብ፡ ተውዳሰ፨</l>
+            <l n="3">ማርያም፡ ዘኮንኪ፡ ቅድስተ፡ ቅዱሳን፡ መቅደሰ፨</l>
+            <l n="4">በቅሜኪ፡ እግዝእትየ፡ እመ፡ ረከብኩ፡ ሞገሰ፨</l>
+            <l n="5">በየማንኪ፡ ባርክኒ፡ ሥልሰ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ምስለ፡ ነፍስኪ፡ ኢመዋቲ፨</l>
+            <l n="2">በተሰናእዎ፡ አሐቲ፨</l>
+            <l n="3">ድንግል፡ በክልኤ፡ ማርያም፡ ወለተ፡ ማቲ፨</l>
+            <l n="4">ሐመረ፡ ተርሴስ፡ ዘሰሎሞን፡ አንቲ፨</l>
+            <l n="5">እንተ፡ አእተዉ፡ ጠቢባን፡ ወርቀ፡ አፌዝ፡ ባቲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ መካነ፡ ፍሥሓ፡ ወኑዛዜ፨</l>
+            <l n="2">ኀበ፡ ይረስዕዎ፡ ለላሕ፡ ወኢይሔልይዎ፡ ለትካዜ፨</l>
+            <l n="3">ማርያም፡ ህሉት፡ ውስተ፡ ልበ፡ አምላክ፡ እምቅድመ፡ ጊዜ፨</l>
+            <l n="4">ትፍሥሕተሰ፡ ተፈሣሕኩ፡ በፍልሰትኪ፡ ይእዜ፨</l>
+            <l n="5">ገጸ፡ ዚአኪ፡ እሬኢ፡ ማእዜ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ እግዚአብሔር፡ ዘባረካ፨</l>
+            <l n="2">ወአልዐለ፡ ክብራ፡ እምፍልሰተ፡ ሄኖክ፡ ወልደ፡ ባረካ፨</l>
+            <l n="3">ማርያም፡ ስብሕት፡ ወቡርክት፡ ዕለተ፡ ዋካ፨</l>
+            <l n="4">ይገብሩ፡ በእንቲአኪ፡ ውስተ፡ ሰማያዊት፡ ታዕካ፨</l>
+            <l n="5">ነገደ፡ መላእክት፡ አእላፍ፡ ሱባዔ፡ ፋሲካ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ውስተ፡ ልበ፡ ሰብእ፡ ዘኢተኀለየ፨</l>
+            <l n="2">እንዘ፡ ትትዐጸፊ፡ ጸጋ፡ ወትለብሲ፡ ዕበየ፨</l>
+            <l n="3">ማርያም፡ ሥጋኪ፡ ዘተመሰለ፡ ባሕርየ፨</l>
+            <l n="4">ተኀፍረ፡ ሞት፡ አኮኑ፡ ሶበ፡ ነጸረ፡ ወርእየ፨</l>
+            <l n="5">አመ፡ በደመና፡ ብሩህ፡ የዐርግ፡ ሰማየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ዘኢየኀልቅ፡ ሞገሱ፨</l>
+            <l n="2">ወዘኢይነጽፍ፡ ባሕረ፡ ተውዳሱ፨</l>
+            <l n="3">ማርያም፡ ታዕካ፡ ለእግዚአብሔር፡ ጽርሐ፡ መቅደሱ፨</l>
+            <l n="4">ተበሀሉ፡ በሰማያት፡ እለ፡ ኪያኪ፡ አፍለሱ፨</l>
+            <l n="5">ማርያምሰ፡ እንተ፡ በምድር፡ ታንሶሱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ዘአፈድፈደ፡ ስባሔ፨</l>
+            <l n="2">እምፍልሰተ፡ ያዕቆብ፡ ዐርከ፡ ኤሎሄ፨</l>
+            <l n="3">ማርያም፡ ቀንሞስ፡ ማርያም፡ አፈወ፡ ርሔ፨</l>
+            <l n="4">እለ፡ ብርሃነ፡ ይለብሱ፡ ወይትዐጸፉ፡ ሱራሔ፨</l>
+            <l n="5">በዓለ፡ ፍልሰትኪ፡ ማርያም፡ ሰበኩ፡ ኵለሄ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ስቡሐ፡ ዘተሰብሐ፨</l>
+            <l n="2">እምሥነ፡ ፀሓይ፡ ወወርኅ፡ ሥነ፡ ስብሐቲሁ፡ አብርሀ፨</l>
+            <l n="3">ዘእንበሌኪ፡ ማርያም፡ ወዘእንበለ፡ ወልድኪ፡ በኵረ፡ ፍሥሓ፨</l>
+            <l n="4">አልቦ፡ ለሞት፡ ማእሰሪሁ፡ ዘፈትሓ፨</l>
+            <l n="5">ወሙታነ፡ እምሲኦል፡ አንቅሐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ለሊቀ፡ ካህናት፡ ዘአደሞ፨</l>
+            <l n="2">መሥዋዕተ፡ መድኃኒት፡ ያዕርግ፡ ቅድስተ፡ ቅዱሳን፡ ቀዊሞ፨</l>
+            <l n="3">ለመልአከ፡ ሞት፡ ፀዋግ፡ መልአከ፡ በቀል፡ ወተቀይሞ፨</l>
+            <l n="4">ሚመጠነ፡ አድወዮ፡ ወሚመጠነ፡ አሕመሞ፨</l>
+            <l n="5">በዓለ፡ ፍልሰትኪ፡ ማርያም፡ ዘአምላክ፡ ሐተሞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ እምዓለመ፡ መትሕት፡ ኀላፊ፨</l>
+            <l n="2">ውስተ፡ ዐውደ፡ ቡሩክ፡ ወሱራፊ፨</l>
+            <l n="3">ማርያም፡ ምዕዝት፡ እምሥነ፡ ጽጌያት፡ ዘወርኀ፡ ታውፊ፨</l>
+            <l n="4">ናሁ፡ ተሠጠምኩ፡ ውስተ፡ ባሕረ፡ ስሕተት፡ ጽነፊ፨</l>
+            <l n="5">በሐመረ፡ ንጽሕኪ፡ ወትረ፡ ኪያየ፡ ሐድፊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ዘአጥናን፡ ኀይሉ፨</l>
+            <l n="2">ወዘአኤናዎን፡ መዝራዕተ፡ ብዕሉ፨</l>
+            <l n="3">ማርያም፡ ዝክርኪ፡ ለትውልደ፡ ትውልድ፡ ዘይሄሉ፨</l>
+            <l n="4">አምጻኢተ፡ ምሕረት፡ ማርያም፡ ለኃጥኣነ፡ ምድር፡ ኵሉ፨</l>
+            <l n="5">ወቡርክት፡ ማርያም፡ ለክርስቶስ፡ አባሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ እግዚአብሔር፡ ዘአልዐሎ፨</l>
+            <l n="2">እምፍልሰተ፡ ኤልያስ፡ ነቢየ፡ ሲሎ፨</l>
+            <l n="3">ውስተ፡ ብሔረ፡ ፍግዕ፡ ስድኒ፡ ማርያም፡ በክነፈ፡ ዐውሎ፨</l>
+            <l n="4">ለምንት፡ ሊተ፡ በፍግዓ፡ ወበጥዒና፡ እዴሎ፨</l>
+            <l n="5">እንዘ፡ ይዴግነኒ፡ ሞት፡ ዘይኴንን፡ ኵሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ እግዚአብሔር፡ ዘተዋሐዳ፨</l>
+            <l n="2">ወተካፈለ፡ ክበዳ፨</l>
+            <l n="3">ለፍልሰትኪ፡ ማርያም፡ እምኢየሩሳሌም፡ ምድረ፡ ይሁዳ፨</l>
+            <l n="4">ስኂነ፡ ተዝካር፡ ወአፈወ፡ ዕጣን፡ ጸዐዳ፨</l>
+            <l n="5">ነገሥተ፡ ተርሴስ፡ ወደስያት፡ ያበውኡ፡ ጋዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ በሰዋስወ፡ ብርሃን፡ ምጡቅ፨</l>
+            <l n="2">ከመ፡ ትኩኒዮሙ፡ እመ፡ ለኅሩያን፡ ደቂቅ፨</l>
+            <l n="3">ተሣየጥኒ፡ ማርያም፡ በንዋየ፡ ሣህልኪ፡ ጽድቅ፨</l>
+            <l n="4">ከመ፡ ይሣየጡ፡ አመ፡ ዕለተ፡ ፍዳ፡ ወጻዕቅ፨</l>
+            <l n="5">ዘመደ፡ አዕዋፍ፡ ኀምስ፡ በክልኤ፡ ጸሪቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ውስተ፡ ብሔር፡ ስዑር፨</l>
+            <l n="2">እንተ፡ ኬንያ፡ ወገባሪሃ፡ እግዚአብሔር፨</l>
+            <l n="3">ማርያም፡ ፍትሕኒ፡ እምግብርናተ፡ ሞት፡ መሪር፨</l>
+            <l n="4">ለኪሰ፡ ንግሥተ፡ ሰማይ፡ ወምድር፨</l>
+            <l n="5">ኢይሰአነኪ፡ አግዕዞቱ፡ ለኃጥእ፡ ገብር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ሰላም፡ ለትንሣኤ፡ ሥጋኪ፡ ከመ፡ ትንሣኤ፡ ክርስቶስ፡ መንታ፨</l>
+            <l n="2">ርእሶ፡ ሕያወ፡ እምድኅረ፡ ኀብአ፡ ውስቴታ፨</l>
+            <l n="3">በጽላሎትኪ፡ ክድንኒ፡ ማርያም፡ ርግበ፡ ኤፍራታ፨</l>
+            <l n="4">ሰውርኒ፡ በአክናፍኪ፡ አመ፡ ይከውን፡ ሐተታ፨</l>
+            <l n="5">ወአመ፡ ታገብእ፡ ምድር፡ ዘነሥአት፡ ማሕፀንታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለዕርገተ፡ ሥጋኪ፡ ዘተወጥነ፡ ቦቱ፨</l>
+            <l n="2">ዕርገተ፡ ቅዱሳን፡ ሰብእ፡ እለ፡ ፈድፋደ፡ ተአኵቱ፨</l>
+            <l n="3">ለሊቀ፡ ካህናት፡ አሮን፡ ማርያም፡ ሠርጐ፡ ትርሲቱ፨</l>
+            <l n="4">ሥዑለ፡ ይኩን፡ በልብስኪ፡ እንተ፡ ላዕሉ፡ ወታሕቱ፨</l>
+            <l n="5">ፍሬ፡ ከናፍር፡ ወአፍ፡ ውዳሴኪ፡ ዝንቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Tedros_Abraha2001" corresp="http://zotero.org/groups/5599348/items/UK8HF9IW"><analytic><title level="a">L'effigie dell'Assunzione</title><author><name>Tedros Abraha</name></author></analytic><monogr><title level="j">Adveniat Regnum Tuum</title><imprint><biblScope unit="volume">75-76</biblScope><biblScope unit="page">45-52</biblScope><date>2001</date></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

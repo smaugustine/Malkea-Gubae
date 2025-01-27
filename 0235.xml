@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0235" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገላውዴዎስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Galāwdewos</title>
+        <title corresp="#t1" xml:lang="en">Image of Claudius</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እዌጥን፡ እማኄከ፡ እንዘ፡ ትረድአኒ፡ ለፍጻሜ፨</l>
+            <l n="2">ከሀሊተ፡ ጸሎትከ፡ ዘትምዕዝ፡ እምአበሜ፨</l>
+            <l n="3">ገላውድዮስ፡ ማር፡ እምዘመደ፡ መንግሥት፡ ዘሮሜ፨</l>
+            <l n="4">ለዘተአመንኩ፡ ስመከ፡ ቀዋሜ፨</l>
+            <l n="5">ዲበ፡ ዓመትየ፡ ወስከኒ፡ ዕድሜ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ እብል፡ ለሥዕርትከ፡ ድሉል፨</l>
+            <l n="2">በአክሊለ፡ ብርሃን፡ ክሉል፨</l>
+            <l n="3">ገላውድዮስ፡ ዘይት፡ ውስተ፡ ቤተ፡ ልዑል፡ ትኩል፨</l>
+            <l n="4">ተማሕፀንኩ፡ በሥዕርትከ፡ ከመ፡ እትዐቀብ፡ እምሀጕል፨</l>
+            <l n="5">እስመ፡ ጸሎትከ፡ አድኅኖተ፡ ትከል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="69">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ እምነ፡ ሥጋ፡ መዋቲ፨</l>
+            <l n="2">ጸወዐ፡ ወይነ፡ ስምዕ፡ ሰቲያ፡ እንተ፡ ቀድሑ፡ ላቲ፨</l>
+            <l n="3">ገላውድዮስ፡ ድንግል፡ መዋኤ፡ ሰይጣን፡ መስሓቲ፨</l>
+            <l n="4">ለነፍስከ፡ ንጽሕት፡ እትመሐፀን፡ ባቲ፨</l>
+            <l n="5">ለነፍሰ፡ ዚአየ፡ በላ፡ መክፈልትየ፡ አንቲ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

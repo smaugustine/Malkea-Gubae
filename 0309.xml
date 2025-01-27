@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0309" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጴጥሮስ፡ ዘእስክንድርያ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṗeṭros za-ʾƎskəndrəyā</title>
+        <title corresp="#t1" xml:lang="en">Image of Peter of Alexandria</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ወበዋሕናሁ፡ ተክፍሎ፨</l>
+            <l n="2">ወበተክፍሎቱ፡ ዋሕድና፡ አምሳለ፡ ፀሓይ፡ ዘትማሰሎ፨</l>
+            <l n="3">ውዳሴ፡ መልክዑ፡ እጽሕፍ፡ እንዘ፡ እሴብሕ፡ ወአሌዕሎ፨</l>
+            <l n="4">ለጴጥሮስ፡ ሰማዕት፡ አመ፡ በእንተ፡ ሕዝብ፡ ሰአሎ፨</l>
+            <l n="5">ተፍጻሜተ፡ ሰማዕት፡ እንተ፡ ዘአምላክ፡ ይቤሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ስመ፡ ወልደ፡ ዮና፡ ክቡር፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሰላም፡ ዘጠለ፡ ዮርዳኖስ፡ ፀምር፨</l>
+            <l n="3">ሊቀ፡ ጳጳሳት፡ ጴጥሮስ፡ ወሰማዕተ፡ ሥቃይ፡ መሪር፨</l>
+            <l n="4">አሐሊ፡ ለከ፡ ማሕሌተ፡ ከመ፡ በዐሥር፡ አውታር፨</l>
+            <l n="5">ንጉሠ፡ እስራኤል፡ ሐለየ፡ ለታቦት፡ ዘጾር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በሕገ፡ ጳጳሳት፡ ክቡራን፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ በእስክንድርያ፡ ምካን፨</l>
+            <l n="3">ተፍጻሜተ፡ ደሞሙ፡ ለሰማዕታተ፡ ጽድቅ፡ አሚን፨</l>
+            <l n="4">አሰበ፡ ጽራኅየ፡ በነቢበ፡ ዝንቱ፡ ድርሳን፨</l>
+            <l n="5">ዕረፍተ፡ ሥሩሓን፡ ሀበኒ፡ በሐዳስ፡ ዘመን፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ማዕረረ፡ ገድልከ፡ አባ፡ ሶበ፡ አልጸቀ፡ ተቅራማ፨</l>
+            <l n="2">አዋልደ፡ ክብር፡ አክሊላት፡ መልዕልተ፡ ርእስከ፡ ቆማ፨</l>
+            <l n="3">አስካለ፡ መልክእከ፡ ዘንት፡ እምገራህተ፡ ልሳን፡ ይቅስማ፨</l>
+            <l n="4">እስመ፡ ዮም፡ ሕዋሲቲከ፡ አዋልደ፡ ብዙኀ፡ ጻማ፨</l>
+            <l n="5">ግብረ፡ ዘወሀ፡ በኮን፡ ፈጽሞ፡ ፈጸማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ እብል፡ ለጴጥሮስ፡ የማኖ፨</l>
+            <l n="2">ሊቀ፡ ጳጳሳት፡ በተክህኖ፨</l>
+            <l n="3">ለአርዮስ፡ ዕልው፡ ግዘተ፡ ሥጋሁ፡ ኰነኖ፨</l>
+            <l n="4">ለወልደ፡ ማርያም፡ ሶበ፡ ነጸረ፡ ሥኖ፨</l>
+            <l n="5">እንዘ፡ እኁዝ፡ በእዴሁ፡ ሥጡጠ፡ ገርዜኖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ ሰባኬ፡ ሃይማኖት፡ በጥንቃቄ፨</l>
+            <l n="2">አምሳለ፡ ጳውሎስ፡ ዘአተሰሎንቄ፨</l>
+            <l n="3">ዕፀ፡ መድኃኒት፡ ጴጥሮስ፡ ወዕፀ፡ ሐዲስ፡ ኢሎቄ፨</l>
+            <l n="4">አዕዋፈ፡ ሰማይ፡ ዘሞርሞቄ፡ እንተ፡ ጸለይከ፡ እምዕንቈ፨</l>
+            <l n="5">እፎኑመ፡ ጊዜ፡ ሰርክ፡ አውዐየከ፡ መርቄ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Raineri2010" corresp="http://zotero.org/groups/5599348/items/PCTS82K5"><monogr><title level="m">Il Gadl di san Pietro, patriarca di Alessandria e ultimo dei martiri</title><editor><forename>Osvaldo</forename><surname>Raineri</surname></editor><imprint><pubPlace>Turnhout</pubPlace><publisher>Brepols</publisher><date>2010</date></imprint></monogr><series><title level="s">Patrologia Orientalis</title><biblScope unit="volume">51/5 (230)</biblScope></series></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

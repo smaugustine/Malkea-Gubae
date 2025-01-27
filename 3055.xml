@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="3055" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እግዚአብሔር፡ አብ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎgziʾabəḥer ʾAb</title>
+        <title corresp="#t1" xml:lang="en">Image of God the Father</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እሰግድ፡ ለመለኮትከ፡ እንተ፡ ፈጠርከ፡ ጽልመተ፨</l>
+            <l n="2">እምቀድመ፡ ብርሃነ፡ ትግበር፡ ወታሰተባሪ፡ መዓልተ፨</l>
+            <l n="3">እግዚአብሔር፡ አሐዱ፡ እንተ፡ ኢኮንከ፡ ክልኤተ፨</l>
+            <l n="4">በስምዕ፡ ይሰምዩከ፡ ሠለስተ፨</l>
+            <l n="5">እንዘ፡ በመለኮት፡ ዋሕድ፡ ወብሁት፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">እሰግድ፡ ለመለኮትከ፡ ዘሣረርከ፡ ምድረ፨</l>
+            <l n="2">ለእጓለ፡ እመሕያው፡ ይኩን፡ ወለእንስሳ፡ ማኅደረ፨</l>
+            <l n="3">እግዚአብሔር፡ ገባሪ፡ ዘእንበለ፡ ትኅሥሥ፡ ምክረ፨</l>
+            <l n="4">ትጸውር፡ ድደ፡ በኀይልከ፡ እንዘ፡ ትነብር፡ ጠፈረ፨</l>
+            <l n="5">ወእንዘ፡ ተሐንጽ፡ መሠረተ፡ ትፄዐን፡ ቀመረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="99">
+            
+            <l n="1">ስብሐት፡ ለከ፡ እግዚአብሔር፡ ለለ፡ ሠርቀ፡ ዕለት፡ ወለያልይ፨</l>
+            <l n="2">ስብሐት፡ ለከ፡ እግዚአብሔር፡ በተባርዮ፡ ክረምት፡ ወሐጋይ፨</l>
+            <l n="3">ስብሐት፡ ለከ፡ እግዚአብሔር፡ በወርኀ፡ መጸው፡ ወጸደይ፨</l>
+            <l n="4">ስብሐት፡ ለከ፡ እግዚአብሔር፡ በኍልቈ፡ ኵሉ፡ ዘይትረአይ፡ ወኢይትረአይ፨</l>
+            <l n="5">ስብሐተ፡ ቅድምናከ፡ ዘልፈ፡ ይነግር፡ ሰማይ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

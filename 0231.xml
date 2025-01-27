@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0231" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጊዮርጊስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Giyorgis</title>
+        <title corresp="#t1" xml:lang="en">Image of George</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">[The beginning of the text is lost.]</l>
+            <l n="2"> </l>
+            <l n="3"> </l>
+            <l n="4">ተቤዘው፡ በጻማከ፡ ኪያየ፡ ኃጥአ፨</l>
+            <l n="5">እስመ፡ ኢይትኀፈር፡ ኵሉ፡ ኀቤከ፡ ዘመጽአ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሐቌከ፡ እንተ፡ ቀነት፡ ድንግልና፨</l>
+            <l n="2">ምስለ፡ ቅድስና፨</l>
+            <l n="3">ጊዮርጊስ፡ ማር፡ ለሕይወትየ፡ ምእመና፨</l>
+            <l n="4">ጽንዐ፡ ሐቌከ፡ ለሐቌየ፡ መጽንዔ፡ ይኩና፨</l>
+            <l n="5">ከመ፡ ኢያጕህቋ፡ ዘዓለም፡ ሙስና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለአቍያጺከ፡ ርቱዓን፨</l>
+            <l n="2">በኀጢአት፡ ዘኢጕህቋ፨</l>
+            <l n="3">ጊዮርጊስ፡ ክቡር፡ ለቤተ፡ ክርስቲያን፡ ዕንቋ፨</l>
+            <l n="4">በከመ፡ ብዝኀ፡ ኂሩትከ፡ አድኅነኒ፡ በተአምሪከ፨</l>
+            <l n="5">እምኆፃ፡ ቀለይ፡ ዘይፈደፍድ፡ ኈልቋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለአብራኪከ፡ ሰጊደ፡ ለአጵሎን፡ እለ፡ አበያ፨</l>
+            <l n="2">ለእግዚአብሔር፡ ባሕቲቱ፡ በሰጊደ፡ ዘኀረያ፨</l>
+            <l n="3">ጊዮርጊስ፡ ክሉል፡ በሠርቀ፡ ወርኀ፡ ኒሳን፡ ሃሌ፡ ሉያ፨</l>
+            <l n="4">በእንተ፡ አብራኪከ፡ አብራክየ፡ ይጥዐያ፨</l>
+            <l n="5">በዝብጠተ፡ ሰይጣን፡ መሕመሚ፡ ኢይድወያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘእምርት፡ በልድያ፨</l>
+            <l n="2">ኀበ፡ ትከሥት፡ ጥዩቀ፡ ለረድኤትከ፡ ዕበያ፨</l>
+            <l n="3">እምፈተውኩ፡ አንሰ፡ ከመ፡ እርአያ፨</l>
+            <l n="4">ለተምኔትየ፡ ብጽሐታ፡ ጊዮርጊስ፡ ረስያ፨</l>
+            <l n="5">እስመ፡ ለፍቅርከ፡ ነፍስየ፡ ጽምእት፡ ነያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">ሰላም፡ ለእማኄከ፡ አሠርገወኒ፡ በማሕተማ፨</l>
+            <l n="2">ሰላም፡ ለሰላምከ፡ ዕቀበኒ፡ በሰላማ፨</l>
+            <l n="3">ሰላም፡ ለፍቅርከ፡ አንብረኒ፡ ውስተ፡ ምስያማ፨</l>
+            <l n="4">ሰላም፡ ለዝኅርከ፡ አብሐኒ፡ እስዐማ፨</l>
+            <l n="5">ለተምኔትየ፡ ፍጡነ፡ ጊዮርጊስ፡ ፈጽማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="22">
+            
+            <l n="1">ተወከፍ፡ ሰላምየ፡ ወዘንተ፡ ስብሐተ፡ ወይባቤ፨</l>
+            <l n="2">ከመ፡ ጼና፡ ስኂን፡ ወመዐዛ፡ ከርቤ፨</l>
+            <l n="3">ጊዮርጊስ፡ ኩነኒ፡ ኪዳንከ፡ ዓቃቤ፨</l>
+            <l n="4">አንተ፡ ምስካይየ፡ በጊዜ፡ ምንዳቤ፨</l>
+            <l n="5">ተሰጠው፡ ቃልየ፡ ወሠልጥ፡ ዘእቤ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

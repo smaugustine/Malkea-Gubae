@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="1857" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ማርያም፡ ጽዮን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Māryām Ṣəyon</title>
+        <title corresp="#t1" xml:lang="en">Image of Mary Sion</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ ኮለ፡ ገዳም፡ ዘይጼኑ፨</l>
+            <l n="2">ለሥዕርተ፡ ርእስኪ፡ ሰላም፡ ወለርእስኪ፡ በበ፡ መጠኑ፨</l>
+            <l n="3">ማርያም፡ ጽዮን፡ ለእግዚአብሔር፡ አስከሬኑ፨</l>
+            <l n="4">መኑ፡ መኑ፡ ዘከማኪ፡ መኑ፨</l>
+            <l n="5">አምላከ፡ ሰማያዌ፡ ዘጾረ፡ በሕፅኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለላሕይኪ፡ ወለገጽኪ፡ በጽዋዔ፨</l>
+            <l n="2">ለቀራንብትኪ፡ ሰላም፡ ወለአዕይንትኪ፡ ዘበበ፡ ክልኤ፨</l>
+            <l n="3">ማርያም፡ ጽዮን፡ ፄውውኒ፡ ቅድመ፡ ጉባኤ፨</l>
+            <l n="4">አመ፡ ይገብሩ፡ በደብረ፡ ጽዮን፡ ውዋዔ፨</l>
+            <l n="5">እደለው፡ ለምሳሕ፡ ዘዚአኪ፡ ቍልዔ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ መካነ፡ አእምሮ፡ ወፈውስ፨</l>
+            <l n="2">እስመ፡ አፍለሰኪ፡ ወልድ፡ ኀበ፡ ሉዓላዊ፡ መቅደስ፨</l>
+            <l n="3">ማርያም፡ ጽዮን፡ ንጽሕተ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="4">ሀብኒ፡ እግዝእትየ፡ ጸጋ፡ መንፈስ፡ ቅዱስ፨</l>
+            <l n="5">በከመ፡ ትቤ፡ ወንጌል፡ ረቂቅ፡ ነፋስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">እግዚአብሔር፡ አብ፡ ፈነወ፡ ኀቤኪ፡ ቃሎ፨</l>
+            <l n="2">በአምሳለ፡ ገብርኤል፡ አስተማሲሎ፨</l>
+            <l n="3">ማርያም፡ ጽዮን፡ ሰአሊተ፡ ምሕረት፡ ወተሣህሎ፨</l>
+            <l n="4">ሰላም፡ ሰላም፡ ለመልክእኪ፡ እብሎ፨</l>
+            <l n="5">እንዘ፡ አሐደ፡ ኢይረስዕ፡ ወእዜከር፡ ኵሎ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

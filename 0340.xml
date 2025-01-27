@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0340" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ማርያም፡ ድንግል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Māryām Dəngəl</title>
+        <title corresp="#t1" xml:lang="en">Image of Virgin Mary</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ተማሕፀንኩ፡ በፅንሰትኪ፡ በሰፋደለ፡ ከርሥ፡ ረቂቅ፨</l>
+            <l n="2">ከመ፡ ታንሥእኒ፡ ምዕረ፡ እምነ፡ ወዲቅ፨</l>
+            <l n="3">መንሥኢተ፡ ምዉታን፡ ማርያም፡ ወዘትንቱናን፡ ስዋቅ፨</l>
+            <l n="4">ሊተሰ፡ እምኵሎ፡ ያፈትወኒ፡ ጸዲቅ፨</l>
+            <l n="5">ባሕቱ፡ እጊጊ፡ በድካም፡ ወጽድቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">በልደትኪ፡ እትመሐፀን፡ ሐና፡ አረጊት፨</l>
+            <l n="2">እስመ፡ አስጠመኒ፡ ኀዘን፡ ወከደነኒ፡ ኀፍረት፨</l>
+            <l n="3">ተሠጠውኒ፡ ማርያም፡ በንባብኪ፡ ኀሢት፨</l>
+            <l n="4">እንዘ፡ ደይን፡ ይጸንሐኒ፡ ወዘንሕነመ፡ እሳት፨</l>
+            <l n="5">እምአንቀጸ፡ ማሕፀን፡ ገብርኪ፡ ወፃእኩ፡ ለምንት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ተማሕፀንኩ፡ በዝክረ፡ ስምኪ፡ ዘራብዕ፡ ፊደሉ፨</l>
+            <l n="2">ከመ፡ ትበሊዮ፡ ሊተ፡ ማርያም፡ መዝገበ፡ ሣህሉ፨</l>
+            <l n="3">ኢትሰምዕኑ፡ እግዚአብሔር፡ ሰማዔ፡ ኵሉ፨</l>
+            <l n="4">ብካየ፡ ገብርከ፡ ወእውያተ፡ ማኅዘን፡ ቃሉ፨</l>
+            <l n="5">ኦዘለከ፡ ርኅራኄ፡ ይደሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ተማሕፀንኩ፡ በአክሊልኪ፡ ላዕለ፡ ርእስኪ፡ ዘሀሎ፨</l>
+            <l n="2">ማርያም፡ በሊዮ፡ በአንኆ፡ ጸሎት፡ ወተማሕልሎ፨</l>
+            <l n="3">እግዚአብሔር፡ ርኢ፡ ድካመ፡ ገብርከ፡ ወተሣሀሎ፨</l>
+            <l n="4">ኦዘትርኢ፡ ቀላያተ፡ ወዕመቀ፡ ዕመቃት፡ ኵሎ፨</l>
+            <l n="5">እንዘ፡ ዲበ፡ ኪሩብ፡ ሀሎከ፡ ወትፄዐን፡ ዐውሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">ተማሕፀንኩ፡ በልሳንኪ፡ ነባቤ፡ ትእዛዛት፡ ዐሥርቱ፨</l>
+            <l n="2">ወሰባኬ፡ ቃላት፡ ፮፨</l>
+            <l n="3">አገብርኒ፡ ማርያም፡ ምሒረ፡ ነዳያን፡ እፍቱ፨</l>
+            <l n="4">በደይንሰ፡ ኢይምሕርዎ፡ ሎቱ፨</l>
+            <l n="5">ለዘኢገብረ፡ ምሕረተ፡ በዓለም፡ ዝንቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1">ተማሕፀንኩ፡ ተማሕፀንኩ፡ በኀዘናትኪ፡ ፭፨</l>
+            <l n="2">ከመ፡ ትበሊዮ፡ ሊተ፡ ለእግዚአብሔር፡ ወላዲቱ፨</l>
+            <l n="3">ምንተ፡ ገብረ፡ ዘትኴንኖ፡ ለዝንቱ፨</l>
+            <l n="4">ሥርዓትኒ፡ እንተ፡ ሐነጽከ፡ ውስቴቱ፨</l>
+            <l n="5">እስመ፡ ናሁ፡ ሰይጣን፡ ወሥጋ፡ ነሰቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="61">
+            
+            <l n="1">ተማሕፀንኩ፡ በፍልሰተ፡ ሥጋኪ፡ መንገለ፡ ዐርገ፡ ወራሲ፨</l>
+            <l n="2">ወበንብረትኪ፡ ካዕበ፡ በየማነ፡ ክቡር፡ ነጋሢ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ለምእመንኪ፡ አባሲ፨</l>
+            <l n="4">ኀጢአትየ፡ በገሃድ፡ በቃለ፡ ግህደት፡ ደምስሲ፨</l>
+            <l n="5">ወበዘበኅቡእ፡ አበስኩ፡ በኅቡእ፡ አፍልሲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="62">
+            
+            <l n="1">ስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ኆፃ፡ ባሕር፡ ወሣዕር፡ ወየብስ፨</l>
+            <l n="2">ወበኍልቈ፡ ፍጥረት፡ ዘኮነ፡ ሶበ፡ አዘዘ፡ ክርስቶስ፨</l>
+            <l n="3">እንዘ፡ እብል፡ ገብርኪ፡ ማርያም፡ ሐዲስ፨</l>
+            <l n="4">እመ፡ አድኅንክኒ፡ በጸሎትኪ፡ ቅዱስ፨</l>
+            <l n="5">አመ፡ ዕለተ፡ ደይን፡ ጸጋኪ፡ እሴብሕ፡ በነፍስ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

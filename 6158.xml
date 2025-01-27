@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="6158" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገላውዴዎስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Galāwdewos</title>
+        <title corresp="#t1" xml:lang="en">Image of Claudius</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሥሉስ፡ ለአዳም፡ ዘፈጠሮ፨</l>
+            <l n="2">መልክአ፡ ውዳሴከ፡ እጽሕግ፡ እምብዙኅ፡ በአኅፅሮ፨</l>
+            <l n="3">ተራድአኒ፡ እትናገር፡ እንዘ፡ ብየ፡ ኢያእምሮ፨</l>
+            <l n="4">ገላውዴዎስ፡ እምአእምሮከ፡ ምልአኒ፡ አእምሮ፨</l>
+            <l n="5">ከመ፡ እንብብ፡ ለከ፡ በሐዋዝ፡ ዘምሮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ሥነ፡ ጸውዖቱ፡ ዘአደመ፨</l>
+            <l n="2">እምሥነ፡ ከዋክብት፡ ወወርኅ፡ ዘአሠርገዉ፡ ዓለመ፨</l>
+            <l n="3">ገላውዴዎስ፡ ግበር፡ ትእምርተ፡ ሃይማኖት፡ መድምመ፨</l>
+            <l n="4">አቡከ፡ ሙሴ፡ በዘመነ፡ ፈርዖን፡ ቅድመ፨</l>
+            <l n="5">ማየ፡ በሥልጣኑ፡ ከመ፡ ገብረ፡ ደመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርትከ፡ በማየ፡ ሃይማኖት፡ መንፈስ፡ ቅዱስ፨</l>
+            <l n="2">ዘበቈለ፡ ቦቱ፡ ዲበ፡ ምድር፡ ሥጋከ፡ ርእስ፨</l>
+            <l n="3">ገላውዴዎስ፡ ድንግል፡ እንዘ፡ ሀሎከ፡ በከርሥ፨</l>
+            <l n="4">ቀደስኩከ፡ ይቤ፡ ከመ፡ ኍልቈ፡ ስሙ፡ ኃምስ፨</l>
+            <l n="5">ወልደ፡ ባሕርይሁ፡ ለአብ፡ ኢየሱስ፡ ክርስቶስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለሰኳንዊከ፡ እምፍኖተ፡ ምግባር፡ ዘኢተአቅጻ፨</l>
+            <l n="2">እምቁመተ፡ ካህድ፡ ይድኀፃ፨</l>
+            <l n="3">ገላውዴዎስ፡ ምላህ፡ እምልብነ፡ ሥርወ፡ ዐመፃ፨</l>
+            <l n="4">ለነፍስነ፡ ወርኅ፡ ከመ፡ ኢብዛኅ፡ ሕፀፃ፨</l>
+            <l n="5">እምነ፡ ምልአታ፡ ዐባይ፡ ወሥሩዕ፡ ተግሣፃ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ መቃብረ፡ ጻድቃን፡ ዘተብህለ፨</l>
+            <l n="2">እለ፡ ያማስና፡ ወይነ፡ ዘኢረሰያሁ፡ ምጽላለ፨</l>
+            <l n="3">ገላውዴዎስ፡ ለነ፡ እምኢያብዘኅከ፡ ስኢለ፨</l>
+            <l n="4">ኢትረክብ፡ አባ፡ እምአስዋክ፡ አስካለ፨</l>
+            <l n="5">ወእምነ፡ ዓፅ፡ ዘይት፡ በላዕ፡ እክለ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በዐይነ፡ ኅሊና፡ ወልብ፡ መንፈስ፡ ቅዱስ፡ ርእዮ፨</l>
+            <l n="2">ሠናያተከ፡ ብዙኀ፡ ወሃይማኖተከ፡ በአሌልዮ፨</l>
+            <l n="3">ገላውዴዎስ፡ ሕቱም፡ በደመ፡ በግዕ፡ ዘቀራንዮ፨</l>
+            <l n="4">አጽንዐከ፡ ወዐቀበከ፡ እምነገረ፡ ኵሉ፡ ጌግዮ፨</l>
+            <l n="5">ከመ፡ በዐለ፡ ቤት፡ ትጉህ፡ የዐቅብ፡ ንዋዮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለገላውዴዎስ፡ ለኅሊና፡ ልቡ፡ ብእሴ፡ ገነት፨</l>
+            <l n="2">አህጉራተ፡ ዓለም፡ ዘልብ፡ እንዘ፡ ይመርሖ፡ ምሕረት፨</l>
+            <l n="3">ቀተልዎ፡ ግብተ፡ በዘኢይትአመር፡ ሞት፨</l>
+            <l n="4">ሶበ፡ ረከብዎ፡ በውሣጤ፡ ኅቡእ፡ ፍኖት፨</l>
+            <l n="5">ፈያታውያን፡ ዘአምላክ፡ ሀብታት፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

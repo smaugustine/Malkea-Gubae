@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2984" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጰንጠሌዎን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṗanṭalewon</title>
+        <title corresp="#t1" xml:lang="en">Image of Ṗanṭalewon</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሕያው፡ ለሰማይ፡ ዘረበቦ፨</l>
+            <l n="2">ወኵሎ፡ ዓለመ፡ ዘአምጽአ፡ እምኀበ፡ አልቦ፨</l>
+            <l n="3">ናሁ፡ ወጠንኩ፡ ስብሐተ፡ መልክእከ፡ በአስተርክቦ፨</l>
+            <l n="4">ጰንጠሌዎን፡ ሥመር፡ ባሕቱ፡ ለልሳንየ፡ ንባቦ፨</l>
+            <l n="5">ወተናበበኒ፡ እምከሓ፡ ወገቦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘሥነ፡ ስብሐቲሁ፡ የዐዱ፨</l>
+            <l n="2">እምስብሐተ፡ ንጉሥ፡ ኃላፊ፡ ዘይገብእ፡ ኀበ፡ ሙላዱ፨</l>
+            <l n="3">ጰንጠሌዎን፡ እንተ፡ እምነ፡ ቅዱሳን፡ አሐዱ፨</l>
+            <l n="4">እምጽርዕ፡ ወእምሮምያ፡ እለ፡ ኀቤነ፡ ነገዱ፨</l>
+            <l n="5">ምድርነ፡ ኢትዮጵያ፡ አድያማ፡ ይዑዱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ሰላም፡ ለጽዋዔ፡ ሞትከ፡ ለእግዚአብሔር፡ በፈቅዱ፨</l>
+            <l n="2">ኀበ፡ ትዔሪ፡ መንግሥተ፡ ወሕይወተ፡ በውስተ፡ ዐውዱ፨</l>
+            <l n="3">ጰንጠሌዎን፡ ጽጌ፡ ወምዑዝ፡ ዕቍረ፡ ናርዱ፨</l>
+            <l n="4">ይመስል፡ ሰዐ፡ ሞትከ፡ በዓለ፡ መርዓዊ፡ አሐዱ፨</l>
+            <l n="5">ወንጉሥ፡ ዘገብረ፡ ከብካበ፡ ለወልዱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘአስተርአየ፡ ውስቴታ፨</l>
+            <l n="2">ዐቢይ፡ ኀይል፡ ዘተገብረ፡ በጎልጎታ፨</l>
+            <l n="3">ጰንጠሌዎን፡ እኩን፡ ኢትኅድገኒ፡ እጓለ፡ ማውታ፨</l>
+            <l n="4">ለኃጥእ፡ ወለጻድቅ፡ አመ፡ ይከውን፡ ሐተታ፨</l>
+            <l n="5">ወአመ፡ ታገብር፡ ምድር፡ ዘነሥአት፡ ማሕፀንታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ናሁ፡ አቅረብኩ፡ ለመልክእከ፡ ተውዳሰ፨</l>
+            <l n="2">መጠነ፡ ብየ፡ ምድራሰ፨</l>
+            <l n="3">ጰንጠሌዎን፡ አዕቢ፡ ቃለ፡ አፉየ፡ ንኡሰ፨</l>
+            <l n="4">ከመ፡ አፈድፍድ፡ ለስምከ፡ ስብሐተ፡ ማሕሌት፡ ሐዲሰ፨</l>
+            <l n="5">እስመ፡ ኅሊናየ፡ ደክመ፡ ወልብየ፡ ፀብሰ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ እምከዋክብተ፡ ሮም፡ ተስዐቱ፡ እለ፡ ኢትዮጵያ፡ ሐወጹ፨</l>
+            <l n="2">ለኮከበ፡ ጽባሕ፡ ዋሕድ፡ ጰንጠሌዎን፡ ቢጹ፨</l>
+            <l n="3">ለፀሓይ፡ መልከ፡ ገጹ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለከ፡ ጼና፡ ቅድስናከ፡ አባ፡ ለብሔረ፡ አግዓዚ፡ ሐወዛ፨</l>
+            <l n="2">እስመ፡ አሠርጎካ፡ በገድልከ፡ ቤዛ፨</l>
+            <l n="3">ጰንጥዐሌዎን፡ ጽጌ፡ መዐዛ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ሰላም፡ ለከ፡ ሶበ፡ ንጼውዐከ፡ ወትረ፡ በጊዜ፡ ምንዳቤ፡ ወሰይል፨</l>
+            <l n="2">ጰንጠሌዎን፡ ጸሊ፡ ኢንትሐጐል፨</l>
+            <l n="3">ጸሎትከ፡ አባ፡ ገባሪተ፡ ኀይል፨</l>
+            <l n="4">እስመ፡ ኵሎ፡ ታሠልጥ፡ ወትክል፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

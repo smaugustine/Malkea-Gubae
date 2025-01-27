@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="4551" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ላሊበላ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Lālibalā</title>
+        <title corresp="#t1" xml:lang="en">Image of Lālibalā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እስመ፡ ብዙኃን፡ አኃው፡ እለ፡ እሙንቲ፡ ቀደሙኒ፨</l>
+            <l n="2">አኀዙ፡ ይንግሩ፡ ዝክረ፡ ስምከ፡ ዝስይሤኒ፨</l>
+            <l n="3">አነኒ፡ ማሕሌተ፡ መልክእከ፡ ይእዜኒ፨</l>
+            <l n="4">ከመ፡ እጽሐፍ፡ በበ፡ ምትልው፡ ሊተኒ፡ ረትአኒ፨</l>
+            <l n="5">ዐዚዝ፡ ላሊበላ፡ ዓለመ፡ ዘትቀኒ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ከመ፡ ቃለ፡ ማዕነቅ፡ ድሙጽ፨</l>
+            <l n="2">በአህጉር፡ ወዓፅ፨</l>
+            <l n="3">ላሊበላ፡ ፍቅርከ፡ ውስተ፡ ልብየ፡ ሕኑጽ፨</l>
+            <l n="4">ይሱቀኒ፡ አድኅኖትከ፡ እምነ፡ ትንታኔ፡ ወዳኀፅ፨</l>
+            <l n="5">ወይሂጶ፡ ለፀርየ፡ ጸሎትከ፡ ሐጽ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ በዐጸደ፡ ቅድስት፡ ጎልጎታ፨</l>
+            <l n="2">ለመቃብረ፡ ክርስቶስ፡ ካልእታ፨</l>
+            <l n="3">ላሊበላ፡ በለዝ፡ ለጥበብ፡ ዐምደ፡ ቤታ፨</l>
+            <l n="4">እሞተ፡ ጌጋይ፡ ከመ፡ ትትነሣእ፡ ሕያውታ፨</l>
+            <l n="5">ለነፍስየ፡ በላ፡ ተንሥኢ፡ ጣቢታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">እምትራፈ፡ ገድልከ፡ ንስቲተ፡ ፍተ፡ ጻማከ፡ እዜኑ፨</l>
+            <l n="2">ውዱሰ፡ ምግባር፡ ላሊበላ፡ ለእግዚአብሔር፡ ዐርከ፡ ምእመኑ፨</l>
+            <l n="3">በምጽዋት፡ ፈጸምከ፡ ንዋየ፡ ለእግርከ፡ እስከ፡ አሣዕኑ፨</l>
+            <l n="4">እንዘ፡ ንጉሥ፡ በሥልጣኑ፡ ወመስፍን፡ በምኵናኑ፨</l>
+            <l n="5">ዘኢያትረፈ፡ ልብሰ፡ ለበድኑ፡ ከማከ፡ መኑ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Тураев1912" corresp="http://zotero.org/groups/5599348/items/2UW8BMCP"><analytic><title level="a">Эѳіопскіе мелкіе тексты</title><author><forename>Борис А.</forename><surname>Тураев</surname></author></analytic><monogr><title level="j">Христианский Восток</title><imprint><biblScope unit="volume">1</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page">50-61</biblScope><date>1912</date></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

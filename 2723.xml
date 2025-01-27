@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2723" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጲላጦስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṗilāṭos</title>
+        <title corresp="#t1" xml:lang="en">Image of Pontius Pilate</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">መሠረተ፡ ፈቃድ፡ አስተናይፍኩ፡ ከመ፡ ጠቢብ፡ ሊቀ፡ ፀረብት።</l>
+            <l n="2">ዲበ፡ ኰኵሐ፡ ስምከ፡ እሕንጽ፡ ማኅፈደ፡ ክቡር፡ ማኅሌት።</l>
+            <l n="3">ጲላጦስ፡ መስግን፡ ዘኢየሩሳሌም፡ ቅድስት፨</l>
+            <l n="4">ባሕቱ፡ ካልእ፡ ዘእምኀቤከ፡ ረድኤት፨</l>
+            <l n="5">ያስተፋጥን፡ ሐድሶታ፡ ለዛቲ፡ ሕንፀት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በጽላተ፡ ሰማይ፡ ዘተጽሕፈ፨</l>
+            <l n="2">ወለድማኅከ፡ ምሉእ፡ ጸጋ፡ ሌሊተ፡ ገድል፡ ነፍኒፈ፨</l>
+            <l n="3">ጲላጦስ፡ ክብርከ፡ እምወሰነ፡ ክብር፡ ኃለፈ፨</l>
+            <l n="4">ለክርስቶስ፡ ፍዳ፡ ሥቃዩ፡ እስመ፡ ሥጋከ፡ ተወክፈ፨</l>
+            <l n="5">ሥቃየ፡ ንጉሥ፡ ጢባርዮስ፡ ዘይኴንን፡ እልፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በእደ፡ ሰይለቡስ፡ ሊቀ፡ ገዛዕት፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ መቃብረ፡ ክርስቶስ፡ እምርት፨</l>
+            <l n="3">ጲላጦስ፡ ነጋሢ፡ ተወካፌ፡ መስቀል፡ ፀባሕት፨</l>
+            <l n="4">ነጐድጓድ፡ ማኅሌትከ፡ አመ፡ ወርኃ፡ በዓል፡ ክረምት፨</l>
+            <l n="5">እምሰማየ፡ ልሳን፡ ተሰምዓ፡ ወደምፁ፡ አቅርንት፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ በጸጋ፡ አምላክከ፡ ወልድ፡ አምጣነ፡ አልቦ፡ ንስሐ፤</l>
+            <l n="2">ጲላጦስ፡ ቦእከ፡ ቤተ፡ ፍሥሐ፨</l>
+            <l n="3">ዘብርሃን፡ ሠርጐ፡ ሕንጼሃ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ ለኒቆዲሞስ፡ ወዮሴፍ፡ ዘገነዝዎ፡ በሥጋ፨</l>
+            <l n="2">ጲላጦስ፡ ክብሮሙ፡ እንበለ፡ ንትጋ፨</l>
+            <l n="3">አውረስከ፡ ቅዳሜ፡ ጸጋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ለገባእት፡ ዓስብ፡ አመ፡ ይትወሀቦሙ፡ ድኅረ፨</l>
+            <l n="2">ጲላጦስ፡ ኪያከ፡ በዘአክበረ፨</l>
+            <l n="3">አማሕፀንኩከ፡ ኢትርሳዕ፡ ፍቅረ፨</l>
+            <l n="4">ተሀበኒ፡ አሐተ፡ ዲናረ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="bookSection" xml:id="Cerulli1975" corresp="http://zotero.org/groups/5599348/items/BM8FU6IC"><analytic><title level="a">Tiberius and Pontius Pilatus in the Ethiopian Tradition and Poetry</title><author><forename>Enrico</forename><surname>Cerulli</surname></author></analytic><monogr><imprint><pubPlace>Oxford</pubPlace><biblScope unit="page">141-158</biblScope><publisher>Oxford University Press</publisher><date>1975</date></imprint></monogr><series><title level="s">Proceedings of the British Academy</title><biblScope unit="volume">59</biblScope></series></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

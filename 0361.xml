@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0361" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መስቀል፡ ክብራ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Masqal Kəbrā</title>
+        <title corresp="#t1" xml:lang="en">Image of Masqal Kəbrā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ ዘጸውዕዎ፡ ለተስፋ፨</l>
+            <l n="2">ልሳነ፡ ዕፍረት፡ ጳውሎስ፡ ወኰኵሐ፡ ሃይማኖት፡ ኬፋ፨</l>
+            <l n="3">መስቀል፡ ክብራ፡ ለዓለም፡ እምላህበ፡ ማዕከላ፡ ወጽንፋ፨</l>
+            <l n="4">ዖፈ፡ ረድኤትኪ፡ ትጸልልኒ፡ በክንፋ፨</l>
+            <l n="5">ወበጊዜ፡ ፀብዕ፡ ትኩነኒ፡ ሐገፋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለአብራክኪ፡ ወለአእጋርኪ፡ ቀዋምያን፨</l>
+            <l n="2">ለሰኳንውኪ፡ ወመከየድኪ፡ ሠናያነ፡ ሩጸት፡ ወሥን፨</l>
+            <l n="3">መስቀል፡ ክብራ፡ እምየ፡ ዘመዐዛኪ፡ ስኂን፨</l>
+            <l n="4">ሕፅንኒ፡ ዘልፈ፡ ለወልድኪ፡ ወለዘኪ፡ ሕፃን፨</l>
+            <l n="5">በሐሊበ፡ ጸጋ፡ ዘሳውል፡ ወጴጥሮስ፡ ምእመን፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

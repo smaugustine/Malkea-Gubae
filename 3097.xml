@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="3097" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሊባኖስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Libānos</title>
+        <title corresp="#t1" xml:lang="en">Image of Libānos</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሕያው፡ ዘኢትመውት፡ አምላክ፨</l>
+            <l n="2">ወበስመ፡ ማርያም፡ ድንግል፡ ሰዓሪተ፡ መርገም፡ ወሀውክ፨</l>
+            <l n="3">ውዳሴ፡ መልክእከ፡ እጽሕፍ፡ እንዘ፡ አተሉ፡ በተውሳክ፨</l>
+            <l n="4">ባርከኒ፡ አባ፡ በመስቀልከ፡ ቡሩክ፨</l>
+            <l n="5">በዘወሀበከ፡ ገብርኤል፡ መልአክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ኦክርስቶስ፡ ዘተወለድከ፡ እምድንግል፨</l>
+            <l n="2">መድኃኒተ፡ ነፍሶሙ፡ ትኩን፡ ለሕዝበ፡ ሙስና፡ ወሀጕል፨</l>
+            <l n="3">ስብሐተ፡ ሊባኖስ፡ ገብርከ፡ ሐዋርያ፡ ቅዱስ፡ ወንጌል፨</l>
+            <l n="4">ባርክ፡ በየማንከ፡ ወበእዴከ፡ መስቀል፨</l>
+            <l n="5">አኮኑ፡ ለሊከ፡ ባርኮተ፡ ትክል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተበጽዐ፡ ፈድፋደ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ጸሊም፡ ዘድላሌሁ፡ ተንእደ፨</l>
+            <l n="3">ሊባኖስ፡ በለኒ፡ ወአብስረኒ፡ ገሀደ፨</l>
+            <l n="4">ዘበምድር፡ ወድሶትየ፡ ዐቅመ፡ ልብከ፡ ፈቀደ፨</l>
+            <l n="5">በዓለመ፡ ጻድቃን፡ ምስሌየ፡ ትከውን፡ አሐደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ሐመልማለ፡ ገነት፡ ዘኮነ፨</l>
+            <l n="2">ወለመልክእከ፡ ሐሤት፡ እንተ፡ ያረስዕ፡ ሐዘነ፨</l>
+            <l n="3">ሊባኖስ፡ ፀሓይ፡ ዘተረሰይከ፡ ብርሃነ፨</l>
+            <l n="4">ነዓ፡ ነዓ፡ እንበለ፡ ጐንድዮ፡ ፍጡነ፨</l>
+            <l n="5">ወበላ፡ ለነፍስየ፡ ረዳኢኪ፡ አነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ እንተ፡ በውስቴቱ፡ ተወድየ፨</l>
+            <l n="2">ወርቀ፡ ሰብእናከ፡ ንጹሕ፡ ዘተመሰለ፡ ባሕርየ፨</l>
+            <l n="3">ሊባኖስ፡ ፍቁሩ፡ ለዘሰቀለ፡ ሰማየ፨</l>
+            <l n="4">በለኒ፡ በንባብከ፡ ጊዜ፡ ትወፅእ፡ ነፍስየ፨</l>
+            <l n="5">እንዘ፡ ሀለውኩከ፡ አነ፡ ኢትፍራህ፡ ወልድየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ከመ፡ ገብረ፡ ክርስቶስ፡ ብፁዕ፡ እምቤተ፡ መርዓ፡ ወፃእከ፨</l>
+            <l n="2">ወከመ፡ ዮሐንስ፡ ኅሩይ፡ ገዳመ፡ ትሩፋት፡ ዔልከ፨</l>
+            <l n="3">እምነ፡ ቅዱሳን፡ ሊባኖስ፡ መኑ፡ ከማከ፨</l>
+            <l n="4">እንዘ፡ እብል፡ ዘልፈ፡ ለለ፡ ጊዜ፡ አነ፡ ገብርከ፨</l>
+            <l n="5">በጽርሐ፡ መቅደስከ፡ አባ፡ እገኒ፡ ለክብርከ፨</l>
+            <l n="6">አባ፡ እሴብሕ፡ ለስምከ፡ ወእዜምር፡ ለከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ናሁ፡ ጸሐፍኩ፡ ስብሐተ፡ መልክእከ፡ ኵሉ፨</l>
+            <l n="2">በበ፡ መዓርጊሁ፡ ወክፍሉ፨</l>
+            <l n="3">አባ፡ ሊባኖስ፡ ለዓለመ፡ ድካም፡ መጽንዔ፡ ኀይሉ፨</l>
+            <l n="4">አስተምሕር፡ በኢያርምሞ፡ ከመ፡ ምስሌየ፡ የሀሉ፨</l>
+            <l n="5">ለንጉሠ፡ ሰላም፡ ክርስቶስ፡ ምሕረቱ፡ ወሣህሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ስብሐት፡ ለእግዚአብሔር፡ ለፈጽሞ፡ ዝንቱ፡ ድርሳን፨</l>
+            <l n="2">ዘጸገወነ፡ ሥልጣነ፡ እምዘዚአሁ፡ ሥልጣን፨</l>
+            <l n="3">ባርከነ፡ አባ፡ ለደቂቅከ፡ ኄራን፨</l>
+            <l n="4">ነጺሮሙ፡ ባርኮተከ፡ ወሰሚዖሙ፡ በእዝን፨</l>
+            <l n="5">ቅዱሳን፡ መላእክት፡ ይበሉ፡ አሜን፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ቅድመ፡ መንበረ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ዘይትዐጸፉ፡ ስብሐተ፨</l>
+            <l n="2">ሊባኖስ፡ ዘትቀውም፡ ኵሎ፡ ዕለተ፨</l>
+            <l n="3">ወታቄርብ፡ ቅዳሴያተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ሊባኖስ፡ አሐዱ፡ እምነ፡ ቅዱሳን፡ ተስዓቱ፨</l>
+            <l n="2">ለክርሶትስ፡ ዋሕድ፡ ወአኮ፡ ክልኤቱ፨</l>
+            <l n="3">እንተ፡ ጾርከ፡ መስቀለ፡ ሞቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ በአምኃ፡ ዝንቱ፡ ማሕሌት፡ ለዘረሰየ፡ ትውክልቶ፨</l>
+            <l n="2">ሊባኖስ፡ ጳውሎስ፡ መምህረ፡ ቲቶ፨</l>
+            <l n="3">ሥሙረ፡ ረሲ፡ መሥዋዕቶ፨</l>
+            <l n="4">ወፍጡነ፡ ተወከፍ፡ ጸሎቶ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Bausi2003a" corresp="http://zotero.org/groups/5599348/items/N37V2J4L"><monogr><title level="m">La «Vita» e i «Miracoli» di Libānos</title><editor><forename>Alessandro</forename><surname>Bausi</surname></editor><imprint><pubPlace>Lovanii</pubPlace><publisher>In aedibus Peeters</publisher><date>2003</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">595, Scriptores Aethiopici, 105</biblScope></series></biblStruct><biblStruct type="book" xml:id="Bausi2003b" corresp="http://zotero.org/groups/5599348/items/6LQPXZ88"><monogr><title level="m">La «Vita» e i «Miracoli» di Libānos</title><editor><forename>Alessandro</forename><surname>Bausi</surname></editor><imprint><pubPlace>Lovanii</pubPlace><publisher>In aedibus Peeters</publisher><date>2003</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">596, Scriptores Aethiopici, 106</biblScope></series></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

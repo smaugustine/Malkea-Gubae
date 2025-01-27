@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0400" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ይስሐቅ፡ ወኢዮሳብ፡ ዘጉንደ፡ ጉንዴ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yəsḥaq wa-ʾIyosāb za-Gunda Gunde</title>
+        <title corresp="#t1" xml:lang="en">Image of Yəsḥaq and ʾIyosāb of Gunda Gunde</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘአስተዋደዶን፡ አሌፍ፨</l>
+            <l n="2">ወለሥዕርትክሙ፡ ሰላም፡ ሙራደ፡ ጸጋሁ፡ ለቆፍ፨</l>
+            <l n="3">ይስሐቅ፡ ወኢዮሳብ፡ ርሱያነ፡ ጽዱል፡ አክናፍ፨</l>
+            <l n="4">ንዑ፡ ረዱ፡ ይምነ፡ ባሕር፡ ዘመናስግቲሃ፡ ግሉፍ፨</l>
+            <l n="5">ናሁ፡ ህየ፡ እስመ፡ ታስቆቁ፡ ባሕታዊት፡ ዖፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1">ሰላም፡ ለመቃብሪክሙ፡ ኀበ፡ ዘአናብስት፡ ግበብ፨</l>
+            <l n="2">ለዐጽፍክሙ፡ ሰላም፡ ወለአስኬማክሙ፡ ዘርብ፨</l>
+            <l n="3">መጽሐፈ፡ ገድልከ፡ ይስሐቅ፡ ወአንብዕከ፡ ኢዮሳብ፨</l>
+            <l n="4">ይጼልለ፡ በመልዕልቴየ፡ ከመ፡ ተሜርጋብ፨</l>
+            <l n="5">ፍኖተ፡ ሰማይ፡ ሣልስ፡ እምፀሓይ፡ ልሁብ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

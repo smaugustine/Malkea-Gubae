@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2835" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሚካኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Mikāʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Michael</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        <div type="textpart" xml:id="masgabiya">
+          
+          <lg type="stanza" n="0">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ዘይነብር፡ ማኔ፨</l>
+            <l n="2">ወበስመ፡ እግዚአብሔር፡ ወልድ፡ ሥጋ፡ ማርያም፡ ተከዳኔ፨</l>
+            <l n="3">ወበስመ፡ እግዚአብሔር፡ መንፈስ፡ ቅዱስ፡ ዘይሥዕር፡ ግማኔ፨</l>
+            <l n="4">እወጥን፡ ዝክረ፡ ውዳሴከ፡ በሐዳስ፡ ኵርጓኔ፨</l>
+            <l n="5">ቤዝወኒ፡ ሚካኤል፡ እምሲኦል፡ ኵነኔ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">አንሥእ፡ ኀይለከ፡ ወነዓ፡ አድኅነነ፨</l>
+            <l n="2">ሚካኤል፡ ርድአነ፨</l>
+            <l n="3">በጸሎትከ፡ ተማሕፀነ፨</l>
+            <l n="4">አርዌ፡ እኩይ፡ ኢይምአነ፡ ወኢይምሥጠነ፨</l>
+            <l n="5">እምነ፡ ገነቱ፡ ዘሄዶ፡ ለአዳም፡ አቡነ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ምስለ፡ ስመ፡ ልዑል፡ ዘተሳተፈ፨</l>
+            <l n="2">ወልደ፡ ያሬድ፡ ሄኖክ፡ በከመ፡ ጸሐፈ፨</l>
+            <l n="3">ሶበ፡ እጼውዕ፡ ስመከ፡ ከሢትየ፡ አፈ፨</l>
+            <l n="4">ራዳኤ፡ ምንዱባን፡ ሚካኤል፡ በከመ፡ ታለምድ፡ ዘልፈ፨</l>
+            <l n="5">ለረዲኦትየ፡ ነዓ፡ ሰፊሐከ፡ ክንፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘኢይጤየቅ፡ ግዕዛ፨</l>
+            <l n="2">ሚካኤል፡ ካህን፡ አጸንሓሔ፡ ሠናይ፡ ጼና፡ መዐዛ፨</l>
+            <l n="3">በጺሐከ፡ ግብተ፡ ለነፍስየ፡ አመ፡ ትካዛ፨</l>
+            <l n="4">ለልበ፡ ዚአየ፡ በትንባሌከ፡ ናዝዛ፨</l>
+            <l n="5">እንበለ፡ ጊዜ፡ ወላሕ፡ ኢይርሳዕ፡ ወሬዛ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ዘአሕመልመለ፡ ከመ፡ ዘግባ፨</l>
+            <l n="2">ለጽርሐ፡ አርያም፡ በዐውደ፡ መርኅባ፨</l>
+            <l n="3">ሚካኤል፡ የዋህ፡ ለገነተ፡ ሰማይ፡ ርግባ፨</l>
+            <l n="4">ከመ፡ ይዜውራኒ፡ ለመርቄ፡ ኀጢአት፡ እምላህባ፨</l>
+            <l n="5">አክናፊከ፡ ክልኤ፡ ዲቤየ፡ ይርብባ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለመላክኢከ፡ ኵሎን፨</l>
+            <l n="2">በበ፡ አስማቲሆን፨</l>
+            <l n="3">ሚካኤል፡ ካህን፡ ሥርግወ፡ ብርሃን፨</l>
+            <l n="4">ሠናይ፡ ተዐርኮትከ፡ በኵሉ፡ ዘመን፨</l>
+            <l n="5">ሰራዬ፡ ኀጢአት፡ አንተ፡ ዐርከ፡ ነፍስ፡ ምእመን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለመላክኢከ፡ ኵሉ፨</l>
+            <l n="2">ለለ፡ አሐዱ፡ አሐዱ፡ ዘበበ፡ ክፍሉ፨</l>
+            <l n="3">ሚካኤል፡ ብኩር፡ ለልዑል፡ መልአከ፡ ኀይሉ፨</l>
+            <l n="4">ተወኪፈከ፡ አምኃየ፡ እምኑኀ፡ ሰማያት፡ ዘላዕሉ፨</l>
+            <l n="5">ዕሤተ፡ ጸሎትየ፡ ፈኑ፡ ወዐስብየ፡ ድሉ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="zoteroItem_N5I3F6AD" corresp="http://zotero.org/groups/5599348/items/N5I3F6AD"><monogr><title level="m">መልክአ ቅዱሳን በዐማርኛ</title><imprint><pubPlace>አዲስ አበባ</pubPlace><publisher>ማኅበረ ቅዱሳን</publisher><date>፳፻፲፫ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_W3PTU9ZK" corresp="http://zotero.org/groups/5599348/items/W3PTU9ZK"><monogr><title level="m">መልክዐ ጉባኤ</title><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፸፬ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

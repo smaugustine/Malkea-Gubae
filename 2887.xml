@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2887" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ስብስትያኖስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Səbəstyānos</title>
+        <title corresp="#t1" xml:lang="en">Image of Sebastian</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘፍቅደ፡ ዕለታት፡ ፍቅዱ፨</l>
+            <l n="2">ወለዘኀበ፡ ወልድ፡ ይትኌልቍ፡ ሥዕርትከ፡ ለለ፡ አሐዱ፨</l>
+            <l n="3">ስብስትያኖስ፡ ነገሥት፡ እለ፡ ለምስለ፡ ወርቅ፡ ሰገዱ፨</l>
+            <l n="4">እመኒ፡ ኪያከ፡ ዲበ፡ ሐራ፡ አንሥኦተ፡ ሊቅ፡ ፈቀዱ፨</l>
+            <l n="5">ለግብረ፡ ሥጋዊ፡ ፍቅሮሙ፡ ኢቆምከ፡ በዐውዱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ ወለዝኅርከ፡ ዘኮነ፨</l>
+            <l n="2">ሥጋ፡ እለ፡ ኬፋ፡ ወሳውል፡ ኀበ፡ ረሰየ፡ መካነ፨</l>
+            <l n="3">ስብስትያኖስ፡ ሕዝብከ፡ ዓቅመ፡ ንዴትነ፨</l>
+            <l n="4">ሰላመ፡ ዘመልክዕከ፡ ወማኅሌተ፡ አቅረብነ፨</l>
+            <l n="5">ባሕቱ፡ ሰላመ፡ እግዚኦ፡ ሀበነ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

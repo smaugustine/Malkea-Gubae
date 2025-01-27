@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0369" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሐዋርያት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ḥawārəyāt</title>
+        <title corresp="#t1" xml:lang="en">Image of the Apostles</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዝክረ፡ ጣዕመ፡ ስቴ፡ ወመና፨</l>
+            <l n="2">አእላፈ፡ እስራኤል፡ ቅድመ፡ ዘተሴሰዩ፡ በሲና፨</l>
+            <l n="3">ሐዋርያት፡ ፍንዋን፡ ሀገረ፡ ሳምር፡ ወቅርጣግና፨</l>
+            <l n="4">ለዮሐንስ፡ ፍቁርክሙ፡ እስከ፡ ጸፍዐቶ፡ ሮምና፨</l>
+            <l n="5">ወእስከ፡ ዲበ፡ ዕፅ፡ ይሰቀል፡ ተስፋሁ፡ ለዮና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለመቃብሪክሙ፡ ለለ፡ መካኑ፡ ወብሔሩ፨</l>
+            <l n="2">በእንተ፡ ክርስቶስ፡ ሥቃየ፡ እንዘ፡ ትጸውሩ፨</l>
+            <l n="3">ሐዋርያት፡ ቅዱሳን፡ ገባዕተ፡ አምላክ፡ ለማዕረሩ፨</l>
+            <l n="4">ቃለ፡ ጽድቅክሙ፡ ውስተ፡ ልብየ፡ አኅድሩ፨</l>
+            <l n="5">ወአእዳዊክሙ፡ ለባርኮ፡ ላዕሌየ፡ አንብሩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">በኍልቈ፡ ስምክሙ፡ ለዘአቅረብኩ፡ ኍልቈ፡ ደቂቁ፡ ለእስራኤል፨</l>
+            <l n="2">አስካለ፡ ውዳሴ፡ ጥዑም፡ በጕርዔ፡ አእዛን፡ ጥሉል፨</l>
+            <l n="3">ሐዋርያት፡ ቅዱሳን፡ ሰባክያነ፡ ቅዱስ፡ ወንጌል፨</l>
+            <l n="4">ዕቀብዎ፡ ለዘጸለየ፡ ወዘነበበ፡ በቃል፨</l>
+            <l n="5">በረድኤትክሙ፡ አምላካዊ፡ እመንሱት፡ ወሀጕል፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

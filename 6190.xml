@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="6190" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እድና፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎdnā</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾƎdnā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ለወሀቤ፡ ሀብታት፡ እግዚአብሔር፡ ዘሠናይ፡ ሀብቱ፡</l>
+            <l n="2">ወለወላዲቱ፡ ድንግል፡ ወሀቢተ፡ ጸጋ፡ በከንቱ፨</l>
+            <l n="3">አስተብቍዒዮሙ፡ እድና፡ ወአልዕሊዮሙ፡ በእንተ፡ ዝንቱ፨</l>
+            <l n="4">የሀቡኒ፡ ሀብተ፡ ክሂል፡ ዘግብረ፡ ተሥእኖ፡ አልቦቱ፨</l>
+            <l n="5">መሐልየ፡ መልክዕ፡ ለኪ፡ ከመ፡ እኅሊ፡ ቦቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">እምብእሲተ፡ ሄኖክ፡ እድና፡ ወእምሄውቱ፡ ለለሜሕ፡</l>
+            <l n="2">ወእሙ፡ ለማቱሳላ፡ ዘመዋዕሊሁ፡ ብዙኅ፨</l>
+            <l n="3">ትከብሪ፡ እድና፡ ወዐብዪ፡ በንጽሕ፨</l>
+            <l n="4">እስመ፡ አንጽሐኪ፡ እምርስተ፡ ዓለም፡ ልሱሕ፨</l>
+            <l n="5">በደመ፡ ገቦሁ፡ ቀይሕ፡ ወልደ፡ አብ፡ መሲሕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ ዘኍልቈ፡ ፊደሉ፡ ሠላስ፨</l>
+            <l n="2">ወይሄሉ፡ ጽሑፈ፡ በሰሌዳ፡ ህልው፡ ሞገሥ፨</l>
+            <l n="3">ንግሥትየ፡ እድና፡ ወለተ፡ ሮማዊ፡ ንጉሥ፨</l>
+            <l n="4">ሴስይኒ፡ እክለ፡ ሣህልኪ፡ በመዋዕለ፡ ረኀብ፡ ዘከርስ፨</l>
+            <l n="5">ወበጊዜ፡ እርቃን፡ ይክድነኒ፡ ምሕረትኪ፡ ልብስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለመቃብርኪ፡ ዘኢተከስተ፡ ለዓይነ፡ ሰብእ፡</l>
+            <l n="2">ከመ፡ መቃብሩ፡ ለሙሴ፡ ነቢየ፡ ምሥጢር፡ ኅቡዕ፨</l>
+            <l n="3">መቅደሰ፡ ቅድሳት፡ እድና፡ ቅድስተ፡ ቅዱሳን፡ ታስዕ፨</l>
+            <l n="4">እስይኒ፡ ዕሴተ፡ ጽድቅ፡ ለብእሴ፡ ኃጢአት፡ ኃጥእ፨</l>
+            <l n="5">በፍጻሜ፡ ዝንቱ፡ ማኅሌት፡ ወዝኩ፡ መልክዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">በእንተ፡ ብካዮን፡ ለአኀት፡ ወሰቆቃዎሙ፡ ለአኃው፨</l>
+            <l n="2">አመ፡ ሞተ፡ ዚአኪ፡ ዮም፡ እምነ፡ ሐይው፨</l>
+            <l n="3">ለባዊት፡ እድና፡ እመ፡ አረጋዊ፡ ልብው፨</l>
+            <l n="4">ናዝዝኒ፡ እምትካዝየ፡ በኑዛዜኪ፡ ፍትው፨</l>
+            <l n="5">ወአስተፍሥሕኒ፡ እምላሕዎ፡ ለብእሲ፡ ልሕው፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ስብሐት፡ ይደሉ፡ ለክርስቶስ፡ ወለማርያም፡ እሙ፨</l>
+            <l n="2">እስመ፡ አብሑኒ፡ እንብብ፡ ለፍቅደ፡ መልክዕኪ፡ ቃለ፡ ሰላሙ፨</l>
+            <l n="3">ቅድስተ፡ ባሕርይ፡ እድና፡ ካልእተ፡ ቅዱሳን፡ ኵሎሙ፨</l>
+            <l n="4">ኅትሚ፡ ገጽየ፡ ወፍጽምየ፡ በማኅተመ፡ ገጹ፡ ወፍጽሙ፨</l>
+            <l n="5">ለበዐለ፡ ወንጌል፡ ዮሐንስ፡ ዘተአኵተ፡ ስሙ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

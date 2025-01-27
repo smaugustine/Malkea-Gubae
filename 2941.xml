@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2941" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ በአታ፡ ለማርያም፡ ውስተ፡ ቤተ፡ መቅደስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Baʾatā la-Māryām wəsta Beta Maqdas</title>
+        <title corresp="#t1" xml:lang="en">Image of the Entrance of Mary into the Temple</title>
+        
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ በአታ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Baʾatā</title>
+        <title corresp="#t2" xml:lang="en">Image of Her Entrance</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ስምኪ፡ ባቍዕ፨</l>
+            <l n="2">ወለሥዕርትኪ፡ ጸሊም፡ ከመ፡ ሕብረ፡ ቋዕ፨</l>
+            <l n="3">ውስተ፡ ቤተ፡ መቅደስ፡ ዘቦእኪ፡ ማርያም፡ መባዕ፨</l>
+            <l n="4">አግዕዝኒ፡ በትንባሌኪ፡ አመ፡ ዕለተ፡ መንሱት፡ ወጽብእ፨</l>
+            <l n="5">እምቅንየተ፡ ሰይጣን፡ ዱሩክ፡ ለብእሲ፡ ኃጥእ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለርእስኪ፡ ዘተከለለ፡ ከዋክብተ፨</l>
+            <l n="2">ወለገጽኪ፡ ዘአንኀ፡ እምገጸ፡ ሙሴ፡ ስብሐተ፨</l>
+            <l n="3">ማርያም፡ ዞኮንኪ፡ ውስተ፡ ቤተ፡ መቅደስ፡ ህሉተ፨</l>
+            <l n="4">ሐውፅኒ፡ በረድኤትኪ፡ ወጸግውኑ፡ ሕይወተ፨</l>
+            <l n="5">ኵሎ፡ ዘመነ፡ ወኵሎ፡ ዕለተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋኪ፡ ውስተ፡ ብሔር፡ ሥዑር፨</l>
+            <l n="2">ወለንብረትኪ፡ ሰላም፡ በየማነ፡ ክርስቶስ፡ በኵር፨</l>
+            <l n="3">ማርያም፡ ዘቦእኪ፡ ውስተ፡ ቤተ፡ መቅደስ፡ በክብር፨</l>
+            <l n="4">ሴስይኒ፡ ከመ፡ ሕፃን፡ ሀሊበ፡ ጥበብ፡ ወምክር፨</l>
+            <l n="5">እስመ፡ ወልደ፡ ወልድኪ፡ አነ፡ በጸጋ፡ ወፍቅር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">አምጣነ፡ አቅረብኩ፡ አነ፡ ብሩረ፡ ስብሐት፡ ወውዳሴ፨</l>
+            <l n="2">ወለበአትኪ፡ ዘኮነ፡ ውስተ፡ ቤተ፡ መቅደስ፡ በሕገ፡ ሙሴ፨</l>
+            <l n="3">ማርያም፡ ወለቱ፡ እስመ፡ አንቲ፡ ለወልደ፡ እሴ፨</l>
+            <l n="4">ጸሐፍኒ፡ ውስተ፡ መጽሐፍኪ፡ ዘኢይቀርቦ፡ ድምሳሴ፨</l>
+            <l n="5">ወአማፅሕንኒ፡ ካዕበ፡ በቅድስት፡ ሥላሴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ኵሉ፡ ሥዕርትየ፨</l>
+            <l n="2">ስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ኵሉ፡ አዕጽምትየ፨</l>
+            <l n="3">ስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ኵሉ፡ ዘተርእየ፨</l>
+            <l n="4">ስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ኵሉ፡ ዘኢያስተርአየ፨</l>
+            <l n="5">ስብሐተ፡ ድንግልናኪ፡ ዘልፈ፡ ይነግር፡ አፉየ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="3076" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፊልጶስ፡ ዘደብረ፡ ሊባኖስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Filəṗṗos za-Dabra Libānos</title>
+        <title corresp="#t1" xml:lang="en">Image of Filəṗṗos of Dabra Libānos</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እወጥን፡ ስብሐተ፡ ለስብሐቲከ፡ ወአስተዋድድ፡ መዝሙረ፨</l>
+            <l n="2">ለቃለ፡ መሰንቆ፡ ጸጋከ፡ እንዘ፡ ይከውኖ፡ አውታረ፨</l>
+            <l n="3">ተራድአኒ፡ ፊልጶስ፡ እስከ፡ ፍጻሜ፡ ቃል፡ ድኅረ፨</l>
+            <l n="4">እመሰ፡ ኢፈጸምኩ፡ ወኢኀተምኩ፡ ነገረ፨</l>
+            <l n="5">ቅድመ፡ ጠቢባን፡ ደቂቅከ፡ ኢይከውን፡ ዝክረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ መፍቀሬ፡ አምላክ፡ ስሙ፨</l>
+            <l n="2">በርእሰ፡ ቀዳማይ፡ ፊልጶስ፡ እንተ፡ ነበረ፡ ቀዲሙ፨</l>
+            <l n="3">ፊልጶስ፡ ሕቱም፡ ለሙሴ፡ በማሕተሙ፨</l>
+            <l n="4">እስራኤል፡ ሕዝብከ፡ አእላፈ፡ አእዛን፡ ኵሎሙ፨</l>
+            <l n="5">መና፡ ውዳሴከ፡ በትፍሥሕት፡ ይጥዕሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ እንተ፡ መጽለወ፡ ላሕዩ፨</l>
+            <l n="2">እስመ፡ ኮነ፡ ሎቱ፡ እምሣዕረ፡ እንስሳ፡ ሲሳዩ፨</l>
+            <l n="3">ፊልጶስ፡ አቡየ፡ ለወልድከ፡ ንንግር፡ ዕበዩ፨</l>
+            <l n="4">ዘወለደኒ፡ በጸጋ፡ እስከ፡ በጸጋሁ፡ አሐዩ፨</l>
+            <l n="5">ውዳሴ፡ ይደሉ፡ ለዕበዩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ በአምሳለ፡ ሥኑ፡ ወራእዩ፨</l>
+            <l n="2">ለክርስቶስ፡ አምላክ፡ ዘአዳም፡ ሥነ፡ ላህዩ፨</l>
+            <l n="3">ሐረሳዊ፡ ፊልጶስ፡ መላኤ፡ ሥርናይ፡ ውስተ፡ ሙዳዩ፨</l>
+            <l n="4">አመ፡ ይወፅእ፡ ቃል፡ በግርማሁ፡ ወዕበየ፡ ዕበይ፡ ዕበዩ፨</l>
+            <l n="5">ፀረ፡ ሕይወትየ፡ ቅትል፡ ወኪያየ፡ አሕዩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ በመካነ፡ ቅድስት፡ አዕንቆ፨</l>
+            <l n="2">ለክርስቶስ፡ አምላክ፡ ድኅረ፡ ፈጸምከ፡ ጻህቆ፨</l>
+            <l n="3">ኦፊልጶስ፡ ጳውሎስ፡ ዘደማስቆ፨</l>
+            <l n="4">እዜምር፡ ለከ፡ እግዚኦ፡ በልሳነ፡ ሠናይ፡ መሰንቆ፨</l>
+            <l n="5">እስመ፡ እምአምላክ፡ ኀሠሥከ፡ መንግሥቶ፡ ወጽድቆ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">አመ፡ ትቀውም፡ በሥልጣንከ፡ እግዚአብሔር፡ ፈጣሪ፨</l>
+            <l n="2">እምዓለመ፡ አበው፡ ቀደምት፡ እስከነ፡ ምጽአትከ፡ ዘደኃሪ፨</l>
+            <l n="3">ክበደ፡ ጌጋዩ፡ ወንጽሑ፡ እንዘለለ፡ ርእሱ፡ ያጠሪ፨</l>
+            <l n="4">ኦመሓሪ፡ ወወልደ፡ አምላክ፡ መሓሪ፨</l>
+            <l n="5">በእንተ፡ ፊልጶስ፡ ረድእ፡ አበሳየ፡ ስሪ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ስብሐት፡ ለከ፡ ኢየሱስ፡ እምአፈ፡ አርድእት፡ ልኡካን፨</l>
+            <l n="2">ስብሐት፡ ለከ፡ ኢየሱስ፡ እምአፈ፡ ጻድቃን፨</l>
+            <l n="3">ስብሐት፡ ለከ፡ ኢየሱስ፡ ንጉሠ፡ ግሼና፡ መካን፨</l>
+            <l n="4">ስብሐት፡ ለከ፡ ኢየሱስ፡ እምአፈ፡ አበው፡ ገዳማውያን፨</l>
+            <l n="5">ስብሐት፡ ለከ፡ እምአፈ፡ ኄራን፡ ይነግር፡ ስብሐቲከ፡ ፊልጶስ፡ ካህን፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+
+      
+      <div type="bibliography">
+        
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="thesis" xml:id="Petros_Solomon2018" corresp="http://zotero.org/groups/5599348/items/U2BT7J6V"><monogr><title level="m">The Gəʾəz Acts of Abunä Filəṗos of Däbra Libanos: Critical Edition and Annotated Translation</title><author><name>Petros Solomon</name></author><imprint><pubPlace>Addis Ababa</pubPlace><date>2018</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Turaiev1908" corresp="http://zotero.org/groups/5599348/items/SUK8I8F7"><monogr><title level="m">Vitae Sanctorum Indigenarum. II. Acta S. Aaronis et Philippi</title><author><forename>Boris</forename><surname>Turaiev</surname></author><imprint><pubPlace>Paris</pubPlace><publisher>E typographeo reipublicae</publisher><date>1908</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">Scriptores Aethiopici, II, 20</biblScope></series></biblStruct></listBibl>
+      </div>
+      
+
+    </body>
+
+  </text>
+</TEI>

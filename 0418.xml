@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0418" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ምሥጢረ፡ መስቀል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Məśṭira Masqal</title>
+        <title corresp="#t1" xml:lang="en">Mystery of the Cross</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ እምቀዲሙ፨</l>
+            <l n="2">ዘሰማይውያን፡ ቦቱ፡ ወምድራውያን፡ ቆሙ፨</l>
+            <l n="3">አሐሊ፡ ለኪ፡ ቤተ፡ ክርስቲያን፡ ሕንጻ፡ ሰላሙ፨</l>
+            <l n="4">ስብሐተ፡ ፍቁር፡ ዘምሥጢረ፡ መስቀል፡ ስሙ፨</l>
+            <l n="5">እስመ፡ መስቀል፡ ውእቱ፡ ለነገር፡ ማሕተሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">እምጸጋ፡ ትንሣኤ፡ እንተ፡ ታቀድም፡ መስቀለ፡ ኀዘን፡ ወእንባዜ፨</l>
+            <l n="2">ወድኅረ፡ መስቀል፡ ታተሉ፡ ትንሣኤ፡ ትፍሥሕት፡ ወኑዛዜ፨</l>
+            <l n="3">ጊዜ፡ ለሐኒጽ፡ ወለንሢተ፡ ቤት፡ ጊዜ፨</l>
+            <l n="4">ዘሠራዕከ፡ ተባርዮተ፡ ስብሐት፡ ለከ፡ ይእዜ፨</l>
+            <l n="5">ባሕቱ፡ እትናዘዝ፡ ማእዜ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>
