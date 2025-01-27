@@ -82,7 +82,7 @@ jobs:
       - name: Commit artifact to TEI branch
         run: |
           git config --global user.name "${GITHUB_ACTOR}"
-          git config --global user.email "${GITHUB_ACTOR_ID}+${GITHUB_ACTOR}@users.noreply.github.com
+          git config --global user.email "${GITHUB_ACTOR_ID}+${GITHUB_ACTOR}@users.noreply.github.com"
           git add .
           git commit -m "Archive TEI files"
           git push origin tei
