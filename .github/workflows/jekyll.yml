@@ -72,16 +72,17 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Download TEI artifact
         uses: actions/download-artifact@v4
         with:
           name: tei
-      - 
-        name: Commit artifact to TEI branch
+      - name: Commit artifact to TEI branch
         run: |
           git switch tei
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "{{ env.CI_COMMIT_AUTHOR_EMAIL }}"
+          git config --global user.name "${{ github.event.pull_request.pull_request.user.name }}"
+          git config --global user.email "${{ github.event.pull_request.pull_request.user.email }}"
           git add tei
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
           git push origin tei
