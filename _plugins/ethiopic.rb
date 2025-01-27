@@ -18,6 +18,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/h{1,2}o/, 'ሆ')
     input = input.gsub(/h{1,2}[ǝə]?/, 'ህ')
 
+    input = input.gsub(/l{1,2}ʷā/, 'ሏ')
     input = input.gsub(/l{1,2}a/, 'ለ')
     input = input.gsub(/l{1,2}u/, 'ሉ')
     input = input.gsub(/l{1,2}i/, 'ሊ')
@@ -26,6 +27,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/l{1,2}o/, 'ሎ')
     input = input.gsub(/l{1,2}[ǝə]?/, 'ል')
 
+    input = input.gsub(/ḥ{1,2}ʷā/, 'ሗ')
     input = input.gsub(/ḥ{1,2}a/, 'ሐ')
     input = input.gsub(/ḥ{1,2}u/, 'ሑ')
     input = input.gsub(/ḥ{1,2}i/, 'ሒ')
@@ -34,6 +36,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/ḥ{1,2}o/, 'ሖ')
     input = input.gsub(/ḥ{1,2}[ǝə]?/, 'ሕ')
     
+    input = input.gsub(/m{1,2}ʷā/, 'ሟ')
     input = input.gsub(/m{1,2}a/, 'መ')
     input = input.gsub(/m{1,2}u/, 'ሙ')
     input = input.gsub(/m{1,2}i/, 'ሚ')
@@ -42,6 +45,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/m{1,2}o/, 'ሞ')
     input = input.gsub(/m{1,2}[ǝə]?/, 'ም')
 
+    input = input.gsub(/ś{1,2}ʷā/, 'ሧ')
     input = input.gsub(/ś{1,2}a/, 'ሠ')
     input = input.gsub(/ś{1,2}u/, 'ሡ')
     input = input.gsub(/ś{1,2}i/, 'ሢ')
@@ -50,6 +54,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/ś{1,2}o/, 'ሦ')
     input = input.gsub(/ś{1,2}[ǝə]?/, 'ሥ')
 
+    input = input.gsub(/r{1,2}ʷā/, 'ሯ')
     input = input.gsub(/r{1,2}a/, 'ረ')
     input = input.gsub(/r{1,2}u/, 'ሩ')
     input = input.gsub(/r{1,2}i/, 'ሪ')
@@ -58,6 +63,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/r{1,2}o/, 'ሮ')
     input = input.gsub(/r{1,2}[ǝə]?/, 'ር')
 
+    input = input.gsub(/s{1,2}ʷā/, 'ሷ')
     input = input.gsub(/s{1,2}a/, 'ሰ')
     input = input.gsub(/s{1,2}u/, 'ሱ')
     input = input.gsub(/s{1,2}i/, 'ሲ')
@@ -66,6 +72,13 @@ module Jekyll::Ethiopic
     input = input.gsub(/s{1,2}o/, 'ሶ')
     input = input.gsub(/s{1,2}[ǝə]?/, 'ስ')
 
+    input = input.gsub(/š{1,2}ʷā/, 'ሿ')
+    input = input.gsub(/š{1,2}a/, 'ሸ')
+    input = input.gsub(/š{1,2}u/, 'ሹ')
+    input = input.gsub(/š{1,2}i/, 'ሺ')
+    input = input.gsub(/š{1,2}ā/, 'ሻ')
+    input = input.gsub(/š{1,2}e/, 'ሼ')
+    input = input.gsub(/š{1,2}o/, 'ሾ')
     input = input.gsub(/š{1,2}[ǝə]?/, 'ሽ')
 
     input = input.gsub(/q{1,2}ʷa/, 'ቈ')
@@ -82,6 +95,21 @@ module Jekyll::Ethiopic
     input = input.gsub(/q{1,2}o/, 'ቆ')
     input = input.gsub(/q{1,2}[ǝə]?/, 'ቅ')
 
+    input = input.gsub(/(q̱){1,2}ʷa/, 'ቘ')
+    input = input.gsub(/(q̱){1,2}ʷi/, 'ቚ')
+    input = input.gsub(/(q̱){1,2}ʷā/, 'ቛ')
+    input = input.gsub(/(q̱){1,2}ʷe/, 'ቜ')
+    input = input.gsub(/(q̱){1,2}ʷ[ǝə]?/, 'ቝ')
+
+    input = input.gsub(/(q̱){1,2}a/, 'ቐ')
+    input = input.gsub(/(q̱){1,2}u/, 'ቑ')
+    input = input.gsub(/(q̱){1,2}i/, 'ቒ')
+    input = input.gsub(/(q̱){1,2}ā/, 'ቓ')
+    input = input.gsub(/(q̱){1,2}e/, 'ቔ')
+    input = input.gsub(/(q̱){1,2}o/, 'ቖ')
+    input = input.gsub(/(q̱){1,2}[ǝə]?/, 'ቕ')
+
+    input = input.gsub(/b{1,2}ʷā/, 'ቧ')
     input = input.gsub(/b{1,2}a/, 'በ')
     input = input.gsub(/b{1,2}u/, 'ቡ')
     input = input.gsub(/b{1,2}i/, 'ቢ')
@@ -90,6 +118,16 @@ module Jekyll::Ethiopic
     input = input.gsub(/b{1,2}o/, 'ቦ')
     input = input.gsub(/b{1,2}[ǝə]?/, 'ብ')
 
+    input = input.gsub(/v{1,2}ʷā/, 'ቯ')
+    input = input.gsub(/v{1,2}a/, 'ቨ')
+    input = input.gsub(/v{1,2}u/, 'ቩ')
+    input = input.gsub(/v{1,2}i/, 'ቪ')
+    input = input.gsub(/v{1,2}ā/, 'ቫ')
+    input = input.gsub(/v{1,2}e/, 'ቬ')
+    input = input.gsub(/v{1,2}o/, 'ቮ')
+    input = input.gsub(/v{1,2}[ǝə]?/, 'ቭ')
+
+    input = input.gsub(/t{1,2}ʷā/, 'ቷ')
     input = input.gsub(/t{1,2}a/, 'ተ')
     input = input.gsub(/t{1,2}u/, 'ቱ')
     input = input.gsub(/t{1,2}i/, 'ቲ')
@@ -112,6 +150,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/ḫ{1,2}o/, 'ኆ')
     input = input.gsub(/ḫ{1,2}[ǝə]?/, 'ኅ')
 
+    input = input.gsub(/n{1,2}ʷā/, 'ኗ')
     input = input.gsub(/n{1,2}a/, 'ነ')
     input = input.gsub(/n{1,2}u/, 'ኑ')
     input = input.gsub(/n{1,2}i/, 'ኒ')
@@ -120,6 +159,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/n{1,2}o/, 'ኖ')
     input = input.gsub(/n{1,2}[ǝə]?/, 'ን')
 
+    input = input.gsub(/ʾ{1,2}ʷā/, 'ኧ')
     input = input.gsub(/ʾ{1,2}a/, 'አ')
     input = input.gsub(/ʾ{1,2}u/, 'ኡ')
     input = input.gsub(/ʾ{1,2}i/, 'ኢ')
@@ -158,6 +198,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/ʿ{1,2}o/, 'ዖ')
     input = input.gsub(/ʿ{1,2}[ǝə]?/, 'ዕ')
 
+    input = input.gsub(/z{1,2}ʷā/, 'ዟ')
     input = input.gsub(/z{1,2}a/, 'ዘ')
     input = input.gsub(/z{1,2}u/, 'ዙ')
     input = input.gsub(/z{1,2}i/, 'ዚ')
@@ -165,6 +206,15 @@ module Jekyll::Ethiopic
     input = input.gsub(/z{1,2}e/, 'ዜ')
     input = input.gsub(/z{1,2}o/, 'ዞ')
     input = input.gsub(/z{1,2}[ǝə]?/, 'ዝ')
+
+    input = input.gsub(/ž{1,2}ʷā/, 'ዧ')
+    input = input.gsub(/ž{1,2}a/, 'ዠ')
+    input = input.gsub(/ž{1,2}u/, 'ዡ')
+    input = input.gsub(/ž{1,2}i/, 'ዢ')
+    input = input.gsub(/ž{1,2}ā/, 'ዣ')
+    input = input.gsub(/ž{1,2}e/, 'ዤ')
+    input = input.gsub(/ž{1,2}o/, 'ዦ')
+    input = input.gsub(/ž{1,2}[ǝə]?/, 'ዥ')
 
     input = input.gsub(/y{1,2}a/, 'የ')
     input = input.gsub(/y{1,2}u/, 'ዩ')
@@ -174,6 +224,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/y{1,2}o/, 'ዮ')
     input = input.gsub(/y{1,2}[ǝə]?/, 'ይ')
 
+    input = input.gsub(/d{1,2}ʷā/, 'ዷ')
     input = input.gsub(/d{1,2}a/, 'ደ')
     input = input.gsub(/d{1,2}u/, 'ዱ')
     input = input.gsub(/d{1,2}i/, 'ዲ')
@@ -182,7 +233,14 @@ module Jekyll::Ethiopic
     input = input.gsub(/d{1,2}o/, 'ዶ')
     input = input.gsub(/d{1,2}[ǝə]?/, 'ድ')
 
+    input = input.gsub(/ǧ{1,2}ʷā/, 'ጇ')
+    input = input.gsub(/ǧ{1,2}a/, 'ጀ')
+    input = input.gsub(/ǧ{1,2}u/, 'ጁ')
+    input = input.gsub(/ǧ{1,2}i/, 'ጂ')
     input = input.gsub(/ǧ{1,2}ā/, 'ጃ')
+    input = input.gsub(/ǧ{1,2}e/, 'ጄ')
+    input = input.gsub(/ǧ{1,2}o/, 'ጆ')
+    input = input.gsub(/ǧ{1,2}[ǝə]?/, 'ጅ')
 
     input = input.gsub(/g{1,2}ʷa/, 'ጐ')
     input = input.gsub(/g{1,2}ʷi/, 'ጒ')
@@ -198,6 +256,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/g{1,2}o/, 'ጎ')
     input = input.gsub(/g{1,2}[ǝə]?/, 'ግ')
 
+    input = input.gsub(/ṭ{1,2}ʷā/, 'ጧ')
     input = input.gsub(/ṭ{1,2}a/, 'ጠ')
     input = input.gsub(/ṭ{1,2}u/, 'ጡ')
     input = input.gsub(/ṭ{1,2}i/, 'ጢ')
@@ -206,9 +265,16 @@ module Jekyll::Ethiopic
     input = input.gsub(/ṭ{1,2}o/, 'ጦ')
     input = input.gsub(/ṭ{1,2}[ǝə]?/, 'ጥ')
 
+    input = input.gsub(/(č̣){1,2}ʷā/, 'ጯ')
     input = input.gsub(/(č̣){1,2}a/, 'ጨ')
+    input = input.gsub(/(č̣){1,2}u/, 'ጩ')
+    input = input.gsub(/(č̣){1,2}i/, 'ጪ')
     input = input.gsub(/(č̣){1,2}ā/, 'ጫ')
+    input = input.gsub(/(č̣){1,2}e/, 'ጬ')
+    input = input.gsub(/(č̣){1,2}o/, 'ጮ')
+    input = input.gsub(/(č̣){1,2}[ǝə]?/, 'ጭ')
 
+    input = input.gsub(/ṗ{1,2}ʷā/, 'ጷ')
     input = input.gsub(/ṗ{1,2}a/, 'ጰ')
     input = input.gsub(/ṗ{1,2}u/, 'ጱ')
     input = input.gsub(/ṗ{1,2}i/, 'ጲ')
@@ -217,6 +283,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/ṗ{1,2}o/, 'ጶ')
     input = input.gsub(/ṗ{1,2}[ǝə]?/, 'ጵ')
 
+    input = input.gsub(/ṣ{1,2}ʷā/, 'ጿ')
     input = input.gsub(/ṣ{1,2}a/, 'ጸ')
     input = input.gsub(/ṣ{1,2}u/, 'ጹ')
     input = input.gsub(/ṣ{1,2}i/, 'ጺ')
@@ -233,6 +300,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/ḍ{1,2}o/, 'ፆ')
     input = input.gsub(/ḍ{1,2}[ǝə]?/, 'ፅ')
 
+    input = input.gsub(/f{1,2}ʷā/, 'ፏ')
     input = input.gsub(/f{1,2}a/, 'ፈ')
     input = input.gsub(/f{1,2}u/, 'ፉ')
     input = input.gsub(/f{1,2}i/, 'ፊ')
@@ -241,6 +309,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/f{1,2}o/, 'ፎ')
     input = input.gsub(/f{1,2}[ǝə]?/, 'ፍ')
 
+    input = input.gsub(/p{1,2}ʷā/, 'ፗ')
     input = input.gsub(/p{1,2}a/, 'ፐ')
     input = input.gsub(/p{1,2}u/, 'ፑ')
     input = input.gsub(/p{1,2}i/, 'ፒ')

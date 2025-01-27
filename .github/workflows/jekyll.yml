@@ -21,6 +21,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+
   # Build job
   build:
     runs-on: ubuntu-latest
@@ -44,9 +45,15 @@ jobs:
         env:
           JEKYLL_ENV: production
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Upload artifact
+      - name: Upload pages artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      - name: Upload TEI artifact
+        # Uploads the TEI files to another branch
+        uses: actions/upload-artifact@v4
+        with:
+          name: tei
+          path: ./_site/api/xml/works
 
   # Deployment job
   deploy:
@@ -59,3 +66,23 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Release job
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Switch to TEI
+        run: |
+          & git switch tei
+      - name: Download TEI artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: tei
+      - 
+        name: Commit artifact
+        run: |
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "{{ env.CI_COMMIT_AUTHOR_EMAIL }}"
+          git add tei
+          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push origin tei
