@@ -68,21 +68,22 @@ jobs:
         uses: actions/deploy-pages@v4
 
   # Release job
-  release:
+  archive:
     runs-on: ubuntu-latest
     needs: build
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: tei
       - name: Download TEI artifact
         uses: actions/download-artifact@v4
         with:
           name: tei
       - name: Commit artifact to TEI branch
         run: |
-          git switch tei
           git config --global user.name "${{ github.event.pull_request.pull_request.user.name }}"
           git config --global user.email "${{ github.event.pull_request.pull_request.user.email }}"
           git add tei
-          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git commit -m "Archive TEI files"
           git push origin tei
