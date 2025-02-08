@@ -28,7 +28,7 @@ module Bibliography
           
           work_id = work.data['title']
 
-          zotero_collection = zotero_collections.find{|collection| collection['name'] == work_id }
+          zotero_collection = zotero_collections.find{ |collection| collection['name'] == work_id }
           
           unless zotero_collection.nil?
 
