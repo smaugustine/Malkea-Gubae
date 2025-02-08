@@ -1,4 +1,0 @@
----
-name: Manan
-#Walatta Giyorgis
----
