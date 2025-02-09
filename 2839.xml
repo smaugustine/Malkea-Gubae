@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="jesus">
+                <persName xml:lang="gez">ኢየሱስ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyasus Krəstos</persName>
+                <persName xml:lang="en">Jesus Christ</persName>
+                <trait>trinitarian</trait>
+
+                
               </person>
               
             </listPerson>

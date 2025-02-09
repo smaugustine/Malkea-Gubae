@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="transfiguration">
+                <persName xml:lang="gez">ደብረ፡ ታቦር፡</persName>
+                <persName xml:lang="gez" type="normalized">Dabra Tābor</persName>
+                <persName xml:lang="en">The Transfiguration of Christ</persName>
+                <trait>trinitarian</trait>
+
+                
               </person>
               
             </listPerson>

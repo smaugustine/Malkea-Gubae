@@ -53,11 +53,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="john-evangelist">
+                <persName xml:lang="gez">ዮሐንስ፡ ወንጌላዊ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannəs Wangelāwi</persName>
+                <persName xml:lang="en">John the Evangelist</persName>
+                <trait>apostle</trait>
+
+                
               </person>
               
             </listPerson>

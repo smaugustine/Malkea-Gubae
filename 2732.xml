@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2738" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2732" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ልደቱ፡ ለጊዮርጊስ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Lədatu la-Giyorgis</title>
-        <title corresp="#t1" xml:lang="en">Image of the Nativity of George</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዲዮስቆሮስ፡ ወሳዊርያኖስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Diyosqoros wa-Sāwiryānos</title>
+        <title corresp="#t1" xml:lang="en">Image of Dioscorus and Severian</title>
         
       </titleStmt>
 
@@ -46,11 +46,21 @@
             <listPerson>
               
               
-              <person xml:id="george">
-                <persName xml:lang="gez">ጊዮርጊስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Giyorgis</persName>
-                <persName xml:lang="en">George</persName>
+              <person xml:id="dioscorus">
+                <persName xml:lang="gez">ዲዮስቆሮስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Diyosqoros</persName>
+                <persName xml:lang="en">Dioscorus</persName>
                 <trait>martyr</trait>
+
+                
+              </person>
+              
+              
+              <person xml:id="severian">
+                <persName xml:lang="gez">ሳዊርያኖስ፡ ዘገብሎን፡</persName>
+                <persName xml:lang="gez" type="normalized">Sāwiryānos za-Gablon</persName>
+                <persName xml:lang="en">Severian of Gabala</persName>
+                <trait>righteous</trait>
 
                 
               </person>
@@ -69,41 +79,25 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">ሰላም፡ ለልደትከ፡ እንተ፡ ኮኖሙ፡ ትፍሥሕተ፨</l>
-            <l n="2">ለእለ፡ በሰማይ፡ ነበሩ፡ ወእለ፡ ኃደሩ፡ ታሕተ፨</l>
-            <l n="3">ጊዮርጊስ፡ ብርሃን፡ ዘአሰሰልከ፡ ጽልመተ፨</l>
-            <l n="4">መብረቀ፡ ሃይማኖትከ፡ ዐረፍተ፡ ኑፋቄ፡ ነሠተ፨</l>
-            <l n="5">ወጽላሎትከ፡ አንሥአ፡ ምዉተ፨</l>
+            <l n="1">ማሕሌተ፡ ዲዮስቆሮስ፡ አብ፡ ወሳዊርያኖስ፡ ክቡር፨</l>
+            <l n="2">እለ፡ መገቡ፡ ዓለመ፡ በዘእስክንድርያ፡ መንበር፨</l>
+            <l n="3">[The rest of the text is currently unavailable.]</l>
 
           </lg>
           
           <lg type="stanza" n="2">
             
-            <l n="1">ሰላም፡ ለልደትከ፡ እምልደተ፡ አበው፡ ዘተልዕለ፨</l>
-            <l n="2">ምስለ፡ በዓለ፡ ድንግል፡ ማርያም፡ አመ፡ ረሰየ፡ በዓለ፨</l>
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ወለሥዕርትክሙ፡ ዓዲ፨</l>
+            <l n="2">ዘኈለቍዎ፡ ሥላሴ፡ አማልክተ፡ ኵሉ፡ ሰጋዲ፨</l>
             <l n="3"></l>
             <l n="4"></l>
             <l n="5"></l>
 
           </lg>
           
-          <lg type="stanza" n="26">
+          <lg type="stanza" n="99">
             
             <l n="1"></l>
-            <l n="2"></l>
-            <l n="3"></l>
-            <l n="4"></l>
-            <l n="5"></l>
-
-          </lg>
-          
-          <lg type="stanza" n="27">
-            
-            <l n="1"></l>
-            <l n="2"></l>
-            <l n="3"></l>
-            <l n="4"></l>
-            <l n="5"></l>
 
           </lg>
           

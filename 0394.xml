@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="yeshaq-sarari">
+                <persName xml:lang="gez">ይስሐቅ፡ ሣራሪ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yǝsḥaq Śārāri</persName>
+                <persName xml:lang="en">Yǝsḥaq the Founder</persName>
+                <trait>righteous</trait>
+
+                
               </person>
               
             </listPerson>

@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="bartalomewos-d-zamaddo">
+                <persName xml:lang="gez">በርተሎሜዎስ፡ ዘደብረ፡ ዘመዶ፡</persName>
+                <persName xml:lang="gez" type="normalized">Bartalomewos za-Dabra Zamaddo</persName>
+                <persName xml:lang="en">Bartalomewos of Dabra Zamaddo</persName>
+                <trait>righteous</trait>
+
+                
               </person>
               
             </listPerson>

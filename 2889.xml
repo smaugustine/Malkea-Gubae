@@ -49,11 +49,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="sunday">
+                <persName xml:lang="gez">ሰንበተ፡ ክርስቲያን፡</persName>
+                <persName xml:lang="gez" type="normalized">Sanbata Krəstiyān</persName>
+                <persName xml:lang="en">The Sabbath of the Christians</persName>
+                <trait>other</trait>
+
+                
               </person>
               
             </listPerson>

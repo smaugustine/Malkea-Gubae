@@ -45,18 +45,24 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="ammeha-giyorgis-d-sege">
+                <persName xml:lang="gez">አምኃ፡ ጊዮርጊስ፡ ዘደብረ፡ ጽጌ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAmməḫā Giyorgis za-Dabra Ṣəge</persName>
+                <persName xml:lang="en">ʾAmməḫā Giyorgis of Dabra Ṣəge</persName>
+                <trait>righteous</trait>
+
+                
               </person>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="sege-dengel-d-sege">
+                <persName xml:lang="gez">ጽጌ፡ ድንግል፡ ዘደብረ፡ ጽጌ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṣəge Dəngəl za-Dabra Ṣəge</persName>
+                <persName xml:lang="en">Ṣəge Dəngəl of Dabra Ṣəge</persName>
+                <trait>righteous</trait>
+
+                
               </person>
               
             </listPerson>

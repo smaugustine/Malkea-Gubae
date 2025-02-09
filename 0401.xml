@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="samuel-gg">
+                <persName xml:lang="gez">ሳሙኤል፡ ፋድል፡ ዘጉንደ፡ ጉንዴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Sāmuʾel Fādəl za-Gunda Gunde</persName>
+                <persName xml:lang="en">Sāmuʾel Fādəl of Gunda Gunde</persName>
+                <trait>righteous</trait>
+
+                
               </person>
               
             </listPerson>

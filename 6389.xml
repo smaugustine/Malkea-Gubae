@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="theodore-general">
+                <persName xml:lang="gez">ቴዎድሮስ፡ ሊቀ፡ ሠራዊት፡</persName>
+                <persName xml:lang="gez" type="normalized">Tewodros Liqa Śarāwit</persName>
+                <persName xml:lang="en">Theodore the General</persName>
+                <trait>martyr</trait>
+
+                
               </person>
               
             </listPerson>

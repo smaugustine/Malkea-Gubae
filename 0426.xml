@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="koskam">
+                <persName xml:lang="gez">በአታ፡ ለማርያም፡ ውስተ፡ ደብረ፡ ቍስቋም፡</persName>
+                <persName xml:lang="gez" type="normalized">Baʾatā la-Māryām wəsta Dabra Qʷəsqʷām</persName>
+                <persName xml:lang="en">The Arrival of Mary at Mount Koskam</persName>
+                <trait>marian</trait>
+
+                
               </person>
               
             </listPerson>

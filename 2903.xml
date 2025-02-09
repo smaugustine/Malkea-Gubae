@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="nicaea">
+                <persName xml:lang="gez">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰማንቱ፡ ርቱዓነ፡ ሃይማኖት፡</persName>
+                <persName xml:lang="gez" type="normalized">Śalastu Məʾt ʿAśśartu wa-Samāntu Rətuʿāna Hāymānot</persName>
+                <persName xml:lang="en">The Three-Hundred and Eighteen Orthodox</persName>
+                <trait>righteous</trait>
+
+                
               </person>
               
             </listPerson>

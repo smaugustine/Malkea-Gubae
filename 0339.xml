@@ -49,11 +49,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="angels">
+                <persName xml:lang="gez">መላእክት፡</persName>
+                <persName xml:lang="gez" type="normalized">Malāʾəkt</persName>
+                <persName xml:lang="en">The Angels</persName>
+                <trait>angelic</trait>
+
+                
               </person>
               
             </listPerson>

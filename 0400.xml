@@ -45,18 +45,24 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="yeshaq-gg">
+                <persName xml:lang="gez">ይስሐቅ፡ ዘጉንደ፡ ጉንዴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yǝsḥaq za-Gunda Gunde</persName>
+                <persName xml:lang="en">Yǝsḥaq of Gunda Gunde</persName>
+                <trait>righteous</trait>
+
+                
               </person>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="iyosab-gg">
+                <persName xml:lang="gez">ኢዮሳብ፡ ዘጉንደ፡ ጉንዴ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyosāb za-Gunda Gunde</persName>
+                <persName xml:lang="en">ʾIyosāb of Gunda Gunde</persName>
+                <trait>righteous</trait>
+
+                
               </person>
               
             </listPerson>

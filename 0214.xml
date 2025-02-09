@@ -45,11 +45,14 @@
           <desc>
             <listPerson>
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait></trait>
+              
+              <person xml:id="father">
+                <persName xml:lang="gez">እግዚአብሔር፡ አብ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎgziʾabəḥer ʾAb</persName>
+                <persName xml:lang="en">God the Father</persName>
+                <trait>trinitarian</trait>
+
+                
               </person>
               
             </listPerson>
