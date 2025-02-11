@@ -1,6 +1,10 @@
 <footer class="footer">
   <div class="content has-text-centered">
-    <p>&copy; 2020&ndash;{{ "now" | date: "%Y" }} Augustine Dickinson.</p>
+    <p>
+      <span>&copy; 2020&ndash;{{ "now" | date: "%Y" }} Augustine Dickinson.</span>
+      <br>
+      <small><a href="https://orcid.org/0000-0002-7732-3524" target="_blank">https://orcid.org/0000-0002-7732-3524</a></small>
+    </p>
     <p>Last updated: <time datetime="{{ site.last_modified | date_to_xmlschema }}">{{ site.last_modified | date: "%-d %B %Y" }}</time>.</p>
     <p xmlns:cc="http://creativecommons.org/ns#">
       All content is licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer">Creative Commons Attribution-ShareAlike 4.0 International</a>.
