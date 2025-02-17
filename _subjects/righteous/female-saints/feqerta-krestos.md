@@ -1,6 +1,6 @@
 ---
 name: Fəqərta Krəstos
 kinefe-rigb: 52
-#commemorations:
-#  - [, ]
+commemorations:
+  - [29, 6]
 ---
