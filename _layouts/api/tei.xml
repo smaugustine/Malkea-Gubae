@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>{{ "now" | date: "%Y" }}</date>
@@ -27,7 +28,58 @@
       <sourceDesc>
         <p>{{ site.alt_title }}</p>
       </sourceDesc>
+
+      {% if page.chaine or page.habtemichael %}
+      <notesStmt>
+        <note>
+          <listBibl>
+            {% if page.chaine %}
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">{{ page.chaine | join: ", " }}</citedRange>
+            </biblStruct>
+            {% endif %}
+            {% if page.habtemichael %}
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">{{ page.habtemichael | join: ", " }}</citedRange>
+            </biblStruct>
+            {% endif %}
+          </listBibl>
+        </note>
+      </notesStmt>
+      {% endif %}
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,46 +90,6 @@
   <text>
 
     <body>
-
-      {% if page.subjects.size > 0 %}
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              {% for key in page.subjects %}
-              {% assign subject = site.subjects | find_exp: "subject", "subject.key == key" %}
-              <person xml:id="{{ subject.id | split: '/' | last }}">
-                <persName xml:lang="gez">{{ subject.name.gez | fidal }}</persName>
-                <persName xml:lang="gez" type="normalized">{{ subject.name.gez }}</persName>
-                <persName xml:lang="en">{{ subject.name.en }}</persName>
-                <trait>{{ subject.type }}</trait>
-
-                {% if subject.kinefe-rigb %}
-                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
-                  <analytic>
-                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
-                    <author><name>Kinefe-Rigb Zelleke</name></author>
-                  </analytic>
-                  <monogr>
-                    <title level="j">Journal of Ethiopian Studies</title>
-                    <imprint>
-                      <biblScope unit="volume">13</biblScope>
-                      <biblScope unit="issue">2</biblScope>
-                      <biblScope unit="page">57–102</biblScope>
-                      <biblScope unit="item">{{ subject.kinefe-rigb }}</biblScope>
-                      <date>1975</date>
-                    </imprint>
-                  </monogr>
-                </biblStruct>
-                {% endif %}
-              </person>
-              {% endfor %}
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      {% endif %}
-
       <div type="edition" xml:lang="gez">
 
         {% if page.masgabiya %}<div type="textpart" xml:id="masgabiya">
@@ -114,14 +126,55 @@
         </div>{% endif %}
         
       </div>
+    </body>
+    
+    <back>
 
+      {% if page.subjects.size > 0 %}
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              {% for key in page.subjects %}
+              {% assign subject = site.subjects | find_exp: "subject", "subject.key == key" %}
+              <person xml:id="{{ subject.id | split: '/' | last }}">
+                <persName xml:lang="gez">{{ subject.name.gez | fidal }}</persName>
+                <persName xml:lang="gez" type="normalized">{{ subject.name.gez }}</persName>
+                <persName xml:lang="en">{{ subject.name.en }}</persName>
+                <trait>{{ subject.type }}</trait>
+
+                {% if subject.kinefe-rigb %}
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">{{ subject.kinefe-rigb }}</citedRange>
+                </biblStruct>
+                {% endif %}
+              </person>
+              {% endfor %}
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      {% endif %}
       {% if page.bibliography %}
       <div type="bibliography">
         {{ page.bibliography }}
       </div>
       {% endif %}
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>
