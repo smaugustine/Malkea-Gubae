@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +42,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="martyrs-d-libanos">
-                <persName xml:lang="gez">ሰማዕታተ፡ ደብረ፡ ሊባኖስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Samāʿtāta Dabra Libānos</persName>
-                <persName xml:lang="en">The Martyrs of Dabra Libānos</persName>
-                <trait>righteous</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         <div type="textpart" xml:id="masgabiya">
@@ -113,15 +94,39 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="martyrs-d-libanos">
+                <persName xml:lang="gez">ሰማዕታተ፡ ደብረ፡ ሊባኖስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Samāʿtāta Dabra Libānos</persName>
+                <persName xml:lang="en">The Martyrs of Dabra Libānos</persName>
+                <trait>righteous</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Mersha_Alehagne2017" corresp="http://zotero.org/groups/5599348/items/C5FL39AG"><analytic><title level="a">The Mälkəʾa Sämaʿətat of Däbrä Libanos: Text and Translation</title><author><name>Mersha Alehagne</name></author></analytic><monogr><title level="j">Rassegna di Studi Etiopici</title><imprint><biblScope unit="volume">1, 3&lt;sup&gt;a&lt;/sup&gt; Serie (48)</biblScope><biblScope unit="page">121-137</biblScope><date>2017</date></imprint></monogr></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

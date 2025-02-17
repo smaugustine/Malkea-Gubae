@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,39 +42,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="ammeha-giyorgis-d-sege">
-                <persName xml:lang="gez">አምኃ፡ ጊዮርጊስ፡ ዘደብረ፡ ጽጌ፡</persName>
-                <persName xml:lang="gez" type="normalized">ʾAmməḫā Giyorgis za-Dabra Ṣəge</persName>
-                <persName xml:lang="en">ʾAmməḫā Giyorgis of Dabra Ṣəge</persName>
-                <trait>righteous</trait>
-
-                
-              </person>
-              
-              
-              <person xml:id="sege-dengel-d-sege">
-                <persName xml:lang="gez">ጽጌ፡ ድንግል፡ ዘደብረ፡ ጽጌ፡</persName>
-                <persName xml:lang="gez" type="normalized">Ṣəge Dəngəl za-Dabra Ṣəge</persName>
-                <persName xml:lang="en">Ṣəge Dəngəl of Dabra Ṣəge</persName>
-                <trait>righteous</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -122,10 +93,44 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
       
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="ammeha-giyorgis-d-sege">
+                <persName xml:lang="gez">አምኃ፡ ጊዮርጊስ፡ ዘደብረ፡ ጽጌ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAmməḫā Giyorgis za-Dabra Ṣəge</persName>
+                <persName xml:lang="en">ʾAmməḫā Giyorgis of Dabra Ṣəge</persName>
+                <trait>righteous</trait>
 
-    </body>
+                
+              </person>
+              
+              
+              <person xml:id="sege-dengel-d-sege">
+                <persName xml:lang="gez">ጽጌ፡ ድንግል፡ ዘደብረ፡ ጽጌ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṣəge Dəngəl za-Dabra Ṣəge</persName>
+                <persName xml:lang="en">Ṣəge Dəngəl of Dabra Ṣəge</persName>
+                <trait>righteous</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+      
+    </back>
 
   </text>
 </TEI>

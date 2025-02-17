@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +42,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="hayyala-krestos">
-                <persName xml:lang="gez">ሀየለ፡ ክርስቶስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Hayyala Krəstos</persName>
-                <persName xml:lang="en">Hayyala Krəstos</persName>
-                <trait>righteous</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -133,10 +114,34 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
       
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="hayyala-krestos">
+                <persName xml:lang="gez">ሀየለ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Hayyala Krəstos</persName>
+                <persName xml:lang="en">Hayyala Krəstos</persName>
+                <trait>righteous</trait>
 
-    </body>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+      
+    </back>
 
   </text>
 </TEI>

@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,58 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">198</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">163</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,6 +90,230 @@
   <text>
 
     <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ በሀገረ፡ ዐባይ፡ ገሊላ፨</l>
+            <l n="2">ወለልደትከ፡ ትለድ፡ አእላፈ፡ ፍጽም፡ ወከዋላ፨</l>
+            <l n="3">ሊቀ፡ ጳጳሳት፡ ማርቆስ፡ ዘግብጽ፡ ወደወላ፨</l>
+            <l n="4">ከመ፡ መሐልኩ፡ ወአጥባዕኩ፡ ለሰብሖ፡ ስምከ፡ ተድላ፨</l>
+            <l n="5">ለወሂበ፡ ፈውስ፡ እምሕማም፡ ሀበኒ፡ መሐላ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘአፈ፡ መላእክት፡ ወደሶ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሜላት፡ ዘዕርቃነ፡ ርእስከ፡ ለብሶ፨</l>
+            <l n="3">ሐዲሰ፡ ልቡና፡ ማርቆስ፡ ብልየተ፡ ልብ፡ ዘትሔድሶ፨</l>
+            <l n="4">ሐድሶ፡ ለሕሊናየ፡ ወለሥጋየ፡ ቀድሶ፨</l>
+            <l n="5">ዘበላዕሌሁ፡ ለጌጋይ፡ አንገሦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለገጽከ፡ ምስለ፡ ቀራንብት፡ ወአዕይንት፨</l>
+            <l n="2">እለ፡ ድኅረ፡ ሌሊት፡ ኢኖማ፡ በዕብሬተ፡ ክርስቶስ፡ መዓልት፨</l>
+            <l n="3">ማርቆስ፡ ሕይወት፡ ማርቆስ፡ ሞት፨</l>
+            <l n="4">እስመ፡ ተበዋሕከ፡ በካዕከ፡ እሉ፡ ሀብታት፨</l>
+            <l n="5">ሀበኒ፡ ሀብተ፡ ዘባቲ፡ ምሕረት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለአእዛኒከ፡ ወለመላትሒከ፡ ዘተዛወጋ፨</l>
+            <l n="2">ፍሬያተ፡ ሮማን፡ አእናፈ፡ እንበለ፡ ይኅድጋ፨</l>
+            <l n="3">ቀናዒ፡ ማርቆስ፡ ለእንተ፡ ተዐቢ፡ ጸጋ፨</l>
+            <l n="4">ቅናዕ፡ ለክብርከ፡ እንዘ፡ በሥጋ፨</l>
+            <l n="5">እስመ፡ ላዕለ፡ ነፍስየ፡ ገብሩ፡ ሕማማት፡ እንግልጋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለከናፍሪከ፡ እለ፡ መሐራ፡ ወንጌለ፨</l>
+            <l n="2">ምስለ፡ አፉከ፡ ወአስናኒከ፡ ኀበ፡ ቤተ፡ ጣዖት፡ ንህለ፨</l>
+            <l n="3">ማርቆስ፡ ክርስቶስሃ፡ ስቁለ፨</l>
+            <l n="4">መስልኮሙ፡ ለአብዳን፡ ከመ፡ ልቡናሁ፡ ዘሐጕለ፨</l>
+            <l n="5">ወለጠቢባን፡ ዘወለጠ፡ ቃለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለልሳንከ፡ ወለቃልከ፡ ሰባኪ፨</l>
+            <l n="2">በኀይለ፡ እስትንፋስ፡ ዘይረድእ፡ ወንጌለ፡ መለኮት፡ መሐኪ፨</l>
+            <l n="3">ሱራፌላዊ፡ ማርቆስ፡ ቀዳሴ፡ ቅዱስ፡ መላኪ፨</l>
+            <l n="4">ለዮሐንስ፡ ሕሊናየ፡ ከመ፡ ለለ፡ ጊዜ፡ ኢይስኪ፨</l>
+            <l n="5">መጽሐፈ፡ አእምሮ፡ ጸግዎ፡ እንዘ፡ ትብል፡ ኢትብኪ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለጕርዔከ፡ ወለክሳድከ፡ ዘተስሕበ፨</l>
+            <l n="2">ምስለ፡ መትከፍትከ፡ በሐብል፡ አመ፡ መሀርከ፡ አሕዛበ፨</l>
+            <l n="3">ማርቆስ፡ እንተ፡ ተለውከ፡ ኮከበ፨</l>
+            <l n="4">እምያዕቆብ፡ ዘሠረቀ፡ ከመ፡ ቃለ፡ ነቢይ፡ ነበበ፨</l>
+            <l n="5">አትልወኒ፡ እባእ፡ ሐዳሰ፡ ከብካበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለዘባንከ፡ ወለእንግድዓከ፡ ምስለ፡ ሕፅን፨</l>
+            <l n="2">ዘበላዕሁ፡ ረፈቀ፡ ብሉየ፡ መዋዕል፡ ሕፃን፨</l>
+            <l n="3">ምግባረ፡ ሠናያት፡ ማርቆስ፡ ወወንጌላዊ፡ አሚን፨</l>
+            <l n="4">ኪያኪ፡ ዘተምህረ፡ ይትመሀር፡ በደይን፨</l>
+            <l n="5">እስመ፡ ኀበ፡ አምላክ፡ ሀለዎ፡ ሀላዊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ሰላም፡ ለአእዳዊከ፡ ዘበሐብለ፡ አፅራር፡ እለ፡ ተዐሥራ፨</l>
+            <l n="2">ምስለ፡ መዛርዕ፡ ወኵርናዕ፡ ሶበ፡ ሠናያተ፡ ገብራ፨</l>
+            <l n="3">አምላከ፡ ግብጽ፡ ማርቆስ፡ ለቤተ፡ ክርስቲያን፡ በእንተ፡ ፍቅራ፨</l>
+            <l n="4">በጻሕከ፡ እስከ፡ ለሞት፡ በእደ፡ ምውታን፡ ሐራ፨</l>
+            <l n="5">ከመ፡ አዘዘከ፡ ለድንግል፡ በክራ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ሰላም፡ ለእመታቲከ፡ ወለእራኃቲከ፡ እለ፡ መጠዋ፨</l>
+            <l n="2">ምስለ፡ አጻብእ፡ ለነፍስ፡ ኅብስተ፡ ሕይወት፡ ዘያሐይዋ፨</l>
+            <l n="3">መቅደሰ፡ ቤተ፡ ሕግ፡ ማርቆስ፡ ኪሩቤል፡ ዘይኬልልዋ፨</l>
+            <l n="4">በግዐ፡ ቅዳሴ፡ ወቃለ፡ ስብሐት፡ ጣዕዋ፨</l>
+            <l n="5">ካህናተ፡ ሰማይ፡ ውስቴትከ፡ ይሠውዑ፡ ነዋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለአጽፋረ፡ እዴከ፡ ወለገቦከ፡ ምስለ፡ ከርሥ፨</l>
+            <l n="2">እለ፡ ነጸፉ፡ ሥቃየ፡ በእንተ፡ ኢየሱስ፡ ክርስቶስ፨</l>
+            <l n="3">ዘተድላ፡ መንበርከ፡ ፍትሕ፡ ማርቆስ፡ ንጉሥ፨</l>
+            <l n="4">ሐራከ፡ ፈኑ፡ ምሕረታተ፡ እማዕሠረ፡ ሕማም፡ በፈውስ፨</l>
+            <l n="5">ከመ፡ ይፍትሕዋ፡ ለሕምምት፡ ነፍስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለልብከ፡ ወለኵልያቲከ፡ ሐልዮ፨</l>
+            <l n="2">እለ፡ ይጸውራ፡ ወትረ፡ እንበለ፡ ጽርዓት፡ ወተሀይዮ፨</l>
+            <l n="3">ቅዳሚሁ፡ ለወንጌል፡ እንዘ፡ ለክርስቶስ፡ ትሰምዮ፨</l>
+            <l n="4">ማርቆስ፡ ጊዜ፡ መሀርከ፡ ልቡና፡ አሕዛብ፡ ጌጋዮ፨</l>
+            <l n="5">ኀደገ፡ ይኅድግ፡ ዘባዕዳን፡ ተቀንዮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለአማዑቲከ፡ ዘእምንዋየ፡ ውስጥ፡ ኢተፈልጠ፨</l>
+            <l n="2">ወለኅንብርትከ፡ ውስቴቱ፡ ዘደመ፡ ሥርዓት፡ ተሠውጠ፨</l>
+            <l n="3">ታቦተ፡ ሃይማኖት፡ ማርቆስ፡ ዘበወርቀ፡ ምግባር፡ ተለብጠ፨</l>
+            <l n="4">እምቅድስት፡ ዓለምነ፡ እንተ፡ ታጸንሕ፡ ተውላጠ፨</l>
+            <l n="5">ሙሴ፡ ወልደ፡ አምላክ፡ አብአከ፡ ውስጠ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለሐቌከ፡ ወለአቍያጺከ፡ ምስለ፡ አብራክ፨</l>
+            <l n="2">እለ፡ አብዝኀ፡ ሰጊደ፡ ለዘይሤለጥ፡ አምላክ፨</l>
+            <l n="3">ማርቆስ፡ ዘኢትመውት፡ መልአክ፨</l>
+            <l n="4">ዐወደነ፡ ዕቀብ፡ እምሶርያ፡ ፀረ፡ ነፍስነ፡ ድሩክ፨</l>
+            <l n="5">መልአከ፡ በረከት፡ ከመ፡ ዐቀቦ፡ ለኤልሳዕ፡ ቡሩክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ሰላም፡ ለአእጋሪከ፡ ወለሰኳንዊከ፡ ዘኢደክማ፨</l>
+            <l n="2">ምስለ፡ መከየድከ፡ ወአጻብዒከ፡ አመ፡ ዐውደ፡ ስምዕ፡ ቆማ፨</l>
+            <l n="3">ኢያሱ፡ ማርቆስ፡ ድቀተ፡ ንጉሣ፡ ወጥቅማ፨</l>
+            <l n="4">ለኢያሪኮ፡ ምድረ፡ ግብጽ፡ ማኅደረ፡ ነፍስ፡ ዘማ፨</l>
+            <l n="5">በኀይለ፡ ዕፍረትከ፡ ይደቅ፡ እምላዕሌየ፡ ጻማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለአጽፋረ፡ እግርከ፡ ወለቆምከ፡ ዘዐቀምዎ፨</l>
+            <l n="2">ቅድመ፡ ገጸ፡ ንጉሥ፡ አብዳን፡ ከመ፡ ይቅሥፍዎ፨</l>
+            <l n="3">ንጉሠ፡ ጽድቅ፡ ማርቆስ፡ ዘኢተአምር፡ ሐስዎ፨</l>
+            <l n="4">ለምንት፡ ኀይለ፡ ደዌ፡ ለጥዒናየ፡ ፄወዎ፨</l>
+            <l n="5">እንዘ፡ ለመልእክት፡ ምስሌከ፡ እፈቅድ፡ ሀልዎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ ዘሣቀይዎ፡ በበ፡ ጾታ፨</l>
+            <l n="2">አፅራረ፡ ሃይማኖት፡ እምሥጋ፡ ለነፍስከ፡ አመ፡ ፀዓታ፨</l>
+            <l n="3">ለፍኖተ፡ ክርስቶስ፡ ማርቆስ፡ እንዘ፡ ትተሉ፡ ፍኖታ፨</l>
+            <l n="4">ለግብጽ፡ ኀይለ፡ አምላካዌ፡ አመ፡ ገበርከ፡ ውስቴታ፨</l>
+            <l n="5">አማልክቲሃ፡ ተዘርዉ፡ ወወድቀ፡ ትውክልታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋከ፡ ዘገነዝዎ፡ አዕሩግ፨</l>
+            <l n="2">እለ፡ በፍቅርከ፡ ወፅኡ፡ እምፍቅረ፡ ጣዖት፡ ጸዋግ፨</l>
+            <l n="3">ሙሴ፡ ማርቆስ፡ እንዘ፡ ረድኤትከ፡ ሕግ፨</l>
+            <l n="4">ተቃተል፡ ለሕዝብከ፡ ኢይቅትሉኒ፡ በደርግ፨</l>
+            <l n="5">ሕማም፡ ሴዎን፡ ወጌጋይ፡ አግ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ሰላም፡ ለዕለተ፡ ሞትከ፡ ዕለተ፡ ነጐድጓድ፡ ወመብረቅ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ክብርት፡ በምድረ፡ ምሥራቅ፨</l>
+            <l n="3">በላዕለ፡ ሊቃናት፡ ኵሎሙ፡ ማርቆስ፡ ሊቅ፨</l>
+            <l n="4">ጽድቅከ፡ ሞአ፡ ወኀየለ፡ ግብረ፡ ኀይለ፡ አዕሩግ፡ ወደቅ፨</l>
+            <l n="5">እስመ፡ እምኵሉ፡ ኀይል፡ ይመውዕ፡ ጽድቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለትንሣኤከ፡ ዐለተ፡ ብዙኅ፡ ሃሌ፡ ሉያ፨</l>
+            <l n="2">ወለዕርገትከ፡ በክብር፡ መንገለ፡ ዐርገ፡ ኬንያ፨</l>
+            <l n="3">ዜናዌ፡ ተድላ፡ ዘነፍስ፡ ማርቆስ፡ ሐዋርያ፨</l>
+            <l n="4">ዜንወኒ፡ ፈውሰ፡ ለነፍስየ፡ እንዘ፡ ትኔጽር፡ ብካያ፨</l>
+            <l n="5">እስመ፡ ኀጢአት፡ ሰሰን፡ ፈድፉደ፡ አድወያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">አምኃ፡ ማሕሌት፡ ነፍስየ፡ እንዘ፡ ትጸውር፡ በርእሳ፨</l>
+            <l n="2">ኀቤከ፡ አምጣነ፡ ባቲ፡ ኀሠሣ፨</l>
+            <l n="3">ዐቃቤ፡ ሥራይ፡ ማርቆስ፡ ለነፍሰ፡ ሕሙማን፡ ዘትሔድሳ፨</l>
+            <l n="4">ለፌ፡ ፈያት፡ ሕማማት፡ ወለፌ፡ አበሳ፨</l>
+            <l n="5">እስመ፡ አቍሰልዋ፡ አስተዳሉ፡ ፈውሳ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
 
       
       <listRelation>
@@ -60,52 +336,9 @@
         </relation>
       </listRelation>
       
-
-      <div type="edition" xml:lang="gez">
-
-        
-
-        <div type="textpart" xml:id="malke">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">ሰላም፡ ለፅንሰትከ፡ በሀገረ፡ ዐባይ፡ ገሊላ፨</l>
-            <l n="2">ወለልደትከ፡ ትለድ፡ አእላፈ፡ ፍጽም፡ ወክዋላ፨</l>
-            <l n="3">ሊቀ፡ ጳጳሳት፡ ማርቆስ፡ ዘግብጽ፡ ወዘደወላ፨</l>
-            <l n="4">ከመ፡ መሐልኩ፡ ወአጥባዕኩ፡ ለሰብሖ፡ ስምከ፡ ተድላ፨</l>
-            <l n="5">ለውሂበ፡ ፈውስ፡ እምሕማም፡ ሀበኒ፡ መሐላ፨</l>
-
-          </lg>
-          
-          <lg type="stanza" n="2">
-            
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘአፈ፡ መልአክ፡ ወደሶ፨</l>
-            <l n="2">ወለሥዕርትከ፡ ሜላት፡ ዘዕርቃነ፡ ርእስከ፡ ለብሶ፨</l>
-            <l n="3">ሐዲሰ፡ ልቡና፡ ማርቆስ፡ ለብልየተ፡ ልብ፡ ዘትሔድሶ፨</l>
-            <l n="4">ሐድስ፡ ኅሊናየ፡ ወለሥጋየ፡ ቀድሶ፨</l>
-            <l n="5">ዘበላዕሌሁ፡ ለጌጋይ፡ አንገሦ፨</l>
-
-          </lg>
-          
-          <lg type="stanza" n="99">
-            
-            <l n="1"></l>
-            <l n="2"></l>
-            <l n="3"></l>
-            <l n="4"></l>
-            <l n="5"></l>
-
-          </lg>
-          
-        </div>
-
-        
-        
-      </div>
-
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

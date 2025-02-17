@@ -20,6 +20,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -31,7 +32,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -42,29 +46,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="trinity">
-                <persName xml:lang="gez">ቅድስት፡ ሥላሴ፡</persName>
-                <persName xml:lang="gez" type="normalized">Qəddəst Śəllāse</persName>
-                <persName xml:lang="en">Holy Trinity</persName>
-                <trait>trinitarian</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -125,10 +106,34 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
       
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="trinity">
+                <persName xml:lang="gez">ቅድስት፡ ሥላሴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Qəddəst Śəllāse</persName>
+                <persName xml:lang="en">Holy Trinity</persName>
+                <trait>trinitarian</trait>
 
-    </body>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+      
+    </back>
 
   </text>
 </TEI>

@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,37 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">386</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +69,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="theodore-general">
-                <persName xml:lang="gez">ቴዎድሮስ፡ ሊቀ፡ ሠራዊት፡</persName>
-                <persName xml:lang="gez" type="normalized">Tewodros Liqa Śarāwit</persName>
-                <persName xml:lang="en">Theodore the General</persName>
-                <trait>martyr</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -251,15 +259,39 @@
         </div>
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="theodore-general">
+                <persName xml:lang="gez">ቴዎድሮስ፡ ሊቀ፡ ሠራዊት፡</persName>
+                <persName xml:lang="gez" type="normalized">Tewodros Liqa Śarāwit</persName>
+                <persName xml:lang="en">Theodore the General</persName>
+                <trait>martyr</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Esteves_Pereira1907" corresp="http://zotero.org/groups/5599348/items/QIUTTDUT"><monogr><title level="m">Acta Martyrum</title><author><forename>Franciscus Maria</forename><surname>Esteves Pereira</surname></author><imprint><pubPlace>Romae</pubPlace><publisher>Excudebat Karolus de Luigi</publisher><date>1907</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">Series Altera 28</biblScope></series></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

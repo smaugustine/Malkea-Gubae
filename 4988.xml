@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,40 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">20</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,46 +72,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="akala-krestos">
-                <persName xml:lang="gez">አካለ፡ ክርስቶስ፡</persName>
-                <persName xml:lang="gez" type="normalized">ʾAkāla Krəstos</persName>
-                <persName xml:lang="en">ʾAkāla Krəstos</persName>
-                <trait>righteous</trait>
-
-                
-                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
-                  <analytic>
-                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
-                    <author><name>Kinefe-Rigb Zelleke</name></author>
-                  </analytic>
-                  <monogr>
-                    <title level="j">Journal of Ethiopian Studies</title>
-                    <imprint>
-                      <biblScope unit="volume">13</biblScope>
-                      <biblScope unit="issue">2</biblScope>
-                      <biblScope unit="page">57–102</biblScope>
-                      <biblScope unit="item">11</biblScope>
-                      <date>1975</date>
-                    </imprint>
-                  </monogr>
-                </biblStruct>
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -216,15 +210,56 @@
         </div>
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="akala-krestos">
+                <persName xml:lang="gez">አካለ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAkāla Krəstos</persName>
+                <persName xml:lang="en">ʾAkāla Krəstos</persName>
+                <trait>righteous</trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">11</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Getatchew_Haile2017" corresp="http://zotero.org/groups/5599348/items/X2EFC87H"><monogr><title level="m">‘Life’ and ‘Miracles’ of &lt;hi rend="italics"&gt;Abunä&lt;/hi&gt; Akalä Krǝstos</title><author><name>Getatchew Haile</name></author><imprint><pubPlace>Wiesbaden</pubPlace><publisher>Harrassowitz</publisher><date>2017</date></imprint></monogr><series><title level="s">Supplement to Aethiopica</title><biblScope unit="volume">6</biblScope></series></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

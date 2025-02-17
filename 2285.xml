@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,37 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">268</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +69,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="koskam">
-                <persName xml:lang="gez">በአታ፡ ለማርያም፡ ውስተ፡ ደብረ፡ ቍስቋም፡</persName>
-                <persName xml:lang="gez" type="normalized">Baʾatā la-Māryām wəsta Dabra Qʷəsqʷām</persName>
-                <persName xml:lang="en">The Arrival of Mary at Mount Koskam</persName>
-                <trait>marian</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         <div type="textpart" xml:id="masgabiya">
@@ -263,15 +271,39 @@
         </div>
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="koskam">
+                <persName xml:lang="gez">በአታ፡ ለማርያም፡ ውስተ፡ ደብረ፡ ቍስቋም፡</persName>
+                <persName xml:lang="gez" type="normalized">Baʾatā la-Māryām wəsta Dabra Qʷəsqʷām</persName>
+                <persName xml:lang="en">The Arrival of Mary at Mount Koskam</persName>
+                <trait>marian</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="thesis" xml:id="Hayoz1956" corresp="http://zotero.org/groups/5599348/items/2G3ANK9W"><monogr><title level="m">Portrait de Marie, Complainte de la Vierge : deux poésies mariales éthiopiennes inédites. Texte, traduction, commentaire</title><title type="short">Portrait de Marie, Complainte de la Vierge</title><author><forename>Chrysostome</forename><surname>Hayoz</surname></author><imprint><pubPlace>Fribourg</pubPlace><date>1956</date></imprint></monogr></biblStruct><biblStruct type="encyclopediaArticle" xml:id="Witakowski2010" corresp="http://zotero.org/groups/5599348/items/DJQM8ZXH"><analytic><title level="a">Säqoqawä dǝngǝl</title><title type="short">EAe</title><author><forename>Witold</forename><surname>Witakowski</surname></author><author><forename>Ewa</forename><surname>Balicka-Witakowska</surname></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><imprint><biblScope unit="volume">IV</biblScope><biblScope unit="page">534b-536a</biblScope><date>2010</date></imprint></monogr></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

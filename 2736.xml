@@ -20,6 +20,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -31,7 +32,37 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">20</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -42,29 +73,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="trinity">
-                <persName xml:lang="gez">ቅድስት፡ ሥላሴ፡</persName>
-                <persName xml:lang="gez" type="normalized">Qəddəst Śəllāse</persName>
-                <persName xml:lang="en">Holy Trinity</persName>
-                <trait>trinitarian</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -137,15 +145,39 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="trinity">
+                <persName xml:lang="gez">ቅድስት፡ ሥላሴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Qəddəst Śəllāse</persName>
+                <persName xml:lang="en">Holy Trinity</persName>
+                <trait>trinitarian</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Tedros_Abraha2008" corresp="http://zotero.org/groups/5599348/items/FY3UEPVZ"><analytic><title level="a">Mälkə'a Śəllāse — L'Effigie della Trinità di Abba Səbḥat Läab</title><author><name>Tedros Abraha</name></author></analytic><monogr><title level="j">Miscellanea Bibliothecae Apostolicae Vaticanae</title><imprint><biblScope unit="volume">XV</biblScope><biblScope unit="page">311-398</biblScope><date>2008</date></imprint></monogr></biblStruct><biblStruct type="bookSection" xml:id="Gabré_Yesus_Haylu1970" corresp="http://zotero.org/groups/5599348/items/9AIXZUQQ"><analytic><title level="a">Considérations théologiques sur le Malkeʾa Sellasie de Abba Sǝbhat Leʾab</title><title type="short">PICES 3</title><author><name>Gabré Yesus Haylu</name></author></analytic><monogr><title level="m">Proceedings of the Third International Conference of Ethiopian Studies, Addis Ababa [3-7 April] 1966</title><editor><forename>Richard</forename><surname>Pankhurst</surname></editor><editor><forename>Stanisław</forename><surname>Chojnacki</surname></editor><imprint><pubPlace>Addis Ababa</pubPlace><biblScope unit="volume">II</biblScope><date>1970</date></imprint></monogr></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

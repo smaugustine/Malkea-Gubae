@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ አፍቀረነ፡ እግዚእ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAfqaranna ʾƎgziʾ</title>
-        <title corresp="#t1" xml:lang="en">Image of ʾAfqaranna ʾƎgziʾ</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አፍቀረነ፡ እግዚእ፡ ዘደብረ፡ ጕጕቤን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAfqaranna ʾƎgziʾ za-Dabra Gʷəgʷəben</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAfqaranna ʾƎgziʾ of Dabra Gʷəgʷəben</title>
         
       </titleStmt>
 
@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,40 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">18, 273</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +72,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="afqaranna-egzi">
-                <persName xml:lang="gez">አፍቀረነ፡ እግዚእ፡</persName>
-                <persName xml:lang="gez" type="normalized">ʾAfqaranna ʾƎgziʾ</persName>
-                <persName xml:lang="en">ʾAfqaranna ʾƎgziʾ</persName>
-                <trait>righteous</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -87,9 +98,29 @@
 
           </lg>
           
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለአእናፊከ፡ እለ፡ ያጼንዋ፡ በኁባሬ፨</l>
+            <l n="2">ምስለ፡ ከናፍሪከ፡ ደርገ፡ ዘተሐውዙ፡ ጾታ፡ ዝማሬ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ዘትሔውጽ፡ መሳክወ፡ አሚን፡ ምስለ፡ ፍካሬ፨</l>
+            <l n="4">ከመ፡ ዕፀ፡ በለስ፡ ርግምት፡ ይትዐረቅ፡ እምፍሬ፨</l>
+            <l n="5">ገነተ፡ ሕይወቱ፡ ለልዮን፡ ዘኦዶ፡ ምዝባሬ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ደብረ፡ ጉግቤን፡ ቂሳርያ፨</l>
+            <l n="2">ወለቤትከ፡ ምጽሌ፡ ካልእተ፡ አግያ፡ ሶፍያ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ምክር፡ ምክረ፡ ተሣህሎ፡ ጽድቅ፡ ዘይሤንያ፨</l>
+            <l n="4">ናሁ፡ ለወይንከ፡ እንስሳ፡ ገዳም፡ ተርእያ፨</l>
+            <l n="5">ወሐራውያ፡ ሐቅል፡ አርኰሳ፡ ዘባቲ፡ አርአያ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="31">
             
-            <l n="1">ጸራይቀ፡ ማኅሌት፡ ዘተረክበ፡ እምንዴተ፡ ልሳን፡ ወከናፍር፨</l>
+            <l n="1">ጸራይቀ፡ ማሕሌት፡ ዘተረክበ፡ እምንዴተ፡ ልሳን፡ ወከናፍር፨</l>
             <l n="2">ለዕበይከ፡ አቅረብኩ፡ በኍልቈ፡ ሠላሳ፡ ብሩር፨</l>
             <l n="3">አፍቀረነ፡ እግዚእ፡ ሊቆሙ፡ ለያዕቆባውያን፡ ማኅበር፨</l>
             <l n="4">ግበር፡ ሊተ፡ እግዚኦ፡ ለደምስሶ፡ ጌጋይ፡ ወነውር፨</l>
@@ -102,10 +133,34 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
       
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="afqaranna-egzi-d-gwegweben">
+                <persName xml:lang="gez">አፍቀረነ፡ እግዚእ፡ ዘደብረ፡ ጕጕቤን፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAfqaranna ʾƎgziʾ za-Dabra Gʷəgʷəben</persName>
+                <persName xml:lang="en">ʾAfqaranna ʾƎgziʾ of Dabra Gʷəgʷəben</persName>
+                <trait>righteous</trait>
 
-    </body>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+      
+    </back>
 
   </text>
 </TEI>

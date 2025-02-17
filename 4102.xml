@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +42,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="mary">
-                <persName xml:lang="gez">ማርያም፡ ድንግል፡</persName>
-                <persName xml:lang="gez" type="normalized">Māryām Dəngəl</persName>
-                <persName xml:lang="en">Virgin Mary</persName>
-                <trait>marian</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -112,15 +93,39 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mary">
+                <persName xml:lang="gez">ማርያም፡ ድንግል፡</persName>
+                <persName xml:lang="gez" type="normalized">Māryām Dəngəl</persName>
+                <persName xml:lang="en">Virgin Mary</persName>
+                <trait>marian</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="bookSection" xml:id="van_den_Oudenrijn1960" corresp="http://zotero.org/groups/5599348/items/9CS9ZMM7"><analytic><title level="a">ሰላም፡ ለጥንተ፡ ላሕኪ። Ein Aethiopisches Stabat Mater</title><author><forename>M. A.</forename><surname>van den Oudenrijn</surname></author></analytic><monogr><title level="m">Atti del Convegno internazionale di Studi Etiopici (Roma 2–4 aprile 1959)</title><imprint><pubPlace>Roma</pubPlace><biblScope unit="page">297-322</biblScope><publisher>Accademia Nazionale dei Lincei</publisher><date>1960</date></imprint></monogr><series><title level="s">Accademia Nazionale dei Lincei</title><biblScope unit="volume">357, Problemi attuali di scienza e di cultura, 48</biblScope></series></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

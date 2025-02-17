@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,6 +42,40 @@
   <text>
 
     <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ከመ፡ ወርኅ፡ ዘአሠነያ፨</l>
+            <l n="2">ወከመ፡ ፀሓይ፡ ዘተረሰያ፨</l>
+            <l n="3">ሚካኤል፡ ነቢይ፡ ወገብርኤል፡ ሐዋርያ፨</l>
+            <l n="4">ለኃጥእ፡ ብእሲ፡ ሤጠ፡ ደመ፡ ክርስቶስ፡ ኬንያ፨</l>
+            <l n="5">ትዐላሌክሙ፡ ይኩነኒ፡ ዘመዊእ፡ ጌርያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለአጽፋረ፡ እግርክሙ፡ ወለአፃብዒክሙ፡ ቀጸላ፨</l>
+            <l n="2">ለቆምክሙ፡ ሰላም፡ ወለመልክእክሙ፡ ኵላ፨</l>
+            <l n="3">ሚካኤል፡ ሰዋስው፡ ወገብርኤል፡ ሰረገላ፨</l>
+            <l n="4">ታብጽሑኒ፡ ሊተ፡ መላእክት፡ ብሔረ፡ ፍሥሓ፡ ወተድላ፨</l>
+            <l n="5">ለብው፡ ኀዘንየ፡ ወዘቃልየ፡ ምህላ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
 
       
       <listRelation>
@@ -70,42 +108,9 @@
         </relation>
       </listRelation>
       
-
-      <div type="edition" xml:lang="gez">
-
-        
-
-        <div type="textpart" xml:id="malke">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ከመ፡ ወርኅ፡ ዘአሠነያ፨</l>
-            <l n="2">ወከመ፡ ፀሓይ፡ ዘተረሰያ፨</l>
-            <l n="3">ሚካኤል፡ ነቢይ፡ ወገብርኤል፡ ሐዋርያ፨</l>
-            <l n="4">ለኃጥእ፡ ብእሲ፡ ሤጠ፡ ደመ፡ ክርስቶስ፡ ኬንያ፨</l>
-            <l n="5">ትዐላሌክሙ፡ ይኩነኒ፡ ዘመዊእ፡ ጌርያ፨</l>
-
-          </lg>
-          
-          <lg type="stanza" n="13">
-            
-            <l n="1">ሰላም፡ ለአጽፋረ፡ እግርክሙ፡ ወለአፃብዒክሙ፡ ቀጸላ፨</l>
-            <l n="2">ለቆምክሙ፡ ሰላም፡ ወለመልክእክሙ፡ ኵላ፨</l>
-            <l n="3">ሚካኤል፡ ሰዋስው፡ ወገብርኤል፡ ሰረገላ፨</l>
-            <l n="4">ታብጽሑኒ፡ ሊተ፡ መላእክት፡ ብሔረ፡ ፍሥሓ፡ ወተድላ፨</l>
-            <l n="5">ለብው፡ ኀዘንየ፡ ወዘቃልየ፡ ምህላ፨</l>
-
-          </lg>
-          
-        </div>
-
-        
-        
-      </div>
-
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

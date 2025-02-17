@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,9 +42,6 @@
   <text>
 
     <body>
-
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -92,15 +93,19 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="bookSection" xml:id="Getatchew_Haile2017" corresp="http://zotero.org/groups/5599348/items/G55867JR"><analytic><title level="a">Lamentation of the Soul (&lt;hi rend="italics"&gt;Säqoqawä Näfs&lt;/hi&gt;)</title><author><name>Getatchew Haile</name></author></analytic><monogr><title level="m">Ethiopian Studies in Honour of Amha Asfaw</title><imprint><pubPlace>New York</pubPlace><biblScope unit="page">225-256</biblScope><publisher>Getatchew Haile</publisher><date>2017</date></imprint></monogr></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

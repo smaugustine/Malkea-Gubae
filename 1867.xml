@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +42,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="mary-sion">
-                <persName xml:lang="gez">ማርያም፡ ጽዮን፡</persName>
-                <persName xml:lang="gez" type="normalized">Māryām Ṣəyon</persName>
-                <persName xml:lang="en">Mary Sion</persName>
-                <trait>marian</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -131,15 +112,39 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mary-sion">
+                <persName xml:lang="gez">ማርያም፡ ጽዮን፡</persName>
+                <persName xml:lang="gez" type="normalized">Māryām Ṣəyon</persName>
+                <persName xml:lang="en">Mary Sion</persName>
+                <trait>marian</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Amsalu_Tefera2015" corresp="http://zotero.org/groups/5599348/items/QN5FLZTB"><monogr><title level="m">The Ethiopian Homily on the Ark of the Covenant: Critical Edition and Annotated Translation of &lt;hi rend="italics"&gt;Dǝrsanä Ṣǝyon&lt;/hi&gt;</title><author><name>Amsalu Tefera</name></author><imprint><pubPlace>Leiden–Boston</pubPlace><publisher>Brill</publisher><date>2015</date></imprint></monogr><series><title level="s">Texts and Studies in Eastern Christianity</title><biblScope unit="volume">5</biblScope></series></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,37 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">164, 24</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +69,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="saviour">
-                <persName xml:lang="gez">መድኃኔ፡ ዓለም፡</persName>
-                <persName xml:lang="gez" type="normalized">Madḫāne ʿĀlam</persName>
-                <persName xml:lang="en">The Saviour of the World</persName>
-                <trait>trinitarian</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -192,15 +200,39 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="saviour">
+                <persName xml:lang="gez">መድኃኔ፡ ዓለም፡</persName>
+                <persName xml:lang="gez" type="normalized">Madḫāne ʿĀlam</persName>
+                <persName xml:lang="en">The Saviour of the World</persName>
+                <trait>trinitarian</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="zoteroItem_N5I3F6AD" corresp="http://zotero.org/groups/5599348/items/N5I3F6AD"><monogr><title level="m">መልክአ ቅዱሳን በዐማርኛ</title><imprint><pubPlace>አዲስ አበባ</pubPlace><publisher>ማኅበረ ቅዱሳን</publisher><date>፳፻፲፫ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_W3PTU9ZK" corresp="http://zotero.org/groups/5599348/items/W3PTU9ZK"><monogr><title level="m">መልክዐ ጉባኤ</title><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፸፬ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Cohen1957" corresp="http://zotero.org/groups/5599348/items/6AQVE2E5"><analytic><title level="a">Un poème éthiopien: Le &lt;hi rend="italics"&gt;malkeʿ&lt;/hi&gt; du Christ "Sauveur du monde" &lt;hi rend="italics"&gt;(madḫānē ʿālam)&lt;/hi&gt;</title><author><forename>David</forename><surname>Cohen</surname></author></analytic><monogr><title level="j">Journal Asiatique</title><imprint><biblScope unit="volume">245</biblScope><biblScope unit="page">147-183</biblScope><date>1957</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

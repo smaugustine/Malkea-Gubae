@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,6 +42,40 @@
   <text>
 
     <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘአስተዋደዶን፡ አሌፍ፨</l>
+            <l n="2">ወለሥዕርትክሙ፡ ሰላም፡ ሙራደ፡ ጸጋሁ፡ ለቆፍ፨</l>
+            <l n="3">ይስሐቅ፡ ወኢዮሳብ፡ ርሱያነ፡ ጽዱል፡ አክናፍ፨</l>
+            <l n="4">ንዑ፡ ረዱ፡ ይምነ፡ ባሕር፡ ዘመናስግቲሃ፡ ግሉፍ፨</l>
+            <l n="5">ናሁ፡ ህየ፡ እስመ፡ ታስቆቁ፡ ባሕታዊት፡ ዖፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1">ሰላም፡ ለመቃብሪክሙ፡ ኀበ፡ ዘአናብስት፡ ግበብ፨</l>
+            <l n="2">ለዐጽፍክሙ፡ ሰላም፡ ወለአስኬማክሙ፡ ዘርብ፨</l>
+            <l n="3">መጽሐፈ፡ ገድልከ፡ ይስሐቅ፡ ወአንብዕከ፡ ኢዮሳብ፨</l>
+            <l n="4">ይጼልለ፡ በመልዕልቴየ፡ ከመ፡ ተሜርጋብ፨</l>
+            <l n="5">ፍኖተ፡ ሰማይ፡ ሣልስ፡ እምፀሓይ፡ ልሁብ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
 
       
       <listRelation>
@@ -70,42 +108,9 @@
         </relation>
       </listRelation>
       
-
-      <div type="edition" xml:lang="gez">
-
-        
-
-        <div type="textpart" xml:id="malke">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘአስተዋደዶን፡ አሌፍ፨</l>
-            <l n="2">ወለሥዕርትክሙ፡ ሰላም፡ ሙራደ፡ ጸጋሁ፡ ለቆፍ፨</l>
-            <l n="3">ይስሐቅ፡ ወኢዮሳብ፡ ርሱያነ፡ ጽዱል፡ አክናፍ፨</l>
-            <l n="4">ንዑ፡ ረዱ፡ ይምነ፡ ባሕር፡ ዘመናስግቲሃ፡ ግሉፍ፨</l>
-            <l n="5">ናሁ፡ ህየ፡ እስመ፡ ታስቆቁ፡ ባሕታዊት፡ ዖፍ፨</l>
-
-          </lg>
-          
-          <lg type="stanza" n="18">
-            
-            <l n="1">ሰላም፡ ለመቃብሪክሙ፡ ኀበ፡ ዘአናብስት፡ ግበብ፨</l>
-            <l n="2">ለዐጽፍክሙ፡ ሰላም፡ ወለአስኬማክሙ፡ ዘርብ፨</l>
-            <l n="3">መጽሐፈ፡ ገድልከ፡ ይስሐቅ፡ ወአንብዕከ፡ ኢዮሳብ፨</l>
-            <l n="4">ይጼልለ፡ በመልዕልቴየ፡ ከመ፡ ተሜርጋብ፨</l>
-            <l n="5">ፍኖተ፡ ሰማይ፡ ሣልስ፡ እምፀሓይ፡ ልሁብ፨</l>
-
-          </lg>
-          
-        </div>
-
-        
-        
-      </div>
-
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

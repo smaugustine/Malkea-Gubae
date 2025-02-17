@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,37 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">281, 150</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,46 +69,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="walatta-petros">
-                <persName xml:lang="gez">ወለተ፡ ጴጥሮስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Walatta Ṗeṭros</persName>
-                <persName xml:lang="en">Walatta Ṗeṭros</persName>
-                <trait>righteous</trait>
-
-                
-                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
-                  <analytic>
-                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
-                    <author><name>Kinefe-Rigb Zelleke</name></author>
-                  </analytic>
-                  <monogr>
-                    <title level="j">Journal of Ethiopian Studies</title>
-                    <imprint>
-                      <biblScope unit="volume">13</biblScope>
-                      <biblScope unit="issue">2</biblScope>
-                      <biblScope unit="page">57–102</biblScope>
-                      <biblScope unit="item">163</biblScope>
-                      <date>1975</date>
-                    </imprint>
-                  </monogr>
-                </biblStruct>
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -480,15 +471,56 @@
         </div>
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="walatta-petros">
+                <persName xml:lang="gez">ወለተ፡ ጴጥሮስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Walatta Ṗeṭros</persName>
+                <persName xml:lang="en">Walatta Ṗeṭros</persName>
+                <trait>righteous</trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">163</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Ricci1970" corresp="http://zotero.org/groups/5599348/items/47P2YE9Y"><monogr><title level="m">Vita di Walatta P̣iēṭros</title><respStmt><resp>translator</resp><persName><forename>Lanfranco</forename><surname>Ricci</surname></persName></respStmt><author><forename>Lanfranco</forename><surname>Ricci</surname></author><imprint><pubPlace>Louvain</pubPlace><publisher>Secrétariat du Corpus SCO</publisher><date>1970</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">316, Scriptores Aethiopici, 61</biblScope></series></biblStruct><biblStruct type="book" xml:id="Conti_Rossini1912" corresp="http://zotero.org/groups/5599348/items/W3M66D48"><monogr><title level="m">Vitae Sanctorum Indigenarum. I. Gadla Emna Walatta Pēṭros seu Acta S. Walatta Pēṭros; II. Ta'āmera Zar'a-Būrūk seu Miracula S. Zara-Buruk</title><respStmt><resp>translator</resp><persName><forename>Carlo</forename><surname>Conti Rossini</surname></persName></respStmt><editor><forename>Carlo</forename><surname>Conti Rossini</surname></editor><imprint><pubPlace>Romae</pubPlace><publisher>K. de Luigi</publisher><date>1912</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">Scriptores Aethiopici, II, 25</biblScope></series></biblStruct><biblStruct type="book" xml:id="Belcher2015" corresp="http://zotero.org/groups/5599348/items/93HTT3ZG"><monogr><title level="m">The Life and Struggles of Our Mother Walatta Petros: A Seventeenth-Century African Biography of an Ethiopian Woman, Written by Galawdewos</title><title type="short">The Life and Struggles of Our Mother Walatta Petros</title><author><forename>Wendy Laura</forename><surname>Belcher</surname></author><author><forename>Michael</forename><surname>Kleiner</surname></author><imprint><pubPlace>Princeton, NJ</pubPlace><publisher>Princeton University Press</publisher><date>2015</date></imprint></monogr></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

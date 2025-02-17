@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,40 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">89</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,6 +72,79 @@
   <text>
 
     <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርተ፡ ርእስከ፡ ድሉል፨</l>
+            <l n="2">ለርእስከኒ፡ ወለገጽከ፡ ጽዱል፨</l>
+            <l n="3">ገብረ፡ ክርስቶስ፡ አጽቀ፡ ንጉሠ፡ ሮም፡ ኮል፨</l>
+            <l n="4">ኣእምር፡ ስእለተከ፡ ቅድመ፡ ወልደ፡ አምላክ፡ ልዑል፨</l>
+            <l n="5">ከመ፡ ገራህተ፡ ሰብእ፡ ይሠምር፡ ወይሠርጽ፡ ሐምል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲከ፡ ወለአዕይንቲከ፡ ምስለ፡ አእዛን፨</l>
+            <l n="2">ኅሩማተ፡ ነገር፡ ምኑን፨</l>
+            <l n="3">ገብረ፡ ኢየሱስ፡ ወርቅ፡ በነደ፡ መከራ፡ ፍቱን፨</l>
+            <l n="4">ምርሐኒ፡ እግዚኦ፡ ፍኖተ፡ ምናኒ፡ ብርሃን፨</l>
+            <l n="5">ዘያበርህ፡ ወትረ፡ ልበ፡ ሰብእ፡ ጻድቃን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋከ፡ ወለግንዘተ፡ ሥጋከ፡ በልብሰ፡ ከርቤ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ቍድስ፡ ምልዕተ፡ ዕጣን፡ ይባቤ፨</l>
+            <l n="3">ገብረ፡ ኢየሱስ፡ ክርስቶስ፡ ዘተወከፍከ፡ ምንዳቤ፨</l>
+            <l n="4">አርሕቅ፡ ሊተ፡ ምንዳቤየ፡ እንዘ፡ ትከውን፡ ዐቃቤ፨</l>
+            <l n="5">ወትከውነኒ፡ ለሊከ፡ መጋቤ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ ኀበ፡ ወልደ፡ አምላክ፡ ዘበጽሐ፨</l>
+            <l n="2">እንበለ፡ ምሕረትከሰ፡ ገብረ፡ ኢየሱስ፡ አቡሃ፨</l>
+            <l n="3">ዘይደልወከ፡ ክብር፡ እስመ፡ ኢያቅረበት፡ ግብረ፡ አፉሃ፨</l>
+            <l n="4">ለነፍስየ፡ ኢመዋቲት፡ እስከ፡ ታፈደፍድ፡ ላሐ፨</l>
+            <l n="5">እምደለወ፡ ላቲ፡ ፍትሐ፡ ሞት፡ ዕፃሃ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ገብረ፡ ኢየሱስ፡ አስተምሕር፡ ኀበ፡ ዘኵሎ፡ ፈጠረ፨</l>
+            <l n="2">ምስሌከ፡ እኩን፡ ዘአምላክ፡ ገብረ፨</l>
+            <l n="3">ዘቀርበ፡ ወዘተፈቅረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ገብረ፡ ኢየሱስ፡ ይቤሎ፡ ለፈጣሪሁ፡ ክርስቶስ፨</l>
+            <l n="2">እምይእዜሰ፡ እንከ፡ ኣኀሥሥ፨</l>
+            <l n="3">በግዐ፡ መዊት፡ ምዕረ፡ ዘያስተናፍስ፨</l>
+            <l n="4">እምሥቃዩ፡ ለዘቦ፡ ተጽናስ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
 
       
       <listRelation>
@@ -60,42 +167,9 @@
         </relation>
       </listRelation>
       
-
-      <div type="edition" xml:lang="gez">
-
-        
-
-        <div type="textpart" xml:id="malke">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርተ፡ ርእስከ፡ ድሉል፨</l>
-            <l n="2">ለርእስከኒ፡ ወለገጽከ፡ ጽዱል፨</l>
-            <l n="3">ገብረ፡ ክርስቶስ፡ አጽቀ፡ ንጉሠ፡ ሮም፡ ኮል፨</l>
-            <l n="4">ኣእምር፡ ስእለተከ፡ ቅድመ፡ ወልደ፡ አምላክ፡ ልዑል፨</l>
-            <l n="5">ከመ፡ ገራህተ፡ ሰብእ፡ ይሠምር፡ ወይሠርጽ፡ ሐምል፨</l>
-
-          </lg>
-          
-          <lg type="stanza" n="15">
-            
-            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ ኀበ፡ ወልደ፡ አምላክ፡ ዘበጽሐ፨</l>
-            <l n="2">እንበለ፡ ምሕረትከሰ፡ ገብረ፡ ክርስቶስ፡ አቡሃ፨</l>
-            <l n="3">ዘይደልወከ፡ ክብር፡ እስመ፡ ኢያቅረበት፡ ግብረ፡ አፉሃ፨</l>
-            <l n="4">ለነፍስየ፡ ኢመዋቲት፡ እስከ፡ ታፈደፍድ፡ ላሐ፨</l>
-            <l n="5">እምደለወ፡ ላቲ፡ ፍትሐ፡ ሞት፡ ዕፃሃ፨</l>
-
-          </lg>
-          
-        </div>
-
-        
-        
-      </div>
-
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

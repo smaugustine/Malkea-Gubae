@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,10 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,9 +42,6 @@
   <text>
 
     <body>
-
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -93,10 +94,14 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
       
-
-    </body>
+      
+      
+    </back>
 
   </text>
 </TEI>

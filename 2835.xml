@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,58 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">119</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">191</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,42 +90,9 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="michael">
-                <persName xml:lang="gez">ሚካኤል፡</persName>
-                <persName xml:lang="gez" type="normalized">Mikāʾel</persName>
-                <persName xml:lang="en">Michael</persName>
-                <trait>angelic</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="0">
-            
-            <l n="1">በስመ፡ እግዚአብሔር፡ ዘይነብር፡ ማኔ፨</l>
-            <l n="2">ወበስመ፡ እግዚአብሔር፡ ወልድ፡ ሥጋ፡ ማርያም፡ ተከዳኔ፨</l>
-            <l n="3">ወበስመ፡ እግዚአብሔር፡ መንፈስ፡ ቅዱስ፡ ዘይሥዕር፡ ግማኔ፨</l>
-            <l n="4">እወጥን፡ ዝክረ፡ ውዳሴከ፡ በሐዳስ፡ ኵርጓኔ፨</l>
-            <l n="5">ቤዝወኒ፡ ሚካኤል፡ እምሲኦል፡ ኵነኔ፨</l>
-
-          </lg>
           
           <lg type="stanza" n="1">
             
@@ -82,6 +101,16 @@
             <l n="3">በጸሎትከ፡ ተማሕፀነ፨</l>
             <l n="4">አርዌ፡ እኩይ፡ ኢይምአነ፡ ወኢይምሥጠነ፨</l>
             <l n="5">እምነ፡ ገነቱ፡ ዘሄዶ፡ ለአዳም፡ አቡነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ዘይነብር፡ ማኔ፨</l>
+            <l n="2">ወበስመ፡ እግዚአብሔር፡ ወልድ፡ ሥጋ፡ ማርያም፡ ተከዳኔ፨</l>
+            <l n="3">ወበስመ፡ እግዚአብሔር፡ መንፈስ፡ ቅዱስ፡ ዘይሥዕር፡ ግማኔ፨</l>
+            <l n="4">እወጥን፡ ዝክረ፡ ውዳሴከ፡ በሐዳስ፡ ኵርጓኔ፨</l>
+            <l n="5">ቤዝወኒ፡ ሚካኤል፡ እምሲኦል፡ ኵነኔ፨</l>
 
           </lg>
           
@@ -144,15 +173,39 @@
         
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="michael">
+                <persName xml:lang="gez">ሚካኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Mikāʾel</persName>
+                <persName xml:lang="en">Michael</persName>
+                <trait>angelic</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="zoteroItem_N5I3F6AD" corresp="http://zotero.org/groups/5599348/items/N5I3F6AD"><monogr><title level="m">መልክአ ቅዱሳን በዐማርኛ</title><imprint><pubPlace>አዲስ አበባ</pubPlace><publisher>ማኅበረ ቅዱሳን</publisher><date>፳፻፲፫ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_W3PTU9ZK" corresp="http://zotero.org/groups/5599348/items/W3PTU9ZK"><monogr><title level="m">መልክዐ ጉባኤ</title><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፸፬ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>

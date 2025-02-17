@@ -16,6 +16,7 @@
           <persName>
             <forename>Augustine</forename>
             <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
         <date>2025</date>
@@ -27,7 +28,58 @@
       <sourceDesc>
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">3, 360, 362</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">180</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
+
     <profileDesc>
       <langUsage>
         <language ident="en">English</language>
@@ -38,29 +90,6 @@
   <text>
 
     <body>
-
-      
-      <listRelation>
-        <relation name="subjects">
-          <desc>
-            <listPerson>
-              
-              
-              <person xml:id="covenant-mercy">
-                <persName xml:lang="gez">ኪዳነ፡ ምሕረት፡</persName>
-                <persName xml:lang="gez" type="normalized">Kidāna Məḥrat</persName>
-                <persName xml:lang="en">The Covenant of Mercy</persName>
-                <trait>marian</trait>
-
-                
-              </person>
-              
-            </listPerson>
-          </desc>
-        </relation>
-      </listRelation>
-      
-
       <div type="edition" xml:lang="gez">
 
         
@@ -562,15 +591,39 @@
         </div>
         
       </div>
+    </body>
+    
+    <back>
 
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="covenant-mercy">
+                <persName xml:lang="gez">ኪዳነ፡ ምሕረት፡</persName>
+                <persName xml:lang="gez" type="normalized">Kidāna Məḥrat</persName>
+                <persName xml:lang="en">The Covenant of Mercy</persName>
+                <trait>marian</trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
       <div type="bibliography">
         
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Raineri1989" corresp="http://zotero.org/groups/5599348/items/JPNSBMFD"><analytic><title level="a">L'effigie di Maria "patto di misericordia": note per un "Mariale Aethiopicum"</title><author><forename>Osvaldo</forename><surname>Raineri</surname></author></analytic><monogr><title level="j">Ephemerides liturgicae</title><imprint><biblScope unit="volume">103</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page">92</biblScope><date>1989</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Euringer1939" corresp="http://zotero.org/groups/5599348/items/WCFHQBMI"><analytic><title level="a">Das Hohelied des "Bundes der Erbarmung" (Anhang)</title><title type="short">Das Hohelied des "Bundes der Erbarmung"</title><author><forename>Sebastian</forename><surname>Euringer</surname></author></analytic><monogr><title level="j">Oriens christianus</title><imprint><biblScope unit="volume">36</biblScope><biblScope unit="page">68-73</biblScope><date>1939</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Euringer1938" corresp="http://zotero.org/groups/5599348/items/T5J3IEK4"><analytic><title level="a">Das Hohelied des "Bundes der Erbarmung": aus dem äthiopischen übersetzt und erklärt</title><title type="short">Das Hohelied des "Bundes der Erbarmung"</title><author><forename>Sebastian</forename><surname>Euringer</surname></author></analytic><monogr><title level="j">Oriens christianus</title><imprint><biblScope unit="volume">35</biblScope><biblScope unit="page">71-107, 192-213</biblScope><date>1938</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Budge1900" corresp="http://zotero.org/groups/5599348/items/JDWD6IDD"><monogr><title level="m">The Miracles of the Blessed Virgin Mary, and the Life of Ḥannâ (Saint Anne), and the Magical Prayers of ʾAhĕta Mîkâêl. The Ethiopic Texts edited with English Translation</title><title type="short">The Miracles of the Blessed Virgin Mary</title><editor><forename>Ernest Alfred Wallis</forename><surname>Budge</surname></editor><respStmt><resp>translator</resp><persName><forename>Ernest Alfred Wallis</forename><surname>Budge</surname></persName></respStmt><imprint><pubPlace>London</pubPlace><publisher>W. Griggs</publisher><date>1900</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_N5I3F6AD" corresp="http://zotero.org/groups/5599348/items/N5I3F6AD"><monogr><title level="m">መልክአ ቅዱሳን በዐማርኛ</title><imprint><pubPlace>አዲስ አበባ</pubPlace><publisher>ማኅበረ ቅዱሳን</publisher><date>፳፻፲፫ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_W3PTU9ZK" corresp="http://zotero.org/groups/5599348/items/W3PTU9ZK"><monogr><title level="m">መልክዐ ጉባኤ</title><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፸፬ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct><biblStruct type="encyclopediaArticle" xml:id="Böll2007" corresp="http://zotero.org/groups/5599348/items/G56BFRHL"><analytic><title level="a">Mälkǝʾa Maryam</title><title type="short">EAe</title><author><forename>Verena</forename><surname>Böll</surname></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">708a-709a</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Dillmann1866" corresp="http://zotero.org/groups/5599348/items/UW4QXLYV"><monogr><title level="m">Chrestomathia Aethiopica edita et glossario explanata</title><editor><forename>Christian Friedrich August</forename><surname>Dillmann</surname></editor><imprint><pubPlace>Lipsiae</pubPlace><publisher>T. O. Weigel</publisher><date>1866</date></imprint></monogr></biblStruct></listBibl>
       </div>
       
-
-    </body>
+      
+    </back>
 
   </text>
 </TEI>
