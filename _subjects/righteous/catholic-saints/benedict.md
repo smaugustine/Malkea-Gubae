@@ -1,6 +1,6 @@
 ---
 name:
-  gez: Banadiktos
+  gez: Banadiktos za-Norča
   en: Benedict of Nursia
 commemorations:
   - [12, 7]

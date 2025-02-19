@@ -1,5 +1,5 @@
 ---
-name: Buruk ʾAmlāk za-Dabra Kol
+name: Buruka ʾAmlāk za-Dabra Kol
 kinefe-rigb: 35
 commemorations:
   - [14, 12]
