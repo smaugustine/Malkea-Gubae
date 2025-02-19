@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዘወልደ፡ ማርያም፡ ዘደብረ፡ ዘመዶ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zawalda Māryām za-Dabra Zamaddo</title>
-        <title corresp="#t1" xml:lang="en">Image of Zawalda Māryām of Dabra Zamaddo</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዘወልደ፡ ማርያም፡ ዘደብረ፡ ድማሕ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zawalda Māryām za-Dabra Dəmāḥ</title>
+        <title corresp="#t1" xml:lang="en">Image of Zawalda Māryām of Dabra Dəmāḥ</title>
         
       </titleStmt>
 
@@ -74,12 +74,32 @@
 
           </lg>
           
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለመዛርዒከ፡ ወለኵርናዕከ፡ እሙንቱ፨</l>
+            <l n="2">ለእመትከ፡ መጣኒ፡ ለነዳይ፡ ሠርጐ፡ ትርሲቱ፨</l>
+            <l n="3">ዘወልደ፡ ማርያም፡ ትገብር፡ ማሕሌተ፡ ስምከ፡ ዝንቱ፨</l>
+            <l n="4">ዲማ፡ ዲማ፡ ለተክለ፡ አልፋ፡ ምኔቱ፨</l>
+            <l n="5">ዲማ፡ ዲማ፡ ለማትያስ፡ ዕፃሁ፡ ወርስቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለእራኅከ፡ በውሂብ፡ እለ፡ ተፈትኑ፨</l>
+            <l n="2">እንዘ፡ ይመልእ፡ ወርቀ፡ ለነዳይ፡ በውስተ፡ ሕፍኑ፨</l>
+            <l n="3">ለተክለ፡ አልፋ፡ ፀሓይ፡ ዘወልደ፡ ማርያም፡ ብርሃኑ፨</l>
+            <l n="4">ዐቀብተ፡ ነፍስከ፡ መላእክተ፡ ሰማይ፡ ኮኑ፨</l>
+            <l n="5">ዐውደከ፡ አባ፡ ተዐየኑ፡ ቦኑ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="22">
             
             <l n="1">ሰላም፡ ለሰኰናከ፡ በፍኖተ፡ ወንጌል፡ ረዋጺ፨</l>
-            <l n="2">ወለመከየድከ፡ ሰላም፡ ድውያነ፡ ሥጋ፡ ሐዋጺ፨</l>
+            <l n="2">ወለመከየድከ፡ ሰላም፡ ድዉያነ፡ ሥጋ፡ ሐዋጺ፨</l>
             <l n="3">ዘወልደ፡ ማርያም፡ ለቤተ፡ ክርስቲያን፡ ተሐነጺ፨</l>
-            <l n="4">ወኢይግድፍ፡ አናቅጸኪ፡ ነፋሰ፡ ልዮን፡ ዐማፂ፨</l>
+            <l n="4">ወኢይግድፍ፡ አናቅጸኪ፡ ነፋሰ፡ ልዮን፡ ዐማጺ፨</l>
             <l n="5">ወነፋሰ፡ ምክሩ፡ ለልዮን፡ ገሣጼ፨</l>
 
           </lg>
@@ -91,6 +111,16 @@
             <l n="3">ለኀረገ፡ ወይን፡ ተክለ፡ አልፋ፡ ዘወልደ፡ ማርያም፡ አስካሉ፨</l>
             <l n="4">አባ፡ አባ፡ ለውሉደ፡ ጸጋከ፡ እሉ፨</l>
             <l n="5">እንበለ፡ ተፈልጦ፡ ኅቡረ፡ ምስሌሆሙ፡ ሀሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በልማደ፡ ቀሲስ፡ ኬፋ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ዘኮነ፡ በምኔተ፡ ጻድቅ፡ ተክለ፡ አልፋ፨</l>
+            <l n="3">ዘወልደ፡ ማርያም፡ ተስፋከ፡ ዘይኄይስ፡ እምነ፡ ተስፋ፨</l>
+            <l n="4">አባ፡ አባ፡ ለምረረ፡ ሕማም፡ ግድፋ፨</l>
+            <l n="5">አባ፡ ለእግረ፡ ደዌ፡ በጸሎት፡ አኅልፋ፨</l>
 
           </lg>
           
@@ -130,10 +160,10 @@
             <listPerson>
               
               
-              <person xml:id="zawalda-maryam-d-zamaddo">
-                <persName xml:lang="gez">ዘወልደ፡ ማርያም፡ ዘደብረ፡ ዘመዶ፡</persName>
-                <persName xml:lang="gez" type="normalized">Zawalda Māryām za-Dabra Zamaddo</persName>
-                <persName xml:lang="en">Zawalda Māryām of Dabra Zamaddo</persName>
+              <person xml:id="zawalda-maryam-d-demah">
+                <persName xml:lang="gez">ዘወልደ፡ ማርያም፡ ዘደብረ፡ ድማሕ፡</persName>
+                <persName xml:lang="gez" type="normalized">Zawalda Māryām za-Dabra Dəmāḥ</persName>
+                <persName xml:lang="en">Zawalda Māryām of Dabra Dəmāḥ</persName>
                 <trait>righteous</trait>
 
                 

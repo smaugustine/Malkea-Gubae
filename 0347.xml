@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብረ፡ መስቀል፡ ዘዋልድባ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabra Masqal za-Wāldǝbbā</title>
-        <title corresp="#t1" xml:lang="en">Image of Gabra Masqal of Wāldǝbbā</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብረ፡ መስቀል፡ ዘጉትማን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabra Masqal za-Gutəmān</title>
+        <title corresp="#t1" xml:lang="en">Image of Gabra Masqal of Gutəmān</title>
         
       </titleStmt>
 
@@ -68,6 +68,16 @@
 
           </lg>
           
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለመትክፍትከ፡ አርዑተ፡ መስቀል፡ ዘጾረ፨</l>
+            <l n="2">ወለዘባንከ፡ ሰላም፡ ምስለ፡ እንግድዓከ፡ ኅቡረ፨</l>
+            <l n="3">ገብረ፡ መስቀል፡ ኤልያስ፡ እስመ፡ ዐረይከ፡ ገቢረ፨</l>
+            <l n="4">ከመ፡ እንተ፡ የብስ፡ አመ፡ ኬድከ፡ ባሕረ፨</l>
+            <l n="5">ሳሙኤል፡ ዘነጸረ፡ ግብረከ፡ አንከረ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="9">
             
             <l n="1">ሰላም፡ ለሕፅንከ፡ ወለአእዳዊከ፡ እለ፡ ይረብባ፨</l>
@@ -78,11 +88,42 @@
 
           </lg>
           
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ ወለመቃብሪከ፡ በእማኄ፨</l>
+            <l n="2">ዱያነ፡ ኵሎ፡ ዘያፌውስ፡ እለ፡ በኵለሄ፨</l>
+            <l n="3">ስብሐተ፡ መልክእከ፡ አባ፡ ተወከፍ፡ ዘበይዋሄ፨</l>
+            <l n="4">በከመ፡ ተወክፈ፡ ጸራይቀ፡ ብእሲት፡ ኤሎሄ፨</l>
+            <l n="5">አመ፡ ዕለተ፡ ቅስት፡ ለገብርከ፡ ኩነኒ፡ ባላሔ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">ስብሐተ፡ መልክእከ፡ አቅረብኩ፡ በአውሥኦ፡ ነገር፡ ሐጺር፨</l>
+            <l n="2">አሐዱ፡ ምስለ፡ አሐዱ፡ እንዘ፡ አስተጻምር፡ በምዕር፨</l>
+            <l n="3">ስብሐተ፡ መልክእከሰ፡ ኢይፌጽሞ፡ ጦማር፨</l>
+            <l n="4">ባሕቱ፡ ሀበኒ፡ እግዚኦ፡ ገብረ፡ መስቀል፡ መምህር፨</l>
+            <l n="5">ንስቲተ፡ ተውሳከ፡ ቀመር፨</l>
+            <l n="6">አይቴኑመ፡ ምክሑ፡ ከመ፡ ኢይበሉኒ፡ ፀር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="22">
+            
+            <l n="1">ፍዳ፡ አቅረብኩ፡ ለከ፡ ስብሐተ፡ መልክእከ፡ እንግዳ፨</l>
+            <l n="2">አምኃ፡ ሕጸጽየ፡ ዝንቱ፡ ዘየሐጽጽ፡ እምድሬ፡ ተቅዳ፨</l>
+            <l n="3">ገብረ፡ መስቀል፡ ርድአኒ፡ አመ፡ ዕለተ፡ ቅስት፡ ወዕለተ፡ ፍዳ፨</l>
+            <l n="4">በረድኤትከ፡ እግዚኦ፡ በሀገረ፡ ሴዋ፡ ወውግዳ፨</l>
+            <l n="5">ሠራዊተ፡ ንጉሥ፡ አግነይከ፡ እንዘ፡ ይብሉ፡ ጋዳ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="23">
             
             <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለአቡክሙ፡ በአስተሐምሞ፡ ወጻህቅ፨</l>
             <l n="2">ከመ፡ ንጉሠ፡ ምድር፡ አኮ፡ አምኃ፡ ብሩር፡ ወወርቅ፨</l>
-            <l n="3">ጻድቃነ፡ ለጋሶ፡ ወጕትማን፡ ወንጌላውያን፡ አዕጹቅ፨</l>
+            <l n="3">ጻድቃነ፡ ለጋሶ፡ ወጉትማን፡ ወንጌላውያን፡ አዕጹቅ፨</l>
             <l n="4">አመ፡ ይረፍቁ፡ በቤተ፡ መርዓ፡ ምስለ፡ ኢየሱስ፡ ሊቅ፨</l>
             <l n="5">አርፍቁኒ፡ ምስሌክሙ፡ በሐዳስ፡ ምርፋቅ፨</l>
 
@@ -90,7 +131,36 @@
           
         </div>
 
-        
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ገብረ፡ መስቀል፡ ሐዊሳ፨</l>
+            <l n="2">ትዌድሰከ፡ ከኒሳ፨</l>
+            <l n="3">ደመና፡ ሰማይ፡ ወአንበሳ፨</l>
+            <l n="4">ዘትጼዐን፡ ከመ፡ እንስሳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ገብረ፡ መስቀል፡ ዕንቈ፡ ተድላ፨</l>
+            <l n="2">ከመ፡ ኦርያሬስ፡ ወእብላ፨</l>
+            <l n="3">በስመ፡ ትስቡኤል፡ ርእሰ፡ መሐላ፨</l>
+            <l n="4">ዘትረውጽ፡ በሰረገላ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ኦአቡየ፡ መንፈሳዊ፡ ገብረ፡ መስቀል፡ ጻድቅ፨</l>
+            <l n="2">አመ፡ ኵነኔ፡ ወድልቅልቅ፨</l>
+            <l n="3">መንግሥተ፡ ሰማያት፡ ምርሐኒ፡ ዘኢየኀልቅ፨</l>
+            <l n="4">ከመ፡ ዝናም፡ ይምርሖ፡ ለግሩም፡ መብረቅ፨</l>
+
+          </lg>
+          
+        </div>
         
       </div>
     </body>
@@ -104,10 +174,10 @@
             <listPerson>
               
               
-              <person xml:id="gabra-masqal-waldebba">
-                <persName xml:lang="gez">ገብረ፡ መስቀል፡ ዘዋልድባ፡</persName>
-                <persName xml:lang="gez" type="normalized">Gabra Masqal za-Wāldǝbbā</persName>
-                <persName xml:lang="en">Gabra Masqal of Wāldǝbbā</persName>
+              <person xml:id="gabra-masqal-guteman">
+                <persName xml:lang="gez">ገብረ፡ መስቀል፡ ዘጉትማን፡</persName>
+                <persName xml:lang="gez" type="normalized">Gabra Masqal za-Gutəmān</persName>
+                <persName xml:lang="en">Gabra Masqal of Gutəmān</persName>
                 <trait>righteous</trait>
 
                 

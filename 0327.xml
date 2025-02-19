@@ -30,6 +30,36 @@
       </sourceDesc>
 
       
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">120</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
 
     <profileDesc>
@@ -68,6 +98,16 @@
 
           </lg>
           
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘትሰመይ፡ ጎልጎታ፨</l>
+            <l n="2">ጽዮንሃ፡ ቅድስቶ፡ ድኅረ፡ አንበርከ፡ ውስቴታ፨</l>
+            <l n="3">ሀየለ፡ ክርስቶስ፡ ንሣእ፡ ኲናተ፡ ኪሩቤል፡ ምስለ፡ ወልታ፨</l>
+            <l n="4">ኢትኩን፡ ለባዕዳን፡ አመ፡ ዕለተ፡ ፍትሕ፡ ወሐተታ፨</l>
+            <l n="5">ጸዋሪተ፡ አሚን፡ ፍሬ፡ ዝኅርከ፡ ኤፍራታ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="30">
             
             <l n="1">ሰላም፡ ለትንሣኤከ፡ በንፍሐተ፡ ቀርን፡ ዘደኃሪ፨</l>
@@ -94,7 +134,7 @@
             <l n="2">ተወልደ፡ መድኅን፡ ወየማነ፡ አብ፡ ወህርያቆስ፡ አስካል፨</l>
             <l n="3">አብ፡ ቅዱስ፡ አምሳሉ፡ ለገብረ፡ ኢየሱስ፡ አምሳል፨</l>
             <l n="4">ወካዕበ፡ እዌድሶ፡ ለሀብተ፡ ሥላሴ፡ መስተጋድል፨</l>
-            <l n="5">በገረር፡ ቅድስት፡ እንተ፡ ዕማ፡ ቤቴል፨</l>
+            <l n="5">በሀገር፡ ቅድስት፡ እንተ፡ ስማ፡ ቤቴል፨</l>
             <l n="6">ቤቴል፡ ብሂል፡ ቤተ፡ ማርያም፡ ድንግል፨</l>
 
           </lg>
