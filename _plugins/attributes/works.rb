@@ -31,7 +31,9 @@ Jekyll::Hooks.register :site, :pre_render do |site|
       end
     end
 
-    work.data["full_text"] = work.data["stanzas"].size == work.data["stanzas"].max_by{ |k, v| k }[0]
+    work.data["length"] = work.data["stanzas"].max_by{ |k, v| k }[0]
+    
+    work.data["full_text"] = work.data["stanzas"].size == work.data["length"]
 
   end
 

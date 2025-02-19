@@ -33,7 +33,7 @@ layout: default
     {% if page.subjects.size > 0 %}
     <article class="message" id="subjects">
       <div class="message-header">
-        <p>Subjects</p>
+        <p>Subject{% if page.subjects.size > 1 %}s{% endif %}</p>
       </div>
       <div class="message-body content">
         {% for key in page.subjects %}
@@ -83,7 +83,7 @@ layout: default
 
     <main class="message" id="malke">
       <div class="message-header">
-        <p lang="gez-latn">Malkəʾ</p>
+        <p lang="gez-latn">Malkəʾ</p> 
       </div>
       <div class="message-body">
         {% include textpart.html stanzas=page.stanzas %}
