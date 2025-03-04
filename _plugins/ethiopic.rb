@@ -159,6 +159,15 @@ module Jekyll::Ethiopic
     input = input.gsub(/n{1,2}o/, 'ኖ')
     input = input.gsub(/n{1,2}[ǝə]?/, 'ን')
 
+    input = input.gsub(/ñ{1,2}ʷā/, 'ኟ')
+    input = input.gsub(/ñ{1,2}a/, 'ኘ')
+    input = input.gsub(/ñ{1,2}u/, 'ኙ')
+    input = input.gsub(/ñ{1,2}i/, 'ኚ')
+    input = input.gsub(/ñ{1,2}ā/, 'ኛ')
+    input = input.gsub(/ñ{1,2}e/, 'ኜ')
+    input = input.gsub(/ñ{1,2}o/, 'ኞ')
+    input = input.gsub(/ñ{1,2}[ǝə]?/, 'ኝ')
+
     input = input.gsub(/ʾ{1,2}ʷā/, 'ኧ')
     input = input.gsub(/ʾ{1,2}a/, 'አ')
     input = input.gsub(/ʾ{1,2}u/, 'ኡ')
@@ -365,9 +374,11 @@ module Jekyll::Ethiopic
 
     input = input.gsub(/[ā]/, 'a')
     input = input.gsub(/[č]/, 'c')
+    input = input.gsub(/(č̣)/, 'c')
     input = input.gsub(/[ǝəƎ]/, 'e')
     input = input.gsub(/[ǧ]/, 'g')
     input = input.gsub(/[ḥḫ]/, 'h')
+    input = input.gsub(/[ñ]/, 'n')
     input = input.gsub(/[ṗ]/, 'p')
     input = input.gsub(/[śṣḍš]/, 's')
     input = input.gsub(/[ṭ]/, 't')
@@ -416,6 +427,26 @@ module Jekyll::Ethiopic
     skip = %w{and or}
 
     input.split(' ').map{ |word| unless skip.include? word then word.capitalize else word end }.join(' ')
+  end
+
+  def flatten(input)
+    if input.respond_to?(:flatten) then return input.flatten end
+  end
+
+  def sort_numeric(input)
+
+    return input.sort do |a,b|
+      if a.to_i != b.to_i
+        a.to_i <=> b.to_i
+      elsif a.to_i.to_s == a.to_s
+        -1
+      elsif b.to_i.to_s == b.to_s
+        1
+      else
+        a.gsub(/\d/, "") <=> b.gsub(/\d/, "")
+      end
+    end
+
   end
 
 end

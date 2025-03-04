@@ -2,9 +2,10 @@
 ---
 
 <p class="mb-3">
-  <strong class="has-text-danger">Please note that this represents a work in progress that is constantly being updated.</strong><br>
-  <em>CAe</em> = <em>Clavis Aethiopica</em>.<br>
-  Chaîne = Marius Chaîne, “<a href="{{ '/works/chaine/' | relative_url }}">Répertoire des salam et malke'e</a>,” <i>ROC</i> 18 (1913): 183–203, 337–57.
+  <strong class="has-text-danger">Please note that this represents a work in progress that is constantly being updated.</strong>
+  <br>CAe = Clavis Aethiopica.
+  <br>HK = Habtemichael Kidane, ‘Supplement to the Repertory of <i>Mälkəʿat</i>’, in <i>Celebrating the Holy Saints</i>, 267–369.
+  <br>MC = Marius Chaîne, ‘<a href="{{ '/works/chaine/' | relative_url }}">Répertoire des salam et malke'e</a>,” <i>ROC</i> 18 (1913): 183–203, 337–57.
 </p>
 
 <table class="table is-fullwidth" id="list">
@@ -13,7 +14,7 @@
 
     <tr>
       <td>
-        <input class="input" type="number" placeholder="CAe #" min="{{ site.works.first.title }}" max="{{ site.works.last.title }}" style="max-width: 5em; min-width: 3.5em;" />
+        <input class="input" type="number" placeholder="CAe #" min="{{ site.works.first.clavis }}" max="{{ site.works.last.clavis }}" style="max-width: 5em; min-width: 3.5em;" />
       </td>
 
       <td class="is-hidden-mobile">
@@ -40,14 +41,17 @@
   </thead>
     
   {% for work in site.works %}
-  <tbody id="{{ work.title }}" data-type="{{ work.type }}" data-fulltext="{{ work.full_text }}" data-rank="0">
+  <tbody id="{{ work.clavis }}" data-type="{{ work.type }}" data-fulltext="{{ work.full_text }}" data-rank="0">
 
     <tr>
 
       <td rowspan="2">
-        <span><em class="is-hidden-mobile">CAe:</em> {{ work.title }}</span>
+        <span><span class="is-hidden-mobile">CAe:</span> {{ work.clavis }}</span>
         {% if work.chaine %}
-        <br><small class="is-hidden-mobile">Chaîne: {{ work.chaine | join: ", " }}</small>
+        <br><small class="is-hidden-mobile">MC: {{ work.chaine | join: ", " }}</small>
+        {% endif %}
+        {% if work.habtemichael %}
+        <br><small class="is-hidden-mobile">HK: {{ work.habtemichael | join: ", " }}</small>
         {% endif %}
       </td>
 
@@ -68,10 +72,8 @@
         </a>
       </td>
 
-      <td rowspan="2" class="is-hidden-mobile">
-        {% if work.full_text %}
-        <span class="has-text-link">&#8226;</span>
-        {% endif %}
+      <td rowspan="2" class="is-hidden-mobile has-text-centered">
+        <span>{{ work.length }}</span>
       </td>
 
     </tr>

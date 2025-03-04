@@ -15,21 +15,19 @@ collections:
 defaults:
   - # blog posts
     scope:
-      path: ""
+      path: "blog"
       type: "posts"
     values:
       layout: "blog/post"
-      permalink: /blog/:categories/:year/:month/:day/:title:output_ext
       author: Augustine Dickinson
 
   - # works
     scope:
-      path: ""
+      path: "_works"
       type: "works"
     values:
       layout: "work"
       subjects: []
-      commemorations: []
 
   - # *
     scope:

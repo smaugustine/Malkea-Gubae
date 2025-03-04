@@ -5,6 +5,9 @@
 
 html body
 
+  .navbar-burger
+    color: var(--bulma-navbar-item-color)
+
   h1.title small
     @include mixins.touch
       display: block
@@ -41,7 +44,7 @@ html body
         display: none
 
       &::placeholder
-        font-style: italic
+        //font-style: italic
 
   ol.stanzas
     list-style-position: outside
