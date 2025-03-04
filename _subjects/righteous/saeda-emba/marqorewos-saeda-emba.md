@@ -1,3 +1,3 @@
 ---
-name: Marqorewos za-Ṣāʾədā ʾƎmbā
+name: Marqorewos za-Ṣāʿədā ʾƎmbā
 ---

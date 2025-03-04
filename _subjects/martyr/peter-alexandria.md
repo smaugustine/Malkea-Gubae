@@ -1,6 +1,6 @@
 ---
 name:
-  gez: Ṗeṭros za-ʾƎskəndrəyā
+  gez: Ṗeṭros Tafṣāmeta Samāʿt
   en: Peter of Alexandria
 commemorations:
   - [29, 3]
