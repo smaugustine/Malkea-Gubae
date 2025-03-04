@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ መልከ፡ ጼዴቅ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Malka Ṣedeq</title>
-        <title corresp="#t1" xml:lang="en">Image of Malka Ṣedeq</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መልከ፡ ጼዴቅ፡ ዘሚዳ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Malka Ṣedeq za-Midā</title>
+        <title corresp="#t1" xml:lang="en">Image of Malka Ṣedeq of Midā</title>
         
       </titleStmt>
 
@@ -30,6 +30,36 @@
       </sourceDesc>
 
       
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">156, 158</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
 
     <profileDesc>
@@ -44,7 +74,19 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        
+        <div type="textpart" xml:id="masgabiya">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለክሙ፡ እንጦንስ፡ ወመቃርስ፨</l>
+            <l n="2">አቢብ፡ ሲኖዳ፡ ገብረ፡ መንፈስ፡ ቅዱስ፨</l>
+            <l n="3">ለባርኮትነ፡ ንዑ፡ ውስተ፡ ጽርሐ፡ ዛቲ፡ መቅደስ፨</l>
+            <l n="4">ተክለ፡ ሃይማኖት፡ ኤዎስጣቴዎስ፡ ዜና፡ ማርቆስ፨</l>
+            <l n="5">አረጋዊ፡ መልከ፡ ጼዴቅ፡ ሊባኖስ፡ ኪሮስ፨</l>
+
+          </lg>
+          
+        </div>
 
         <div type="textpart" xml:id="malke">
           
@@ -68,6 +110,16 @@
 
           </lg>
           
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ላዕለ፡ ደብረ፡ ሣህል፡ ዘተኀርየ፡ ወዘተፈቅረ፨</l>
+            <l n="2">ወለፈልሰትከ፡ ሰላም፡ ምስለ፡ ነፍሰ፡ ጻድቃን፡ ዘኀብረ፨</l>
+            <l n="3">መልከ፡ ጼዴቅ፡ ኀያል፡ አምጣነ፡ ወደስኩከ፡ ምዕረ፨</l>
+            <l n="4">በወይነ፡ ፍቅርከ፡ አቅመ፡ ኅሊናየ፡ ሰክረ፨</l>
+            <l n="5">ዕሤተ፡ ዚአየ፡ አስተባዝኅ፡ ክብረ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="30">
             
             <l n="1">አምኃ፡ ሰላም፡ ወፍቅር፡ ለመልክእከ፡ ውዱስ፨</l>
@@ -80,7 +132,35 @@
           
         </div>
 
-        
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ መልከ፡ ጼዴቅ፡ ጴጥሮስ፡ ሐዋርያ፡ ክርስቶስ፡ ምእመን፨</l>
+            <l n="2">ከመ፡ አሕዛበ፡ ምድር፡ ትርአይ፡ በበትረ፡ ኀጺን፨</l>
+            <l n="3">ተውህበከ፡ ሀብተ፡ ክብር፡ ሥልጣን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ ምስለ፡ እንድርያስ፡ በኵር፨</l>
+            <l n="2">ሐወጽነ፡ ለለ፡ ሠርቀ፡ ኵሉ፡ አሚር፨</l>
+            <l n="3">ከመ፡ ታብልዐነ፡ ኅብስተ፡ ረቂቅ፡ ምሥጢር፨</l>
+            <l n="4">መልከ፡ ጼዴቅ፡ ምሉአ፡ ፍቅር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ መልከ፡ ጼዴቅ፡ ኄር፡ አብአነ፡ በአእፋረ፡ ትፍሥሕት፡ ዕጹብ፨</l>
+            <l n="2">አመ፡ ምጽአቱ፡ ለበኵረ፡ አብ፨</l>
+            <l n="3">ውስተ፡ ቤተ፡ መርዐ፡ ወቤተ፡ ከብካብ፨</l>
+            <l n="4">መልከ፡ ጼዴቅ፡ ምሉአ፡ ጥበብ፨</l>
+
+          </lg>
+          
+        </div>
         
       </div>
     </body>
@@ -94,12 +174,29 @@
             <listPerson>
               
               
-              <person xml:id="malka-sedeq">
-                <persName xml:lang="gez">መልከ፡ ጼዴቅ፡</persName>
-                <persName xml:lang="gez" type="normalized">Malka Ṣedeq</persName>
-                <persName xml:lang="en">Malka Ṣedeq</persName>
+              <person xml:id="malka-sedeq-mida">
+                <persName xml:lang="gez">መልከ፡ ጼዴቅ፡ ዘሚዳ፡</persName>
+                <persName xml:lang="gez" type="normalized">Malka Ṣedeq za-Midā</persName>
+                <persName xml:lang="en">Malka Ṣedeq of Midā</persName>
                 <trait>righteous</trait>
 
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">100</citedRange>
+                </biblStruct>
                 
               </person>
               

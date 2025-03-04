@@ -30,6 +30,36 @@
       </sourceDesc>
 
       
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">81, 202</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
     </fileDesc>
 
     <profileDesc>
@@ -65,6 +95,76 @@
             <l n="3">ሠናየ፡ ዝክር፡ ፊልጶስ፡ ለገነተ፡ ልዑል፡ አስካላ፨</l>
             <l n="4">ማርያም፡ ርግበ፡ ገሊላ፡ ፀሓየ፡ ጽድቅ፡ ብሂላ፨</l>
             <l n="5">ሰመየተከ፡ ስመ፡ በጥዑም፡ ቅላ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለምራቅከ፡ ለአብዝኆ፡ ጻማ፡ ዘየብሰ፨</l>
+            <l n="2">ኀጺነ፡ ወሠቀ፡ በጊዜ፡ ረሰይከ፡ ልብሰ፨</l>
+            <l n="3">ፊልጶስ፡ ፈጽም፡ ዘኅሊናየ፡ ማኅሠሠ፨</l>
+            <l n="4">ለማየ፡ አፉየ፡ ዘመጻጕዐ፡ ፈወሰ፨</l>
+            <l n="5">እምፈተውኩ፡ አንሰ፡ ትቅብአኒ፡ ሥልሰ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለመናቅዕከ፡ ፀጋመ፡ ወየማነ፨</l>
+            <l n="2">ፊልጶስ፡ አቡነ፨</l>
+            <l n="3">በዐይነ፡ ኅሊና፡ ርኢኩ፡ እለ፡ ከማከ፡ ጻድቃነ፨</l>
+            <l n="4">ሕርመተ፡ ፀሓይ፡ ወወርኅ፡ ለባሕቲትከ፡ ኮነ፨</l>
+            <l n="5">እስከ፡ መኅቱ፡ ኢረከብኩ፡ አነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ሰላም፡ ለአቍያጺከ፡ ለተሌልዮ፡ ዘቀርቡ፨</l>
+            <l n="2">ማዕሰ፡ ሥጋ፡ ኢረከቡ፨</l>
+            <l n="3">መጽሐፈ፡ ብርሃን፡ ፊልጶስ፡ ኆኅተከ፡ ያንብቡ፨</l>
+            <l n="4">እምበረከትከ፡ ሕዝበ፡ ኢትዮጵያ፡ ይጽገቡ፨</l>
+            <l n="5">ግብረተ፡ ፀር፡ ለንጉሥነ፡ ጸግዎ፡ አቡ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="42">
+            
+            <l n="1">ሰላም፡ ለአብራኪከ፡ እለ፡ አኀዛ፡ ይግነያ፨</l>
+            <l n="2">ለስመ፡ እግዚአብሔር፡ ኬንያ፨</l>
+            <l n="3">ፊልጶስ፡ ይትነከር፡ ለኂሩትከ፡ ሥነ፡ ዕበያ፨</l>
+            <l n="4">ሐወጸከአ፡ ለቤተ፡ ክርስቲያን፡ ባሕርያ፨</l>
+            <l n="5">መምህር፡ ዘአፍራቅያ፡ ፊልጶስ፡ ሐዋርያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለመከየድከ፡ ለአርብሖ፡ ምናን፡ ነጋዲ፨</l>
+            <l n="2">አመ፡ ይመጽእ፡ መርዓዊ፡ ምስለ፡ ረባሐን፡ ይፍዲ፨</l>
+            <l n="3">ማኅደረ፡ በረከት፡ ፊልጶስ፡ እንተ፡ ኢትነዲ፨</l>
+            <l n="4">መነኮስ፡ ተጋዳሊ፡ ተረፈ፡ ሰማዕታት፡ ዓዲ፨</l>
+            <l n="5">ቦኑመ፡ አንተ፡ አቡየ፡ አብሳዲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በከመ፡ መጻሕፍት፡ ሠርዑ፨</l>
+            <l n="2">ልብሰ፡ ሠቅ፡ ዘትለብሰ፡ እምላዕሌከ፡ ኢያውፅኡ፨</l>
+            <l n="3">ጼዋ፡ ፍቁራኒከ፡ ኢይምጽኡ፨</l>
+            <l n="4">ከመ፡ ይባርኩነ፡ በኍልቈ፡ ዕለታት፡ ሰብዑ፨</l>
+            <l n="5">ተክለ፡ መርዓዊ፡ ወፍሬ፡ ወንጌል፡ ወአባ፡ በግዑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="53">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ አቲዎ፡ አእላፈ፨</l>
+            <l n="2">እንተ፡ ዲቤሁ፡ ተክህለ፡ መለኮት፡ እንዘ፡ ይባርክ፡ አጽናፈ፨</l>
+            <l n="3">ማሕሌተከ፡ ፊልጶስ፡ ዘልሳንየ፡ ጸሐፈ፨</l>
+            <l n="4">ከመ፡ ይትቀሠፉ፡ ቦቱ፡ አፅራረ፡ ነፍስየ፡ ዘልፈ፨</l>
+            <l n="5">አንበርኩ፡ ሎሙ፡ ኲናተ፡ ወሰይፈ፨</l>
 
           </lg>
           

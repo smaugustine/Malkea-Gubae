@@ -71,7 +71,7 @@
                 <title level="s">Gorgias Eastern Christian Studies</title>
                 <biblScope unit="volume">67</biblScope>
               </series>
-              <citedRange unit="item">163</citedRange>
+              <citedRange unit="item">161, 163</citedRange>
             </biblStruct>
             
           </listBibl>
@@ -92,7 +92,39 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        
+        <div type="textpart" xml:id="masgabiya">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ልክሙ፡ ወንጌላውያን፡ አበውየ፨</l>
+            <l n="2">መሰልኩክሙ፡ በእንስሳሁ፡ ዕሩየ፨</l>
+            <l n="3">እምኔክሙ፡ ማርቆስ፡ አንበሳ፡ ተሰምየ፨</l>
+            <l n="4">ወሰላም፡ ለርእሱ፡ ዘንኤምኆ፡ በዝየ፨</l>
+            <l n="5">በእንተ፡ ክርስቶስ፡ ዘጾረ፡ እንተ፡ ስምዕ፡ ሥቃየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለማርቆስ፡ ለማርያም፡ ዕጓላ፨</l>
+            <l n="2">ዘሰሐብዎ፡ አይሁድ፡ ውስተ፡ ዐጸደ፡ ላህም፡ ከመ፡ ዳቤላ፨</l>
+            <l n="3">አመ፡ አውዕዮቶ፡ ፈቀዱ፡ ለእሳድ፡ በነበልባላ፨</l>
+            <l n="4">ዝናም፡ ወአስሐትያ፡ አጥፍአ፡ ማዕበላ፨</l>
+            <l n="5">መብረቅኒ፡ ለሥጋሁ፡ ከለላ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">አባ፡ ክቡር፡ አባ፡ ክቡር፨</l>
+            <l n="2">ማርቆስ፡ መምህር፨</l>
+            <l n="3">በእሴ፡ እግዚአብሔር፨</l>
+            <l n="4">ውስተ፡ ኵሉ፡ ግብጽ፡ አድያሚሃ፨</l>
+            <l n="5">አድመዕከ፡ በስብከትከ፡ ወንጌላዊ፨</l>
+
+          </lg>
+          
+        </div>
 
         <div type="textpart" xml:id="malke">
           

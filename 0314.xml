@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ዘጻእዳ፡ እምባ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marqorewos za-Ṣāʾədā ʾƎmbā</title>
-        <title corresp="#t1" xml:lang="en">Image of Marqorewos of Ṣāʾədā ʾƎmbā</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ዘጻዕዳ፡ እምባ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marqorewos za-Ṣāʿədā ʾƎmbā</title>
+        <title corresp="#t1" xml:lang="en">Image of Marqorewos of Ṣāʿədā ʾƎmbā</title>
         
       </titleStmt>
 
@@ -29,6 +29,36 @@
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
 
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">167</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
       
     </fileDesc>
 
@@ -55,6 +85,26 @@
             <l n="3">መርቆሬዎስ፡ አፈው፡ መርቆሬዎስ፡ ወይን፨</l>
             <l n="4">እምቃለ፡ መርዓት፡ ይደልወከ፡ ብፅዓን፨</l>
             <l n="5">እስመ፡ መዐዛከ፡ ርትዕት፡ አሚን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲከ፡ እለ፡ ሐተታ፡ በስንዓዌ፨</l>
+            <l n="2">ውስተ፡ መርዐሁ፡ መስቀል፡ ዕጉሠ፡ ቅንዋት፡ መርዓዌ፨</l>
+            <l n="3">መርቆሬዎስ፡ መምህር፡ ዘመሀርከ፡ ጊዜ፡ ጽማዌ፨</l>
+            <l n="4">ኢይምሥጥ፡ አባግዒከ፡ ኑፋቄ፡ አውናምዮስ፡ አርዌ፨</l>
+            <l n="5">እንዘ፡ በአቃኒም፡ ሠላስ፡ አሐደ፡ ህላዌ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ሰላም፡ ለንዋየ፡ ውስጥከ፡ እምዐይነ፡ ሥጋ፡ ዘሰወሮ፨</l>
+            <l n="2">በውሳጤ፡ ከርሥ፡ ፈጣሪ፡ ጊዜ፡ በጥበቡ፡ ፈጠሮ፨</l>
+            <l n="3">ኀይል፡ ውስተ፡ ኀይል፡ እስመ፡ ሖርከ፡ በኢተድኅሮ፨</l>
+            <l n="4">መርቆሬዎስ፡ ትረስ፡ ደለወከ፡ ልዑለ፡ መንበሮ፨</l>
+            <l n="5">ለመርዓዊ፡ ክርስቶስ፡ ዘሐጸነቶ፡ ሐጻኒት፡ አእምሮ፨</l>
 
           </lg>
           
@@ -114,9 +164,9 @@
               
               
               <person xml:id="marqorewos-saeda-emba">
-                <persName xml:lang="gez">መርቆሬዎስ፡ ዘጻእዳ፡ እምባ፡</persName>
-                <persName xml:lang="gez" type="normalized">Marqorewos za-Ṣāʾədā ʾƎmbā</persName>
-                <persName xml:lang="en">Marqorewos of Ṣāʾədā ʾƎmbā</persName>
+                <persName xml:lang="gez">መርቆሬዎስ፡ ዘጻዕዳ፡ እምባ፡</persName>
+                <persName xml:lang="gez" type="normalized">Marqorewos za-Ṣāʿədā ʾƎmbā</persName>
+                <persName xml:lang="en">Marqorewos of Ṣāʿədā ʾƎmbā</persName>
                 <trait>righteous</trait>
 
                 

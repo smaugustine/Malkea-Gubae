@@ -5,8 +5,8 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጴጥሮስ፡ ዘእስክንድርያ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṗeṭros za-ʾƎskəndrəyā</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጴጥሮስ፡ ተፍጻሜተ፡ ሰማዕት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṗeṭros Tafṣāmeta Samāʿt</title>
         <title corresp="#t1" xml:lang="en">Image of Peter of Alexandria</title>
         
       </titleStmt>
@@ -29,6 +29,36 @@
         <p>Malkəʾa Gubāʾe</p>
       </sourceDesc>
 
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">198</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
       
     </fileDesc>
 
@@ -127,8 +157,8 @@
               
               
               <person xml:id="peter-alexandria">
-                <persName xml:lang="gez">ጴጥሮስ፡ ዘእስክንድርያ፡</persName>
-                <persName xml:lang="gez" type="normalized">Ṗeṭros za-ʾƎskəndrəyā</persName>
+                <persName xml:lang="gez">ጴጥሮስ፡ ተፍጻሜተ፡ ሰማዕት፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṗeṭros Tafṣāmeta Samāʿt</persName>
                 <persName xml:lang="en">Peter of Alexandria</persName>
                 <trait>martyr</trait>
 
