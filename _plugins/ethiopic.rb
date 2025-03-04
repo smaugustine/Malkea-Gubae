@@ -136,6 +136,15 @@ module Jekyll::Ethiopic
     input = input.gsub(/t{1,2}o/, 'ቶ')
     input = input.gsub(/t{1,2}[ǝə]?/, 'ት')
 
+    input = input.gsub(/č{1,2}ʷā/, 'ቿ')
+    input = input.gsub(/č{1,2}a/, 'ቸ')
+    input = input.gsub(/č{1,2}u/, 'ቹ')
+    input = input.gsub(/č{1,2}i/, 'ቺ')
+    input = input.gsub(/č{1,2}ā/, 'ቻ')
+    input = input.gsub(/č{1,2}e/, 'ቼ')
+    input = input.gsub(/č{1,2}o/, 'ቾ')
+    input = input.gsub(/č{1,2}[ǝə]?/, 'ች')
+
     input = input.gsub(/ḫ{1,2}ʷa/, 'ኈ')
     input = input.gsub(/ḫ{1,2}ʷi/, 'ኊ')
     input = input.gsub(/ḫ{1,2}ʷā/, 'ኋ')

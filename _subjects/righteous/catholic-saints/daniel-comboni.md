@@ -1,6 +1,6 @@
 ---
 name:
-  gez: Dānəʿel Komboni
+  gez: Dānəʾel Komboni
   en: Daniel Comboni
 commemorations:
   - [10, 2]
