@@ -136,6 +136,16 @@ module Jekyll::Ethiopic
     input = input.gsub(/t{1,2}o/, 'ቶ')
     input = input.gsub(/t{1,2}[ǝə]?/, 'ት')
 
+    # ጨ before ቸ to prevent conflicts
+    input = input.gsub(/(č̣){1,2}ʷā/, 'ጯ')
+    input = input.gsub(/(č̣){1,2}a/, 'ጨ')
+    input = input.gsub(/(č̣){1,2}u/, 'ጩ')
+    input = input.gsub(/(č̣){1,2}i/, 'ጪ')
+    input = input.gsub(/(č̣){1,2}ā/, 'ጫ')
+    input = input.gsub(/(č̣){1,2}e/, 'ጬ')
+    input = input.gsub(/(č̣){1,2}o/, 'ጮ')
+    input = input.gsub(/(č̣){1,2}[ǝə]?/, 'ጭ')
+
     input = input.gsub(/č{1,2}ʷā/, 'ቿ')
     input = input.gsub(/č{1,2}a/, 'ቸ')
     input = input.gsub(/č{1,2}u/, 'ቹ')
@@ -283,14 +293,7 @@ module Jekyll::Ethiopic
     input = input.gsub(/ṭ{1,2}o/, 'ጦ')
     input = input.gsub(/ṭ{1,2}[ǝə]?/, 'ጥ')
 
-    input = input.gsub(/(č̣){1,2}ʷā/, 'ጯ')
-    input = input.gsub(/(č̣){1,2}a/, 'ጨ')
-    input = input.gsub(/(č̣){1,2}u/, 'ጩ')
-    input = input.gsub(/(č̣){1,2}i/, 'ጪ')
-    input = input.gsub(/(č̣){1,2}ā/, 'ጫ')
-    input = input.gsub(/(č̣){1,2}e/, 'ጬ')
-    input = input.gsub(/(č̣){1,2}o/, 'ጮ')
-    input = input.gsub(/(č̣){1,2}[ǝə]?/, 'ጭ')
+    # ጨ is placed above to prevent conflict with ቸ
 
     input = input.gsub(/ṗ{1,2}ʷā/, 'ጷ')
     input = input.gsub(/ṗ{1,2}a/, 'ጰ')
