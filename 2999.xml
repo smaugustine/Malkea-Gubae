@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Maṭməq</title>
         <title corresp="#t1" xml:lang="en">Image of John the Baptist</title>
         
+        <title xml:id="t2" xml:lang="gez">ጸሎተ፡ መልክኡ፡ ለመጥምቀ፡ መለኮት፡ ዮሐንስ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Ṣalota Malkəʾu la-Maṭməqa Malakot Yoḥannəs</title>
+        <title corresp="#t2" xml:lang="en">Prayer of the Image of John, Baptizer of Divinity</title>
+        
       </titleStmt>
 
       <publicationStmt>

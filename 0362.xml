@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ታዴዎስ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tādewos</title>
-        <title corresp="#t1" xml:lang="en">Image of Tādewos</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ታዴዎስ፡ ዘደብረ፡ ድኁኃን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tādewos za-Dabra Dəḫuḫān</title>
+        <title corresp="#t1" xml:lang="en">Image of Tādewos of Dabra Dəḫuḫān</title>
         
       </titleStmt>
 
@@ -78,6 +78,46 @@
 
           </lg>
           
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘይትአመር፡ ባቲ፨</l>
+            <l n="2">ጊዜ፡ ተላጽዮ፡ ወብቍላት፡ ትንሣኤ፡ ሥጋ፡ መዋቲ፨</l>
+            <l n="3">እምደብረ፡ ድኁኃን፡ ታዴዎስ፡ አበ፡ ሃይማኖት፡ ኢተአታቲ፨</l>
+            <l n="4">እምከሰ፡ ደብረ፡ ሊባኖስ፡ ይእቲ፨</l>
+            <l n="5">ባሕቱ፡ በዕፃ፡ ነሥአተከ፡ ዛቲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ ዘተዐገሠ፡ በሕቁ፨</l>
+            <l n="2">ሕማመ፡ ተኰርዖ፡ በህላት፡ ከመ፡ ርእስ፡ ሊቁ፨</l>
+            <l n="3">ታዴዎስ፡ ነዓ፡ ከመ፡ ትናዝዞሙ፡ ለደቂቁ፨</l>
+            <l n="4">ምኔትከ፡ ደብረ፡ ድኁኃን፡ እስመ፡ በምዝባሬሃ፡ ታስቆቁ፨</l>
+            <l n="5">ወዕጓለ፡ ቋዕ፡ በዐውዳ፡ ይነቁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ ሥነ፡ ላሕዩ፡ ዘይትፈቶ፨</l>
+            <l n="2">እምጼና፡ ገዳም፡ ዘወርኀ፡ ቲቶ፨</l>
+            <l n="3">እመ፡ ኢኮነ፡ ከማከ፡ ታዴዎስ፡ ብእሴ፡ አእኵቶ፨</l>
+            <l n="4">ሰብእሰ፡ ይመስል፡ ከንቶ፨</l>
+            <l n="5">ወከመ፡ ጽላሎት፡ በበክ፡ ያጠፍእ፡ ሕይወቶ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="42">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ መንገለ፡ ህላዌ፡ ዘላዕሉ፨</l>
+            <l n="2">ለመልአከ፡ ሕይወት፡ ሚካኤል፡ በዕለተ፡ ቅዱስ፡ በዓሉ፨</l>
+            <l n="3">አመ፡ ሞትከ፡ ታዴዎስ፡ መስቆቅዋን፡ ይቤሉ፨</l>
+            <l n="4">ወይሌ፡ ወይሌ፡ ለደቂቀ፡ አዳም፡ ይደሉ፨</l>
+            <l n="5">እስመ፡ እመቃብር፡ ወሞት፡ ኢያመሥጥ፡ ኵሉ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="45">
             
             <l n="1">ሰላም፡ ለመቃብሪከ፡ እምጻማ፡ ብዙኅ፡ ተመንድቦ፨</l>
@@ -134,10 +174,10 @@
             <listPerson>
               
               
-              <person xml:id="tadewos">
-                <persName xml:lang="gez">ታዴዎስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Tādewos</persName>
-                <persName xml:lang="en">Tādewos</persName>
+              <person xml:id="tadewos-d-dehuhan">
+                <persName xml:lang="gez">ታዴዎስ፡ ዘደብረ፡ ድኁኃን፡</persName>
+                <persName xml:lang="gez" type="normalized">Tādewos za-Dabra Dəḫuḫān</persName>
+                <persName xml:lang="en">Tādewos of Dabra Dəḫuḫān</persName>
                 <trait>righteous</trait>
 
                 
