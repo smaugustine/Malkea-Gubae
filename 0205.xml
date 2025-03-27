@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/0205/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -108,7 +109,7 @@
                 <persName xml:lang="gez">አምኃ፡ ጊዮርጊስ፡ ዘደብረ፡ ጽጌ፡</persName>
                 <persName xml:lang="gez" type="normalized">ʾAmməḫā Giyorgis za-Dabra Ṣəge</persName>
                 <persName xml:lang="en">ʾAmməḫā Giyorgis of Dabra Ṣəge</persName>
-                <trait>righteous</trait>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>
@@ -118,7 +119,7 @@
                 <persName xml:lang="gez">ጽጌ፡ ድንግል፡ ዘደብረ፡ ጽጌ፡</persName>
                 <persName xml:lang="gez" type="normalized">Ṣəge Dəngəl za-Dabra Ṣəge</persName>
                 <persName xml:lang="en">Ṣəge Dəngəl of Dabra Ṣəge</persName>
-                <trait>righteous</trait>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>

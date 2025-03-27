@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/6203/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -159,7 +160,7 @@
                 <persName xml:lang="gez">መስቀል፡</persName>
                 <persName xml:lang="gez" type="normalized">Masqal</persName>
                 <persName xml:lang="en">The Cross</persName>
-                <trait>trinitarian</trait>
+                <trait type="category"><desc>trinitarian</desc></trait>
 
                 
               </person>

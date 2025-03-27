@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/6453/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -118,7 +119,7 @@
                 <persName xml:lang="gez">ሚካኤል፡</persName>
                 <persName xml:lang="gez" type="normalized">Mikāʾel</persName>
                 <persName xml:lang="en">Michael</persName>
-                <trait>angelic</trait>
+                <trait type="category"><desc>angelic</desc></trait>
 
                 
               </person>
@@ -128,7 +129,7 @@
                 <persName xml:lang="gez">ገብርኤል፡</persName>
                 <persName xml:lang="gez" type="normalized">Gabrəʾel</persName>
                 <persName xml:lang="en">Gabriel</persName>
-                <trait>angelic</trait>
+                <trait type="category"><desc>angelic</desc></trait>
 
                 
               </person>

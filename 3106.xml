@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/3106/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -167,7 +168,7 @@
           
           <lg type="stanza" n="10">
             
-            <l n="1">ኦዘነበርከውበመንበረ፡ ሥቃይ፡ ዘሐፂን፨</l>
+            <l n="1">ኦዘነበርከ፡ በመንበረ፡ ሥቃይ፡ ዘሐፂን፨</l>
             <l n="2">እስካ፡ ከመ፡ እሳት፡ ኮነ፡ ኵለንታ፡ ዘዚአከ፡ ሥን፨</l>
             <l n="3">ቴዎድሮስ፡ ጥዑም፡ አስካለ፡ ሃይማኖት፡ ወይን፨</l>
             <l n="4">አውፅአኒ፡ እምግበ፡ ሀጕል፡ አመ፡ ምግበ፡ ሙሴ፡ መስፍን፨</l>
@@ -274,7 +275,7 @@
                 <persName xml:lang="gez">ቴዎድሮስ፡ ሊቀ፡ ሠራዊት፡</persName>
                 <persName xml:lang="gez" type="normalized">Tewodros Liqa Śarāwit</persName>
                 <persName xml:lang="en">Theodore the General</persName>
-                <trait>martyr</trait>
+                <trait type="category"><desc>martyr</desc></trait>
 
                 
               </person>

@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/0350/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -98,7 +99,7 @@
                 <persName xml:lang="gez">አብርሃም፡</persName>
                 <persName xml:lang="gez" type="normalized">ʾAbrəhām</persName>
                 <persName xml:lang="en">Abraham</persName>
-                <trait>prophet</trait>
+                <trait type="category"><desc>prophet</desc></trait>
 
                 
               </person>
@@ -108,7 +109,7 @@
                 <persName xml:lang="gez">ይስሐቅ፡</persName>
                 <persName xml:lang="gez" type="normalized">Yəsḥaq</persName>
                 <persName xml:lang="en">Isaac</persName>
-                <trait>prophet</trait>
+                <trait type="category"><desc>prophet</desc></trait>
 
                 
               </person>
@@ -118,7 +119,7 @@
                 <persName xml:lang="gez">ያዕቆብ፡</persName>
                 <persName xml:lang="gez" type="normalized">Yāʿqob</persName>
                 <persName xml:lang="en">Jacob</persName>
-                <trait>prophet</trait>
+                <trait type="category"><desc>prophet</desc></trait>
 
                 
               </person>

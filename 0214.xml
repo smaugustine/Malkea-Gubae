@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/0214/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -88,7 +89,7 @@
                 <persName xml:lang="gez">እግዚአብሔር፡ አብ፡</persName>
                 <persName xml:lang="gez" type="normalized">ʾƎgziʾabəḥer ʾAb</persName>
                 <persName xml:lang="en">God the Father</persName>
-                <trait>trinitarian</trait>
+                <trait type="category"><desc>trinitarian</desc></trait>
 
                 
               </person>

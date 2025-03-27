@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/2920/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -125,7 +126,7 @@
                 <persName xml:lang="gez">ቶማስ፡</persName>
                 <persName xml:lang="gez" type="normalized">Tomās</persName>
                 <persName xml:lang="en">Thomas</persName>
-                <trait>apostle</trait>
+                <trait type="category"><desc>apostle</desc></trait>
 
                 
               </person>

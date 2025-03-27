@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/0382/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -108,7 +109,7 @@
                 <persName xml:lang="gez">ዳዊት፡</persName>
                 <persName xml:lang="gez" type="normalized">Dāwit</persName>
                 <persName xml:lang="en">David</persName>
-                <trait>prophet</trait>
+                <trait type="category"><desc>prophet</desc></trait>
 
                 
               </person>

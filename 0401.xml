@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/0401/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -98,7 +99,7 @@
                 <persName xml:lang="gez">ሳሙኤል፡ ፋድል፡ ዘጉንደ፡ ጉንዴ፡</persName>
                 <persName xml:lang="gez" type="normalized">Sāmuʾel Fādəl za-Gunda Gunde</persName>
                 <persName xml:lang="en">Sāmuʾel Fādəl of Gunda Gunde</persName>
-                <trait>righteous</trait>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>

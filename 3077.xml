@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/3077/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -213,7 +214,7 @@
                 <persName xml:lang="gez">መድኃኒነ፡ እግዚእ፡ ዘደብረ፡ በንኮል፡</persName>
                 <persName xml:lang="gez" type="normalized">Madḫānina ʾƎgziʾ za-Dabra Bankol</persName>
                 <persName xml:lang="en">Madḫānina ʾƎgziʾ of Dabra Bankol</persName>
-                <trait>righteous</trait>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
                 <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">

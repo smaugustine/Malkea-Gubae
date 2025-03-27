@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/0424/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -198,7 +199,7 @@
                 <persName xml:lang="gez">አፍኒን፡</persName>
                 <persName xml:lang="gez" type="normalized">ʾAfnin</persName>
                 <persName xml:lang="en">Ophanim</persName>
-                <trait>angelic</trait>
+                <trait type="category"><desc>angelic</desc></trait>
 
                 
               </person>

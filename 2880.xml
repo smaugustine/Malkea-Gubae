@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/2880/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -165,7 +166,7 @@
                 <persName xml:lang="gez">ዮስጦስ፡</persName>
                 <persName xml:lang="gez" type="normalized">Yosṭos</persName>
                 <persName xml:lang="en">Giusto da Urbino</persName>
-                <trait>righteous</trait>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>

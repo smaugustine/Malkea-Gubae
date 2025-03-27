@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
+        <ref target="https://w3id.org/malke/2830/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -175,7 +176,7 @@
                 <persName xml:lang="gez">ጴጥሮስ፡</persName>
                 <persName xml:lang="gez" type="normalized">Ṗeṭros</persName>
                 <persName xml:lang="en">Peter</persName>
-                <trait>apostle</trait>
+                <trait type="category"><desc>apostle</desc></trait>
 
                 
               </person>
@@ -185,7 +186,7 @@
                 <persName xml:lang="gez">ጳውሎስ፡</persName>
                 <persName xml:lang="gez" type="normalized">Ṗāwlos</persName>
                 <persName xml:lang="en">Paul</persName>
-                <trait>apostle</trait>
+                <trait type="category"><desc>apostle</desc></trait>
 
                 
               </person>
