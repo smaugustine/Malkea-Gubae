@@ -20,6 +20,7 @@
           </persName>
         </authority>
         <date>{{ "now" | date: "%Y" }}</date>
+        <ref target="{{ 'https://w3id.org/malke/' | append: page.clavis | append: '/' }}"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -141,7 +142,7 @@
                 <persName xml:lang="gez">{{ subject.name.gez | fidal }}</persName>
                 <persName xml:lang="gez" type="normalized">{{ subject.name.gez }}</persName>
                 <persName xml:lang="en">{{ subject.name.en }}</persName>
-                <trait>{{ subject.type }}</trait>
+                <trait type="category"><desc>{{ subject.type }}</desc></trait>
 
                 {% if subject.kinefe-rigb %}
                 <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
