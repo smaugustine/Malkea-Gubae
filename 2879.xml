@@ -482,8 +482,8 @@
               
               
               <person xml:id="theodore">
-                <persName xml:lang="gez">ቴዎድሮስ፡ ምሥራቃዊ፡</persName>
-                <persName xml:lang="gez" type="normalized">Tewodros Məśrāqāwi</persName>
+                <persName xml:lang="gez">ቴዎድሮስ፡ በናድሌዎስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tewodros Banādlewos</persName>
                 <persName xml:lang="en">Theodore the Oriental</persName>
                 <trait type="category"><desc>martyr</desc></trait>
 

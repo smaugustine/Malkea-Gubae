@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቴዎድሮስ፡ ምሥራቃዊ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tewodros Məśrāqāwi</title>
-        <title corresp="#t1" xml:lang="en">Image of Theodore the Oriental</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቴዎድሮስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tewodros</title>
+        <title corresp="#t1" xml:lang="en">Image of Theodore</title>
         
       </titleStmt>
 
@@ -96,8 +96,8 @@
               
               
               <person xml:id="theodore">
-                <persName xml:lang="gez">ቴዎድሮስ፡ ምሥራቃዊ፡</persName>
-                <persName xml:lang="gez" type="normalized">Tewodros Məśrāqāwi</persName>
+                <persName xml:lang="gez">ቴዎድሮስ፡ በናድሌዎስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tewodros Banādlewos</persName>
                 <persName xml:lang="en">Theodore the Oriental</persName>
                 <trait type="category"><desc>martyr</desc></trait>
 
