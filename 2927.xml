@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Giyorgis za-Ḍənsatu</title>
         <title corresp="#t1" xml:lang="en">Image of George — “His Conception”</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ጊዮርጊስ፡ ካልእ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkǝʾa Giyorgis Kālǝʾ</title>
+        <title corresp="#t2" xml:lang="en">Second Image of George</title>
+        
       </titleStmt>
 
       <publicationStmt>
