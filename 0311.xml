@@ -426,9 +426,9 @@
               
               
               <person xml:id="sad-mahbara-bakwr">
-                <persName xml:lang="gez">ጻድቃነ፡ ማኅበረ፡ በኵር፡</persName>
-                <persName xml:lang="gez" type="normalized">Ṣādqāna Māḫbara Bakʷr</persName>
-                <persName xml:lang="en">The Righteous Māḫbara Bakʷr</persName>
+                <persName xml:lang="gez">ጻድቃን፡ ዘማኅበረ፡ በኵር፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṣādqān za-Māḫbara Bakʷr</persName>
+                <persName xml:lang="en">The Righteous of the Assembly of the Firstborn</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
