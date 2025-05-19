@@ -1,5 +1,7 @@
 ---
 name:
-  gez: Ṣādqāna Māḫbara Bakʷr
-  en: The Righteous Māḫbara Bakʷr
+  gez: Ṣādqān za-Māḫbara Bakʷr
+  en: The Righteous of the Assembly of the Firstborn
+commemorations:
+  - [10, 12]
 ---
