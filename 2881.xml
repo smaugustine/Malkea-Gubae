@@ -54,6 +54,27 @@
             </biblStruct>
             
             
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">93, 94</citedRange>
+            </biblStruct>
+            
           </listBibl>
         </note>
       </notesStmt>
@@ -148,7 +169,39 @@
           
         </div>
 
-        
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ገብረ፡ መንፈስ፡ ቅዱስ፡ አቡየ፡ ተኣምሪከ፡ ዋሕድ፨</l>
+            <l n="2">ብእሲ፡ መነኮስ፡ ዘኀጢአቱ፡ ፍድፉድ፨</l>
+            <l n="3">ተዝካረ፡ በዓልከ፡ ንግበር፡ በእንተ፡ ዘበጽሐ፡ ፈቃድ፨</l>
+            <l n="4">እስመ፡ መፍርህ፡ ኵነኔ፡ ወእምሥቃይ፡ መርዕድ፨</l>
+            <l n="5">በኀይለ፡ ኪዳንከ፡ ባላኅከ፡ ወአኮ፡ በፍርድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ተኣምሪከ፡ ዓሥር፡ ወክልኤ፡ አዳም፡ ጥቀ፡ ወሠናይ፨</l>
+            <l n="2">በላዕለ፡ ሠራቂ፡ ዘኮነ፡ ወዲበ፡ ዶርሆ፡ ተባዕታይ፨</l>
+            <l n="3">ገብረ፡ መንፈስ፡ ቅዱስ፡ ሀበኒ፡ ዕሤተ፡ ዝንቱ፡ መኃልይ፨</l>
+            <l n="4">ኪያከ፡ ዘተወከለ፡ ይጥዒ፡ ድዉይ፨</l>
+            <l n="5">ወእመሬት፡ ይትነሣእ፡ ነዳይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">እምስብሐታቲከ፡ ዝናም፡ እንተ፡ ዜነውኩ፡ ነፍኒፈ፨</l>
+            <l n="2">በቅድሜከ፡ ዮም፡ ከዊኖ፡ ውኩፈ፨</l>
+            <l n="3">ገብረ፡ መንፈስ፡ ቅዱስ፡ በለኒ፡ ከሢትየ፡ አፈ፨</l>
+            <l n="4">ተፈሣሕ፡ በዲበ፡ ምድር፡ ወተሐሠይ፡ ዘልፈ፨</l>
+            <l n="5">እስመ፡ በሰማይ፡ ስምከ፡ ተጽሕፈ፨</l>
+
+          </lg>
+          
+        </div>
         
       </div>
     </body>
