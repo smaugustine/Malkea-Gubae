@@ -1,3 +1,0 @@
----
-name: Rās Ḫayla Māryām
----
