@@ -130,7 +130,6 @@
     </body>
     
     <back>
-
       {% if page.subjects.size > 0 %}
       <listRelation>
         <relation name="subjects">
@@ -169,12 +168,7 @@
         </relation>
       </listRelation>
       {% endif %}
-      {% if page.bibliography %}
-      <div type="bibliography">
-        {{ page.bibliography }}
-      </div>
-      {% endif %}
-      
+      {% if page.zotero_key %}<listBibl source="https://api.zotero.org/groups/5599348/collections/{{ page.zotero_key }}/items?format=tei" />{% endif %}
     </back>
 
   </text>
