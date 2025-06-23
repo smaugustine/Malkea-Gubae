@@ -1,7 +1,7 @@
 ---
 name:
   gez: Frānčaskā Rubātto
-  en: Francesca Rubatto
+  en: Anna Maria Rubatto
 commemorations:
   - [3, 12]
 ---

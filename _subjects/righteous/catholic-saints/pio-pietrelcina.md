@@ -1,5 +1,5 @@
 ---
 name:
-  gez: Pəyos za-Petralčənā
+  gez: Piyos za-Petralčənā
   en: Pio of Pietrelcina
 ---

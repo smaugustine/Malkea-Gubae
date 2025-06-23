@@ -1,3 +1,5 @@
 ---
-name: Yoḥannəs Ṗāṗṗās za-ʾAksum
+name:
+  gez: Yoḥannəs Ṗāṗṗās za-ʾAksum
+  en: Yoḥannəs, Metropolitan of ʾAksum
 ---
