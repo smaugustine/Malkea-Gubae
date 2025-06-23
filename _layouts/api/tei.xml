@@ -168,7 +168,7 @@
         </relation>
       </listRelation>
       {% endif %}
-      {% if page.zotero_key %}<listBibl source="https://api.zotero.org/groups/5599348/collections/{{ page.zotero_key }}/items?format=tei" />{% endif %}
+      {% if page.bibliography %}{{ page.bibliography }}{% endif %}
     </back>
 
   </text>
