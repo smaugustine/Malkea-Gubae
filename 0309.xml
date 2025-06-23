@@ -149,7 +149,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -172,12 +171,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Raineri2010" corresp="http://zotero.org/groups/5599348/items/PCTS82K5"><monogr><title level="m">Il Gadl di san Pietro, patriarca di Alessandria e ultimo dei martiri</title><editor><forename>Osvaldo</forename><surname>Raineri</surname></editor><imprint><pubPlace>Turnhout</pubPlace><publisher>Brepols</publisher><date>2010</date></imprint></monogr><series><title level="s">Patrologia Orientalis</title><biblScope unit="volume">51/5 (230)</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

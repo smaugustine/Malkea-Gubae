@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0506" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሐራ፡ ድንግል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ḥarā Dəngəl</title>
+        <title corresp="#t1" xml:lang="en">Image of Ḥarā Dəngəl</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0506/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">112</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ወለልደትከ፡ ቡሩክ፨</l>
+            <l n="2">እምነ፡ አሐቲ፡ ማሕፀን፡ ወእምነ፡ ክልኤ፡ አብራክ፨</l>
+            <l n="3">ሐራ፡ ድንግል፡ አብርሃም፡ ፍቁረ፡ አሐዱ፡ አምላክ፨</l>
+            <l n="4">አዕርጎ፡ በመሥዋዒከ፡ ዐጸደ፡ ጸላኢ፡ ድሩክ፨</l>
+            <l n="5">ለይስሐቅ፡ ሰላምከ፡ ዘአልቦ፡ ሀከክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘይሴባሕ፡ ወይትበፃዕ፨</l>
+            <l n="2">በአፈ፡ ብዙኃን፡ ጻድቃን፡ ወልሳነ፡ ኵሉ፡ ኃጥእ፨</l>
+            <l n="3">በደብተራ፡ መስቀል፡ ገዳም፡ አምሳለ፡ ነባቢ፡ በግዕ፨</l>
+            <l n="4">ተሦዕከ፡ ሐራ፡ ድንግል፡ ለቤዛ፡ ቅኑያን፡ ሰብእ፨</l>
+            <l n="5">እስመ፡ ቃለ፡ ሥምረት፡ አውአተከ፡ በዘመን፡ ባቍዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በልብሰ፡ መነኮስ፡ ጻድቅ፨</l>
+            <l n="2">ለመቃብሪከኒ፡ ምስካየ፡ ግፉዓን፡ ደቂቅ፨</l>
+            <l n="3">እስመ፡ ሐራ፡ ድንግል፡ ተጽዕንከ፡ በክነፈ፡ ነፋስ፡ ረቂቅ፨</l>
+            <l n="4">ኢኬድዋ፡ ለገዳምከ፡ ሕዝበ፡ ንስጥሮስ፡ ዕሩቅ፨</l>
+            <l n="5">እምልብሰ፡ አእምሮ፡ ሥርጋዌ፡ ልብሱ፡ ለቄርሎስ፡ ሊቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለምኔትከ፡ ሀገረ፡ ሃይማኖት፡ እስክንድርያ፨</l>
+            <l n="2">እንተ፡ ይእቲ፡ መክፈልቱ፡ ለማርቆስ፡ ሐዋርያ፨</l>
+            <l n="3">ዲዮስቆሮስ፡ ሊቅ፡ ሐራ፡ ድንግል፡ ነባቤ፡ መለኮት፡ ኬንያ፨</l>
+            <l n="4">ሃይማኖት፡ ሙስንተ፡ ግብር፡ ዘሮምያ፨</l>
+            <l n="5">ፈለሰት፡ በትምህርትከ፡ እᎀውድከ፡ ነያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ሰላም፡ ለሞትከ፡ ሐራ፡ ድንግል፡ አቡነ፨</l>
+            <l n="2">በዕለተ፡ በዓላ፡ ለሐና፡ ወለኢያቄም፡ ዘኮነ፨</l>
+            <l n="3">ክብረ፡ በዓልከ፡ ወይን፡ ዘያስተፌሥሕ፡ ኅዙነ፨</l>
+            <l n="4">ምስለ፡ ፋሲለደስ፡ ሰማዕት፡ በጕጕዐ፡ ወገላውዴዎስ፡ ፍጡነ፨</l>
+            <l n="5">ነዓ፡ ነዓ፡ እምህላዌከ፡ ለምሕረት፡ ኀቤነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለመልክእከ፡ በኍልቁ፨</l>
+            <l n="2">እስመ፡ በኵሉ፡ ተገብረ፡ ሥነ፡ ኂሩቱ፡ ወጽድቁ፨</l>
+            <l n="3">ሐራ፡ ድንግል፡ ይስሐቅ፡ ምክሕ፡ ልበ፡ ያዕቆብ፡ ወደቂቁ፨</l>
+            <l n="4">አንተኒ፡ በለኒ፡ አባላትየ፡ ቅድመ፡ በመቃብር፡ ይደቁ፨</l>
+            <l n="5">ነዋ፡ ተሰልጠ፡ በረድ፡ ኤትከ፡ ለልብየ፡ ጻህቁ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="hara-dengel">
+                <persName xml:lang="gez">ሐራ፡ ድንግል፡</persName>
+                <persName xml:lang="gez" type="normalized">Ḥarā Dəngəl</persName>
+                <persName xml:lang="en">Ḥarā Dəngəl</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

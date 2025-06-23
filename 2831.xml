@@ -534,7 +534,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -557,13 +556,8 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Esteves_Pereira1915" corresp="http://zotero.org/groups/5599348/items/R76MHAXC"><monogr><title level="m">A poesia etiópica.
 Comunicação feita a 2.a classe de Academia das Sciéncias de Lisboa</title><title type="short">A poesia etiópica</title><author><forename>Franciscus Maria</forename><surname>Esteves Pereira</surname></author><imprint><pubPlace>Coimbra</pubPlace><publisher>Imprensa da Universidade</publisher><date>1915</date></imprint></monogr><series><title level="s">Separata do «Boletin da Segunda Classe»</title><biblScope unit="volume">8</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

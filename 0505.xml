@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0505" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮስጢኖስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yosṭinos</title>
+        <title corresp="#t1" xml:lang="en">Image of Yosṭinos</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0505/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">296</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ስመ፡ ሥላሴ፡ ቅድስት፨</l>
+            <l n="2">እንዘ፡ መሠረታ፡ እገብር፡ በዘተውህበኒ፡ ሀብት፨</l>
+            <l n="3">ፍሬ፡ ከርሠ፡ ወልዱ፡ ዮስጢኖስ፡ ለዮሐንስ፡ ከማ፡ ሰማዕት፨</l>
+            <l n="4">ከመ፡ ትኩን፡ እምነ፡ ጻማ፡ ዕረፍተ፡ ሥሩሓን፡ አግብርት፨</l>
+            <l n="5">ናሁ፡ ወጠንክዋ፡ ለክብርከ፡ ቤት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ በኅሊና፡ አምላክ፡ እለ፡ ተሐቱ፨</l>
+            <l n="2">ወለርእስከ፡ ሰላም፡ ዘጾረ፡ መስቀለ፡ ሞቱ፨</l>
+            <l n="3">ዮስጢኖስ፡ አብርሃም፡ መፍቀሬ፡ አጋእዝት፡ ሠለስቱ፨</l>
+            <l n="4">ለውዳሴከ፡ ዘወጠንክዋ፡ እስመ፡ ፈጽሞታ፡ እፈቱ፨</l>
+            <l n="5">መንፈሰ፡ ረድኤትከ፡ ፈኑ፡ ከመ፡ እንብብ፡ ቦቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ ወለመቃብሪከ፡ ደብተራ፨</l>
+            <l n="2">አዕጽምተ፡ መሬት፡ ሥጋከ፡ አመ፡ ውሳጤሃ፡ ተገምራ፨</l>
+            <l n="3">ለሕምምተ፡ ማሕፀን፡ ዮስጢኖስ፡ ዐይነ፡ ምሕረትከ፡ አመ፡ ነጸራ፨</l>
+            <l n="4">ሶበ፡ ተቀብአት፡ እምጸበልከ፡ ከመ፡ ተሐዩ፡ አእሚራ፨</l>
+            <l n="5">በትፍሥሕት፡ ምስለ፡ ወልዳ፡ አተወት፡ ብሔራ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለምኔትከ፡ ወለማኅበርከ፡ አእላፍ፨</l>
+            <l n="2">ከመ፡ ኢይርስዑኒ፡ ሊተ፡ በጸጋሆሙ፡ ትሩፍ፨</l>
+            <l n="3">አርዘ፡ ንጽሕና፡ ዮስጢኖስ፡ ምጽላለ፡ ኃጥኣን፡ አዕዋፍ፨</l>
+            <l n="4">እስመ፡ ሰክረ፡ ልበ፡ ዚአየ፡ በፍቅረ፡ ኀጢአት፡ ፃዕፍ፨</l>
+            <l n="5">ጊዜ፡ አንብቦታ፡ ወጠንኩ፡ ለዛቲ፡ መጽሐፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ለመንግሥተ፡ ሰማይ፡ መርዓት፡ ዮስጢኖስ፡ መርዓዊሃ፨</l>
+            <l n="2">መንሥኤ፡ ሙታን፡ ቀርን፡ አመ፡ ለጸውዖ፡ ተነፍሐ፨</l>
+            <l n="3">ማኅደረ፡ ነፍስየ፡ ግበር፡ መንገለ፡ ሀሎ፡ ፍሥሓ፨</l>
+            <l n="4">በጽባሕ፡ ወበምሴት፡ ለአቅርቦ፡ ዘንቱ፡ አምኃ፨</l>
+            <l n="5">እስመ፡ ብእሴ፡ እበድ፡ ገብርከ፡ ጻመውኩ፡ ብዙኀ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="yostinos">
+                <persName xml:lang="gez">ዮስጢኖስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yosṭinos</persName>
+                <persName xml:lang="en">Yosṭinos</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

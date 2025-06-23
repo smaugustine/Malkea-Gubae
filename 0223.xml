@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዜና፡ መርቆስ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zenā Marqos</title>
-        <title corresp="#t1" xml:lang="en">Image of Zenā Marqos</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዜና፡ ማርቆስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zenā Mārqos</title>
+        <title corresp="#t1" xml:lang="en">Image of Zenā Mārqos</title>
         
       </titleStmt>
 
@@ -187,7 +187,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -196,9 +195,9 @@
               
               
               <person xml:id="zena-marqos">
-                <persName xml:lang="gez">ዜና፡ መርቆስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Zenā Marqos</persName>
-                <persName xml:lang="en">Zenā Marqos</persName>
+                <persName xml:lang="gez">ዜና፡ ማርቆስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Zenā Mārqos</persName>
+                <persName xml:lang="en">Zenā Mārqos</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
@@ -225,7 +224,6 @@
           </desc>
         </relation>
       </listRelation>
-      
       
       
     </back>

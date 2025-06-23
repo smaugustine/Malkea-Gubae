@@ -225,7 +225,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -248,12 +247,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="zoteroItem_N5I3F6AD" corresp="http://zotero.org/groups/5599348/items/N5I3F6AD"><monogr><title level="m">መልክአ ቅዱሳን በዐማርኛ</title><imprint><pubPlace>አዲስ አበባ</pubPlace><publisher>ማኅበረ ቅዱሳን</publisher><date>፳፻፲፫ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_W3PTU9ZK" corresp="http://zotero.org/groups/5599348/items/W3PTU9ZK"><monogr><title level="m">መልክዐ ጉባኤ</title><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፸፬ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Cohen1957" corresp="http://zotero.org/groups/5599348/items/6AQVE2E5"><analytic><title level="a">Un poème éthiopien: Le &lt;hi rend="italics"&gt;malkeʿ&lt;/hi&gt; du Christ "Sauveur du monde" &lt;hi rend="italics"&gt;(madḫānē ʿālam)&lt;/hi&gt;</title><author><forename>David</forename><surname>Cohen</surname></author></analytic><monogr><title level="j">Journal Asiatique</title><imprint><biblScope unit="volume">245</biblScope><biblScope unit="page">147-183</biblScope><date>1957</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

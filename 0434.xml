@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0434" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሉቃስ፡ ዘጉቦር፡ ሓበላ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Luqās za-Gubor Ḥābalā</title>
+        <title corresp="#t1" xml:lang="en">Image of Luqās of Gubor Ḥābalā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0434/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">150</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘትርጓሜሁ፡ ጠቢብ፨</l>
+            <l n="2">ዐቃቤ፡ ሥራይ፡ ሉቃስ፡ መድኅነ፡ አሕዛብ፡ ወሕዝብ፨</l>
+            <l n="3">ሕሙማነ፡ ነፍስ፡ ትፌውስ፡ በሥራይከ፡ ዕጹብ፨</l>
+            <l n="4">ወዝሥራይ፡ ሃይማኖቱ፡ ውስተ፡ አንቀጸ፡ አፍ፡ ቅሩብ፨</l>
+            <l n="5">ከመ፡ እምብእሲት፡ ተወልደ፡ ከመ፡ ንህብ፡ እምንህብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ ምሳሌ፡ ፀአትከ፡ አፍኣ፨</l>
+            <l n="2">እምነ፡ መቃብር፡ ሕያወ፡ ከመ፡ ለሙታን፡ ተሠርዐ፨</l>
+            <l n="3">በተስፋ፡ ትንሣኤ፡ ሉቃስ፡ ተቀሠፍከ፡ በበአርብዓ፨</l>
+            <l n="4">ወየኀዩ፡ እንበይነ፡ ዝንቱ፡ በከመ፡ ነጸረ፡ ዘርዐ፨</l>
+            <l n="5">መንገለ፡ ከዊን፡ መሬታዊ፡ ሥጋከ፡ ዘገብአ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ኀበ፡ ተርኅወ፡ ገነት፡ በከመ፡ አተውከ፡ እአቱ፨</l>
+            <l n="2">ነባቤ፡ ሰላመከ፡ ሉቃስ፡ ምክዕቢተ፡ ዐሥር፡ ምስለ፡ ሰመንቱ፨</l>
+            <l n="3">እስመ፡ እንዘ፡ ይብል፡ አዘዘ፡ አምላክ፡ ውስተ፡ ኦሪቱ፨</l>
+            <l n="4">ኢይትርፍ፡ ድኅረ፡ ጻመወ፡ ለዘጻመወ፡ ዕሤቱ፨</l>
+            <l n="5">ወለዘተዐሰበ፡ ዐስበ፡ ኢይቢት፡ በቤቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ሠናየ፡ ተግባር፡ ሉቃስ፡ ማእከለ፡ ገዳም፡ ይቡስ፨</l>
+            <l n="2">ተከልከ፡ አንተ፡ ምግባራተ፡ ነፍስ፨</l>
+            <l n="3">ወአልሐቀከ፡ መንፈስ፡ ቅዱስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለክሙ፡ ይባርከነ፡ ክርስቶስ፡ ወሉቃስ፡ ውስተ፡ ቤትነ፡ እትዉ፨</l>
+            <l n="2">በዘሞተ፡ ቃል፡ ከመ፡ ታሕይዉ፨</l>
+            <l n="3">ወጌጋያቲነ፡ እንዘ፡ ትትዐደዉ፨</l>
+            <l n="4">ማእከሌነ፡ መምህራን፡ ኀልው፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="luqas-gubor-habala">
+                <persName xml:lang="gez">ሉቃስ፡ ዘጉቦር፡ ሓበላ፡</persName>
+                <persName xml:lang="gez" type="normalized">Luqās za-Gubor Ḥābalā</persName>
+                <persName xml:lang="en">Luqās of Gubor Ḥābalā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

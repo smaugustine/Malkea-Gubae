@@ -273,7 +273,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -296,12 +295,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Esteves_Pereira1907" corresp="http://zotero.org/groups/5599348/items/QIUTTDUT"><monogr><title level="m">Acta Martyrum</title><author><forename>Franciscus Maria</forename><surname>Esteves Pereira</surname></author><imprint><pubPlace>Romae</pubPlace><publisher>Excudebat Karolus de Luigi</publisher><date>1907</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">Series Altera 28</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

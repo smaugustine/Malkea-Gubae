@@ -564,7 +564,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -604,12 +603,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Conti_Rossini1904a" corresp="http://zotero.org/groups/5599348/items/5A4NRFZB"><monogr><title level="m">Vitae Sanctorum Antiquiorum: I: Gadla Yārēd seu Acta Sancti Yārēd, II: Gadla Panṭalēwon seu Acta Sancti Pantaleonis. Versio</title><respStmt><resp>translator</resp><persName><forename>Carlo</forename><surname>Conti Rossini</surname></persName></respStmt><author><forename>Carlo</forename><surname>Conti Rossini</surname></author><imprint><pubPlace>Romae, Parisiis, Lipsiae</pubPlace><publisher>Excudebat Karolus de Luigi, Carolus Poussielgue Bibliopola, Otto Harrassowitz</publisher><date>1904</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">Scriptores Aethiopici, Series Altera, 17</biblScope></series></biblStruct><biblStruct type="book" xml:id="Conti_Rossini1904b" corresp="http://zotero.org/groups/5599348/items/T5SUJUPZ"><monogr><title level="m">Vitae Sanctorum Antiquiorum, I: Gadla Yārēd seu Acta Sancti Yārēd, II: Gadla Panṭalēwon seu Acta Sancti Pantaleonis. Textus</title><editor><forename>Carlo</forename><surname>Conti Rossini</surname></editor><author><forename>Carlo</forename><surname>Conti Rossini</surname></author><imprint><pubPlace>Romae, Parisiis, Lipsiae</pubPlace><publisher>Excudebat Karolus de Luigi, Carolus Poussielgue Bibliopola, Otto Harrassowitz</publisher><date>1904</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">Scriptores Aethiopici, Series Altera, 17</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

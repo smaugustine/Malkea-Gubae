@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0551" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኢየሱስ፡ ክርስቶስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾIyyasus Krəstos</title>
+        <title corresp="#t1" xml:lang="en">Image of Jesus Christ</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0551/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">127</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኣአምን፡ ኅቡረ፡ በስመ፡ ሥላሴ፡ አጋእዝት፨</l>
+            <l n="2">እለ፡ ሀለዉ፡ በቅድምና፡ ወበአሐቲ፡ መለኮት፨</l>
+            <l n="3">እምቅድመ፡ ይትፈጠር፡ ዓለም፡ ወኵሎሙ፡ መላእክት፨</l>
+            <l n="4">ወእምዝ፡ እዌጥን፡ ድርሳነ፡ ለዘተወልደ፡ እምብእሲት፨</l>
+            <l n="5">ቃለ፡ አቡ፡ አሐዱ፡ እምነ፡ ሠለስቱ፡ አካላት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለህላዌከ፡ እምቅድመ፡ ዓለማት፡ ዘሀሎ፨</l>
+            <l n="2">ምስለ፡ አቡከ፡ ደርገ፡ ወምስለ፡ መንፈስከ፡ በተልዕሎ፨</l>
+            <l n="3">ኢየሱስ፡ ቃለ፡ አብ፡ ወአምላከ፡ ሳሙኤል፡ ዘደብረ፡ ሴሎ፨</l>
+            <l n="4">አስተርእየኒ፡ ከማሁ፡ ወባልሐኒ፡ እምተሀጕሎ፨</l>
+            <l n="5">እስመ፡ አንተ፡ ኖላዊ፡ ዘተዐቅብ፡ ኵሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ሰላም፡ ለግዝረትከ፡ ከመ፡ ተነግረ፡ በኦሪት፨</l>
+            <l n="2">እምልደትከ፡ በሥጋ፡ በሰሙን፡ ዕለት፨</l>
+            <l n="3">ኢየሱስ፡ መድኅን፡ አበ፡ ምእመናን፡ ዘበጥምቀት፨</l>
+            <l n="4">ምስለ፡ አቡከ፡ መሓሪ፡ እንተ፡ አሐቲ፡ ሥምረት፨</l>
+            <l n="5">ወምስለ፡ መንፈስከ፡ ማሕየዊ፡ ዘለከ፡ መንግሥት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ስመ፡ መድኃኒት፡ ሥሙር፨</l>
+            <l n="2">ስም፡ ልዑል፡ ወስም፡ ክቡር፨</l>
+            <l n="3">ኢየኡስ፡ ክርስቶስ፡ እግዚአ፡ ሰማያት፡ ወምድር፨</l>
+            <l n="4">አንጽሐኒ፡ በሥምረትከ፡ እምነ፡ አበሳ፡ ወነውር፨</l>
+            <l n="5">ዘትሰሪ፡ ኵሎ፡ እስመ፡ አንተ፡ ኄር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="56">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ አምሳለ፡ ክበቡ፡ ከመ፡ ወርኅ፨</l>
+            <l n="2">ለዘይሬእዮ፡ አዳም፡ ወጥቀ፡ ፍሡሕ፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ በውስተ፡ ቅዱሳን፡ ስቡሕ፨</l>
+            <l n="4">አድኅነኒ፡ እግዚኦ፡ እምነ፡ መከራ፡ ብዙኅ፨</l>
+            <l n="5">እስመ፡ አነ፡ ኃጥእ፡ ወአንተ፡ ርኅሩኅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="77">
+            
+            <l n="1">ሰላም፡ ለፈንዎትከ፡ በአምሳለ፡ ነፋስ፡ ወእሳት፨</l>
+            <l n="2">ጰራቅሊጦስሃ፡ ናዛዜ፡ ወቀዳሴ፡ ኵሉ፡ ፍጥረት፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ አምላከ፡ ነቢያት፡ ወሐዋርያት፨</l>
+            <l n="4">ሀበኒ፡ መንፈሰከ፡ ያንጽሐኒ፡ እምኀጢአት፨</l>
+            <l n="5">ወዓዲ፡ ይምርሐኒ፡ በሠናይ፡ ፍኖት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="84">
+            
+            <l n="1">ሰላም፡ ለፍትሕከ፡ ማእከለ፡ ጻድቃን፡ ወኃጥኣን፨</l>
+            <l n="2">እንዘ፡ ኢትኤምጽ፡ ምንተ፡ ከመ፡ ነገሥተ፡ ምድር፡ ባዕዳን፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ ተስፋ፡ ግፉዓን፨</l>
+            <l n="4">አቅመኒ፡ እግዚኦ፡ ጊዜ፡ ፍትሕከ፡ በየማን፨</l>
+            <l n="5">እስመ፡ አንተ፡ ፈታሒ፡ በኵሉ፡ አዝማን፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ስብሐት፡ ለከ፡ ፈጣሪየ፡ በምልዐ፡ ኵሉ፡ አባልየ፨</l>
+            <l n="2">ስብሐት፡ ለከ፡ አምላኪየ፡ በምልዐ፡ ኵሉ፡ አእምሮትየ፨</l>
+            <l n="3">ስብሐት፡ ለከ፡ ንጉሥየ፡ በምልዐ፡ ኵሉ፡ ልብየ፨</l>
+            <l n="4">ስብሐት፡ ለከ፡ መድኃኒትየ፡ በምልዐ፡ ኵሉ፡ ፈቃድየ፨</l>
+            <l n="5">ስብሐት፡ ለከ፡ መንጽሔ፡ ኀጢአትየ፡ ዘደመ፡ ዚአከ፡ ሕይወትየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ስብሐት፡ ለከ፡ እግዚኦ፡ ዘበሰማያት፡ አቡነ፨</l>
+            <l n="2">ወበስምከ፡ ቅዱስ፡ ቀድሶ፡ ለሰምነ፨</l>
+            <l n="3">ወጊዜ፡ ምጽአትከ፡ ግሩም፡ መንገለ፡ የማን፡ አቅመነ፨</l>
+            <l n="4">ወከመ፡ ንግበር፡ ፈቃደከ፡ ኀይለ፡ ዚአከ፡ ሀበነ፨</l>
+            <l n="5">ወሲሳየነ፡ ዘዕለት፡ ወእንተ፡ ለዓለም፡ ምግበነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ስረይ፡ ለነ፡ እግዚኦ፡ ወኵለንታነ፡ ሐድስ፨</l>
+            <l n="2">እንዘ፡ ኢትሌሊ፡ ምሕረተከ፡ እምዐቢይ፡ ወንኡስ፨</l>
+            <l n="3">ወአድኅነነ፡ ዓዲ፡ እመከራ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="4">ምስለ፡ አኃውየ፡ ወአኃትየ፡ ዘመንፈስ፡ ቅዱስ፨</l>
+            <l n="5">ሊተ፡ ለገብርከ፡ እገሌ፡ ጽኑስ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="jesus">
+                <persName xml:lang="gez">ኢየሱስ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyasus Krəstos</persName>
+                <persName xml:lang="en">Jesus Christ</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ታየ_ገብረ_ማርያም" corresp="http://zotero.org/groups/5599348/items/M3S6LQWI"><monogr><title level="m">መልክአ፡ ኢየሱስ፡ ምስለ፡ ምክሐ፡ ምእመናን።</title><author><name>ታየ ገብረ ማርያም</name></author><imprint><pubPlace>አሥመራ</pubPlace><publisher>ማኅበረ ክርስቲያን</publisher><date>፲፰፻፺፬ ዓ/ም</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

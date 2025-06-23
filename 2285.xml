@@ -275,7 +275,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -298,12 +297,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="thesis" xml:id="Hayoz1956" corresp="http://zotero.org/groups/5599348/items/2G3ANK9W"><monogr><title level="m">Portrait de Marie, Complainte de la Vierge : deux poésies mariales éthiopiennes inédites. Texte, traduction, commentaire</title><title type="short">Portrait de Marie, Complainte de la Vierge</title><author><forename>Chrysostome</forename><surname>Hayoz</surname></author><imprint><pubPlace>Fribourg</pubPlace><date>1956</date></imprint></monogr></biblStruct><biblStruct type="encyclopediaArticle" xml:id="Witakowski2010" corresp="http://zotero.org/groups/5599348/items/DJQM8ZXH"><analytic><title level="a">Säqoqawä dǝngǝl</title><title type="short">EAe</title><author><forename>Witold</forename><surname>Witakowski</surname></author><author><forename>Ewa</forename><surname>Balicka-Witakowska</surname></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><imprint><biblScope unit="volume">IV</biblScope><biblScope unit="page">534b-536a</biblScope><date>2010</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

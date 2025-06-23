@@ -349,7 +349,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -372,12 +371,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Dickinson2023" corresp="http://zotero.org/groups/5599348/items/P4T9NXJQ"><analytic><title level="a">&lt;hi rend="italics"&gt;Malkəʾa ʾArsimā (‘Image of Hripsime’)&lt;/hi&gt;: An Ethiopic Hymn for an Armenian Saint</title><author><forename>Augustine</forename><surname>Dickinson</surname></author></analytic><monogr><title level="j">Aethiopica</title><imprint><biblScope unit="volume">26</biblScope><biblScope unit="page">232-245</biblScope><date>2023</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0486" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ስምዖን፡ ዘደብረ፡ ሰላም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Səmʿon za-Dabra Salām</title>
+        <title corresp="#t1" xml:lang="en">Image of Səmʿon of Dabra Salām</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0486/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሥሉስ፡ ዘይቤ፡ እግዚአብሔር፡ አንሰ፨</l>
+            <l n="2">ማእከለ፡ ጽፉቅ፡ ጽልመት፡ በጊዜ፡ ፈጠረ፡ ለንጳሰ፨</l>
+            <l n="3">ናሁ፡ ወጠንኩ፡ እንዘ፡ እገኒ፡ ሥሉሰ፨</l>
+            <l n="4">ከመ፡ እንብብ፡ እስከ፡ ፍጻሜ፡ ድርሳነ፡ መልክዕከ፡ ፈውሰ፨</l>
+            <l n="5">ጸግወኒ፡ ስምዖን፡ ልሳነ፡ ሐዲሰ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ በከርሠ፡ ሥርዐት፡ ወሕግ፨</l>
+            <l n="2">ወለተወልዶትከ፡ ብርሃን፡ ሰዳዴ፡ ጽልመት፡ ጸዋግ፨</l>
+            <l n="3">ዘተወልደ፡ መድኅን፡ ስምዖን፡ ወዘአብሳዲ፡ ሐረግ፨</l>
+            <l n="4">ይሰፍሑ፡ አዕፁቂከ፡ በደብረ፡ ሰላም፡ ምዕራግ፨</l>
+            <l n="5">ነሢኦሙ፡ ዘለከ፡ ፈለግ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እንተ፡ ይሰማዕ፡ በድምፅ፨</l>
+            <l n="2">ቅድመ፡ ጥንተ፡ ረቡዕ፡ ፊደል፡ ዘበዐይነ፡ ትንቢት፡ ሕኑጽ፨</l>
+            <l n="3">ቢጸ፡ ገብረ፡ መንፈስ፡ ቅዱስ፡ ስምዖን፡ ወካልእ፡ ስምዖን፡ ዘግብጽ፨</l>
+            <l n="4">ስመ፡ ዚአከ፡ ውስተ፡ ዐምደ፡ ብርሃን፡ ቅሩጽ፨</l>
+            <l n="5">አኮ፡ በእብን፡ ወአኮ፡ በዕፅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ለደብረ፡ ሰላም፡ በውስጣ፨</l>
+            <l n="2">ሥጋከ፡ ወነፍስከ፡ በጊዜ፡ ተፈልጣ፨</l>
+            <l n="3">ምልክአም፡ ስምዖን፡ ጸዋሬ፡ ቃላት፡ የውጣ፨</l>
+            <l n="4">ደናግል፡ ኪዳናቲከ፡ ዕፍረተ፡ ድኂን፡ ይፅዐጣ፨</l>
+            <l n="5">ለተዋሕዶ፡ ወርቀ፡ ሥላሴ፡ ዘክቡር፡ ሤጣ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብነ፡ ለመልክእከ፡ ዝንቱ፨</l>
+            <l n="2">አርብዓ፡ ወተስዐቱ፨</l>
+            <l n="3">ፍልሰተ፡ ዚአከ፡ ስምዖን፡ ለወርኀ፡ ጥቅምት፡ ኀምስቱ፨</l>
+            <l n="4">ምስለ፡ ወርኀ፡ ስደት፡ ዘእም፡ ወማሕሌተ፡ ጽጌ፡ ውእቱ፨</l>
+            <l n="5">ትርድአነ፡ በኪዳንከ፡ ዘንሴፎ፡ ቦቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላመ፡ መልክኡ፡ ለስምዖን፡ ዘደብረ፡ ሰላም፡ መካኑ፨</l>
+            <l n="2">ናሁ፡ ጸሐፍነ፡ እንዘ፡ ናስተዋፅእ፡ እምነ፡ ድርሳኑ፨</l>
+            <l n="3">ባርከነ፡ ስምዖን፡ በቡራኬ፡ አምላክ፡ እልመክኑ፨</l>
+            <l n="4">ዘባረከ፡ አንተ፡ ዘኢረብሐ፡ መኑ፨</l>
+            <l n="5">ወዘባረኮሙ፡ አንተ፡ ቡሩካነ፡ ኮኑ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለክሙ፡ ዳንኤል፡ ወኤዎስጣቴዎስ፨</l>
+            <l n="2">አብሳዲ፡ ወሙሴ፡ ዘካርያስ፡ ወዮናስ፨</l>
+            <l n="3">ተወልደ፡ መድኅን፡ ክቡር፡ ስምዖን፡ ወሮማኖስ፨</l>
+            <l n="4">ተዐየኑ፡ ዐውደ፡ ዘውራ፡ ለደብረ፡ ሰላም፡ መቅደስ፨</l>
+            <l n="5">ምስለ፡ ምናሴ፡ ወዳንኤል፡ ወሴት፡ ወማትያስ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="semon-d-salam">
+                <persName xml:lang="gez">ስምዖን፡ ዘደብረ፡ ሰላም፡</persName>
+                <persName xml:lang="gez" type="normalized">Səmʿon za-Dabra Salām</persName>
+                <persName xml:lang="en">Səmʿon of Dabra Salām</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ሄኖክ_ገብረ_ሚካኤል" corresp="http://zotero.org/groups/5599348/items/IU6PJ99W"><monogr><title level="m">ገድል፡ ወተአምር፡ ዘአቡነ ስምዖን ወመልክዐ፡ ደቂቀ አቡነ አብሳዲ። ግእዝ-ትግርኛ</title><title type="short">ገድል፡ ወተአምር፡ ዘአቡነ ስምዖን ወመልክዐ፡ ደቂቀ አቡነ አብሳዲ።</title><editor><name>ሄኖክ ገብረ ሚካኤል</name></editor><imprint><date>፳፻፲፭ ዓ/ም</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

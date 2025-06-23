@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0476" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ድምያና፡ ወአርብዓ ደናግል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Dəmyānā wa-ʾArbəʿā Danāgəl</title>
+        <title corresp="#t1" xml:lang="en">Image of Damiana and the Forty Virgins</title>
+        
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ድምያና፡ ዘደብረ ደናግል፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Dəmyānā za-Dabra Danāgəl</title>
+        <title corresp="#t2" xml:lang="en">Image of Damiana from Dabra Danāgəl</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0476/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እግዚአብሔር፡ ለስምዕ፡ ዘኀረየኪ፡ እምከርሥ፨</l>
+            <l n="2">ውስተ፡ ቤተ፡ መቅደስ፡ ዘቦእኪ፡ በዓመት፡ ሠላስ፨</l>
+            <l n="3">ድምያና፡ ልሕቅት፡ በጸጋ፡ መንፈስ፡ ቅዱስ፨</l>
+            <l n="4">ይስቅየኒ፡ ጠለ፡ ፍቅርኪ፡ ለምእመንኪ፡ ይቡስ፨</l>
+            <l n="5">እስከ፡ እገብር፡ ጽጌ፡ ወፍሬ፡ ዘነፍስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ ዘመዐዛሁ፡ ጽጌ፡ ርዳ፨</l>
+            <l n="2">ዘይሤኒ፡ ጣዕሙ፡ እምኅብስተ፡ ሰማይ፡ ጸዐዳ፨</l>
+            <l n="3">ድምያና፡ ሰማዕት፡ ከመ፡ ጊዮርጊስ፡ ዘልዳ፨</l>
+            <l n="4">ናበውእ፡ ለኪ፡ አምኃ፡ ስብሐት፡ ወጋዳ፨</l>
+            <l n="5">ምስለ፡ ጠባባት፡ ደናግል፡ በኵሉ፡ ዘንእዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1">ሰላም፡ ለመቃብርኪ፡ መካነ፡ ምሕረት፡ ወሣህል፨</l>
+            <l n="2">ለዘእምሕማም፡ ድኅኑ፡ በብዙኅ፡ ስኢል፨</l>
+            <l n="3">ዘውገ፡ ደናግል፡ ድምያና፡ ክልልተ፡ መንፈስ፡ ወኀይል፨</l>
+            <l n="4">ምሕረትኪ፡ ማይ፡ ወስእለትኪ፡ መሐፒል፨</l>
+            <l n="5">ያንጽሑነ፡ እምርስሐት፡ በቀል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="38">
+            
+            <l n="1">ሰላም፡ እብል፡ ለአእፅምትኪ፡ ኵሎን፨</l>
+            <l n="2">እለ፡ አውሐዛ፡ ዕፍረተ፡ ከመ፡ በለሳን፨</l>
+            <l n="3">ድምያና፡ ቅብእነ፡ ቅብአ፡ በረከት፡ ወሥን፨</l>
+            <l n="4">ወንዒ፡ ዮም፡ ማእከሌነ፡ ትባርክነ፡ በዛኅን፨</l>
+            <l n="5">ምስለ፡ ደናግል፡ አርብዓ፡ ዘክርስቶስ፡ መድኅን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="39">
+            
+            <l n="1">አምኃ፡ ሰላም፡ ናቀርብ፡ ለደናግል፡ አርብዓ፨</l>
+            <l n="2">በእንተ፡ ኢየሱስ፡ ክርስቶስ፡ እለ፡ ኮና፡ ስምዐ፨</l>
+            <l n="3">ምስለ፡ ድምያና፡ እሞን፡ ዘተጸውዐ፡ ለመርዓ፨</l>
+            <l n="4">ጸውዐነ፡ ከመ፡ ንስተይ፡ ስቴ፡ መድኃኒት፡ ጽዋዐ፨</l>
+            <l n="5">ድካመ፡ ዚአነ፡ ከመ፡ ይኩን፡ ጽንዐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="40">
+            
+            <l n="1">ናሁ፡ ዜኖኩ፡ በኅዳጥ፡ ለስብሐትኪ፡ ምሥጢሮ፨</l>
+            <l n="2">እስመ፡ አነ፡ ድኩም፡ በትጋህ፡ ወበምህሮ፨</l>
+            <l n="3">ድምያና፡ ብፅዕት፡ ለክብረ፡ ዚአኪ፡ አነክሮ፨</l>
+            <l n="4">ከመ፡ እጼውዕ፡ ኪያኪ፡ በማሕሌት፡ ወዘምሮ፨</l>
+            <l n="5">ለፍቁርኪ፡ ምልእኒ፡ አእምሮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ስብሐት፡ ለአብ፡ ለዘሣረረ፡ ዓለማተ፨</l>
+            <l n="2">ወስብሐት፡ ለወልድ፡ ለዘፈጠረ፡ ፍጥረታተ፨</l>
+            <l n="3">ወለመንፈስ፡ ቅዱስ፡ ስብሐት፡ ለዘሀገበ፡ ሕይወተ፨</l>
+            <l n="4">ከመ፡ እፍረይ፡ ፍሬ፡ ንስሓ፡ አስተብቍዒ፡ ሊተ፨</l>
+            <l n="5">ድምያና፡ እንዘ፡ ትብሊ፡ ጽንሕዎ፡ ንስቲተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="damiana">
+                <persName xml:lang="gez">ድምያና፡</persName>
+                <persName xml:lang="gez" type="normalized">Dəmyānā</persName>
+                <persName xml:lang="en">Damiana</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0477" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሄኖክ፡ ዘዓዲ፡ ኳላ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Henok za-ʿĀddi Kʷālā</title>
+        <title corresp="#t1" xml:lang="en">Image of Henok of ʿĀddi Kʷālā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0477/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">121</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለልደትከ፡ ማእከለ፡ ሮሜ፡ ዐባይ፨</l>
+            <l n="2">በቤተ፡ አቡከ፡ ንጉሥ፡ ብዙኀ፡ ዕበይ፨</l>
+            <l n="3">ኢያንከረከ፡ ምንተ፡ ዘደኃሪሁ፡ ብካይ፨</l>
+            <l n="4">ሑረትከ፡ ሄኖክ፡ ለባሕረ፡ ኤርትራ፡ ቀላይ፨</l>
+            <l n="5">ኖታያዊሃ፡ ኮንከ፡ በመርበብት፡ ሠናይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ለምጽአትከ፡ ዝየ፡ እምቤተ፡ አቡከ፡ ቅድመ፨</l>
+            <l n="2">ምስለ፡ አኃዊከ፡ ኅሩያን፡ እለ፡ መነኑ፡ ዓለመ፨</l>
+            <l n="3">ጸላእክሙ፡ ፍግዐ፡ ወአፍቀርክሙ፡ ሕሰመ፨</l>
+            <l n="4">ዘያፈቅር፡ ውሉደ፡ አበ፡ ወእመ፨</l>
+            <l n="5">ኢኮነ፡ ምስሌየ፡ ፈቲዎ፡ ዓለመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እምነ፡ ብርሃን፡ ጽዱል፨</l>
+            <l n="2">ለቀራንብቲከ፡ ሰላም፡ ወለአዕይንቲከ፡ ኵሑል፨</l>
+            <l n="3">ቢጸ፡ ቂርቆስ፡ ሄኖክ፡ ወዐርከ፡ ጊዮርጊስ፡ ክሉል፨</l>
+            <l n="4">ቅረበኒ፡ ነዓ፡ ለምሕረት፡ ወሣህል፨</l>
+            <l n="5">እስመ፡ እምዘመን፡ እኩይ፡ አድኅኖተ፡ ትክል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ሰላም፡ ለሐቌከ፡ ኤፉደ፡ መቃርስ፡ ዘዐጠቀ፨</l>
+            <l n="2">ወለአቍያጺከ፡ ሰላም፡ እለ፡ ያገንያ፡ ጽፉቀ፨</l>
+            <l n="3">ሄኖክ፡ አቡነ፡ እንተ፡ ትከውን፡ መጽድቀ፨</l>
+            <l n="4">ሶበ፡ እገይስ፡ ኀቤከ፡ እመ፡ ኢነሣእኩ፡ ወርቀ፨</l>
+            <l n="5">በለኒ፡ ሠመርኩ፡ አሐተ፡ ጸሪቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በእደ፡ መላእክት፡ አርጋብ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ ዐጸደ፡ አርዝ፡ ዕጹብ፨</l>
+            <l n="3">ሄኖክ፡ አቡየ፡ ከመ፡ ኬንያዊ፡ ጠቢብ፨</l>
+            <l n="4">ወእምኔከ፡ ይትፌወሱ፡ ብዙኃን፡ ሕዝብ፨</l>
+            <l n="5">ሰዳዴ፡ አጋንንት፡ አንተ፡ በመስቀል፡ ዘዐርብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለቆብዕከ፡ ወለስምዕከ፡ ክልኤቲ፨</l>
+            <l n="2">ኅሩየ፡ ኢየሱስ፡ ሄኖክ፡ ምስለ፡ አኃዊሁ፡ ሰብዓቱ፨</l>
+            <l n="3">መኒኖሙ፡ መንግሥተ፡ ለክርስቶስ፡ በአፍቅሮቱ፨</l>
+            <l n="4">አርዑተ፡ መስቀል፡ ጾሩ፡ ወመካልየ፡ ገድል፡ ኃምስቱ፨</l>
+            <l n="5">ወተሠይሙ፡ ካዕበ፡ በአህጉረ፡ ዐሠርቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ለአብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ እንዘ፡ ኣቄርብ፡ ስብሐተ፨</l>
+            <l n="2">በከመ፡ ወጠንኩ፡ ቅድመ፡ ወፈጸምኩ፡ ዘንተ፨</l>
+            <l n="3">በልብየ፡ ዘሀሎ፡ ሠናየ፡ ተምኔተ፨</l>
+            <l n="4">ስብሐተ፡ ጸሎቱ፡ ፈጸምኩ፡ ይኩነኒ፡ ሀብተ፨</l>
+            <l n="5">በረከተ፡ አቡየ፡ ሄኖክ፡ ዘይመልእ፡ ቤተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="henok-addi-kwala">
+                <persName xml:lang="gez">ሄኖክ፡ ዘዓዲ፡ ኳላ፡</persName>
+                <persName xml:lang="gez" type="normalized">Henok za-ʿĀddi Kʷālā</persName>
+                <persName xml:lang="en">Henok of ʿĀddi Kʷālā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

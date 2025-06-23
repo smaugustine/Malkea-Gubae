@@ -170,7 +170,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -193,12 +192,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Tedros_Abraha2008" corresp="http://zotero.org/groups/5599348/items/FY3UEPVZ"><analytic><title level="a">Mälkə'a Śəllāse — L'Effigie della Trinità di Abba Səbḥat Läab</title><author><name>Tedros Abraha</name></author></analytic><monogr><title level="j">Miscellanea Bibliothecae Apostolicae Vaticanae</title><imprint><biblScope unit="volume">XV</biblScope><biblScope unit="page">311-398</biblScope><date>2008</date></imprint></monogr></biblStruct><biblStruct type="bookSection" xml:id="Gabré_Yesus_Haylu1970" corresp="http://zotero.org/groups/5599348/items/9AIXZUQQ"><analytic><title level="a">Considérations théologiques sur le Malkeʾa Sellasie de Abba Sǝbhat Leʾab</title><title type="short">PICES 3</title><author><name>Gabré Yesus Haylu</name></author></analytic><monogr><title level="m">Proceedings of the Third International Conference of Ethiopian Studies, Addis Ababa [3-7 April] 1966</title><editor><forename>Richard</forename><surname>Pankhurst</surname></editor><editor><forename>Stanisław</forename><surname>Chojnacki</surname></editor><imprint><pubPlace>Addis Ababa</pubPlace><biblScope unit="volume">II</biblScope><date>1970</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

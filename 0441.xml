@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0441" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ነብዩድ፡ ዘደብረ፡ ሲሀት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Nabyud za-Dabra Sihat</title>
+        <title corresp="#t1" xml:lang="en">Image of Nabyud of Dabra Sihat</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0441/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ አብ፡ ዘይቀብዕ፡ ቅብዐ፨</l>
+            <l n="2">እመኒ፡ ወጠንኩ፡ ጽሒፈ፡ መልክእ፡ ምሉአ፨</l>
+            <l n="3">ነብዩድ፡ ጻድቅ፡ እንተ፡ አፍቀርከ፡ እግዚአ፨</l>
+            <l n="4">በጸሎት፡ ዘጸለይካሁ፡ እንተ፡ ይከውን፡ ኅቡአ፨</l>
+            <l n="5">ኢትርሳዕ፡ ለጽሒፍ፡ ኪያየ፡ ረዲአ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘይትረከብ፡ በቅሩቡ፨</l>
+            <l n="2">ለጽሒፈ፡ መልክእ፡ ብሔር፡ ምስለ፡ ካልኣን፡ ዘረጥቡ፨</l>
+            <l n="3">ነብዩድ፡ አቡነ፡ ለእግዚአብሔር፡ ቤተ፡ ምኵራቡ፨</l>
+            <l n="4">ንግሮሙ፡ በኪዳንከ፡ ለላእካነ፡ ሰማይ፡ ዘጠቡ፨</l>
+            <l n="5">በኵሉ፡ ሰዓት፡ ኪያነ፡ ይዕቀቡ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘተቀጸለ፡ ኪያከ፨</l>
+            <l n="2">እንዘኒ፡ ትረፍቅ፡ ከዊነከ፡ ዐርከ፨</l>
+            <l n="3">ነብዩድ፡ ባዕል፡ አመ፡ አቅረብኩ፡ ኀቤከ፨</l>
+            <l n="4">አምኃየ፡ መልክአ፡ ቃል፡ እንዘ፡ ይዌድስ፡ ስመከ፨</l>
+            <l n="5">እንበለ፡ መንኖ፡ ተወከፍ፡ ኢይኩን፡ ድሑከ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="nabyud-d-sihat">
+                <persName xml:lang="gez">ነብዩድ፡ ዘደብረ፡ ሲሀት፡</persName>
+                <persName xml:lang="gez" type="normalized">Nabyud za-Dabra Sihat</persName>
+                <persName xml:lang="en">Nabyud of Dabra Sihat</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

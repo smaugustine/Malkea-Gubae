@@ -213,7 +213,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -253,12 +252,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Bausi2003a" corresp="http://zotero.org/groups/5599348/items/N37V2J4L"><monogr><title level="m">La «Vita» e i «Miracoli» di Libānos</title><editor><forename>Alessandro</forename><surname>Bausi</surname></editor><imprint><pubPlace>Lovanii</pubPlace><publisher>In aedibus Peeters</publisher><date>2003</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">595, Scriptores Aethiopici, 105</biblScope></series></biblStruct><biblStruct type="book" xml:id="Bausi2003b" corresp="http://zotero.org/groups/5599348/items/6LQPXZ88"><monogr><title level="m">La «Vita» e i «Miracoli» di Libānos</title><editor><forename>Alessandro</forename><surname>Bausi</surname></editor><imprint><pubPlace>Lovanii</pubPlace><publisher>In aedibus Peeters</publisher><date>2003</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">596, Scriptores Aethiopici, 106</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

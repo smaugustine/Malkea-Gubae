@@ -172,7 +172,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -195,12 +194,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Habtemichael_Kidane2007" corresp="http://zotero.org/groups/5599348/items/XPALDFSZ"><analytic><title level="a">Ləssanä säbəʾ</title><title type="short">EAe</title><author><name>Habtemichael Kidane</name></author><author><forename>Denis</forename><surname>Nosnitsin</surname></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">553b-554b</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Grébaut1935" corresp="http://zotero.org/groups/5599348/items/SIEI9BA6"><analytic><title level="a">L'Hymne-Invocation Lesâna Sab'e</title><author><forename>Sylvain</forename><surname>Grébaut</surname></author></analytic><monogr><title level="j">Aethiopica : revue philologique</title><imprint><biblScope unit="volume">3</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page">6-12</biblScope><date>1935</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

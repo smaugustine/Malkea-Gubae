@@ -225,7 +225,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -248,12 +247,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Grébaut1912" corresp="http://zotero.org/groups/5599348/items/ANMK6I42"><analytic><title level="a">Les manuscrits éthiopiens de M. E. Delorme</title><author><forename>Sylvain</forename><surname>Grébaut</surname></author></analytic><monogr><title level="j">Revue de l'Orient Chrétien</title><imprint><biblScope unit="volume">17</biblScope><biblScope unit="page">113-132</biblScope><date>1912</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

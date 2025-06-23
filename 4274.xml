@@ -538,7 +538,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -561,12 +560,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Habtemichael_Kidane2003" corresp="http://zotero.org/groups/5599348/items/EV6M6T84"><analytic><title level="a">Akkonu bǝʾǝsi</title><title type="short">EAe</title><author><name>Habtemichael Kidane</name></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">I</biblScope><publisher>Harrassowitz Verlag</publisher><date>2003</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Budge1900" corresp="http://zotero.org/groups/5599348/items/JDWD6IDD"><monogr><title level="m">The Miracles of the Blessed Virgin Mary, and the Life of Ḥannâ (Saint Anne), and the Magical Prayers of ʾAhĕta Mîkâêl. The Ethiopic Texts edited with English Translation</title><title type="short">The Miracles of the Blessed Virgin Mary</title><editor><forename>Ernest Alfred Wallis</forename><surname>Budge</surname></editor><respStmt><resp>translator</resp><persName><forename>Ernest Alfred Wallis</forename><surname>Budge</surname></persName></respStmt><imprint><pubPlace>London</pubPlace><publisher>W. Griggs</publisher><date>1900</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Grohmann1919" corresp="http://zotero.org/groups/5599348/items/M6X3SRJG"><monogr><title level="m">Aethiopische Marienhymnen</title><author><forename>Adolf</forename><surname>Grohmann</surname></author><imprint><pubPlace>Leipzig</pubPlace><publisher>Bei B. G. Teubner</publisher><date>1919</date></imprint></monogr><series><title level="s">Abhandlungen der Sächsischen Akademie der Wissenschaften</title><biblScope unit="volume">68, Abhandlungen der philologisch-historischen Klasse der Sächsischen Akademie der Wissenschaften, 33/4</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

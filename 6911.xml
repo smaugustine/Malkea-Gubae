@@ -127,7 +127,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -150,12 +149,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
-<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ገብረ_ሥላሴ" corresp="http://zotero.org/groups/5599348/items/JIICEUUZ"><monogr><title level="m">መልክዐ ጉባኤ ከ380 በላይ የተለያዩ መልክዐ መልኮችንና ምስጋናዎችን አጠቃሎ የያዘ በግዕዝ እና በአማርኛ</title><title type="short">መልክዐ ጉባኤ</title><author><name>ገብረ ሥላሴ</name></author><imprint><pubPlace>አዲስ አበባ</pubPlace><date>፳፻፲፮  ዓ/ም</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ገብረ_ሥላሴ" corresp="http://zotero.org/groups/5599348/items/JIICEUUZ"><monogr><title level="m">መልክዐ ጉባኤ ከ380 በላይ የተለያዩ መልክዐ መልኮችንና ምስጋናዎችን አጠቃሎ የያዘ በግዕዝ እና በአማርኛ</title><title type="short">መልክዐ ጉባኤ</title><extent>2</extent><author><name>ገብረ ሥላሴ</name></author><imprint><pubPlace>አዲስ አበባ</pubPlace><date>፳፻፲፮  ዓ/ም</date></imprint></monogr></biblStruct></listBibl>
     </back>
 
   </text>

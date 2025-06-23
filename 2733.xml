@@ -294,15 +294,9 @@
     </body>
     
     <back>
-
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Tedros_Abraha2007" corresp="http://zotero.org/groups/5599348/items/MBBEUDXZ"><analytic><title level="a">Maḫbara mǝʿǝmänan</title><title type="short">EAe</title><author><name>Tedros Abraha</name></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><imprint><biblScope unit="volume">III</biblScope><biblScope unit="page">652a-653a</biblScope><date>2007</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Fritsch2002" corresp="http://zotero.org/groups/5599348/items/9UIGKYA4"><analytic><title level="a">Une hymne eucharistique éthiopienne : le &lt;hi rend="italics"&gt;Malk’a Qʷerbān&lt;/hi&gt; ou «Portrait de l'Eucharistie»</title><author><forename>Emmanuel</forename><surname>Fritsch</surname></author></analytic><monogr><title level="j">Irénikon</title><imprint><biblScope unit="volume">75</biblScope><biblScope unit="issue">2-3</biblScope><biblScope unit="page">195-228</biblScope><date>2002</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Dillmann1866" corresp="http://zotero.org/groups/5599348/items/UW4QXLYV"><monogr><title level="m">Chrestomathia Aethiopica edita et glossario explanata</title><editor><forename>Christian Friedrich August</forename><surname>Dillmann</surname></editor><imprint><pubPlace>Lipsiae</pubPlace><publisher>T. O. Weigel</publisher><date>1866</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

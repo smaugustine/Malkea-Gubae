@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0555" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጰራቅሊጦስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṗarāqliṭos</title>
+        <title corresp="#t1" xml:lang="en">Image of the Paraclete</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0555/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">197</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ህላዌ፡ ዚአከ፡ ጰራቅሊጦስ፡ መንክር፡ ወመድምም፨</l>
+            <l n="2">እምቅድመ፡ ዓለም፡ ቅድመ፡ ወእምጥንተ፡ ዓለም፡ እስከ፡ ዮም፨</l>
+            <l n="3">እምዮም፡ ዓዲ፡ እስከ፡ ዘዝዓለም፡ ተፍጻም፨።</l>
+            <l n="4">እምተፍጻመ፡ ዓለም፡ ድኅረ፡ ለዓለመ፡ ዓለም፡ ግሩም፨</l>
+            <l n="5">ወዕጹብ፡ አምላኪየ፡ እስከ፡ ድኅር፡ እምቅድም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በዝክረ፡ ስመ፡ አብ፡ ቅዱስ፨</l>
+            <l n="2">ወበዝክረ፡ ስሙ፡ ለወልድ፡ ስቡሕ፡ ወውዱስ፨</l>
+            <l n="3">አምላከ፡ ስብሐት፡ አንተ፡ ለዓለመ፡ ዓለም፡ ጰራቅሊጦስ፨</l>
+            <l n="4">ሕጽበኒ፡ ወአንጽሐኒ፡ እምነውረ፡ ኀጢአት፡ ወደነስ፨</l>
+            <l n="5">ወጽሑደ፡ ረስየኒ፡ በሥጋ፡ ወነፍስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ መልክአ፡ ቅዳሴ፡ ትሩፍ፨</l>
+            <l n="2">ከመ፡ መልክአ፡ አብ፡ ረቂቅ፡ ወመልክአ፡ ወልድ፡ ግዙፍ፨</l>
+            <l n="3">እንዘ፡ በአካላት፡ ትሤለስ፡ ምስለ፡ እሉ፡ እስመ፡ በመለኮት፡ ትሳተፍ፨</l>
+            <l n="4">ናዝዘኒ፡ በምጽአትከ፡ እምጽርሐ፡ አርያም፡ ምዕራፍ፨</l>
+            <l n="5">ጰራቅሊጦስ፡ አምላኪየ፡ መናዝዝ፡ ዖፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ለስቴ፡ ወይን፡ ጽድቅ፡ ክፍለኒ፡ ጰራቅሊጦስ፡ ወመብልዐ፡ ኅብስት፡ ጵርስፎራ፨</l>
+            <l n="2">ወአመ፡ ጊዜ፡ ሞት፡ በጽሐኒ፡ በጼና፡ ምዑዝ፡ ነከራ፨</l>
+            <l n="3">ምስጣ፡ ለነፍስየ፡ ውስተ፡ ኤዶማዊት፡ ደብተራ፨</l>
+            <l n="4">ወሰውረኒ፡ እምዐይነ፡ ሞት፡ ወለጸአተ፡ ነፍስ፡ እምጻዕራ፨</l>
+            <l n="5">በከመ፡ ሰወርኮሙ፡ ቅድመ፡ ለሄኖክ፡ ወዕዝራ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="paraclete">
+                <persName xml:lang="gez">ጰራቅሊጦስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṗarāqliṭos</persName>
+                <persName xml:lang="en">The Paraclete</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

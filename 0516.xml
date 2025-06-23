@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0516" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አፍቀረነ፡ እግዚእ፡ ዘዴጐ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAfqaranna ʾƎgziʾ za-Degʷa</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAfqaranna ʾƎgziʾ of Degʷa</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0516/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">17</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ አብ፡ ወበስመ፡ ክርስቶስ፡ መድኅን፨</l>
+            <l n="2">ወበስመ፡ ቅዱስ፡ መንፈስ፡ ዘሐሤተ፡ ኵሉ፡ ኅዙን፨</l>
+            <l n="3">ከመ፡ ጽድቀ፡ ዚአከ፡ እንግር፡ አፍቀርአነ፡ እግዚእ፡ ምእመን፨</l>
+            <l n="4">አስትየኒ፡ እንበለ፡ ጻማ፡ ንጽሕና፡ ጥበብከ፡ ወይን፨</l>
+            <l n="5">ሕገ፡ አርድእተ፡ ቃል፡ ዘሰትዩ፡ እምኀምስ፡ ዘመን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘኢይትጋወሮ፡ ሙስና፨</l>
+            <l n="2">ለዘዘክሮቱ፡ ያዔድም፡ እማዕደ፡ ቃና፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ሳሙኤል፡ ፍሬ፡ ከርሠ፡ ጥበብ፡ ሐና፨</l>
+            <l n="4">ሴስየኒ፡ ለጸማድከ፡ ጣዕመ፡ ትሩፋቲከ፡ መና፨</l>
+            <l n="5">ወበጊዜ፡ ነጊድ፡ ምርሐኒ፡ ዘትኄይስ፡ ፍና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለአስናኒከ፡ ዘለግብረ፡ ሰሐቅ፡ መነና፨</l>
+            <l n="2">ወለልሳንከ፡ ሰላም፡ ሙራደ፡ ጽሌ፡ ሕገ፡ ሲና፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ቄርሎስ፡ ለመቅደሰ፡ ዴጐ፡ ብርሃና፨</l>
+            <l n="4">ታስተበፅዐከ፡ በአብዝኆ፡ ንባብ፡ ወዜና፨</l>
+            <l n="5">እስመ፡ እምነዋኃት፡ አድባር፡ አልዐልከ፡ መጠና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለእመትከ፡ እንተ፡ ቈጠጠ፡ በሰጊድ፨</l>
+            <l n="2">ወለእራኅከ፡ ስፉሕ፡ ለውሂበ፡ ኵሉ፡ መፍቅድ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ሌዋዊ፡ ርሱየ፡ ቅዳሴ፡ መረግድ፨</l>
+            <l n="4">ነያ፡ ትብለከ፡ ደብረ፡ ዴጐ፡ ዘምስለ፡ ምእመናን፡ ነገድ፨</l>
+            <l n="5">ምስፍናከ፡ እግዚእየ፡ ኢትሀብ፡ ለባዕድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ አመ፡ ሰብዑ፡ ለታኅሣሥ፨</l>
+            <l n="2">ወለበድነ፡ ሥጋከ፡ ሰላም፡ ርጢነ፡ ኵሉ፡ ዘነፍስ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ አስተብቍዕ፡ ኀበ፡ ንጉሠ፡ ጽድቅ፡ ክርስቶስ፨</l>
+            <l n="4">ኢይግዝማ፡ እንበለ፡ ጊዜ፡ ለሕይወትየ፡ በለስ፨</l>
+            <l n="5">እስመ፡ እንበለ፡ አቅም፡ አብዝኀት፡ ግማኔ፡ ወርኵስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በእደ፡ አግብርት፡ ኅሩያን፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ ውስተ፡ ጽርሐ፡ ዴጐ፡ መካን፨</l>
+            <l n="3">ወራሴ፡ ሢመቱ፡ ለአቤል፡ አፍቀረነ፡ እግዚእ፡ መስፍን፨</l>
+            <l n="4">ተወከፍ፡ ሊተ፡ እግዚኦ፡ አምኃ፡ ነባቢ፡ ድርሳን፨</l>
+            <l n="5">ለዘምስለ፡ ግናይ፡ አቅረብኩ፡ ወልድከ፡ ምስኪን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ግብረ፡ አረጋዊ፡ ወእንጦንስ፡ እንተ፡ ረሰይኩ፡ ሥላቀ፨</l>
+            <l n="2">ወግዕዘ፡ ቅዱሳን፡ አበው፡ ዘእምሰብእናየ፡ ርኅቀ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ተንብል፡ እንዘ፡ ትሠረገው፡ ሠቀ፨</l>
+            <l n="4">እመኒ፡ አምላክከ፡ ኀሢሠ፡ ጸባሕት፡ ጽህቀ፨</l>
+            <l n="5">ለሰሎሞን፡ በሎ፡ ለቅሐኒ፡ ወርቀ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ሰላም፡ እንዘ፡ እብል፡ ኪያክሙ፨</l>
+            <l n="2">ብርሃናተ፡ ዓለም፡ ጽዱላን፡ እኤምኀክሙ፨</l>
+            <l n="3">ጻድቃን፡ ዘዴጐ፡ እለ፡ ጻመውክሙ፡ በእንተ፡ ስሙ፨</l>
+            <l n="4">ምስለ፡ አቤል፡ መምህረ፡ ሕግ፡ ዘማሕተመ፡ ኂሩት፡ ማሕተሙ፨</l>
+            <l n="5">አፍቀረነ፡ እግዚእ፡ ወሊባኖስ፡ ለብርሃን፡ ተቅዋሙ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="afqaranna-egzi-degwa">
+                <persName xml:lang="gez">አፍቀረነ፡ እግዚእ፡ ዘዴጐ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAfqaranna ʾƎgziʾ za-Degʷa</persName>
+                <persName xml:lang="en">ʾAfqaranna ʾƎgziʾ of Degʷa</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1092,7 +1092,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -1115,12 +1114,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Pietruschka2010" corresp="http://zotero.org/groups/5599348/items/XMLYF32C"><analytic><title level="a">Ṭäbibä ṭäbiban</title><title type="short">EAe</title><author><forename>Ute</forename><surname>Pietruschka</surname></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><imprint><biblScope unit="volume">IV</biblScope><biblScope unit="page">799b-800a</biblScope><date>2010</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Euringer1934" corresp="http://zotero.org/groups/5599348/items/BWSHQVGS"><analytic><title level="a">Ṭabiba Ṭabibân</title><author><forename>Sebastian</forename><surname>Euringer</surname></author></analytic><monogr><title level="j">Oriens Christianus</title><imprint><biblScope unit="volume">Series 9, Volume 3</biblScope><biblScope unit="page">240-260</biblScope><date>1934</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ኤፍሬም_የኔሰው" corresp="http://zotero.org/groups/5599348/items/ZPB5LBGH"><monogr><title level="m">ጠቢበ፡ ጠቢባን። ግእዝ እና ዐማርኛ</title><title type="short">ጠቢበ፡ ጠቢባን።</title><editor><name>ኤፍሬም የኔሰው</name></editor><imprint><pubPlace>አዲስ አበባ</pubPlace><date>፳፻፲፭ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Dillmann1866" corresp="http://zotero.org/groups/5599348/items/UW4QXLYV"><monogr><title level="m">Chrestomathia Aethiopica edita et glossario explanata</title><editor><forename>Christian Friedrich August</forename><surname>Dillmann</surname></editor><imprint><pubPlace>Lipsiae</pubPlace><publisher>T. O. Weigel</publisher><date>1866</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

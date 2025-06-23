@@ -447,7 +447,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -487,12 +486,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Cerulli1956a" corresp="http://zotero.org/groups/5599348/items/UY4FRQQJ"><monogr><title level="m">Atti di Krestos Samrā</title><editor><forename>Enrico</forename><surname>Cerulli</surname></editor><imprint><pubPlace>Louvain</pubPlace><publisher>Imprimerie Orientaliste L. Dubrecq</publisher><date>1956</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">164 Scriptores Aethiopici, 34</biblScope></series></biblStruct><biblStruct type="book" xml:id="Cerulli1956b" corresp="http://zotero.org/groups/5599348/items/NEA5TKHQ"><monogr><title level="m">Atti di Krestos Samrā</title><editor><forename>Enrico</forename><surname>Cerulli</surname></editor><imprint><pubPlace>Louvain</pubPlace><publisher>Imprimerie Orientaliste L. Dubrecq</publisher><date>1956</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">163 Scriptores Aethiopici, 33</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

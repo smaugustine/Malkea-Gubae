@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0559" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጻድቃነ፡ ዘኃንባር፡ ጎደቦ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṣādqāna za-Ḫānbār Godabo</title>
+        <title corresp="#t1" xml:lang="en">Image of the Righteous of Ḫānbār Godabo</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0559/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">218</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለምጽአትክሙ፡ በመንግሥተ፡ አብርሃ፡ ወአጽብሃ፨</l>
+            <l n="2">ወለጉባኤክሙ፡ ሰላም፡ ዘምስለ፡ ብዙኅ፡ አምኃ፨</l>
+            <l n="3">አእላፈ፡ ጻድቃን፡ እለ፡ ተሠርገውክሙ፡ ንጽሐ፨</l>
+            <l n="4">ጸልዩ፡ በእንቲአየ፡ እስመ፡ ኃጢአትየ፡ በዝኀ፨</l>
+            <l n="5">ከመ፡ ይምሐረኒ፡ አምላክክሙ፡ ሰማየ፡ ዘሰፍሐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘኃንባር፡ ጉድባ፡ ጻድቃን፨</l>
+            <l n="2">ወለኅንብርትክሙ፡ ሰላም፡ በዐጸደ፡ ዛቲ፡ መካን፨</l>
+            <l n="3">አእላፍ፡ አንትሙ፡ አርአያ፡ አእላፍ፡ ኄራን፨</l>
+            <l n="4">ጸልዩ፡ በእንቲአየ፡ ለለ፡ ሠርቀ፡ ኵሉ፡ ዘመን፨</l>
+            <l n="5">ከመ፡ ያድኅነኒ፡ እመንሱት፡ ለብእሲ፡ ምኑን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1">ሰላም፡ ለመልክእክሙ፡ ዘተኀርየ፡ እምዕንቈ፡ ሶም፨</l>
+            <l n="2">ወእምሠርጐ፡ ኵሉ፡ ዓለም፨</l>
+            <l n="3">እስእለክሙ፡ ጻድቃን፡ በኀይለ፡ ኢየሱስ፡ ግሩም፨</l>
+            <l n="4">ከመ፡ ትጸግዉኒ፡ መጠነ፡ ሰብዓ፡ አክራም፨</l>
+            <l n="5">አምጣነ፡ ምኑን፡ አነ፡ ወብእሲ፡ ድኩም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="38">
+            
+            <l n="1">ተወከፉ፡ አኃውየ፡ ዘንተ፡ ስብሐተ፡ ወውዳሴ፨</l>
+            <l n="2">አርአያ፡ ክርስቶስ፡ ተወክፈ፡ መሥዋዕተ፡ አሮን፡ ወሙሴ፨</l>
+            <l n="3">ዘትጸውሩ፡ ጻድቃን፡ አስማተ፡ ቅድስት፡ ሥላሴ፨</l>
+            <l n="4">ከመ፡ ትባልሑ፡ ኃጥእ፡ ብእሴ፨</l>
+            <l n="5">ወታድኅኑ፡ እመንሱት፡ ወብዙኅ፡ ድምሳሴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="39">
+            
+            <l n="1">ይባረክ፡ አብ፡ በአፈ፡ ኵሉ፡ ነፍስ፨</l>
+            <l n="2">ወይትባረክ፡ ወልድ፡ እስከ፡ ቀላያት፡ ወየብስ፨</l>
+            <l n="3">መንፈስ፡ ቅዱስ፡ ይትባረክ፡ ሕይወተ፡ ሥዹስ፡ ቅዱስ፨</l>
+            <l n="4">ዘነበብክሙ፡ ምሴተ፡ በነገር፡ ሐዲስ፨</l>
+            <l n="5">እንዘ፡ ኃጥእ፡ አነ፡ ወብእሲ፡ ዕቡስ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="sad-hanbar-godabo">
+                <persName xml:lang="gez">ጻድቃነ፡ ዘኃንባር፡ ጎደቦ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṣādqāna za-Ḫānbār Godabo</persName>
+                <persName xml:lang="en">The Righteous of Ḫānbār Godabo</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

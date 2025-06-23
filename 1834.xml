@@ -248,7 +248,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -271,12 +270,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Habtemichael_Kidane2007" corresp="http://zotero.org/groups/5599348/items/TWWZQEGC"><analytic><title level="a">Maḫletä ṣǝge</title><title type="short">EAe</title><author><name>Habtemichael Kidane</name></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><imprint><biblScope unit="volume">III</biblScope><biblScope unit="page">660a-661b</biblScope><date>2007</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Grohmann1919" corresp="http://zotero.org/groups/5599348/items/M6X3SRJG"><monogr><title level="m">Aethiopische Marienhymnen</title><author><forename>Adolf</forename><surname>Grohmann</surname></author><imprint><pubPlace>Leipzig</pubPlace><publisher>Bei B. G. Teubner</publisher><date>1919</date></imprint></monogr><series><title level="s">Abhandlungen der Sächsischen Akademie der Wissenschaften</title><biblScope unit="volume">68, Abhandlungen der philologisch-historischen Klasse der Sächsischen Akademie der Wissenschaften, 33/4</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

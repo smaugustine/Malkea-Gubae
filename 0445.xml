@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0445" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብረ፡ እንድርያስ፡ ዘደብረ፡ ቆዘት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabra ʾƎndrəyās za-Dabra Qozat</title>
+        <title corresp="#t1" xml:lang="en">Image of Gabra ʾƎndrəyās of Dabra Qozat</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0445/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሥሉስ፡ ዘመለኮቱ፡ ዋሕድ፨</l>
+            <l n="2">ወበስመ፡ ማርያም፡ ጳጦስ፡ ጸዋሪተ፡ ግሩም፡ ነድ፨</l>
+            <l n="3">መጽሐፈ፡ ገድልከ፡ እጽሕፍ፡ ጸውዐተኒ፡ መፍቅድ፨</l>
+            <l n="4">ገብረ፡ እንድርያስ፡ አባ፡ ጽዱለ፡ ምግባር፡ መረግድ፨</l>
+            <l n="5">እስመ፡ መሰንቆ፡ ፍቅርከ፡ ኮነኒ፡ ለእድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ከመ፡ ዝክረ፡ አባ፡ እንጦኒ፨</l>
+            <l n="2">ዘበአፈ፡ ኵሉ፡ ይጥዕም፡ ወእምወይነ፡ ቃና፡ ዘይሤኒ፨</l>
+            <l n="3">ገብረ፡ እንድርያስ፡ ጻድቅ፡ በትረ፡ ተዐቅቦ፡ ሀበኒ፨</l>
+            <l n="4">ኢይደቅ፡ ውስተ፡ እዴሁ፡ ለመልአከ፡ ሥጋ፡ ኰናኒ፨</l>
+            <l n="5">ከመ፡ በኲናት፡ ወጽቁ፡ ፊንሐስ፡ ወአፍኒ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ ተስፋ፡ ሕዝበ፡ ገዳም፡ ወዕፅ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ጽርሕ፡ በአእዳወ፡ ኄራን፡ ሕኑጽ፨</l>
+            <l n="3">ገብረ፡ እንድርያስ፡ ሙሴ፡ መልአከ፡ አምላክ፡ ለግብጽ፨</l>
+            <l n="4">ለዓለም፡ አዕድወኒ፡ እምቀላይ፡ ፍቅራ፡ ሕጹጽ፨</l>
+            <l n="5">እስመ፡ ዴገኑኒ፡ ለአህጕሎ፡ እኩያን፡ አብያጽ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለመልክእከ፡ አዳም፨</l>
+            <l n="2">እስመ፡ አቅረብከ፡ ወልድከ፡ ብእሴ፡ ሥጋ፡ ወደም፨</l>
+            <l n="3">ገብረ፡ እንድርያስ፡ አባ፡ ለነሢአ፡ ጸጋ፡ ፍጹም፨</l>
+            <l n="4">የማንከ፡ ትባርከኒ፡ ለኤፍሬም፡ ሥዩም፨</l>
+            <l n="5">ከመ፡ ባረኮ፡ ያዕቆብ፡ አቡሁ፡ ዘቅድም፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="gabra-endreyas-d-qozat">
+                <persName xml:lang="gez">ገብረ፡ እንድርያስ፡ ዘደብረ፡ ቆዘት፡</persName>
+                <persName xml:lang="gez" type="normalized">Gabra ʾƎndrəyās za-Dabra Qozat</persName>
+                <persName xml:lang="en">Gabra ʾƎndrəyās of Dabra Qozat</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

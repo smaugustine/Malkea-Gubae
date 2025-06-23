@@ -97,7 +97,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -120,12 +119,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="bookSection" xml:id="van_den_Oudenrijn1960" corresp="http://zotero.org/groups/5599348/items/9CS9ZMM7"><analytic><title level="a">ሰላም፡ ለጥንተ፡ ላሕኪ። Ein Aethiopisches Stabat Mater</title><author><forename>M. A.</forename><surname>van den Oudenrijn</surname></author></analytic><monogr><title level="m">Atti del Convegno internazionale di Studi Etiopici (Roma 2–4 aprile 1959)</title><imprint><pubPlace>Roma</pubPlace><biblScope unit="page">297-322</biblScope><publisher>Accademia Nazionale dei Lincei</publisher><date>1960</date></imprint></monogr><series><title level="s">Accademia Nazionale dei Lincei</title><biblScope unit="volume">357, Problemi attuali di scienza e di cultura, 48</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

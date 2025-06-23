@@ -290,7 +290,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -313,12 +312,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Budge1900" corresp="http://zotero.org/groups/5599348/items/JDWD6IDD"><monogr><title level="m">The Miracles of the Blessed Virgin Mary, and the Life of Ḥannâ (Saint Anne), and the Magical Prayers of ʾAhĕta Mîkâêl. The Ethiopic Texts edited with English Translation</title><title type="short">The Miracles of the Blessed Virgin Mary</title><editor><forename>Ernest Alfred Wallis</forename><surname>Budge</surname></editor><respStmt><resp>translator</resp><persName><forename>Ernest Alfred Wallis</forename><surname>Budge</surname></persName></respStmt><imprint><pubPlace>London</pubPlace><publisher>W. Griggs</publisher><date>1900</date></imprint></monogr></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

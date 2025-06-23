@@ -127,7 +127,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -167,12 +166,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Colin1987a" corresp="http://zotero.org/groups/5599348/items/YKVEUAAT"><monogr><title level="m">Vie de Georges de Saglā</title><author><forename>Gérard</forename><surname>Colin</surname></author><imprint><pubPlace>Louvain</pubPlace><publisher>Peeters</publisher><date>1987</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">492, Scriptores Aethiopici, 81</biblScope></series></biblStruct><biblStruct type="book" xml:id="Colin1987b" corresp="http://zotero.org/groups/5599348/items/CDZVWADP"><monogr><title level="m">Vie de Georges de Saglā</title><author><forename>Gérard</forename><surname>Colin</surname></author><imprint><pubPlace>Louvain</pubPlace><publisher>Peeters</publisher><date>1987</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">493, Scriptores Aethiopici, 82</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>

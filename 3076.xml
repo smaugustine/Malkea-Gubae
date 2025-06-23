@@ -177,7 +177,6 @@
     </body>
     
     <back>
-
       
       <listRelation>
         <relation name="subjects">
@@ -217,12 +216,7 @@
       </listRelation>
       
       
-      <div type="bibliography">
-        
 <listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="thesis" xml:id="Petros_Solomon2018" corresp="http://zotero.org/groups/5599348/items/U2BT7J6V"><monogr><title level="m">The Gəʾəz Acts of Abunä Filəṗos of Däbra Libanos: Critical Edition and Annotated Translation</title><author><name>Petros Solomon</name></author><imprint><pubPlace>Addis Ababa</pubPlace><date>2018</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="Turaiev1908" corresp="http://zotero.org/groups/5599348/items/SUK8I8F7"><monogr><title level="m">Vitae Sanctorum Indigenarum. II. Acta S. Aaronis et Philippi</title><author><forename>Boris</forename><surname>Turaiev</surname></author><imprint><pubPlace>Paris</pubPlace><publisher>E typographeo reipublicae</publisher><date>1908</date></imprint></monogr><series><title level="s">Corpus Scriptorum Christianorum Orientalium</title><biblScope unit="volume">Scriptores Aethiopici, II, 20</biblScope></series></biblStruct></listBibl>
-      </div>
-      
-      
     </back>
 
   </text>
