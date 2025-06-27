@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0334" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኪሮስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Kiros</title>
+        <title corresp="#t1" xml:lang="en">Image of Cyrus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0334/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">አንቅሀኒ፡ እምሐኬትየ፡ ወጸግወኒ፡ ልቡና፨</l>
+            <l n="2">ከመ፡ እዜኑ፡ ንስቲተ፡ ለስምከ፡ ውዳሴ፡ ዜና፨</l>
+            <l n="3">ሥርግወ፡ ሃይማኖት፡ ኪሮስ፡ ወርሱይ፡ በቅድስና፨</l>
+            <l n="4">ዘአጥረይከ፡ ንጽሐ፡ ኅሊና፡ እስከ፡ ፈጸምከ፡ ቀኖና፨</l>
+            <l n="5">አንተኑ፡ ሐዋርያ፡ ናትናኤል፡ ዘሲና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እንተ፡ ወበጠ፡ እግዚአብሔር፨</l>
+            <l n="2">እምቀዳሚ፡ ስምከ፡ ብሂለ፡ ዲላሶር፡ ኦመ፡ ዘይት፨</l>
+            <l n="3">ኪሮስ፡ ውስተ፡ ቤተ፡ አምላክ፡ ሥሙር፨</l>
+            <l n="4">ስፍሐ፡ አጽፈ፡ ዜናከ፡ እስከ፡ ከጽናሬሃ፡ ለባሕር፨</l>
+            <l n="5">ባሕቱ፡ በጸሎት፡ ክድነኒ፡ እምቍር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለክብረ፡ ሞትከ፡ መጽኡ፡ እንዘ፡ የሐልዩ፡ በአርጋኖን፨</l>
+            <l n="2">መላእክተ፡ ሰማይ፡ ትጉሃን፨</l>
+            <l n="3">ሰብሑከ፡ ኪሮስ፡ እለ፡ ከማከ፡ ጻድቃን፨</l>
+            <l n="4">አመ፡ ተጸውዑ፡ ____ ዕረፍትከ፡ ቀርን፨</l>
+            <l n="5">አባ፡ ኤላርዮን፡ ወአባ፡ ላትጹን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">መኑ፡ ከማከ፡ እንተ፡ ለብሰ፡ ትዕግሥተ፨</l>
+            <l n="2">የአኵተከ፡ እግዚእ፡ በብሂል፡ ዘንተ፨</l>
+            <l n="3">ተወኪፈከ፡ ኪሮስ፡ ለዘአቅረብኩ፡ ማሕሌተ፨</l>
+            <l n="4">እምግብረ፡ ጽድቅ፡ እስመ፡ ኢገበርኩ፡ አሐተ፨</l>
+            <l n="5">ባሕቱ፡ እምጽድቃቲከ፡ ጸግወኒ፡ ሊተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="cyrus">
+                <persName xml:lang="gez">ኪሮስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Kiros</persName>
+                <persName xml:lang="en">Cyrus</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

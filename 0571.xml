@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="0571" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ምክሐ፡ ምእመናን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Mǝkḥa Mǝʾmanān</title>
+        <title corresp="#t1" xml:lang="en">Boast of the Faithful</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0571/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ አሐዱ፡ አምላክ፨</l>
+            <l n="2">ኣአምን፡ በዕሪና፡ እንዘ፡ እስግድ፡ በብረክ፨</l>
+            <l n="3">እንበለ፡ ናፍቆ፡ ምንተኒ፡ በትሥልስትከ፡ አመልክ፨</l>
+            <l n="4">ወዓዲ፡ ታድኅን፡ ሕዝበከ፡ ወለአግብርቲከ፡ ትምሕክ፨</l>
+            <l n="5">እጼሊ፡ ኀቤከ፡ እግዚኦ፡ በነግህ፡ ወበሠክ፡፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ኣአምን፡ በአብ፡ ዘኢቀደመ፡ በህላዌ፡ እምወልዱ፨</l>
+            <l n="2">ወኣአምን፡ በወልድ፡ ተወላዲ፡ ወለአቡሁ፡ የማነ፡ እዱ፤፨</l>
+            <l n="3">ወኣአምን፡ በመንፈስ፡ ቅዱስ፡ ዘሠረጸ፡ እምአብ፡ ወዘኂሩት፡ ልማዱ፨</l>
+            <l n="4">እስመ፡ አምላክነ፡ መሐሪ፡ ወለባሕረ፡ ጸጋ፡ ምዕላዱ፨</l>
+            <l n="5">እንዘ፡ አሐዱ፡ ሠለስቱ፡ ወእንዘ፡ ሠለስቱ፡ አሐዱ፡፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">መንክር፡ ግብርከ፡ እግዚኦ፡ ወስብሐቲከ፡ ብዙኅ፨</l>
+            <l n="2">እምነ፡ ኆጻ፡ ባሕር፡ የዐቢ፡ ወእምነጥበ፡ ክረምት፡ ወአይኅ፨</l>
+            <l n="3">ምክሐ፡ ምእመናን፡ ክርስቶስ፡ ዘባሕርይከ፡ ሩኅሩኅ፨</l>
+            <l n="4">እንግፈኒ፡ እምፀርየ፡ ወናዝዘኒ፡ እምላህ፨</l>
+            <l n="5">እስመ፡ አነ፡ ኃጥእ፡ ዘአልብየ፡ ምልሕ፡፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="78">
+            
+            <l n="1">ብፁዕ፡ ብእሲ፡ በጊዜ፡ መከራ፡ ዘይትዔገሥ፨</l>
+            <l n="2">እስከ፡ ይመጽእ፡ በስብሐት፡ መድኀኔ፡ ዓለም፡ ንጉሥ፨</l>
+            <l n="3">ለእለ፡ ይትዔገሡ፡ ሕማም፡ አሜሃ፡ በመካነ፡ ትፍሥሕት፡ ያርእስ፨</l>
+            <l n="4">እንዘ፡ ያስተዋሕድ፡ ለሥጋ፡ ምስለ፡ ነባቢት፡ ነፍስ፨</l>
+            <l n="5">ይብል፡ ዘተዐገሠ፡ በእንቲኣየ፡ ሕይወተ፡ ለይረስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="79">
+            
+            <l n="1">ንሴብሖ፡ ለእግዚአብሔር፡ በትፍሥህት፡ ወበከበሮ፨</l>
+            <l n="2">እስመ፡ ከሠተ፡ ለነ፡ በመጻሕፍቲሁ፡ ምግባሮ፨</l>
+            <l n="3">በሞት፡ ወበሕይወት፡ ከመ፡ ናእምር፡ ክብሮ፨</l>
+            <l n="4">ወለንጉሥነ፡ ምኒልክ፡ ያግርር፡ ሎቱ፡ ፀሮ፨</l>
+            <l n="5">በፍትሕ፡ ወበርትዕ፡ እንዘ፡ ያጸንዕ፡ መንበሮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="80">
+            
+            <l n="1">ስብሐት፡ ለእግዚአብሔር፡ በቅዱሳኒሁ፡ ዘየዐርፍ፨</l>
+            <l n="2">ወይትባረክ፡ ስሙ፡ እምጽንፈ፡ ዓለማት፡ እስከ፡ ጽንፍ፨</l>
+            <l n="3">እንዘ፡ ይነብብ፡ ላዕሌየ፡ መንፈሰ፡ ጸጋሁ፡ ሐደፍ፨</l>
+            <l n="4">ዘአፈጸመኒ፡ በሰላም፡ ለዝንቱ፡ መጽሐፍ፨</l>
+            <l n="5">ዘይሰመይ፡ ምክሐ፡ ምእመናን፡ ወምክረ፡ መድኀኒት፡ ውኩፍ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="jesus">
+                <persName xml:lang="gez">ኢየሱስ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyasus Krəstos</persName>
+                <persName xml:lang="en">Jesus Christ</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ገብረ_ሥላሴ" corresp="http://zotero.org/groups/5599348/items/JIICEUUZ"><monogr><title level="m">መልክዐ ጉባኤ ከ380 በላይ የተለያዩ መልክዐ መልኮችንና ምስጋናዎችን አጠቃሎ የያዘ በግዕዝ እና በአማርኛ</title><title type="short">መልክዐ ጉባኤ</title><extent>2</extent><author><name>ገብረ ሥላሴ</name></author><imprint><pubPlace>አዲስ አበባ</pubPlace><date>፳፻፲፮  ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ታየ_ገብረ_ማርያም" corresp="http://zotero.org/groups/5599348/items/M3S6LQWI"><monogr><title level="m">መልክአ፡ ኢየሱስ፡ ምስለ፡ ምክሐ፡ ምእመናን።</title><author><name>ታየ ገብረ ማርያም</name></author><imprint><pubPlace>አሥመራ</pubPlace><publisher>ማኅበረ ክርስቲያን</publisher><date>፲፰፻፺፬ ዓ/ም</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

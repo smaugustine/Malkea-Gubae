@@ -7,7 +7,7 @@
         
         <title xml:id="t1" xml:lang="gez">መልክአ፡ ሠለስቱ፡ ደቂቅ፡</title>
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śallastu Daqiq</title>
-        <title corresp="#t1" xml:lang="en">Image of Three Youths</title>
+        <title corresp="#t1" xml:lang="en">Image of the Three Youths</title>
         
       </titleStmt>
 
@@ -194,7 +194,7 @@
               <person xml:id="three-youths">
                 <persName xml:lang="gez">ሠለስቱ፡ ደቂቅ፡</persName>
                 <persName xml:lang="gez" type="normalized">Śallastu Daqiq</persName>
-                <persName xml:lang="en">Three Youths</persName>
+                <persName xml:lang="en">The Three Youths</persName>
                 <trait type="category"><desc>martyr</desc></trait>
 
                 
