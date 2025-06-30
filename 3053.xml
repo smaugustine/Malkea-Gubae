@@ -72,19 +72,7 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">መንክራቲከ፡ ሰማዕነ፡ እንዘ፡ ትነብር፡ አርማንያ፡ መካነ፨</l>
-            <l n="2">ኤዎስጣቴዎስ፡ ተኣምር፡ በኢትዮጵያ፡ ዘኮነ፨</l>
-            <l n="3">መርበብቶ፡ ኢይስፋሕ፡ ውስተ፡ ማኅበርነ፨</l>
-            <l n="4">ትትበአስ፡ መስተቃርነ፡ ብጽሐነ፡ ፍጡነ፨</l>
-            <l n="5">ዘተሠርኀከ፡ ሥነ፡ ጳዝዮን፡ አቡነ፨</l>
-
-          </lg>
-          
-        </div>
+        
 
         <div type="textpart" xml:id="malke">
           

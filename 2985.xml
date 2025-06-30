@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2985" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ማኅበረ፡ መላእክት፡ ወሰብእ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Māḫbara Malāʾǝkt wa-Sabǝʾ</title>
+        <title corresp="#t1" xml:lang="en">Image of the Assembly of Angels and Men</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2985/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">266</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሕያው፡ ዘአምጻእክሙ፡ እምኀበ፡ አልቦ፨</l>
+            <l n="2">እዌጥን፡ ጽሒፈ፡ ዜና፡ ውዳሴክሙ፡ በአስተርክቦ፨</l>
+            <l n="3">ማኅበረ፡ መላእክት፡ ወሰብእ፡ ጥዑማነ፡ ዝክር፡ ለተናብቦ፨</l>
+            <l n="4">አዕርጉኒ፡ ደብረ፡ ራእይ፡ በክንፍክሙ፡ ዘገቦ፨</l>
+            <l n="5">ለስብሐቲክሙ፡ እነጽር፡ መዝገቦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘጽሕፈተ፡ እግዚእ፡ ጽሕፈቱ፨</l>
+            <l n="2">ኀበ፡ ዐምደ፡ ወርቅ፡ ወቀይሕ፡ ዘብርሩ፡ ስክተቱ፨</l>
+            <l n="3">ማኅበረ፡ መላእክት፡ ወሰብእ፡ ዘላዕሉ፡ ወታሕቱ፨</l>
+            <l n="4">ስረዩ፡ ኃጢአትየ፡ በእንተ፡ ስምክሙ፡ ዝንቱ፨</l>
+            <l n="5">እስመ፡ ብዙኅ፡ ወትሩፍ፡ ውእቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ሰላም፡ ለመላክኢክሙ፡ እንተ፡ ለሐኮን፡ እግዚአብሔር፨</l>
+            <l n="2">በኪነ፡ ኅቡእ፡ ኅሊና፡ ኵሉ፡ ፍጡር፨</l>
+            <l n="3">ማኅበረ፡ መላእክት፡ ወሰብእ፡ ማኅበራነ፡ በኵር፨</l>
+            <l n="4">ጸግዉኒ፡ አጋእዝትየ፡ ዕሤተ፡ ዝንቱ፡ መዝሙር፨</l>
+            <l n="5">መንግሥተ፡ ዘሰማይ፡ ወአኮ፡ ዘምድር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">እግዚአብሔር፡ እግዚእ፡ እንዘ፡ ይረድአኒ፡ ኀይሉ፨</l>
+            <l n="2">ዘነበርኩ፡ ንስቲተ፡ እምዜናክሙ፡ ዘይደሉ፨</l>
+            <l n="3">ማኅበረ፡ መላእክት፡ ወሰብእ፡ ኢታአትትዎ፡ ለቃሉ፨</l>
+            <l n="4">ወኢትግድፉ፡ አሐተ፡ እምዘተጽሕፈ፡ ፊደሉ፨</l>
+            <l n="5">እስከ፡ ሶበ፡ ኵሉ፡ ይትገበር፡ ወይከውን፡ ኵሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">እግዚአብሔር፡ በላዕሌየ፡ እንዘ፡ ይከውነኒ፡ ከመ፡ ዖፍ፨</l>
+            <l n="2">ዘተናገርኩ፡ ሕቀ፡ እምዜናክሙ፡ ትሩፍ፨</l>
+            <l n="3">ማኅበረ፡ መላእክት፡ ወሰብእ፡ ተናበብዎ፡ ዘዘልፍ፨</l>
+            <l n="4">ወአዕረግዎ፡ ቅድመ፡ ፈጣሪ፡ ከመ፡ መሥⷃዕተ፡ ሰርክ፡ ውኩፍ፨</l>
+            <l n="5">ወከመ፡ ዕጣን፡ ዘይጼኑ፡ ለአንፍ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      
+    </back>
+
+  </text>
+</TEI>

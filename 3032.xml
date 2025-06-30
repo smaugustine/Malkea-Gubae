@@ -72,19 +72,7 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ሠለስቱ፨</l>
-            <l n="2">ለብሂል፡ ወጠንኩ፡ ነገረ፡ ሥቃዩከ፡ በበ፡ ሥርዓቱ፨</l>
-            <l n="3">ጊዮርጊስ፡ ፍታሕ፡ ማዕሠረ፡ ልሳንየ፡ ለአንብቦቱ፨</l>
-            <l n="4">እስመ፡ አንተ፡ በላዕሉ፡ ወአንተ፡ በታሕቱ፨</l>
-            <l n="5">ዘእትመነከ፡ አንሰ፡ ወለከ፡ እፈቱ፨</l>
-
-          </lg>
-          
-        </div>
+        
 
         <div type="textpart" xml:id="malke">
           

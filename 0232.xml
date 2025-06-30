@@ -49,9 +49,9 @@
 
         <div type="textpart" xml:id="malke">
           
-          <lg type="stanza" n="1">
+          <lg type="stanza" n="13">
             
-            <l n="1">[The beginning of the text is lost.]</l>
+            <l n="1"> </l>
             <l n="2"> </l>
             <l n="3">በኢየሩሳሌም፡ ኖብ፡ ሐነጸ፡ አብያተ፨</l>
             <l n="4">ወበጽዮን፡ ዘርአ፡ ከመ፡ ይእርር፡ በረከተ፨</l>
@@ -59,7 +59,7 @@
 
           </lg>
           
-          <lg type="stanza" n="2">
+          <lg type="stanza" n="14">
             
             <l n="1">ሰላም፡ ለመትከፍትከ፡ ዘኢኮነ፡ ጸጓረ፨</l>
             <l n="2">ዕፀወ፡ ሐጢቦ፡ ከመ፡ አቤሜሌክ፡ ኢጾረ፨</l>
@@ -69,7 +69,7 @@
 
           </lg>
           
-          <lg type="stanza" n="3">
+          <lg type="stanza" n="15">
             
             <l n="1">ሰላም፡ ለዘባንከ፡ ዘተወከፍከ፡ ምንዳቤ፨</l>
             <l n="2">ምእተ፡ ጥብጣቤ፨</l>
@@ -79,7 +79,7 @@
 
           </lg>
           
-          <lg type="stanza" n="61">
+          <lg type="stanza" n="74">
             
             <l n="1">ሰላም፡ ለዐሥራቲከ፡ ዘተወፈይከ፡ ሀብተ፨</l>
             <l n="2">ካዕበተ፡ ምስብዒተ፨</l>

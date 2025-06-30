@@ -9,13 +9,9 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Māryām</title>
         <title corresp="#t1" xml:lang="en">Image of Mary</title>
         
-        <title xml:id="t2" xml:lang="gez">መልክአ እግዝእትነ፡ ማርያም፡</title>
-        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa ʾƎgzəʾtəna Māryām</title>
-        <title corresp="#t2" xml:lang="en">Image of Our Lady Mary</title>
-        
-        <title xml:id="t3" xml:lang="gez">መልክአ፡ ማርያም፡ ዘደብረ፡ ሲና፡ ወዘማርያም፡ ዓይላ፡</title>
-        <title corresp="#t3" xml:lang="gez" type="normalized">Malkəʾa Māryām za-Dabra Sinā wa-za-Māryām ʿĀylā</title>
-        <title corresp="#t3" xml:lang="en">Image of Mary of Dabra Sinā and of Māryām ʿĀylā</title>
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ማርያም፡ ዘደብረ፡ ሲና፡ ወዘማርያም፡ ዓይላ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Māryām za-Dabra Sinā wa-za-Māryām ʿĀylā</title>
+        <title corresp="#t2" xml:lang="en">Image of Mary of Dabra Sinā and of Māryām ʿĀylā</title>
         
       </titleStmt>
 
@@ -80,17 +76,7 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">ማርያምሰ፡ ኀርየት፡ መክፈልተ፡ ሠናየ፡ ዘኢየኀይድዋ፨</l>
-            <l n="2">ይእቲ፡ ፀምር፡ ጸዓዳ፡ ዘእምነገደ፡ ይሁዳ፨</l>
-            <l n="3">ሰረገላ፡ አሚናዳብ፡ ንብረታ፨</l>
-
-          </lg>
-          
-        </div>
+        
 
         <div type="textpart" xml:id="malke">
           

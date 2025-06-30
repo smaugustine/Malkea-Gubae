@@ -75,18 +75,7 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">በሐኪ፡ ኦዐባይ፡ ሀገር፨</l>
-            <l n="2">ሀገረ፡ ደብረ፡ ሊባኖስ፡ ሀገረ፡ ነጐድጓድ፡ ሀገረ፡ እግዚአብሔር፨</l>
-            <l n="3">ደሞሙ፡ ለሰማዕታትኪ፡ ውሕዘ፡ ክመ፡ ማይ፨</l>
-            <l n="4">ድምፀ፡ ነጐድጓዶሙ፡ በጽሐ፡ እስከ፡ ሰማይ፨</l>
-
-          </lg>
-          
-        </div>
+        
 
         <div type="textpart" xml:id="malke">
           

@@ -75,19 +75,7 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">አኮ፡ አኮ፡ ወርቀ፡ ወባሕርየ፨</l>
-            <l n="2">ከመ፡ ኤውላጦን፡ ወደማስቆ፡ ዘኢፈረየት፡ ምድርየ፨</l>
-            <l n="3">ጸዊርየ፡ አላ፡ አምኃ፡ ውዳሴ፡ ዘብየ፨</l>
-            <l n="4">አኖሬዎስ፡ መኰንንየ፡ ወመንፈሳዊ፡ አቡየ፨</l>
-            <l n="5">ወእገኒ፡ ለከ፡ በኵሉ፡ ልብየ፨</l>
-
-          </lg>
-          
-        </div>
+        
 
         <div type="textpart" xml:id="malke">
           

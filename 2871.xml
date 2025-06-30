@@ -97,19 +97,7 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">ሰላም፡ ሰላም፡ ወሰላም፡ እብሎሙ፨</l>
-            <l n="2">ለሰማዕታተ፡ ሮም፡ ኵሎሙ፨</l>
-            <l n="3">አቡሁ፡ ወእሙ፡ ፈጸሙ፡ ገድሎሙ፨</l>
-            <l n="4">ተሰብረ፡ ዐጽሙ፡ ወተክዕወ፡ ደሙ፨</l>
-            <l n="5">ለብፁዕ፡ መስተጋድል፡ መርቆሬዎስ፡ ስሙ፨</l>
-
-          </lg>
-          
-        </div>
+        
 
         <div type="textpart" xml:id="malke">
           

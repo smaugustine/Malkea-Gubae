@@ -72,17 +72,7 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">ኢየሱስ፡ ኢየሱስ፡ ኢየሱስ፡ ክርስቶስ፨</l>
-            <l n="2">ዘሠረፅከ፡ እምቤተ፡ ሌዊ፡ ኮሬባዊ፡ መለኮታዊ፨</l>
-            <l n="3">ቃል፡ ሰማያዊ፡ እምድንግል፡ ተወልደ፨</l>
-
-          </lg>
-          
-        </div>
+        
 
         <div type="textpart" xml:id="malke">
           

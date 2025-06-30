@@ -45,19 +45,7 @@
     <body>
       <div type="edition" xml:lang="gez">
 
-        <div type="textpart" xml:id="masgabiya">
-          
-          <lg type="stanza" n="1">
-            
-            <l n="1">መዝሙረ፡ ዳዊት፡ ትመስል፡ ገነተ፨</l>
-            <l n="2">ወታስተጋብእ፡ ኵሎ፡ አቅማሐ፡ ወጽጌያተ፨</l>
-            <l n="3">ትመልዕ፡ ፍሬያተ፡ ወታጸግብ፡ በረከተ፨</l>
-            <l n="4">ትሰድድ፡ አጋንንተ፡ ወታቀርብ፡ መላእክተ፨</l>
-            <l n="5">ለዘያነብባ፡ ኵሎ፡ ዕለተ፨</l>
-
-          </lg>
-          
-        </div>
+        
 
         <div type="textpart" xml:id="malke">
           
