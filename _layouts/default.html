@@ -34,7 +34,7 @@
     <section class="section">
       <div class="container">
         
-        <div class="mb-6">
+        <div class="mb-5">
           {% unless page.title %}
           <h1 class="title" lang="gez">{{ site.alt_title | fidal }}</h1>
           <h2 class="subtitle" lang="gez-latn">{{ site.alt_title }}</h2>
@@ -46,7 +46,7 @@
           {% else %}
           <h1 class="title">
             <span lang="gez">{{ page.titles[0].gez | fidal }}</span>
-            <wbr>
+            {% if page.titles[0].gez.size > 30 %}<br>{% else %}<wbr>{% endif %}
             <small lang="gez-latn">{{ page.titles[0].gez }}</small>
           </h1>
           <h2 class="subtitle">

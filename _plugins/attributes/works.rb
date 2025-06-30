@@ -32,8 +32,20 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     end
 
     work.data["length"] = work.data["stanzas"].max_by{ |k, v| k }[0]
+
+    unless work.data.include? "complete"
+
+      if work.data.include? "stub"
+        work.data["complete"] = false
+      elsif work.data["stanzas"].first[0] != 1 or work.data["stanzas"][work.data["length"]].last == " "
+        work.data["complete"] = false
+      else
+        work.data["complete"] = true
+      end
+
+    end
     
-    work.data["full_text"] = work.data["stanzas"].size == work.data["length"]
+    if work.data["complete"] then work.data["full_text"] = work.data["stanzas"].size == work.data["length"] end
 
   end
 

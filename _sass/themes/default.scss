@@ -33,16 +33,20 @@
   @include cv.generate-color-palette("danger", #D14D41);
   @include cv.generate-on-scheme-colors("danger", #D14D41, light.$scheme-main);
 
-  --bulma-family-serif: 'Noto Serif Ethiopic', 'Noto Serif', Bembino, Garamond, Times, serif;
+  --bulma-family-serif: 'Noto Serif Ethiopic', 'Noto Serif', Bembino, Garamond, Times, 'Times New Roman', serif;
   --bulma-family-sans-serif: 'Noto Sans Ethiopic', 'Noto Sans', Helvetica, Arial, sans-serif;
   --bulma-family-primary: var(--bulma-family-sans-serif);
   --bulma-family-secondary: var(--bulma-family-serif);
 
   color: hsl(var(--bulma-burger-h), var(--bulma-burger-s), var(--bulma-burger-l));
 
-  --bulma-hr-height: 1.5px;
-  --bulma-hr-margin: 1rem 0;
-  --bulma-hr-background-color: var(--bulma-scheme-main-bis);
+  --bulma-hr-height: 1px;
+  --bulma-hr-margin: var(--bulma-block-spacing) 0;
+  --bulma-hr-background-color: var(--bulma-border);
+
+  --bulma-message-body-padding: var(--bulma-block-spacing);
+
+  --bulma-box-shadow: none
 }
 
 :root {

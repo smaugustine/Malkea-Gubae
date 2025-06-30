@@ -32,18 +32,22 @@ months: [nil, Maskaram, Ṭəqəmt, Ḫədār, Tāḫśāś, Ṭərr, Yakkātit,
     <tr>
       <td rowspan="{{ page.calendar[month][day].size }}">
         <strong>{{ day }}&nbsp;{{ layout["months"][month] }}</strong>
-        <br><small lang="en">({{ "2001-" | append: month | append: "-" | append: day | to_gregorian | date: "%-d %b" }})</small>
+        <br><small lang="en">({{ "2001-" | append: month | append: "-" | append: day | to_gregorian | date: "%-d %B" }})</small>
       </td>
   {% else %}
     <tr>
   {% endif %}
       <td>
-        <strong lang="gez">{{ subject.name.gez | fidal }}</strong>
-        <br><small lang="gez-latn">{{ subject.name.gez }}</small>
+        <a href="{{ subject.link }}">
+          <strong lang="gez">{{ subject.name.gez | fidal }}</strong>
+          <br><small lang="gez-latn">{{ subject.name.gez }}</small>
+        </a>
       </td>
 
       <td>
-        <span lang="en">{{ subject.name.en }}</span>
+        <a href="{{ subject.link }}">
+          <span lang="en">{{ subject.name.en }}</span>
+        </a>
       </td>
     </tr>
   {% if forloop.last %}

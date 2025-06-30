@@ -12,10 +12,13 @@ html body
     @include mixins.touch
       display: block
 
-  .tag
-    font-family: var(--bulma-family-primary)
+  .box
+    border-color: var(--bulma-border)
+    border-style: solid
+    border-width: 1px
+    box-shadow: none
 
-  .table, .message-body, .content
+  .table, .box, .content
     font-family: var(--bulma-family-secondary)
     .button
       font-family: var(--bulma-family-primary)
@@ -35,7 +38,12 @@ html body
         li:not(:last-child)
           margin-bottom: 0.75rem
     
-    &#list
+    &#list     
+      /*thead:first-of-type
+        background: var(--bulma-body-background-color)
+        position: sticky
+        top: 0*/
+
       tbody:not([data-rank])
         display: none
 
@@ -50,12 +58,25 @@ html body
     list-style-position: outside
     margin-inline-start: 2em
 
-    li.ellipsis
+    li.header
+      list-style-type: none
+      font-weight: var(--bulma-strong-weight)
+      color: hsl(var(--bulma-danger-h), var(--bulma-danger-s), var(--bulma-danger-l))
+      margin-top: 2rem
+
+    &:first-of-type
+      li.header:first-of-type
+        margin-top: 0
+
+    li.ellipsis, li.lacuna
       list-style-type: none
       margin-bottom: 1em
 
-      &:after
-       content: "⋮" 
+    li.ellipsis:after
+       content: "⋮"
+
+    li.lacuna
+      font-style: italic
 
     li + li
       margin-top: 0.25em
@@ -70,29 +91,27 @@ html body
     li:has(ul>li:empty)
       display: none
 
-    &.can-break
-      @include mixins.widescreen
-        columns: 2
+  .message
+    &:not(:last-child)
+      margin-bottom: calc(2 * var(--bulma-column-gap))
 
-      li
-        page-break-inside: avoid
+    .message-header
+      color: hsl(221, 14%, 96%)
 
-  div.columns div.column .message
-    &:not(:first-child)
-      padding-top: calc( 2 * var(--bulma-column-gap) )
+    .message-body
+      border-color: var(--bulma-border)
+      border-style: solid
+      border-width: 0px 1px 1px
 
-    .buttons
-      @include mixins.mobile
-        justify-content: center
+    a:not(.button):not(.tag):not(.dropdown-item)
+      color: var(--bulma-link-text) !important
+      text-decoration: inherit !important
 
-    .message-body.content
-      ul
-        margin-top: 0
-      a:not(.button)
-        color: var(--bulma-link-text)
-        text-decoration: none
-      hr
-        background: hsl(var(--bulma-message-h), var(--bulma-message-s), var(--bulma-message-header-background-l))
+  .placeholder, ::placeholder
+    color: darkgrey
+
+  .select select
+    transition-property: background-color, border-color, box-shadow
   
   a.to-expand
     &:after
@@ -100,28 +119,3 @@ html body
     
     &.is-active:after
       content: "▼"
-  
-  li
-    &[data-category="Trinitarian"]::marker
-      color: var(--bulma-success)
-
-    &[data-category="Marian"]::marker
-      color: var(--bulma-link)
-
-    &[data-category="Angelic"]::marker
-      color: var(--bulma-warning)
-
-    &[data-category="Prophets/Apostles"]::marker
-      color: var(--bulma-primary)
-
-    &[data-category="Martyrs"]::marker
-      color: var(--bulma-danger)
-
-    &[data-category="Righteous"]::marker
-      color: var(--bulma-info)
-
-  table.table#chaine
-    td[colspan="2"]
-      a:not(:last-of-type):after
-        content: ","
-        color: var(--bulma-table-color)

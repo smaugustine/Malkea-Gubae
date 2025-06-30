@@ -1,12 +1,49 @@
 ---
 ---
 
-<p class="mb-3">
-  <strong class="has-text-danger">Please note that this represents a work in progress that is constantly being updated.</strong>
-  <br>CAe = Clavis Aethiopica.
-  <br>HK = Habtemichael Kidane, ‘Supplement to the Repertory of <i>Mälkəʿat</i>’, in <i>Celebrating the Holy Saints</i>, 267–369.
-  <br>MC = Marius Chaîne, ‘<a href="{{ '/works/chaine/' | relative_url }}">Répertoire des salam et malke'e</a>’, <i>ROC</i> 18 (1913): 183–203, 337–57.
-</p>
+<div class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-content">
+    <div class="box" style="max-height: calc(100vh - 3rem); overflow-y: scroll;">
+      <button class="delete is-pulled-right" aria-label="close" style="position: sticky; top: 0;"></button>
+      <h3 class="title is-3">
+        <span>Marius Chaîne</span>
+      </h3>
+      <h4 class="subtitle is-4">‘Répertoire des salam et malke’e’</h4>
+      
+      <div class="block">
+        {% assign chaine = site.works | where_exp: "work", "work.chaine != nil" | map: "chaine" | flatten | sort_numeric %}
+        {% for number in chaine %}
+          {% assign work = site.works | find_exp: "work", "work.chaine contains number" %}
+          {{ number }}<br>
+          {{ work.clavis }}<br>
+          <br>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="level mb-3">
+  <div class="level-left">
+    <div class="level-item">
+      <p class="is-size-7">
+        <strong>CAe</strong> = Clavis Aethiopica.<br>
+        <strong>HK</strong> = Habtemichael Kidane, ‘Supplement to the Repertory of <i>Mälkəʿat</i>’, in <i>Celebrating the Holy Saints</i>, 267–369.<br>
+        <strong>MC</strong> = Marius Chaîne, ‘Répertoire des salam et malke’e’, <i>ROC</i> 18 (1913): 183–203, 337–57.
+      </p>
+    </div>
+  </div>
+  <div class="level-right">
+    <div class="level-item is-hidden-touch">
+      <p class="has-text-right is-size-7">
+        <strong>{{ site.works | where: "type", "malkəʾ" | size }}</strong> malkəʾ records.<br>
+        <strong>{{ site.works | where: "type", "quasi-malkəʾ" | size }}</strong> quasi-malkəʾ records.<br>
+        <strong>{{ site.works.size }}</strong> total work records.
+      </p>
+    </div>
+  </div>
+</div>
 
 <table class="table is-fullwidth" id="list">
 
@@ -19,7 +56,7 @@
 
       <td class="is-hidden-mobile">
         <div class="select">
-          <select id="filter-type">
+          <select id="filter-type" class="placeholder">
             <option value="" selected>Filter:</option>
             {% assign types = site.works | map: "type" | uniq | sort %}
             {% for type in types %}
@@ -33,7 +70,7 @@
         <input class="input" type="text" placeholder="Title or incipit" />
       </td>
 
-      <td style="vertical-align: middle; width: 1em;" class="is-hidden-mobile">
+      <td style="vertical-align: middle; width: 1em;" class="is-hidden-mobile has-text-centered">
         <input id="fulltext" type="checkbox" title="Full Text Available" />
       </td>
     </tr>
@@ -73,7 +110,11 @@
       </td>
 
       <td rowspan="2" class="is-hidden-mobile has-text-centered">
-        <span>{{ work.length }}</span>
+        {% unless work.stub %}
+        <span>{{ work.length }}{% unless work.complete %}*{% endunless %}</span>
+        {% else %}
+        <span>--</span>
+        {% endunless %}
       </td>
 
     </tr>
@@ -81,7 +122,13 @@
     <tr>
       
       <td colspan="2">
-        <span>{{ work.stanzas[1][0] }}</span>
+        <span>
+          {% if work.stanzas[1] %}
+          {{ work.stanzas[1][0] }}
+          {% else %}
+          <em>[The beginning of the text is lost.]</em>
+          {% endif %}
+        </span>
       </td>
 
     </tr>
@@ -91,15 +138,14 @@
 
 </table>
 
-<p class="has-text-right is-size-7 mt-3">
-  <strong>{{ site.works | where: "type", "malkəʾ" | size }}</strong> malkəʾ records.<br>
-  <strong>{{ site.works | where: "type", "quasi-malkəʾ" | size }}</strong> quasi-malkəʾ records.<br>
-  <strong>{{ site.works.size }}</strong> total work records.
-</p>
-
 <script src="{{ '/assets/scripts/fuse/dist/fuse.min.js' | relative_url }}"></script>
 <script>
 $(document).ready(function() {
+
+  $('select').on('change', function () {
+    if( $('select#filter-type').val() == "" ) $('select#filter-type').addClass('placeholder');
+    else $('select#filter-type').removeClass('placeholder');
+  });
 
   $.getJSON('api/search-index-small.json', function( data ) {
 
