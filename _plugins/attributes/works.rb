@@ -31,6 +31,14 @@ Jekyll::Hooks.register :site, :pre_render do |site|
       end
     end
 
+
+    subject = site.collections["subjects"].docs.find{ |subject| subject.data["key"] == work.data["subjects"].first }
+    if subject != nil
+      work.data["category"] = subject.data["type"]
+    else
+      work.data["category"] = "other"
+    end
+
     work.data["length"] = work.data["stanzas"].max_by{ |k, v| k }[0]
 
     unless work.data.include? "complete"
