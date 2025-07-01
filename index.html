@@ -78,7 +78,7 @@
   </thead>
     
   {% for work in site.works %}
-  <tbody id="{{ work.clavis }}" data-type="{{ work.type }}" data-fulltext="{{ work.full_text }}" data-rank="0">
+  <tbody id="{{ work.clavis }}" data-type="{{ work.type }}" data-category="{{ work.category }}" data-fulltext="{{ work.full_text }}" data-rank="0">
 
     <tr>
 
@@ -184,9 +184,22 @@ $(document).ready(function() {
       }
       else $('table.table').children().attr('data-rank', 0);
 
+      const categories = ["trinitarian", "marian", "angelic", "prophet", "apostle", "martyr", "righteous", "other"];
       $('table.table tbody[data-rank]').sort(function (a, b) {
         score = parseFloat(a.dataset.rank) - parseFloat(b.dataset.rank);
-        if (score == 0) return parseInt(a.id) - parseInt(b.id);
+        if (score == 0 ) {
+          if (a.dataset.category != b.dataset.category) {
+            return categories.indexOf(a.dataset.category) - categories.indexOf(b.dataset.category);
+          }
+          else if (a.dataset.type != b.dataset.type) {
+            if ( a.dataset.type == "malkəʾ" ) return -1;
+            else if ( b.dataset.type == "malkəʾ" ) return 1;
+            else if ( a.dataset.type == "quasi-malkəʾ" ) return -1;
+            else if ( b.dataset.type == "quasi-malkəʾ" ) return 1;
+            else return parseInt(a.id) - parseInt(b.id);
+          }
+          else return parseInt(a.id) - parseInt(b.id);
+        }
         else return score;
       }).appendTo('table.table');
 
