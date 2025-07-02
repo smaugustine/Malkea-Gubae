@@ -1,3 +1,8 @@
+[![ORCID](https://img.shields.io/badge/0000--0002--7732--3524-ORCID?label=ORCID&color=%23A6CE39)](https://orcid.org/0000-0002-7732-3524)
+[![DOI](https://zenodo.org/badge/828491383.svg)](https://doi.org/10.5281/zenodo.15793984)
+[![License: CC BY-SA 4.0](https://img.shields.io/github/license/smaugustine/Malkea-Gubae)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
 # መልክአ፡ ጉባኤ፡ *(Malkəʾa Gubāʾe)*
 
 [MalkeaGubae.com](https://malkeagubae.com) is a website cataloguing, indexing, and describing all known *malkəʾ* and related poetry from the Ethiopic hymnographic tradition.
