@@ -157,10 +157,10 @@ layout: default
         <hr>
 
         <div class="buttons is-centered">
-          <a class="button is-small is-dark" href="{{ '/api/xml/works/' | append: page.clavis | append: '.xml' | absolute_url }}" title="TEI XML">XML</a>
-          <a class="button is-small is-dark" href="{{ '/api/json/works/' | append: page.clavis | append: '.json' | absolute_url }}" title="JSON API">JSON</a>
-          <a class="button is-small is-dark" href="{{ page.source }}" title="source">src</a>
-          <a class="button is-small is-dark" href="https://betamasaheft.eu/newSearch.html?searchType=clavis&query={{ page.title }}#results" target="_blank" title="Beta Maṣāḥəft">BetMaṣ</a>
+          <a class="button is-small is-info" href="{{ '/api/xml/works/' | append: page.clavis | append: '.xml' | absolute_url }}" title="TEI XML">XML</a>
+          <a class="button is-small is-info" href="{{ '/api/json/works/' | append: page.clavis | append: '.json' | absolute_url }}" title="JSON API">JSON</a>
+          <a class="button is-small is-dark is-hidden-touch" href="{{ page.source }}" title="source">src</a>
+          <a class="button is-small is-danger" href="https://betamasaheft.eu/newSearch.html?searchType=clavis&query={{ page.title }}#results" target="_blank" title="Beta Maṣāḥəft">BetMaṣ</a>
         </div>
 
       </div>

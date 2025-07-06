@@ -18,13 +18,14 @@ Jekyll::Hooks.register :site, :pre_render do |site|
       unless commits.size < 1
 
         work.data['last_modified'] = commits[0][:commit][:committer][:date]
-        work.data['source'] = "https://github.com/smaugustine/Malkea-Gubae/blob/#{commits[0][:sha]}#{work.relative_path}"
+        work.data['source'] = "https://github.com/smaugustine/Malkea-Gubae/blob/#{commits[0][:sha]}/#{work.relative_path}"
 
       end
 
     else
       
       work.data['last_modified'] = DateTime.now.to_s
+      work.data['source'] = "https://github.com/smaugustine/Malkea-Gubae/blob/main/#{work.relative_path}"
 
     end
 
