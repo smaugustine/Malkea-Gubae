@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2973" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እጨ፡ ህርያቆስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎč̣č̣a Həryāqos</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾƎč̣č̣a Həryāqos</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2973/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">254, 68</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ ሥላሴ፡ ቅድስት፡ እንዘ፡ አአምን፡ ወእትመሐፀን</l>
+            <l n="2">እክሕደከ፡ ፀርየ፡ ወጸላእትየ፡ ሰይጣን፨</l>
+            <l n="3">በቅድመ፡ ማርያም፡ ቅድስት፡ ወላዲተ፡ ክርስቶስ፡ መድኅን፨</l>
+            <l n="4">እዌጥን፡ አንሰ፡ ውዳሴሁ፡ በከሢተ፡ ጽዱቅ፡ ልሳን፨</l>
+            <l n="5">ለህርያቆስ፡ መምህርየ፡ ጳውሎስ፡ ብርሃን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘሆህያቲሆን፡ ኃምስ፨</l>
+            <l n="2">ከመ፡ ዝክረ፡ ስሙ፡ ፍትው፡ ለወልደ፡ ማርያም፡ ክርስቶስ፨</l>
+            <l n="3">ህርያቆስ፡ ሉቃስ፡ ዐቃቤ፡ ሥራይ፡ ውዱስ፨</l>
+            <l n="4">ፈውሰኒ፡ በሥራይከ፡ እምሕማመ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="5">ወእምነ፡ ደዌ፡ ጽኑዕ፡ ለብእሴ፡ ዝልጉስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘኢተቀብአ፡ ወኢተጸፍረ፨</l>
+            <l n="2">ለርእስከ፡ ቅዳስት፡ እንተ፡ ተከድነት፡ ፊቃረ፨</l>
+            <l n="3">ህርያቆስ፡ ጴጥሮስ፡ ዘሥልጣንከ፡ ተነክረ፨</l>
+            <l n="4">ፍትሖ፡ ለኅሊናየ፡ ዘአብሐብለ፡ ትካዝ፡ ተአሠረ፨</l>
+            <l n="5">እስመ፡ ሃይማኖትከ፡ ወንጌላዊ፡ ያፈልስ፡ አድባረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ስጋከ፡ ወለግንዘትከ፡ በዐጽፍ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ቅድስት፡ ውስተ፡ ወንጌላዊ፡ ምዕራፍ፨</l>
+            <l n="3">ህርያቆስ፡ ውዱስ፡ በቅድመ፡ ቅዱሳን፡ አእላፍ፨</l>
+            <l n="4">ወቀሊል፡ ግብረ፡ ዚአከ፡ ምስለ፡ ጽዕድዋን፡ አእዋፍ፨</l>
+            <l n="5">ኢየሩሳሌም፡ ሰማያዊት፡ ትሰርር፡ በክንፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">እምተክለ፡ ሃይማኖት፡ ወኤልሳዕ፡ ወፊልጶስ፡ እስከነ፡ ካልኣን፡ ደቂቁ፨</l>
+            <l n="2">ወእስከነ፡ ወልዱ፡ ህርያቆስ፡ ፈጻሜ፡ ስምረቱ፡ ወጻሕቁ፨</l>
+            <l n="3">እስእለክሙ፡ አበው፡ ዘለለጽባሑ፡ ወሠርቁ፨</l>
+            <l n="4">ኪያየ፡ እምትንታኔ፡ ወእምፍና፡ ስሕተት፡ ትሱቁ፨</l>
+            <l n="5">ሶበ፡ እለ፡ ከማየ፡ ኃጥአን፡ አልጸቁ፡ ይደቁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">እግዚአብሔር፡ ይትአኰት፡ እንተ፡ ተአኵተ፡ ቀዲሙ፨</l>
+            <l n="2">ወይትባረክ፡ ወልድ፡ ዘምስለ፡ ማርያም፡ እሙ፨</l>
+            <l n="3">ዘጸግዎሙ፡ ክሂለ፡ ከመ፡ በመስቀሉ፡ ይቁሙ፨</l>
+            <l n="4">ለህርያቆስ፡ ኤጲስቆጶስ፡ ወለአኃዊሑ፡ ኩሎሙ፨</l>
+            <l n="5">በረከተ፡ ከመ፡ ንንሣዕ፡ በዐለ፡ ንግበር፡ በስሙ፨</l>
+            <l n="6">ለተክለ፡ ሃይማኖት፡ ዘተሰብረ፡ አጽሙ፡ ወተዕወ፡ ደሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ናሁ፡ ፈጸምኩ፡ ወሠለጥኩ፡ ውዳሴ፡ መልክዑ፡ ንስቲተ፨</l>
+            <l n="2">መጠነ፡ ተክህለኒ፡ ሊተ፨</l>
+            <l n="3">ለወሬዛ፡ አሚን፡ ህርያቆ፡ ዘበአፈ፡ ኩሉ፡ ተአኵተ፨</l>
+            <l n="4">ዕስየኒ፡ ዕሤተ፡ ነፍስ፡ ወጸግወኒ፡ ክሡተ፨</l>
+            <l n="5">ጸጋዌ፡ ጸጋ፡ እግዚአብሔር፡ ወባዕል፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ስብሐት፡ ይደሉ፡ ወሰጊድ፡ ለእግዚአብሔር፡ ቃል፨</l>
+            <l n="2">ወስብሐት፡ ዳግመ፡ ለወላዲቱ፡ ድንግል፨</l>
+            <l n="3">ማዕከለ፡ ጉቡአን፡ አበው፡ ወውስተ፡ ዛቲ፡ መርጡል፨</l>
+            <l n="4">ስእመ፡ ዮም፡ ፈጸምኩ፡ ውዳሴሁ፡ እንዘ፡ ብሂለ፡ ቃል፡ እብል፨</l>
+            <l n="5">ለህርያቆስ፡ ክርስቶሳዊ፡ አቡየ፡ ፋድል፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ወላዴ፡ አእላፍ፡ ህርያቆስ፡ ካልአ፡ እንጦንዮስ፡ አብ፨</l>
+            <l n="2">ወሐዋርያ፡ ፍንው፡ መምህረ፡ ጥበብ፨</l>
+            <l n="3">ለሕዝብ፡ ወአሕዛብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ ወሬዛ፡ ሃይማኖት፡ ህርያቆስ፡ ወአንበሳ፡ ገዳም፡ መፍርህ፨</l>
+            <l n="2">እምነ፡ ኅዝአትከ፡ ዝኅር፡ ወመካነ፡ ላህ፨</l>
+            <l n="3">ተንሥእ፡ ወኢትጽናሕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለለንብለከ፡ አቡነ፡ አእላፈ፡ ዛቲ፡ አለም፨</l>
+            <l n="2">ህርያቆስ፡ አብ፡ ብእሴ፡ ሰላም፨</l>
+            <l n="3">ወቀሊለ፡ አክናፍ፡ ጽዕድው፡ ንስረ፡ አርያም፨</l>
+            <l n="4">በጸጋከ፡ ሐውጸነ፡ ዮም፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="ecca-heryaqos">
+                <persName xml:lang="gez">እጨ፡ ህርያቆስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎč̣č̣a Həryāqos</persName>
+                <persName xml:lang="en">ʾƎč̣č̣a Həryāqos</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>
