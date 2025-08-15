@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሠረቀ፡ ብርሃን፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śaraqa Bərhān</title>
-        <title corresp="#t1" xml:lang="en">Image of Śaraqa Bərhān</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሠረቀ፡ ብርሃን፡ ዘደብረ፡ ጽጌ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śaraqa Bərhān za-Dabra Ṣǝge</title>
+        <title corresp="#t1" xml:lang="en">Image of Śaraqa Bərhān of Dabra Ṣǝge</title>
         
       </titleStmt>
 
@@ -119,7 +119,7 @@
 
           </lg>
           
-          <lg type="stanza" n="54">
+          <lg type="stanza" n="57">
             
             <l n="1">እምሰሚዐ፡ ሠናይ፡ ዜናከ፡ እመቀ፡ ኅሊና፡ ሆከኒ፨</l>
             <l n="2">ጻማ፡ ትሩፋቲከ፡ እንብብ፡ ሞገሰ፡ ቃልከ፡ ሀበኒ፨</l>
@@ -144,10 +144,10 @@
             <listPerson>
               
               
-              <person xml:id="saraqa-berhan">
-                <persName xml:lang="gez">ሠረቀ፡ ብርሃን፡</persName>
-                <persName xml:lang="gez" type="normalized">Śaraqa Bərhān</persName>
-                <persName xml:lang="en">Śaraqa Bərhān</persName>
+              <person xml:id="saraqa-berhan-d-sege">
+                <persName xml:lang="gez">ሠረቀ፡ ብርሃን፡ ዘደብረ፡ ጽጌ፡</persName>
+                <persName xml:lang="gez" type="normalized">Śaraqa Bərhān za-Dabra Ṣǝge</persName>
+                <persName xml:lang="en">Śaraqa Bərhān of Dabra Ṣǝge</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
