@@ -1,3 +1,3 @@
 ---
-name: Zamikāʾel
+name: Zamikāʾel za-ʿĀddi ʾĀṭāl
 ---

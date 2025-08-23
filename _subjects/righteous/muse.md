@@ -1,6 +1,3 @@
 ---
-name: Muse
-#kinefe-rigb: 119
-#commemorations:
-#  - [8, 1]
+name: Muse za-Māy Gʷarzo
 ---
