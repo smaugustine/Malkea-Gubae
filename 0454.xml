@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሙሴ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Muse</title>
-        <title corresp="#t1" xml:lang="en">Image of Muse</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሙሴ፡ ዘማይ፡ ጐርዞ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Muse za-Māy Gʷarzo</title>
+        <title corresp="#t1" xml:lang="en">Image of Muse of Māy Gʷarzo</title>
         
       </titleStmt>
 
@@ -81,7 +81,7 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">እግዚአብሔር፡ ሕያው፡ ቅድመ፡ ይትፈጠር፡ ዓለም፨</l>
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሕያው፡ ቅድመ፡ ይትፈጠር፡ ዓለም፨</l>
             <l n="2">እንተ፡ ነበርከ፡ በትሥልስት፡ ወተዋሕዶ፡ ፍጹም፨</l>
             <l n="3">ነገረ፡ ገድሉ፡ ለሙሴ፡ መትልወ፡ ሙሴ፡ ሥዩም፨</l>
             <l n="4">ከመ፡ እንብብ፡ በቅድመ፡ እሉ፡ ካህናተ፡ ብዙኅ፡ ሰላም፨</l>
@@ -145,9 +145,9 @@
               
               
               <person xml:id="muse">
-                <persName xml:lang="gez">ሙሴ፡</persName>
-                <persName xml:lang="gez" type="normalized">Muse</persName>
-                <persName xml:lang="en">Muse</persName>
+                <persName xml:lang="gez">ሙሴ፡ ዘማይ፡ ጐርዞ፡</persName>
+                <persName xml:lang="gez" type="normalized">Muse za-Māy Gʷarzo</persName>
+                <persName xml:lang="en">Muse of Māy Gʷarzo</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

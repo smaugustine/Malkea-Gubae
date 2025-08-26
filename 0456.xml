@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ አላኒቆስ፡ ዘመይ፡ በራዝዮ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAlāniqos za-May Barāzyo</title>
-        <title corresp="#t1" xml:lang="en">Image of ʾAlāniqos of May Barāzyo</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ተጠምቀ፡ መድኅን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Taṭamqa Madḫǝn</title>
+        <title corresp="#t1" xml:lang="en">Image of Taṭamqa Madḫǝn</title>
         
       </titleStmt>
 
@@ -59,6 +59,76 @@
 
           </lg>
           
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ከመ፡ ዝክረ፡ ስሙ፡ ሠናይ፨</l>
+            <l n="2">ለመምህር፡ ጴጥሮስ፡ መስተስርየ፡ ኵሉ፡ ጌጋይ፨</l>
+            <l n="3">ተጠምቀ፡ መድኅን፡ ወልዱ፡ ለአላኒቆስ፡ ኅሩይ፨</l>
+            <l n="4">ሕፅበኒ፡ እምርስሐትየ፡ በማየ፡ ንስሓ፡ ጽሩይ፨</l>
+            <l n="5">አምጣነ፡ ንስሓ፡ ይኄይስ፡ እምብዙኅ፡ ንዋይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ወለርእስከ፡ ዘተከለለ፨</l>
+            <l n="2">አክሊለ፡ እንጦንዮስ፡ ቆብዕ፡ መንገለ፡ ጾርከ፡ መስቀለ፨</l>
+            <l n="3">ተጠምቀ፡ መድኅን፡ ባሕታዊ፡ አመ፡ አስተርአይከ፡ ገድለ፨</l>
+            <l n="4">ሀነጹ፡ ለከ፡ ሥላሴ፡ ሰማያዊተ፡ መርጡለ፨</l>
+            <l n="5">እምሐሩረ፡ መርቄ፡ ፀሓይ፡ ትኩንከ፡ ምጽላለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለገጽከ፡ ገጸ፡ አዶናይ፡ ስቡሕ፨</l>
+            <l n="2">ወለቀራንብቲከ፡ ሰላም፡ ቀራንብተ፡ ሙሴ፡ መካሕ፨</l>
+            <l n="3">ተጠምቀ፡ መድኅን፡ ጻድቅ፡ አረጋይ፡ ኖኅ፨</l>
+            <l n="4">ኅብአኒ፡ ውስተ፡ ታቦት፡ ዘመስኳት፡ አይኅ፨</l>
+            <l n="5">እስከነ፡ ይኃልፍ፡ በንስቲት፡ አውራኅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለአዕይንቲከ፡ እለ፡ ነጸራ፡ ነጽሮ፨</l>
+            <l n="2">ወለአእዛኒከ፡ እለ፡ አጽምአ፡ ዘቃለ፡ ወንጌል፡ ፈክሮ፨</l>
+            <l n="3">ተጠምቀ፡ መድኅን፡ ኤልያስ፡ እስመ፡ አንተ፡ ብእሲ፡ አእምሮ፨</l>
+            <l n="4">መሥዕተ፡ ቀኖና፡ ኀበ፡ አሥመርከ፡ አሥምሮ፨</l>
+            <l n="5">ገፋዒ፡ አክዐብ፡ አንከረ፡ አንክሮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ እብል፡ ለመላትሒከ፡ ቀይሓት፨</l>
+            <l n="2">ወለአእናፊከ፡ ዘኢያጼነዋ፡ ዕንጐታተ፡ ሐዲስ፡ ገነት፨</l>
+            <l n="3">ተጠምቀ፡ መድኅን፡ ሰሎሞን፡ ሕፃነ፡ አላኒቆስ፡ ዳዊት፨</l>
+            <l n="4">ጸግዎ፡ ለሰብእናከ፡ መንግሥተ፡ አቡሁ፡ ማኅሌት፨</l>
+            <l n="5">ኬልቲ፡ ወፌልቲ፡ ንጹሓን፡ ካህናት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በእደ፡ ኅሩያን፡ አበው፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ መቃብረ፡ ሙሴ፡ ናባው፨</l>
+            <l n="3">ተጠምቀ፡ መድኅን፡ ሮማን፡ ዘመዐዛከ፡ ቅድው፨</l>
+            <l n="4">ባርኮሙ፡ ለደቂቅከ፡ እለ፡ ውስተ፡ ገዳም፡ ወበድው፨</l>
+            <l n="5">በቃሉ፡ ዘባረከከ፡ ፈጣሪ፡ ሕያው፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ናሁ፡ ፈጸምኩ፡ ነገረ፡ መልክእከ፡ ሐዲስ፨</l>
+            <l n="2">አስተዋዲድየ፡ ቃለ፡ በኍልቈ፡ ዕለታት፡ ሥላስ፨</l>
+            <l n="3">ተጠምቀ፡ መድኅን፡ በኵሉ፡ ወበኀበ፡ ኵሉ፡ ውዱስ፨</l>
+            <l n="4">ተወከፍ፡ ቃለ፡ አፉየ፡ አምጣነ፡ ብከ፡ ሞገስ፨</l>
+            <l n="5">በቅድመ፡ ማርያም፡ ድንግል፡ ወወልዳ፡ ክርስቶስ፨</l>
+
+          </lg>
+          
         </div>
 
         
@@ -74,29 +144,12 @@
             <listPerson>
               
               
-              <person xml:id="alaniqos">
-                <persName xml:lang="gez">አላኒቆስ፡ ዘመይ፡ በራዝዮ፡</persName>
-                <persName xml:lang="gez" type="normalized">ʾAlāniqos za-May Barāzyo</persName>
-                <persName xml:lang="en">ʾAlāniqos of May Barāzyo</persName>
+              <person xml:id="tatamqa-madhen">
+                <persName xml:lang="gez">ተጠምቀ፡ መድኅን፡</persName>
+                <persName xml:lang="gez" type="normalized">Taṭamqa Madḫǝn</persName>
+                <persName xml:lang="en">Taṭamqa Madḫǝn</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
-                
-                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
-                  <analytic>
-                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
-                    <author><name>Kinefe-Rigb Zelleke</name></author>
-                  </analytic>
-                  <monogr>
-                    <title level="j">Journal of Ethiopian Studies</title>
-                    <imprint>
-                      <biblScope unit="volume">13</biblScope>
-                      <biblScope unit="issue">2</biblScope>
-                      <biblScope unit="page">57–102</biblScope>
-                      <date>1975</date>
-                    </imprint>
-                  </monogr>
-                  <citedRange unit="item">12</citedRange>
-                </biblStruct>
                 
               </person>
               
@@ -106,6 +159,7 @@
       </listRelation>
       
       
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Marrassini1982" corresp="http://zotero.org/groups/5599348/items/7QJMI26E"><analytic><title level="a">Il &lt;hi rend="italics"&gt;Gadla Alāniqos&lt;/hi&gt;</title><author><forename>Paolo</forename><surname>Marrassini</surname></author></analytic><monogr><title level="j">Egitto e Vicino Oriente</title><imprint><biblScope unit="volume">5</biblScope><biblScope unit="page">143-182</biblScope><date>1982</date></imprint></monogr></biblStruct></listBibl>
     </back>
 
   </text>

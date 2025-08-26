@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮስጢኖስ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yosṭinos</title>
-        <title corresp="#t1" xml:lang="en">Image of Yosṭinos</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮስጢኖስ፡ ዘዐደገልቦ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yosṭinos za-ʿAddagalbo</title>
+        <title corresp="#t1" xml:lang="en">Image of Yosṭinos of ʿAddagalbo</title>
         
       </titleStmt>
 
@@ -145,9 +145,9 @@
               
               
               <person xml:id="yostinos">
-                <persName xml:lang="gez">ዮስጢኖስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Yosṭinos</persName>
-                <persName xml:lang="en">Yosṭinos</persName>
+                <persName xml:lang="gez">ዮስጢኖስ፡ ዘዐደገልቦ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yosṭinos za-ʿAddagalbo</persName>
+                <persName xml:lang="en">Yosṭinos of ʿAddagalbo</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

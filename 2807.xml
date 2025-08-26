@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2967" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2807" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">በሰማይ፡ ወበምድር፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Ba-Samāy wa-ba-Mədr</title>
-        <title corresp="#t1" xml:lang="en">“In Heaven and On Earth…”</title>
+        <title xml:id="t1" xml:lang="gez">ሰላምታ፡ ዘማርያም፡ ዘሰብዐቱ፡ ጊዜያት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Salāmtā za-Māryām za-Sabʿattu Gizeyāt</title>
+        <title corresp="#t1" xml:lang="en">Salutations for Mary for the Canonical Hours</title>
         
       </titleStmt>
 
@@ -20,7 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
-        <ref target="https://w3id.org/malke/2967/"/>
+        <ref target="https://w3id.org/malke/2807/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -50,7 +50,7 @@
                   <date>1913</date>
                 </imprint>
               </monogr>
-              <citedRange unit="item">248</citedRange>
+              <citedRange unit="item">91</citedRange>
             </biblStruct>
             
             
@@ -78,41 +78,25 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">በሰማይ፡ ወበምድር፡ አልብየ፡ ባዕደ፨</l>
-            <l n="2">አበ፡ ወእመ፡ እኅተ፡ ወውሉደ፨</l>
-            <l n="3">ማርያም፡ ድንግል፡ እትአመነኪ፡ ገሀደ፨</l>
-            <l n="4">ኪያኪ፡ ተስፋ፡ ኪያኪ፡ መፍቅደ፨</l>
-            <l n="5">ኪያኪ፡ ዐውቀ፡ ኪያኪ፡ ዘመደ፨</l>
+            <l n="1">ሰላም፡ ለኪ፡ ማርያም፡ ድንግል፡ ዘመዐዛ፡ አፉኪ፡ ኮል፨</l>
+            <l n="2">እንተ፡ ትጼንዊ፡ በገዳም፡ ወሐቅል፨</l>
+            <l n="3">ወልታ፡ ረዲኦትየ፡ በውስተ፡ ቀትል፨</l>
 
           </lg>
           
           <lg type="stanza" n="2">
             
-            <l n="1">በሰማይ፡ ወበምድር፡ እንዘ፡ ሀሎክኒ፡ ረድኤተ፨</l>
-            <l n="2">ምንትኑ፡ ያፈርሀኒ፡ ሊተ፨</l>
-            <l n="3">ማርያም፡ ድንግል፡ እትአመነኪ፡ ክሡተ፨</l>
-            <l n="4">ኪያኪ፡ ልዕልና፡ ኪያኪ፡ ሢመተ፨</l>
-            <l n="5">ኪያኪ፡ ርስተ፡ ኪያኪ፡ አብያተ፨</l>
+            <l n="1">ሰላም፡ ለኪ፡ ተሳፊዋ፡ ባዕድ፡ አልብየ፡ ዘእንበሌኪ፡ ምክሕየ፨</l>
+            <l n="2">በኢመንኖ፡ በልኒ፡ ገብርየ፡ ገብርየ፨</l>
+            <l n="3">ዘተሣየጥኩኪ፡ በንዋይየ፨</l>
 
           </lg>
           
-          <lg type="stanza" n="12">
+          <lg type="stanza" n="3">
             
-            <l n="1">አልብየ፡ እመ፡ በኵሉ፡ መዋዕል፨</l>
-            <l n="2">ስምዕየ፡ ሊተ፡ እግዚአብሔር፡ ልዑል፨</l>
-            <l n="3">እትአመነኪ፡ ፈድፋደ፡ ማርያም፡ ድንግል፨</l>
-            <l n="4">ፍቅርኪ፡ ጽሙና፡ ፍቅርኪ፡ ገድል፨</l>
-            <l n="5">ፍቅርኪ፡ ትርሲት፡ ፍቅርኪ፡ አክሊል፨</l>
-
-          </lg>
-          
-          <lg type="stanza" n="13">
-            
-            <l n="1">ኢትኅድግኒ፡ ዐቂበ፡ ኵሎ፡ መዐልተ፡ ወሌሊተ፨</l>
-            <l n="2">ኀበ፡ ሖርኩ፡ በፍና፡ ወኀበ፡ ኀደርኩ፡ ቤተ፨</l>
-            <l n="3">ማርያም፡ ድንግል፡ ዘትመግቢ፡ ነፍሳተ፨</l>
-            <l n="4">በልብስ፡ ወበሲሳይ፡ ኢታርእይኒ፡ ንዴተ፨</l>
-            <l n="5">እስመ፡ ቍር፡ ወርኀብ፡ ያረስዕ፡ ጸሎተ፨</l>
+            <l n="1">ሰላም፡ ለኪ፡ አትሮንሰ፡ ሰሎሞን፡ አንቲ፡ ለሐና፡ ባሕርያ፨</l>
+            <l n="2">ንግሥታት፡ ፷፡ ዕቁባት፡ ሰማንያ፨</l>
+            <l n="3">ዘወደሳኪ፡ እንዘ፡ ይገንያ፨</l>
 
           </lg>
           

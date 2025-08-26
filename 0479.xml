@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዘሚካኤል፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zamikāʾel</title>
-        <title corresp="#t1" xml:lang="en">Image of Zamikāʾel</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዘሚካኤል፡ ዘዓዲ፡ ኣጣል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zamikāʾel za-ʿĀddi ʾĀṭāl</title>
+        <title corresp="#t1" xml:lang="en">Image of Zamikāʾel of ʿĀddi ʾĀṭāl</title>
         
       </titleStmt>
 
@@ -164,9 +164,9 @@
               
               
               <person xml:id="zamikael">
-                <persName xml:lang="gez">ዘሚካኤል፡</persName>
-                <persName xml:lang="gez" type="normalized">Zamikāʾel</persName>
-                <persName xml:lang="en">Zamikāʾel</persName>
+                <persName xml:lang="gez">ዘሚካኤል፡ ዘዓዲ፡ ኣጣል፡</persName>
+                <persName xml:lang="gez" type="normalized">Zamikāʾel za-ʿĀddi ʾĀṭāl</persName>
+                <persName xml:lang="en">Zamikāʾel of ʿĀddi ʾĀṭāl</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
