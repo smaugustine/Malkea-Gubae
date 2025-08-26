@@ -75,7 +75,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
 
     site.pages << Jekyll::PageWithoutAFile.new(site, site.source, "subjects/#{type}#{type == 'martyr' ? 's' : nil}", "index.html").tap do |file|
 
-      file.data["layout"] = "subjects"
+      file.data["layout"] = "main/subjects"
       file.data["title"] = title
       file.data["type"] = type
 
@@ -87,7 +87,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
 
     site.pages << Jekyll::PageWithoutAFile.new(site, site.source, "subjects/righteous/#{group}", "index.html").tap do |file|
 
-      file.data["layout"] = "subjects"
+      file.data["layout"] = "main/subjects"
       file.data["title"] = "Righteous: #{site.data["groups"][group]}"
       file.data["type"] = "righteous"
       file.data["group"] = group
@@ -98,7 +98,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
 
   site.pages << Jekyll::PageWithoutAFile.new(site, site.source, "subjects", "calendar.html").tap do |file|
 
-    file.data["layout"] = "calendar"
+    file.data["layout"] = "main/calendar"
     file.data["title"] = "Calendar of Subjects"
     file.data["calendar"] = calendar
 

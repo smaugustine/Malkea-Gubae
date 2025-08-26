@@ -10,7 +10,7 @@ collections:
   subjects:
     output: false
   manuscripts:
-    output: false
+    output: true
 
 defaults:
   - # blog posts
@@ -26,14 +26,21 @@ defaults:
       path: "_works"
       type: "works"
     values:
-      layout: "work"
+      layout: "main/work"
       subjects: []
+
+  - # manuscript
+    scope:
+      path: "_manuscripts"
+      type: "manuscripts"
+    values:
+      layout: "main/manuscript"
 
   - # *
     scope:
       path: ""
     values:
-      layout: "default"
+      layout: "main/default"
 
 permalink: pretty
 
@@ -52,6 +59,7 @@ exclude:
   - assets/scripts/fuse/
   - .git*
   - .vscode*
+  - CITATION.cff
 
 include:
   - assets/scripts/fuse/dist/fuse.min.js

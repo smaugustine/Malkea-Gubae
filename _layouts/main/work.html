@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main/default
 ---
 {% assign notes = page.content | strip %}
 
@@ -91,7 +91,7 @@ layout: default
 
   <div class="column">
 
-    <article class="message">
+    <aside class="message">
       <div class="message-header">
         <p>Details</p>
       </div>
@@ -164,46 +164,53 @@ layout: default
         </div>
 
       </div>
-    </article>
+    </aside>
 
     {% if notes.size > 0 %}
-    <article class="message">
+    <aside class="message">
       <div class="message-header">
         <p>Remarks</p>
       </div>
       <div class="message-body content">{{ notes }}</div>
-    </article>
+    </aside>
+    {% endif %}
+
+    {% assign witnesses = site.data.items | where: "uid", page.uid %}
+    {% if witnesses.size > 0 %}
+    <aside class="message is-info">
+      <div class="message-header">
+        <p>Manuscript Witnesses</p>
+      </div>
+      <div class="message-body content">
+        <table class="table is-fullwidth">
+          {% for item in witnesses %}
+          <tr>
+            <td>
+              <a href="{{ item.manuscript.url }}#{{ item.position }}">{{ item.manuscript.short }}</a>
+            </td>
+            <td class="is-hidden-touch">
+              <a href="{{ item.manuscript.url }}#{{ item.position }}">{{ item.manuscript.origin | repace: "-", "–" }}</a>
+            </td>
+            <td>
+              <a href="{{ item.manuscript.url }}#{{ item.position }}">
+                {% unless item.manuscript.paginated %}
+                <span>ff.</span>
+                {% else %}
+                <span>pp.</span>
+                {% endunless %}
+                <span>{{ item.locus | replace: "-", "–" }}</span>
+              </a>
+            </td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+    </aside>
     {% endif %}
 
   </div>
 
 </div>
-
-{% if jekyll.environment == 'development' %}
-{% assign witnesses = site.data.items | where: "clavis", page.clavis %}
-{% if witnesses.size > 0 %}
-<div class="columns">
-  <div class="column is-full">
-    <article class="message is-info">
-      <div class="message-header">
-        <p>Witnesses</p>
-      </div>
-      <div class="message-body content">
-        <table class="table">
-          {% for item in witnesses %}
-          <tr>
-            <td>{{ item.manuscript.short }}</td>
-            <td>{{ item.manuscript.origin }}</td>
-            <td>ff. {{ item.locus }}</td>
-          </tr>
-          {% endfor %}
-        </table>
-      </div>
-    </article>
-  </div>
-</div>
-{% endif %}
-{% endif %}
 
 {% if page.zotero_key %}
 <article class="message" id="bibliography">

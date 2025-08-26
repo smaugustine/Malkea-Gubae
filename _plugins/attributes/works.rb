@@ -2,7 +2,8 @@ Jekyll::Hooks.register :site, :pre_render do |site|
 
   site.collections["works"].docs.each do |work|
 
-    work.data["clavis"] = work.data["title"]
+    work.data["clavis"] = work.data["slug"].to_s
+    work.data["uid"] = "CAe"+work.data["clavis"]
 
     unless work.data.include? "titles"
       if work.data["type"] == "malkəʾ" || work.data["type"] == "quasi-malkəʾ"

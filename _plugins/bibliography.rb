@@ -51,7 +51,7 @@ module Bibliography
       site.pages << Jekyll::PageWithoutAFile.new(site, site.source, 'bibliography', 'index.html').tap do |file|
         file.data.merge!(
           "title" => "",
-          "layout" => "bibliography",
+          "layout" => "main/bibliography",
           "bibliographies" => {}
         )
 

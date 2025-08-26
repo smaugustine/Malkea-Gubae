@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main/default
 types: [Trinitarian, Marian, Angelic, Prophets/Apostles, Martyrs, Righteous, Other]
 months: [Maskaram, Ṭəqəmt, Ḫədār, Tāḫśāś, Ṭərr, Yakkātit, Maggābit, Miyāzyā, Gənbot, Sane, Ḥamle, Naḥase, Ṗāgʷəmen]
 ---
@@ -33,6 +33,7 @@ months: [Maskaram, Ṭəqəmt, Ḫədār, Tāḫśāś, Ṭərr, Yakkātit, Magg
       <p class="menu-label">Views</p>
       <ul class="menu-list">
         <li>
+          <a href="{% link subjects/alphabetical.html %}">Alphabetical</a>
           <a href="{% link subjects/calendar.html %}">Calendar</a>
         </li>
       </ul>
@@ -61,6 +62,9 @@ months: [Maskaram, Ṭəqəmt, Ḫədār, Tāḫśāś, Ṭərr, Yakkātit, Magg
       {% assign works = site.works | where_exp: "work", "work.subjects contains subject.key" %}
 
       {% if works.size > 0 %}
+      <!--
+      Expand using :active
+      -->
       <tbody id="{{ subject.key }}">
         <tr>
 
