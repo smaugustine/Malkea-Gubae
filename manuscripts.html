@@ -1,0 +1,43 @@
+---
+title: Index of Manuscripts
+permalink: /manuscripts/
+---
+
+<table class="table">
+
+  <thead>
+    <tr>
+      <th class="is-hidden-touch">Institution</th>
+      <th>Shelfmark</th>
+      <th class="is-hidden-touch"></th>
+      <th>Age</th>
+      <th class="has-text-right"># Items</th>
+    </tr>
+  </thead>
+  
+  {% for manuscript in site.manuscripts %}
+
+  {% assign count = 0 %}
+  {% for unit in manuscript.units %}
+  {% assign count = count | plus: unit.contents.size %}
+  {% endfor %}
+
+  <tbody>
+    <tr>
+      <td class="is-hidden-touch">{{ manuscript.institution }}</td>
+      <td class="is-hidden-touch">
+        <a href="{{ manuscript.url }}">{{ manuscript.shelfmark }}</a>
+      </td>
+      <td class="is-hidden-desktop">
+        <a href="{{ manuscript.url }}">{{ manuscript.short }}</a>
+      </td>
+      <td class="is-hidden-touch">
+        <a href="{{ manuscript.url }}">({{ manuscript.short }})</a>
+      </td>
+      <td>{{ manuscript.century | replace: "-", "–" }}</td>
+      <td class="has-text-right">{{ count }}</td>
+    </tr>
+  </tbody>
+  {% endfor %}
+
+</table>

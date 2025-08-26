@@ -1,0 +1,116 @@
+---
+layout: main/default
+---
+<div class="columns">
+
+  <div class="column is-8">
+
+    <table class="table is-fullwidth">
+      {% for unit in page.units %}
+
+      {% unless page.units.size == 1 %}
+      <tbody>
+        <tr>
+          <th colspan="5">
+            <h3 class="title is-5">Unit {{ forloop.index }}</h3>
+          </th>
+        </tr>
+      </tbody>
+      {% endunless %}
+
+      {% for item in unit.contents %}
+      {% assign work = site.works | find: "uid", item.uid %}
+      <tbody id="unit{{ forloop.parentloop.index }}item{{ forloop.index }}">
+        <tr>
+
+          <th>{{ forloop.index }}.</th>
+
+          <td>
+            {% unless page.paginated %}
+            <span>ff.</span>
+            {% else %}
+            <span>pp.</span>
+            {% endunless %}
+            <span>{{ item.locus | replace: "-", "–" | replace: "bis", "<sub>bis</sub>" }}</span>
+          </td>
+
+          <td>
+            <span class="is-hidden-mobile">CAe:</span>&nbsp;{{ item.clavis }}
+            <br>
+            <small>{{ work.type | capitalize }}</small>
+          </td>
+
+          {% if work %}
+          <td>
+            <a href="{{ work.url }}">
+              <strong lang="gez">{{ work.titles[0].gez | fidal }}</strong>
+              <br><small lang="gez-latn">{{ work.titles[0].gez }}</small>
+            </a>
+          </td>
+
+          <td>
+            <a href="{{ work.url }}">
+              <strong lang="en">{{ work.titles[0].en }}</strong>
+            </a>
+          </td>
+          {% else %}
+          <td>
+            <strong lang="gez">{{ item.title.gez | fidal }}</strong>
+            <br>
+            <small lang="gez-latn">{{ item.title.gez }}</small>
+          </td>
+          <td>
+            <strong lang="en">{{ item.title.en }}</strong>
+          </td>
+          {% endif %}
+
+        </tr>
+      </tbody>
+      {% endfor %}
+
+      {% endfor %}
+    </table>
+
+  </div>
+
+  <div class="column">
+
+    <aside class="message">
+      <div class="message-header">
+        <p>Details</p>
+      </div>
+      <div class="message-body">
+
+        <div class="block">
+          <p>
+            Location: {{ page.place }}
+            <br>
+            Institution: {{ page.institution }}
+            <br>
+            Shelfmark: {{ page.shelfmark }}
+          </p>
+        </div>
+
+        <hr>
+
+        <div class="block">
+          <h5 class="title is-5">Measurements</h5>
+          <p class="mt-3">
+            Height: {{ page.height }} mm
+            <br>
+            Width: {{ page.width }} mm
+            <br>
+            Folios: {{ page.folios }}
+            <br>
+            Columns: {{ page.columns }}
+            <br>
+            Lines: {{ page.lines }}
+          </p>
+        </div>
+
+      </div>
+    </aside>
+
+  </div>
+
+</div>
