@@ -1,9 +1,54 @@
 ---
 layout: main/default
 ---
+
 <div class="columns">
 
-  <div class="column is-8">
+  {% if page.iiif %}
+  <div class="column">
+    <div id="viewer" style="height: 100vh; position: sticky; top: 0px;"></div>
+  </div>
+  {% endif %}
+
+  <div class="column {% if page.iiif %}is-4-desktop is-5-tablet{% else %}is-8{% endif %}">
+
+    {% if page.iiif %}
+    <aside id="details" class="message">
+      <div class="message-header">
+        <p>Details</p>
+      </div>
+      <div class="message-body">
+
+        <div class="block">
+          <p>
+            Location: {{ page.place }}
+            <br>
+            Institution: {{ page.institution }}
+            <br>
+            Shelfmark: {{ page.shelfmark }}
+          </p>
+        </div>
+
+        <hr>
+
+        <div class="block">
+          <h5 class="title is-5">Measurements</h5>
+          <p class="mt-3">
+            Height: {{ page.height }} mm
+            <br>
+            Width: {{ page.width }} mm
+            <br>
+            Folios: {{ page.folios }}
+            <br>
+            Columns: {{ page.columns }}
+            <br>
+            Lines: {{ page.lines }}
+          </p>
+        </div>
+
+      </div>
+    </aside>
+    {% endif %}
 
     <table class="table is-fullwidth">
       {% for unit in page.units %}
@@ -12,7 +57,10 @@ layout: main/default
       <tbody>
         <tr>
           <th colspan="5">
-            <h3 class="title is-5">Unit {{ forloop.index }}</h3>
+            <h3 class="title is-5">
+              <span>Unit {{ forloop.index }}</span>
+              <small>(ff. {{ unit.locus }})</small>
+            </h3>
           </th>
         </tr>
       </tbody>
@@ -23,7 +71,7 @@ layout: main/default
       <tbody id="unit{{ forloop.parentloop.index }}item{{ forloop.index }}">
         <tr>
 
-          <th>{{ forloop.index }}.</th>
+          <th rowspan="{% if page.iiif %}2{% endif %}">{{ forloop.index }}.</th>
 
           <td>
             {% unless page.paginated %}
@@ -32,6 +80,9 @@ layout: main/default
             <span>pp.</span>
             {% endunless %}
             <span>{{ item.locus | replace: "-", "–" | replace: "bis", "<sub>bis</sub>" }}</span>
+            {% if item.facs %}
+            <a data-facs="{{ item.facs }}">&hookleftarrow;</a>
+            {% endif %}
           </td>
 
           <td>
@@ -39,6 +90,11 @@ layout: main/default
             <br>
             <small>{{ work.type | capitalize }}</small>
           </td>
+
+          {% if page.iiif %}
+          </tr>
+          <tr>
+          {% endif %}
 
           {% if work %}
           <td>
@@ -73,9 +129,10 @@ layout: main/default
 
   </div>
 
+  {% unless page.iiif %}
   <div class="column">
 
-    <aside class="message">
+    <aside id="details" class="message">
       <div class="message-header">
         <p>Details</p>
       </div>
@@ -112,5 +169,27 @@ layout: main/default
     </aside>
 
   </div>
+  {% endunless %}
 
 </div>
+
+{% if page.iiif %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.33.0/dist/tify.css">
+<script src="https://cdn.jsdelivr.net/npm/tify@0.33.0/dist/tify.js"></script>
+<script>
+jQuery(document).ready(function() {
+
+  jQuery("[data-facs]").on('click', function() {
+    const p = parseInt(jQuery(this).attr('data-facs'));
+    viewer.setPage(p);
+    viewer.resetScan();
+  });
+
+});
+
+const viewer = new Tify({
+  container: '#viewer',
+  manifestUrl: '{{ page.iiif }}'
+});
+</script>
+{% endif %}
