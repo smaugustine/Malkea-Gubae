@@ -68,7 +68,7 @@ layout: main/default
 
       {% for item in unit.contents %}
       {% assign work = site.works | find: "uid", item.uid %}
-      <tbody id="unit{{ forloop.parentloop.index }}item{{ forloop.index }}" data-facs="{{ item.facs }}">
+      <tbody id="unit{{ forloop.parentloop.index }}item{{ forloop.index }}">
         <tr>
 
           <th rowspan="{% if page.iiif %}2{% endif %}">{{ forloop.index }}.</th>
@@ -187,7 +187,7 @@ jQuery(document).ready(function() {
   viewer.ready.then(function() {
     
     if(/unit\d+item\d+/.test(window.location.hash)) {
-      const p = parseInt(jQuery(window.location.hash).attr('data-facs'));
+      const p = parseInt(jQuery(`${window.location.hash} [data-facs]`).attr('data-facs'));
       viewer.setPage(p);
     }
 
