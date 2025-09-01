@@ -1,7 +1,7 @@
 ---
 place: Paris
 institution: Bibliothèque nationale de France
-shelfmark: Éthiopien d'Abbadie 170
+shelfmark: Éthiopien d’Abbadie 170
 catalogue: Conti Rossini 98
 short: BnF Éth. Abb. 170
 

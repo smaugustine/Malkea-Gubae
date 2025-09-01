@@ -56,7 +56,7 @@ units:
         facs: 52
       - clavis: 2829
         locus: 54a-58a
-        facs: 54
+        facs: 56
       - clavis: 2828
         locus: 58a-62a
         facs: 60
