@@ -68,7 +68,7 @@ layout: main/default
 
       {% for item in unit.contents %}
       {% assign work = site.works | find: "uid", item.uid %}
-      <tbody id="unit{{ forloop.parentloop.index }}item{{ forloop.index }}">
+      <tbody id="unit{{ forloop.parentloop.index }}item{{ forloop.index }}" data-facs="{{ item.facs }}">
         <tr>
 
           <th rowspan="{% if page.iiif %}2{% endif %}">{{ forloop.index }}.</th>
@@ -177,19 +177,29 @@ layout: main/default
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.33.0/dist/tify.css">
 <script src="https://cdn.jsdelivr.net/npm/tify@0.33.0/dist/tify.js"></script>
 <script>
-jQuery(document).ready(function() {
-
-  jQuery("[data-facs]").on('click', function() {
-    const p = parseInt(jQuery(this).attr('data-facs'));
-    viewer.setPage(p);
-    viewer.resetScan();
-  });
-
-});
-
 const viewer = new Tify({
   container: '#viewer',
   manifestUrl: '{{ page.iiif }}'
 });
+
+jQuery(document).ready(function() {
+
+  viewer.ready.then(function() {
+    
+    if(/unit\d+item\d+/.test(window.location.hash)) {
+      const p = parseInt(jQuery(window.location.hash).attr('data-facs'));
+      viewer.setPage(p);
+    }
+
+    jQuery("[data-facs]").on('click', function() {
+      const p = parseInt(jQuery(this).attr('data-facs'));
+      viewer.setPage(p);
+      viewer.resetScan();
+    });
+
+  });
+
+});
+
 </script>
 {% endif %}
