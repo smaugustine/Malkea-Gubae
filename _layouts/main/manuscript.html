@@ -59,7 +59,7 @@ layout: main/default
           <th colspan="5">
             <h3 class="title is-5">
               <span>Unit {{ forloop.index }}</span>
-              <small>(ff. {{ unit.locus }})</small>
+              <small>({% unless page.paginated %}ff.{% else %}pp.{% endunless %} {{ unit.locus }})</small>
             </h3>
           </th>
         </tr>
@@ -177,23 +177,22 @@ layout: main/default
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.33.0/dist/tify.css">
 <script src="https://cdn.jsdelivr.net/npm/tify@0.33.0/dist/tify.js"></script>
 <script>
+if(/unit\d+item\d+/.test(window.location.hash)) var p = parseInt(jQuery(`${window.location.hash} [data-facs]`).attr('data-facs'));
+else var p = 1;
+
 const viewer = new Tify({
   container: '#viewer',
-  manifestUrl: '{{ page.iiif }}'
+  manifestUrl: '{{ page.iiif }}',
+  pages: [p]
 });
 
 jQuery(document).ready(function() {
 
   viewer.ready.then(function() {
-    
-    if(/unit\d+item\d+/.test(window.location.hash)) {
-      const p = parseInt(jQuery(`${window.location.hash} [data-facs]`).attr('data-facs'));
-      viewer.setPage(p);
-    }
 
     jQuery("[data-facs]").on('click', function() {
-      const p = parseInt(jQuery(this).attr('data-facs'));
-      viewer.setPage(p);
+      const goto = parseInt(jQuery(this).attr('data-facs'));
+      viewer.setPage(goto);
       viewer.resetScan();
     });
 
