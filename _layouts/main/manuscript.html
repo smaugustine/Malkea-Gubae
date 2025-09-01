@@ -178,7 +178,7 @@ layout: main/default
 <script src="https://cdn.jsdelivr.net/npm/tify@0.33.0/dist/tify.js"></script>
 <script>
 if(/unit\d+item\d+/.test(window.location.hash)) var p = parseInt(jQuery(`${window.location.hash} [data-facs]`).attr('data-facs'));
-else var p = 1;
+else var p = parseInt("{{ page.units[0].contents[0].facs }}");
 
 const viewer = new Tify({
   container: '#viewer',
