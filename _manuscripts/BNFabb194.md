@@ -1,7 +1,7 @@
 ---
 place: Paris
 institution: Bibliothèque nationale de France
-shelfmark: Éthiopien d'Abbadie 194
+shelfmark: Éthiopien d’Abbadie 194
 catalogue: Conti Rossini 90
 short: BnF Éth. Abb. 194
 
