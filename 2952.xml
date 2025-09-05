@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2732" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="2952" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዲዮስቆሮስ፡ ወሳዊርያኖስ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Diyosqoros wa-Sāwiryānos</title>
-        <title corresp="#t1" xml:lang="en">Image of Dioscorus and Severian</title>
+        <title xml:id="t1" xml:lang="gez">ሰላምታ፡ ዘኢየሱስ፡ ዘሰብዐቱ፡ ጊዜያት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Salāmtā za-ʾIyyasus za-Sabʿattu Gizeyāt</title>
+        <title corresp="#t1" xml:lang="en">Salutations for Jesus for the Canonical Hours</title>
         
       </titleStmt>
 
@@ -20,7 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
-        <ref target="https://w3id.org/malke/2732/"/>
+        <ref target="https://w3id.org/malke/2952/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -50,7 +50,7 @@
                   <date>1913</date>
                 </imprint>
               </monogr>
-              <citedRange unit="item">16</citedRange>
+              <citedRange unit="item">233</citedRange>
             </biblStruct>
             
             
@@ -79,21 +79,17 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">ማሕሌተ፡ ዲዮስቆሮስ፡ አብ፡ ወሳዊርያኖስ፡ ክቡር፨</l>
-            <l n="2">እለ፡ መገቡ፡ ዓለመ፡ በዘእስክንድርያ፡ መንበር፨</l>
-            <l n="3">አሥተናስኡኒ፡ እጽሐፍ፡ ሥላሴ፡ አጋእዝተ፡ ሰማይ፡ ወምድር፨</l>
-            <l n="4">ዘይሰአነክሙ፡ ምዕረ፡ አምጣነ፡ አልቦ፡ ነገር፨</l>
-            <l n="5">እመኒ፡ በየብስ፡ ወልዑል፡ ጠፈር፨</l>
+            <l n="1">ስብሐት፡ ለከ፡ ከመ፡ ንንግር፡ ኵሎ፡ ስብሐቲከ፡ በአናቅጺሃ፡ ለጽዮን፡ ማኅደረ፡ ብዙኅ፡ ሰላም፨</l>
+            <l n="2">ዘአንቃሕከነ፡ እምነ፡ ንዋም፨</l>
+            <l n="3">ኢየሱስ፡ ወልደ፡ ማርያም፨</l>
 
           </lg>
           
           <lg type="stanza" n="2">
             
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ወለሥዕርትክሙ፡ ዓዲ፨</l>
-            <l n="2">ዘኈለቍዎ፡ ሥላሴ፡ አማልክተ፡ ኵሉ፡ ሰጋዲ፨</l>
-            <l n="3">ዲዮስቆሮስ፡ አብ፡ ወሳዊርያኖስ፡ ወላዲ፨</l>
-            <l n="4">አድኅኑኒ፡ ለወልድክሙ፡ እምእሳተ፡ ፍዳ፡ ነዳዲ፨</l>
-            <l n="5">በጽድቀ፡ ዚአክሙ፡ ዕንቍ፡ ዘትጉህ፡ ነጋዲ፨</l>
+            <l n="1">ስብሐት፡ ለከ፡ ላዕለ፡ ጻድቃን፡ ወኃጥኣን፡ ብርሃነ፡ ጸጋ፡ ምዉቅ፨</l>
+            <l n="2">ዘታሠርቅ፡ ለነ፡ እምነ፡ ምሥራቅ፨</l>
+            <l n="3">ኢየሱስ፡ ፀሓየ፡ ጽድቅ፨</l>
 
           </lg>
           
@@ -112,21 +108,11 @@
             <listPerson>
               
               
-              <person xml:id="dioscorus">
-                <persName xml:lang="gez">ዲዮስቆሮስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Diyosqoros</persName>
-                <persName xml:lang="en">Dioscorus</persName>
-                <trait type="category"><desc>martyr</desc></trait>
-
-                
-              </person>
-              
-              
-              <person xml:id="severian">
-                <persName xml:lang="gez">ሳዊርያኖስ፡ ዘገብሎን፡</persName>
-                <persName xml:lang="gez" type="normalized">Sāwiryānos za-Gablon</persName>
-                <persName xml:lang="en">Severian of Gabala</persName>
-                <trait type="category"><desc>righteous</desc></trait>
+              <person xml:id="jesus">
+                <persName xml:lang="gez">ኢየሱስ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyasus Krəstos</persName>
+                <persName xml:lang="en">Jesus Christ</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
 
                 
               </person>

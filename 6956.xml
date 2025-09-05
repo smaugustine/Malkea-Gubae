@@ -13,6 +13,10 @@
         <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Madḫāne ʿĀlam Kāləʾ</title>
         <title corresp="#t2" xml:lang="en">(Second) Image of the Saviour of the World</title>
         
+        <title xml:id="t3" xml:lang="gez">መልክአ፡ መድኃኔ፡ ዓለም፡ እሰግድ፡</title>
+        <title corresp="#t3" xml:lang="gez" type="normalized">Malkəʾa Madḫāne ʿĀlam ʾƎsaggəd</title>
+        <title corresp="#t3" xml:lang="en">Image of the Saviour of the World — “I Prostrate…”</title>
+        
       </titleStmt>
 
       <publicationStmt>
@@ -55,6 +59,23 @@
                 </imprint>
               </monogr>
               <citedRange unit="item">339</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="thesis">
+              <analytic>
+                <title level="a">Appendix: Mälkǝ’a Mälkǝ’</title>
+                <author><name>Gezahegn Getachew</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">The Mälkǝ': Its Major Features and Source</title>
+                <author><name>Gezahegn Getachew</name></author>
+                <imprint>
+                  <pubPlace>Addis Ababa</pubPlace>
+                  <date>2000</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">7</citedRange>
             </biblStruct>
             
             
