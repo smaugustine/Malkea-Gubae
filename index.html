@@ -29,8 +29,9 @@
     <div class="level-item">
       <p class="is-size-7">
         <strong>CAe</strong> = Clavis Aethiopica.<br>
-        <strong>HK</strong> = Habtemichael Kidane, ‘Supplement to the Repertory of <i>Mälkəʿat</i>’, in <i>Celebrating the Holy Saints</i>, 267–369.<br>
-        <strong>MC</strong> = Marius Chaîne, ‘Répertoire des salam et malke’e’, <i>ROC</i> 18 (1913): 183–203, 337–57.
+        <strong>MC</strong> = Marius Chaîne, ‘Répertoire des salam et malke’e’, <i>ROC</i> 18 (1913): 183–203, 337–57.<br>
+        <strong>GG</strong> = Gezahegn Getachew, ‘Appendix: Mälkǝ’a Mälkǝ’’, in <i>The Mälkǝ’: Its Major Features and Source</i>, 2000, 102–108.<br>
+        <strong>HK</strong> = Habtemichael Kidane, ‘Supplement to the Repertory of <i>Mälkəʿat</i>’, in <i>Celebrating the Holy Saints</i>, 2024, 267–369.
       </p>
     </div>
   </div>
@@ -39,7 +40,8 @@
       <p class="has-text-right is-size-7">
         <strong>{{ site.works | where: "type", "malkəʾ" | size }}</strong> malkəʾ records.<br>
         <strong>{{ site.works | where: "type", "quasi-malkəʾ" | size }}</strong> quasi-malkəʾ records.<br>
-        <strong>{{ site.works.size }}</strong> total work records.
+        <strong>{{ site.works.size }}</strong> total work records.<br>
+        <!--<a>Advanced Search</a>-->
       </p>
     </div>
   </div>
@@ -83,9 +85,12 @@
     <tr>
 
       <td rowspan="2">
-        <span><span class="is-hidden-mobile">CAe:</span> {{ work.clavis }}</span>
+        <span><span class="is-hidden-mobile">CAe:</span>&nbsp;{{ work.clavis }}</span>
         {% if work.chaine %}
         <br><small class="is-hidden-mobile">MC: {{ work.chaine | join: ", " }}</small>
+        {% endif %}
+        {% if work.gezahegn %}
+        <br><small class="is-hidden-mobile">GG: {{ work.gezahegn | join: ", " }}</small>
         {% endif %}
         {% if work.habtemichael %}
         <br><small class="is-hidden-mobile">HK: {{ work.habtemichael | join: ", " }}</small>

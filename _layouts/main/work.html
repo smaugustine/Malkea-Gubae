@@ -144,8 +144,12 @@ layout: main/default
           {% if page.chaine %}
           <small class="is-hidden-mobile">MC:&nbsp;{{ page.chaine | join: ", " }}</small>
           {% endif %}
-          {% if page.habtemichael %}
+          {% if page.gezahegn %}
           {% if page.chaine %} | {% endif %}
+          <small class="is-hidden-mobile">GG:&nbsp;{{ page.gezahegn | join: ", " }}</small>
+          {% endif %}
+          {% if page.habtemichael %}
+          {% if page.chaine or page.gezahegn %} | {% endif %}
           <small class="is-hidden-mobile">HK:&nbsp;{{ page.habtemichael | join: ", " }}</small>
           {% endif %}
           <br>
