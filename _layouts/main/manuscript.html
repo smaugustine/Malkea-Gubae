@@ -71,7 +71,9 @@ layout: main/default
       <tbody id="unit{{ forloop.parentloop.index }}item{{ forloop.index }}">
         <tr>
 
-          <th rowspan="{% if page.iiif %}2{% endif %}">{{ forloop.index }}.</th>
+          <th rowspan="{% if page.iiif %}2{% endif %}">
+            <a href="#unit{{ forloop.parentloop.index }}item{{ forloop.index }}" style="color: inherit;">{{ forloop.index }}.</a>
+          </th>
 
           <td>
             {% unless page.paginated %}
@@ -192,6 +194,12 @@ jQuery(document).ready(function() {
 
     jQuery("[data-facs]").on('click', function() {
       const goto = parseInt(jQuery(this).attr('data-facs'));
+      viewer.setPage(goto);
+      viewer.resetScan();
+    });
+
+    jQuery(window).on('hashchange', function() {
+      const goto = parseInt(jQuery(`${window.location.hash} [data-facs]`).attr('data-facs'));
       viewer.setPage(goto);
       viewer.resetScan();
     });
