@@ -57,5 +57,5 @@ units:
     contents:
       - clavis: 2889
         locus: 1r-2v, 71v-72v
-        facs: 2
+        facs: 3
 ---
