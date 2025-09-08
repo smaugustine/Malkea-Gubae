@@ -158,6 +158,26 @@
     
     <back>
       
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="yohannes">
+                <persName xml:lang="gez">ዮሐንስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannəs</persName>
+                <persName xml:lang="en">Yoḥannəs</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
       
     </back>
 

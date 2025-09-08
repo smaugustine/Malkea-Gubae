@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ መላእክት፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Malāʾəkt</title>
-        <title corresp="#t1" xml:lang="en">Image of the Angels</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አቢብ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAbib</title>
+        <title corresp="#t1" xml:lang="en">Image of Phib</title>
         
       </titleStmt>
 
@@ -125,11 +125,11 @@
             <listPerson>
               
               
-              <person xml:id="angels">
-                <persName xml:lang="gez">መላእክት፡</persName>
-                <persName xml:lang="gez" type="normalized">Malāʾəkt</persName>
-                <persName xml:lang="en">The Angels</persName>
-                <trait type="category"><desc>angelic</desc></trait>
+              <person xml:id="phib">
+                <persName xml:lang="gez">አቢብ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAbib</persName>
+                <persName xml:lang="en">Phib</persName>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>
