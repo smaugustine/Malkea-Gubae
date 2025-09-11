@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe6203" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መስቀል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Masqal</title>
+        <title corresp="#t1" xml:lang="en">Image of the Cross</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/6203/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላመ፡ ስቅለትከ፡ ክርስቶስ፡ ለለ፡ ንብል፡ ንሕነ፨</l>
+            <l n="2">ሐዘነ፡ ዝንቱ፡ ዓለም፡ ዘያረስእ፡ ይኩነነ፨</l>
+            <l n="3">ሰላምከ፡ እግዚኦ፡ ትትወሀብ፡ ለነ፨</l>
+            <l n="4">ይትቀደስ፡ ስምከ፡ ዘበሰማያት፡ አቡነ፨</l>
+            <l n="5">ወመንግሥት፡ ትምጻእ፡ ኀቤነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘራብእ፡ ፊደሉ፨</l>
+            <l n="2">እምብሂለ፡ ኢየሱስ፡ ኢሐፀ፡ ኍልቈ፡ ሆህያተ፡ መስቀሉ፨</l>
+            <l n="3">ለምክረ፡ ሞትከ፡ ክርስቶስ፡ አመ፡ እስራኤል፡ መድበሉ፨</l>
+            <l n="4">ሶበ፡ በመስቀል፡ አልዐሉ፨</l>
+            <l n="5">ወፀሓይ፡ እምነጽሮ፡ ሠወረ፡ ጽዳሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘአጽነነ፡ ርእሶ፨</l>
+            <l n="2">ኀበ፡ አቡሁ፡ ልዑል፡ እንዘ፡ ያመሐጽን፡ ነፍሶ፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ ቅንዋተ፡ መስቀል፡ በተአግሶ፨</l>
+            <l n="4">እሰግድ፡ ለመስቀሉ፡ እንተ፡ በደሙ፡ ቀደሶ፨</l>
+            <l n="5">ንሴብሕ፡ ካዕበ፡ ዕበዮ፡ ወንግሦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ ዘሰመዩ፡ ስማ፨</l>
+            <l n="2">ልሳነ፡ ግዕዝ፡ ርእስ፡ ወልሳነ፡ ዕብራይስጥ፡ ብሂለ፡ ድማ፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ ለመስቀልከ፡ ማሕተማ፨</l>
+            <l n="4">ይትሐትም፡ በርእስየ፡ ወለሕማምከ፡ ሕማማ፨</l>
+            <l n="5">ወዲበ፡ ኵሉ፡ አባላ፡ ወቆማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ሰላም፡ ለአእጋሪከ፡ ቅድመ፡ ጲላጦስ፡ ዘቆማ፨</l>
+            <l n="2">እምበለ፡ ቅንዋት፡ ያልክኦ፡ ወቅድመ፡ ይሕመማ፨</l>
+            <l n="3">ስቅለትከ፡ ክርስቶስ፡ በሞገስ፡ ወኀይለ፡ ግርማ፨</l>
+            <l n="4">ሰገዱ፡ በቅድሜከ፡ አእላፈ፡ ትጉሃን፡ ዘራማ፨</l>
+            <l n="5">እስመ፡ አንተ፡ ውእቱ፡ ንጉሦሙ፡ ፌማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ መልክአ፡ አዳም፡ ነሣኢ፨</l>
+            <l n="2">አምላክ፡ ኅቡእ፡ ዘኢያስተርኢ፨</l>
+            <l n="3">መስቀልከ፡ ክርስቶስ፡ ዕፀ፡ መዋኢ፨</l>
+            <l n="4">ይፈውስ፡ ሕማምየ፡ ወቍስልየ፡ ያጥኢ፨</l>
+            <l n="5">እንተ፡ በዲቤየ፡ ከዐ?ወ፡ ሕምዝ፡ ቀትል፡ ጸላኢ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="53">
+            
+            <l n="1">ሰላም፡ ለዕርገትከ፡ የማነ፡ አቡከ፡ ልዑል፨</l>
+            <l n="2">ዘምስለ፡ አብሐት፡ ወዕበይ፡ ወብርሃን፡ ጽዱል፨</l>
+            <l n="3">አዕርገኒ፡ ክርስቶስ፡ በዘዚአከ፡ ክሂል፨</l>
+            <l n="4">ኢየሩሳሌም፡ ዘላዕሉ፡ ሰማያዊት፡ ደወል፨</l>
+            <l n="5">እሳት፡ ውስቴታ፡ ምሉእ፡ ፍሥሓ፡ ወሣህል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="54">
+            
+            <l n="1">ሰላም፡ ለመጽአትከ፡ በመንክር፡ ሥ</l>
+            <l n="2">መልአከ፡ ስሕተት፡ ትደይን፡ ወለርጉማን፡</l>
+            <l n="3">አቁመኒ፡ ክርስቶስ፡ ምስለ፡ ቡሩካን፨</l>
+            <l n="4">ኀበ፡ ይትፌሥሑ፡ ወይትሐሰዩ፡ ጻድቃን፨</l>
+            <l n="5">እስመ፡ አለቦሙ፡ እምዝ፡ ሐዘን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="55">
+            
+            <l n="1">ስብሐት፡ ይደሉ፡ ለክርስቶስ፡ ለዘጾረ፡ ሕማመ፨</l>
+            <l n="2">ወስብሐት፡ ሎቱ፡ ለዘከዐወ፡ ደመ፨</l>
+            <l n="3">ወስብሐት፡ ዓዲ፡ ለዘሰከበ፡ ወኖመ፨</l>
+            <l n="4">ስብሐት፡ ለዘሐይወ፡ ወተንሥአ፡ ፍጹመ፨</l>
+            <l n="5">ስብሐት፡ ለዘዐርገ፡ ወለዘይመጽእ፡ ዳግመ፨</l>
+            <l n="6">ስብሐት፡ ለመስቀሉ፡ ወእሁብ፡ ሰላመ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="cross">
+                <persName xml:lang="gez">መስቀል፡</persName>
+                <persName xml:lang="gez" type="normalized">Masqal</persName>
+                <persName xml:lang="en">The Cross</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

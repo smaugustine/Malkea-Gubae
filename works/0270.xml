@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0270" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ በርተሎሜዎስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Bartalomewos</title>
+        <title corresp="#t1" xml:lang="en">Image of Bartholomew</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0270/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ወጢንየ፡ ውዳሴከ፡ እጽህቅ፡ ወዘመልክእከ፡ ሰላማተ፨</l>
+            <l n="2">በአምጣነ፡ እከል፡ ንስቲተ፨</l>
+            <l n="3">በርተሎሜዎስ፡ ስቅየኒ፡ ዘመንፈስ፡ ቅዱስ፡ እሳተ፨</l>
+            <l n="4">ማሕሌትከ፡ ለፈጽሞ፡ ጸግወኒ፡ ሀብተ፨</l>
+            <l n="5">በዑጻዌ፡ መክፈልተ፡ በጻሕከኒ፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለቀጸላ፡ ርእስከ፡ እምሥነ፡ ፀሓይ፡ ዘይሊሂ፨</l>
+            <l n="2">ዐሥበ፡ ተጋድሎ፡ መብርሂ፨</l>
+            <l n="3">በተሎሜዎስ፡ ሐዋርያ፡ ፍናዋተ፡ ወንጌል፡ ጸያሒ፨</l>
+            <l n="4">ዘአድወየኒ፡ በሕምዙ፡ አርዌ፡ ተመንግኖ፡ ጸነሒ፨</l>
+            <l n="5">ኀጢአተ፡ ወልድከ፡ አብ፡ በበትርከ፡ ዋሒ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ሰላም፡ እብል፡ ለኵሎን፡ መልክእከ፡ በኢፈሊጥ፨</l>
+            <l n="2">ለዘበአፍአ፡ ወውስጥ፨</l>
+            <l n="3">በርተሎሜዎስ፡ ታቦት፡ በመንፈስ፡ ቅዱስ፡ ልቡጥ፨</l>
+            <l n="4">በውስተ፡ ሀገርከ፡ አባ፡ አበሐኒ፡ እሰለጥ፨</l>
+            <l n="5">ከመ፡ እኩንከ፡ ገብረ፡ ንሥአኒ፡ በሴጥ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="bartholomew">
+                <persName xml:lang="gez">በርተሎሜዎስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Bartalomewos</persName>
+                <persName xml:lang="en">Bartholomew</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

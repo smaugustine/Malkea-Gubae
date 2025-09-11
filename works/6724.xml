@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe6724" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ መጥምቅ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Maṭməq</title>
+        <title corresp="#t1" xml:lang="en">Image of John the Baptist</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/6724/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">139</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ውስተ፡ ከርሠ፡ መካን፡ ኤልሳቤጥ፨</l>
+            <l n="2">ለመልአከ፡ ዜና፡ ገብርኤል፡ በብስራተ፡ ቃሉ፡ ጽዑጥ፨</l>
+            <l n="3">በኵረ፡ ቅድሳት፡ ዮሐንስ፡ እንዘ፡ ሕፃን፡ ቅጥቁጥ፨</l>
+            <l n="4">እፎ፡ ተክህልከ፡ አስተብርኮ፡ ለፅንሰ፡ መለኮት፡ ሥሉጥ፨</l>
+            <l n="5">ቅድመ፡ ትፍታሕ፡ ማሕፀነ፡ ወትፃእ፡ እምውስጥ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለልደትከ፡ ስዱሰ፡ ወርኀ፡ ዘቀደሞ፨</l>
+            <l n="2">ለልደተ፡ አምላክ፡ ሕያው፡ እማርያም፡ ጼና፡ አበሞ፨</l>
+            <l n="3">ዮሐንስ፡ ኤልያስ፡ ነቢየ፡ ቅንዓት፡ ወተቃውሞ፨</l>
+            <l n="4">ከመ፡ ይክዐው፡ ውስተ፡ ዓለም፡ ለውዳሴከ፡ ዝናሞ፨</l>
+            <l n="5">ሰማየ፡ ልሳንየ፡ አርኁ፡ ወክልእ፡ ልጓሞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘሳብእ፡ ውጣኔሁ፨</l>
+            <l n="2">ወሳድስ፡ ፍጻሜሁ፨</l>
+            <l n="3">ቃለ፡ አዋዲ፡ ዮሐንስ፡ ለክርስቶስ፡ ሐዋርያሁ፨</l>
+            <l n="4">ይሰወጥ፡ ውስተ፡ እዝንየ፡ ለመንፈስከ፡ ጽራሁ፨</l>
+            <l n="5">መንግሥተ፡ ሰማይ፡ ቀርበት፡ ዘይቤ፡ ነሥሑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለሥዕርትከ፡ እለ፡ ኮናሁ፡ አክናፈ፨</l>
+            <l n="2">ለርእስከ፡ በመጥባሕት፡ እንተ፡ ተሰየፈ፨</l>
+            <l n="3">ኮከበ፡ ጽባሕ፡ ዮሐንስ፡ ዘታስተጋውህ፡ አጽናፈ፨</l>
+            <l n="4">ጊዜ፡ ስርቀትከ፡ ክረምተ፡ ኀጢኣት፡ ኀለፈ፨</l>
+            <l n="5">ወጽጌ፡ ጽድቅከ፡ ኵለሄ፡ ሰፈፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ ተአምራዊት፡ ይእቲ፨</l>
+            <l n="2">እንተ፡ ተፈልጠት፡ ሥርዓታ፡ እምሥርዓተ፡ ኵሉ፡ መዋቲ፨</l>
+            <l n="3">ወለገዳምከ፡ ሰላም፡ ዮሐንስ፡ ነገደ፡ ማቲ፨</l>
+            <l n="4">፶፻፡ ብእሴ፡ እንተ፡ ጸግቡባቲ፨</l>
+            <l n="5">እምኅብስተ፡ ሰገም፡ ኀምስ፡ ወአሣት፡ ክልኤቲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋከ፡ እንተ፡ እምባሕርይ፡ ትጸሪ፨</l>
+            <l n="2">ወኢተዐርቅ፡ ለግሙራ፡ እምጸጋ፡ መለኮት፡ ፈጣሪ፨</l>
+            <l n="3">ሥርናየ፡ ማሕሌትየ፡ ዘንተ፡ በሥልጣንከ፡ ገባሪ፨</l>
+            <l n="4">ረሲ፡ ሊተ፡ በበ፡ ፷፡ ወበበ፡ ፻፡ ዘይፈሪ፨</l>
+            <l n="5">ዮሐንስ፡ አምዳኖ፡ ዮሐንስ፡ ሰንኮሪ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="john-baptist">
+                <persName xml:lang="gez">ዮሐንስ፡ መጥምቅ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannəs Maṭməq</persName>
+                <persName xml:lang="en">John the Baptist</persName>
+                <trait type="category"><desc>prophet</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

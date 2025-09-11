@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0461" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሠረቀ፡ ብርሃን፡ ዘደብረ፡ ድማሕ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śaraqa Bərhān za-Dabra Dəmāḥ</title>
+        <title corresp="#t1" xml:lang="en">Image of Śaraqa Bərhān of Dabra Dəmāḥ</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0461/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኦማርያም፡ እሰግድ፡ ለኪ፡ ወእዌድሰኪ፨</l>
+            <l n="2">ካዕበ፡ እንዘ፡ እስእል፡ ኀቤኪ፨</l>
+            <l n="3">ትክሥቲ፡ ሊተ፡ ውዳሴሁ፡ ለሠረቀ፡ ብርሃን፡ ገብርኪ፨</l>
+            <l n="4">ለዘተሐጥአ፡ እምጠቢባን፡ በሥምረተ፡ ክርስቶስ፡ ወልድኪ፨</l>
+            <l n="5">እስመ፡ ዚአየ፡ አንቲ፡ ወአነ፡ ዘለኪ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ጐሥዐ፡ ልብየ፡ ቃለ፡ ሠናየ፨</l>
+            <l n="2">ወውዳሴከ፡ ብዙኀ፡ ይነግር፡ አፉየ፨</l>
+            <l n="3">ሠረቀ፡ ብርሃን፡ ትቀስም፡ ፍሬ፡ ማሕሌትየ፨</l>
+            <l n="4">እንበለ፡ ጐንድዮ፡ ነዓ፡ ኀቤየ፨</l>
+            <l n="5">እስመ፡ ምጽአትከ፡ ይሴፎ፡ ዐይንየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ስቡሕ፡ ወውዱስ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ኍሉቅ፡ ውስተ፡ ልበ፡ ጥበብ፡ ክርስቶስ፨</l>
+            <l n="3">ሠረቀ፡ ብርሃን፡ አእኳቲ፡ እንዘ፡ ዐቀምከ፡ ንኡስ፨"</l>
+            <l n="4">አንከረ፡ ወተደመ፡ በትረ፡ ማርያም፡ እንጦንስ፨</l>
+            <l n="5">ሶበ፡ ርእየከ፡ በደማን፡ በዐቢይ፡ ሞገስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ ወለገጽከ፡ አምሳሉ፨</l>
+            <l n="2">ለእግዚአብሔር፡ ሕያው፡ ዘሀሎ፡ ወይሄሉ፨</l>
+            <l n="3">ሠረቀ፡ ብርሃን፡ ብፁዕ፡ ወእኩት፡ በአፈ፡ ኵሉ፨</l>
+            <l n="4">ዘፈኖከ፡ መንፈቀ፡ ዓሣ፡ መስፈልተ፡ እንግዳ፡ ዘይደሉ፨</l>
+            <l n="5">በኀበ፡ ክልኤ፡ ተረክበ፡ በፍጹም፡ አካሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለአእዳዊከ፡ ዘፀጋም፡ ወየማን፨</l>
+            <l n="2">መስተፅዕነ፡ ቀሊል፡ ደመና፡ ሠረቀ፡ ብርሃን፨</l>
+            <l n="3">ሶበ፡ ነጸረከ፡ ይቤ፡ በትረ፡ ማርያም፡ ምእመን፨</l>
+            <l n="4">ለከኑ፡ ፍቁርየ፡ እንዘ፡ በኀበ፡ ሰብእ፡ ምኑን፨</l>
+            <l n="5">እሊዐከ፡ ትሕትና፡ ኀበዝ፡ መጠን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">ሰላም፡ ለልብከ፡ ወለኵልያቲከ፡ ምስለ፡ ኅሊና፨</l>
+            <l n="2">ለአማዑቲከ፡ ዓዲ፡ ወለንዋየ፡ ውስጥከ፡ በዕሪና፨</l>
+            <l n="3">ሠረቀ፡ ብርሃን፡ ዮሴፍ፡ ምእመነ፡ ማርያም፡ ወለተ፡ ሐና፨</l>
+            <l n="4">ዘተሳተፍከ፡ ስደታ፡ ወኵሎ፡ ኀዘና፨</l>
+            <l n="5">እስመ፡ አንተ፡ ውስተ፡ ቤት፡ ወአንተ፡ በፍና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለግንዘተ፡ ሥጋከ፡ እብሎ፨</l>
+            <l n="2">ለመቃብሪከ፡ እሙር፡ ውስተ፡ ሐይቀ፡ ክብራ፡ ዘሀሎ፨</l>
+            <l n="3">ሠረቀ፡ ብርሃን፡ አሥርቅ፡ ለረድኤትከ፡ ጸዳሎ፨</l>
+            <l n="4">ለልብየ፡ ደብተራ፡ ጌጋይ፡ እስመ፡ ጊሜ፡ ጽልመት፡ ጠብለሎ፨</l>
+            <l n="5">ወሰይጣነ፡ ውዴት፡ ጸሐፈ፡ ምግባርየ፡ ኵሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሠረቀ፡ ብርሃን፡ ተወከፍ፡ እምኔየ፡ ዘወደስኩከ፡ ተውዳሰ፨</l>
+            <l n="2">ቅብአ፡ ኃጥአን፡ ኢትበል፡ ኢይትቀባእ፡ አንሰ፨</l>
+            <l n="3">ክርስቶስ፡ አኮኑ፡ ሥጋ፡ ኃጥኣን፡ ዘለብሰ፨</l>
+            <l n="4">ወበማይ፡ ዘውሕዘ፡ እምገቦሁ፡ ኀጢአቶሙ፡ ደምሰሰ፨</l>
+            <l n="5">ወተከለ፡ ሎሙ፡ ደብታራ፡ ሐዳሰ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="saraqa-berhan-d-demah">
+                <persName xml:lang="gez">ሠረቀ፡ ብርሃን፡ ዘደብረ፡ ድማሕ፡</persName>
+                <persName xml:lang="gez" type="normalized">Śaraqa Bərhān za-Dabra Dəmāḥ</persName>
+                <persName xml:lang="en">Śaraqa Bərhān of Dabra Dəmāḥ</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0412" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መድኃኒነ፡ እግዚእ፡ ዘደብረ፡ በንኮል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Madḫānina ʾƎgziʾ za-Dabra Bankol</title>
+        <title corresp="#t1" xml:lang="en">Image of Madḫānina ʾƎgziʾ of Dabra Bankol</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0412/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="GG085">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-085</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>221vb-232va</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">151</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ልብየ፡ በእደ፡ ኅሊናየ፡ አስተሐመመ፨</l>
+            <l n="2">ውዳሴ፡ መልክእከ፡ ይጽሐፍ፡ እንዘ፡ ይእኅዝ፡ ቀለመ፨</l>
+            <l n="3">መድኃኒነ፡ እግዚእ፡ ባርክ፡ ከመ፡ ቃለ፡ ነቢይ፡ ቀደመ፨</l>
+            <l n="4">እስመ፡ አንተ፡ ዘባረካሁ፡ ይትባረክ፡ ፍጹመ፨</l>
+            <l n="5">ወዘረገምከ፡ ይከውን፡ ርጉመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በሰሌዳ፡ መንፈስ፡ ሲሩክ፨</l>
+            <l n="2">ስም፡ ቅዱስ፡ ወስም፡ ቡሩክ፨</l>
+            <l n="3">መድኃኒነ፡ እግዚእ፡ ሥጋዊ፡ እንዘ፡ ዓዲከ፡ መልአክ፨</l>
+            <l n="4">ለዝክረ፡ ስምከ፡ ስመ፡ ኢየሱስ፡ አምላክ፨</l>
+            <l n="5">ልሳነ፡ ፍጡራን፡ ይገኒ፡ ወይሰግድ፡ ብርክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ እንተ፡ ኀበ፡ ክርስቶስ፡ አስተርአየ፨</l>
+            <l n="2">እንዘ፡ ይብል፡ ይትሐነጽ፡ መቃብረ፡ ሥጋከ፡ ዝየ፨</l>
+            <l n="3">መድኃኒነ፡ እግዚእ፡ በሥጋ፡ ህየንተ፡ ዘጾርከ፡ ሥቃየ፨</l>
+            <l n="4">ሥነ፡ ስብሐቲከ፡ እምስብሐተ፡ ጻድቃን፡ ዐብየ፨</l>
+            <l n="5">ወብርሃንከ፡ ያከፍእ፡ ፀሓየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ንስቲተ፡ ነገርኩ፡ ከመ፡ ኢይኩን፡ ዝንጋዔ፨</l>
+            <l n="2">ስብሐተ፡ መልክእከ፡ አባ፡ ወዝክረ፡ ስምከ፡ በጽዋዔ፨</l>
+            <l n="3">መድኃኒነ፡ እግዚእ፡ ባሕቱ፡ ተወከፍ፡ ቅድመ፡ ጉባኤ፨</l>
+            <l n="4">ሕገ፡ ተወክፈ፡ እግዚእከ፡ ቅድመ፡ ያጠይቅ፡ ትንሣኤ፨</l>
+            <l n="5">እምእደ፡ አሐቲ፡ ብእሲት፡ ጸራይቀ፡ ክልኤ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="madhanina-egzi-d-bankol">
+                <persName xml:lang="gez">መድኃኒነ፡ እግዚእ፡ ዘደብረ፡ በንኮል፡</persName>
+                <persName xml:lang="gez" type="normalized">Madḫānina ʾƎgziʾ za-Dabra Bankol</persName>
+                <persName xml:lang="en">Madḫānina ʾƎgziʾ of Dabra Bankol</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">96</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

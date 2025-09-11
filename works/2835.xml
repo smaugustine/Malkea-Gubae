@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2835" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሚካኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Mikāʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Michael</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2835/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="ADMY002">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-002</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>7ra-11va</locus>
+          </witness>
+          
+          <witness xml:id="BLor576">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 576</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>87ra-95vb</locus>
+          </witness>
+          
+          <witness xml:id="BNFet349">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien 349</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>1ra-10rb</locus>
+          </witness>
+          
+          <witness xml:id="BNFet351">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien 351</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>1r-21r</locus>
+          </witness>
+          
+          <witness xml:id="EMML0374">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Gəbi Gabrəʾel</repository>
+                <idno>EMML 374</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>113ra-119va</locus>
+          </witness>
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>88vc-92rb</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>123ra-125rb</locus>
+          </witness>
+          
+          <witness xml:id="GG085">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-085</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>23rb-32rb</locus>
+          </witness>
+          
+          <witness xml:id="GG144">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-144</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>155vb-159ra</locus>
+          </witness>
+          
+          <witness xml:id="MAKM074">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Māy ʾAnbasā Kidāna Mǝḥrat</repository>
+                <idno>MAKM-074</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>86ra-91va</locus>
+          </witness>
+          
+          <witness xml:id="MK049">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʾƎndā ʾAbuna Marʿāwi Krəstos</repository>
+                <idno>MK-049</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>35ra-44va</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">119</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="thesis">
+              <analytic>
+                <title level="a">Appendix: Mälkǝ’a Mälkǝ’</title>
+                <author><name>Gezahegn Getachew</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">The Mälkǝ': Its Major Features and Source</title>
+                <author><name>Gezahegn Getachew</name></author>
+                <imprint>
+                  <pubPlace>Addis Ababa</pubPlace>
+                  <date>2000</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">10</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">191</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ምስለ፡ ስመ፡ ልዑል፡ ዘተሳተፈ፨</l>
+            <l n="2">ወልደ፡ ያሬድ፡ ሄኖክ፡ በከመ፡ ጸሐፈ፨</l>
+            <l n="3">ሶበ፡ እጼውዕ፡ ስመከ፡ ከሢትየ፡ አፈ፨</l>
+            <l n="4">ራዳኤ፡ ምንዱባን፡ ሚካኤል፡ በከመ፡ ታለምድ፡ ዘልፈ፨</l>
+            <l n="5">ለረዲኦትየ፡ ነዓ፡ ሰፊሐከ፡ ክንፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘኢይጤየቅ፡ ግዕዛ፨</l>
+            <l n="2">ሚካኤል፡ ካህን፡ አጸንሓሔ፡ ሠናይ፡ ጼና፡ መዐዛ፨</l>
+            <l n="3">በጺሐከ፡ ግብተ፡ ለነፍስየ፡ አመ፡ ትካዛ፨</l>
+            <l n="4">ለልበ፡ ዚአየ፡ በትንባሌከ፡ ናዝዛ፨</l>
+            <l n="5">እንበለ፡ ጊዜ፡ ወላሕ፡ ኢይርሳዕ፡ ወሬዛ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ዘአሕመልመለ፡ ከመ፡ ዘግባ፨</l>
+            <l n="2">ለጽርሐ፡ አርያም፡ በዐውደ፡ መርኅባ፨</l>
+            <l n="3">ሚካኤል፡ የዋህ፡ ለገነተ፡ ሰማይ፡ ርግባ፨</l>
+            <l n="4">ከመ፡ ይዜውራኒ፡ ለመርቄ፡ ኀጢአት፡ እምላህባ፨</l>
+            <l n="5">አክናፊከ፡ ክልኤ፡ ዲቤየ፡ ይርብባ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለመላክኢከ፡ ኵሎን፨</l>
+            <l n="2">በበ፡ አስማቲሆን፨</l>
+            <l n="3">ሚካኤል፡ ካህን፡ ሥርግወ፡ ብርሃን፨</l>
+            <l n="4">ሠናይ፡ ተዐርኮትከ፡ በኵሉ፡ ዘመን፨</l>
+            <l n="5">ሰራዬ፡ ኀጢአት፡ አንተ፡ ዐርከ፡ ነፍስ፡ ምእመን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለመላክኢከ፡ ኵሉ፨</l>
+            <l n="2">ለለ፡ አሐዱ፡ አሐዱ፡ ዘበበ፡ ክፍሉ፨</l>
+            <l n="3">ሚካኤል፡ ብኩር፡ ለልዑል፡ መልአከ፡ ኀይሉ፨</l>
+            <l n="4">ተወኪፈከ፡ አምኃየ፡ እምኑኀ፡ ሰማያት፡ ዘላዕሉ፨</l>
+            <l n="5">ዕሤተ፡ ጸሎትየ፡ ፈኑ፡ ወዐስብየ፡ ድሉ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="michael">
+                <persName xml:lang="gez">ሚካኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Mikāʾel</persName>
+                <persName xml:lang="en">Michael</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="zoteroItem_N5I3F6AD" corresp="http://zotero.org/groups/5599348/items/N5I3F6AD"><monogr><title level="m">መልክአ ቅዱሳን በዐማርኛ</title><imprint><pubPlace>አዲስ አበባ</pubPlace><publisher>ማኅበረ ቅዱሳን</publisher><date>፳፻፲፫ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="zoteroItem_W3PTU9ZK" corresp="http://zotero.org/groups/5599348/items/W3PTU9ZK"><monogr><title level="m">መልክዐ ጉባኤ</title><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፸፬ ዓ/ም</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

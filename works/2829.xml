@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2829" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ታዴዎስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tādewos</title>
+        <title corresp="#t1" xml:lang="en">Image of Thaddeus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2829/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="CBLw949">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dublin</settlement>
+                <repository>Chester Beatty Library</repository>
+                <idno>W.949</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>54a-58a</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">113</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዕለተ፡ ፅንስከ፡ እግዚአብሔር፡ ዘባረካ፨</l>
+            <l n="2">ወለልደትከ፡ ክቡር፡ በዓለ፡ ምእመናን፡ ፋሲካ፨</l>
+            <l n="3">ለገራህተ፡ ኀይል፡ ታዴዎስ፡ አመ፡ ምስለ፡ ጴጥሮስ፡ ሐወጽካ፨</l>
+            <l n="4">በትፍሥሕት፡ ቦአ፡ ሐረሳዊ፡ ውሣጤ፡ ማዕረር፡ ታዕካ፨</l>
+            <l n="5">ከመ፡ ይትፌሥሑ፡ ሠራዊት፡ በብዙኅ፡ ምህርካ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ አስማቲከ፡ ቀዳማዊ፡ ወደኅራዊ፨</l>
+            <l n="2">ምስለ፡ ሥዕርትከ፡ ወርእስከ፡ ዘመልዕልተ፡ ገጽ፡ ሐላዊ፨</l>
+            <l n="3">ይሁዳ፡ ታዴዎስ፡ ረድአ፡ ኢየሱስ፡ ናዝራዊ፨</l>
+            <l n="4">ረጸየኒ፡ ረድአ፡ ዘነሣእከ፡ ጸጋ፡ መንፈስ፡ ቅዱስ፡ ማሕየዊ፨</l>
+            <l n="5">አምጣነ፡ በጸጋ፡ ትጼጉ፡ ለኵሉ፡ ዘይደዊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ሰላም፡ ለሰኳንዊከ፡ ወለመከየድከ፡ ዓለማተ፨</l>
+            <l n="2">በኀይለ፡ አፃብዕ፡ ለምሕሮ፡ እለ፡ አዝለፋ፡ ዑደተ፨</l>
+            <l n="3">ኢያሱ፡ ታዴዎስ፡ ከንዓንሃ፡ ኀጢአተ፨</l>
+            <l n="4">በኲናተ፡ ስርያት፡ ቅትል፡ ታውርሰነ፡ ሰማያዊተ፨</l>
+            <l n="5">ርስተ፡ እስመ፡ ድኅረ፡ ሙሴ፡ ለሕዝብ፡ መልአክነ፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ ወለመቃብሪከ፡ ዘፈወሰ፨</l>
+            <l n="2">እምነ፡ ሕማማት፡ ክልኤ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="3">ነዳየ፡ ዓለም፡ ታዴዎስ፡ እመ፡ ትረክብ፡ ንጉሠ፨</l>
+            <l n="4">አርእየኒ፡ ለወልድከ፡ ማኅደረከ፡ ቅዱስ፨</l>
+            <l n="5">ወእምነ፡ ዕርቃን፡ ክድነኒ፡ ብርሃነከ፡ ልብሰ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ሰላም፡ ለዕለተ፡ ዕረፍትከ፡ እንዘ፡ ተኀድግ፡ ስራኀ፨</l>
+            <l n="2">ወለትንሣኤከ፡ ድኅረ፡ በዕለተ፡ ላሕ፡ ወፍሥሓ፨</l>
+            <l n="3">በዓለም፡ ታዴዎስ፡ ዘተኰነንከ፡ ብዙኀ፨</l>
+            <l n="4">ትኴንን፡ ኀያላነ፡ ወመኰንነ፡ ያርብሐ፨</l>
+            <l n="5">እስመ፡ ንጉሠ፡ ፍትሕ፡ ለከ፡ ያገብእ፡ ፍትሐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">አምኃ፡ ስብሐት፡ ኅዳጠ፡ እስመ፡ አቅረብኩ፡ ለስብሐቲከ፡ ንጉሥ፨</l>
+            <l n="2">እንዘ፡ እጼዐር፡ ፈድፉደ፡ በሕማመ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="3">ባርከኒ፡ ታዴዎስ፡ በበረከትከ፡ ፈውስ፨</l>
+            <l n="4">እምነ፡ አብዕልት፡ ከመ፡ ባረከ፡ ክርስቶስ፨</l>
+            <l n="5">ለበዓልተ፡ ኅዳጥ፡ ንዋይ፡ ዘባቲ፡ ተፅናስ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="thaddeus">
+                <persName xml:lang="gez">ታዴዎስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tādewos</persName>
+                <persName xml:lang="en">Thaddeus</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

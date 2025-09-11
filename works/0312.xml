@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0312" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርዓዊ፡ ክርስቶስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marʿāwi Krəstos</title>
+        <title corresp="#t1" xml:lang="en">Image of Marʿāwi Krəstos</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0312/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">159</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ ሥሉስ፡ ቅዱስ፡ ወበስመ፡ አምላክ፡ ዋሕድ፨</l>
+            <l n="2">ድርሳነ፡ መልክእከ፡ ትጸግወኒ፡ ለአብድ፨</l>
+            <l n="3">መርዓዊ፡ ክርስቶስ፡ ፈጻሜ፡ ፈቃድ፨</l>
+            <l n="4">ዳዊት፡ በከመ፡ ይቤ፡ ኢትኅድገኒ፡ ለባዕድ፨</l>
+            <l n="5">እስከ፡ እነግሮ፡ መዝራዕትከ፡ ለዘይመጽእ፡ ትወልድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ስመ፡ ክርስቶስ፡ ዘተቶስሐ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ጸሊም፡ እንተ፡ እመጠኑ፡ ኖኀ፨</l>
+            <l n="3">መርዓዊ፡ ክርስቶስ፡ ዜናከ፡ እስከ፡ አጽናፈ፡ ዓለም፡ በጽሐ፨</l>
+            <l n="4">አስተስሪ፡ ኀጢአትየ፡ ወወሀበኒ፡ ንስሓ፨</l>
+            <l n="5">እስመ፡ እምንእስየ፡ ጌጋይየ፡ ብዝኀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ለመቃብረ፡ ክርስቶስ፡ አምሳሊሁ፨</l>
+            <l n="2">ሕይወተ፡ ሥጋ፡ ወነፍስ፡ እስመ፡ ይውሕዝ፡ ዲቤሁ፨</l>
+            <l n="3">መርዓዊ፡ ክርስቶስ፡ ይምጻእ፡ ለሐውጾትነ፡ ናሁ፨</l>
+            <l n="4">እንዘ፡ ሉቃስ፡ የሐውር፡ ቅድሜሁ፨</l>
+            <l n="5">ወመርቆሬዎስ፡ ይተሉ፡ ድኅሬሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ በጽዋዔ፡ ወበክላህ፨</l>
+            <l n="2">እንዘ፡ ነገሩ፡ ኅዳጥ፡ ወአኮ፡ ብዙኅ፨</l>
+            <l n="3">መርዓዊ፡ ክርስቶስ፡ አቡነ፡ እንበለ፡ ኵነኔ፡ ወፍትሕ፨</l>
+            <l n="4">ሀበነ፡ ለደቂቅከ፡ ንዋየ፡ በረከት፡ ንጹሕ፨</l>
+            <l n="5">ስመ፡ ለውሂብ፡ እዴከ፡ ስፉሕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ስብሐት፡ ይደሉ፡ ለአምላኪየ፡ ክርስቶስ፨</l>
+            <l n="2">ዘአለበወኒ፡ ዘንተ፡ ስብሐተ፡ ገብሩ፡ ቅዱስ፨</l>
+            <l n="3">መርዓዊ፡ ክርስቶስ፡ ሀበኒ፡ እምዚአከ፡ ልብስ፨</l>
+            <l n="4">ወኢታርኅቀኒ፡ እመንበርከ፡ ሐዲስ፨</l>
+            <l n="5">እስመ፡ ብየ፡ ክብር፡ ወብየ፡ ሞገስ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="marawi-krestos">
+                <persName xml:lang="gez">መርዓዊ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Marʿāwi Krəstos</persName>
+                <persName xml:lang="en">Marʿāwi Krəstos</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">103</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

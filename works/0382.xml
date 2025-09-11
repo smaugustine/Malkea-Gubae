@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0382" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዳዊት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Dāwit</title>
+        <title corresp="#t1" xml:lang="en">Image of David</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0382/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ድኅረ፡ ኵሎሙ፡ አኃዊከ፨</l>
+            <l n="2">ወለልደትከ፡ ትለድ፡ ወላዲ፡ አማልክት፡ አምላክ፨</l>
+            <l n="3">መሠረተ፡ መንግሥት፡ ዳዊት፡ ወልበ፡ ፈጣሪ፡ ልብከ፨</l>
+            <l n="4">ባርከኒ፡ ባርከኒ፡ ከመ፡ እግርከ፡ ስመከ፨</l>
+            <l n="5">እስመ፡ መርገም፡ ይትረገም፡ በቡሩክ፡ ቃልከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርተ፡ ርእስከ፡ ሠርጐ፡ ርእስ፨</l>
+            <l n="2">ምስለ፡ ገጽከ፡ ቅዱስ፨</l>
+            <l n="3">ትሑተ፡ ልቡና፡ ዳዊት፡ እንዘ፡ ላዕለ፡ ነገሥት፡ ንጉሥ፨</l>
+            <l n="4">ተወልደት፡ እምከርሥከ፡ ዳዊት፡ ከርሥ፨</l>
+            <l n="5">ብሉየ፡ ልደት፡ ትለድ፡ በልደት፡ ሐዲስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ውስተ፡ ኬብሮን፡ ርስቱ፨</l>
+            <l n="2">ለአበ፡ አቡከ፡ ካሌብ፡ እንተ፡ አጥረያ፡ በቀስቱ፨</l>
+            <l n="3">እግዚአብሔር፡ ይትባረክ፡ ዘመንግሥትከ፡ መንግሥቱ፨</l>
+            <l n="4">ዳዊት፡ ድኅረ፡ ተነሥተ፡ ሕንጻ፡ ቤተ፡ ሥጋከ፡ ዝንቱ፨</l>
+            <l n="5">እስመ፡ ለክርስቶስ፡ ለቤትከ፡ ቤቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ኦእግዚአብሔር፡ ሉአ፡ ምሕረት፡ ወአስተርእዮ፨</l>
+            <l n="2">ለዳዊት፡ ልብከ፡ እንተ፡ ሰረይከ፡ ጌጋዮ፨</l>
+            <l n="3">እንዘ፡ ይብል፡ አበስኩ፡ ለቀቲለ፡ ሥርዓት፡ ኦርዮ፨</l>
+            <l n="4">መሐረኒ፡ እምሕር፡ ከማሁ፡ ለምሕረትከ፡ ዕበዮ፨</l>
+            <l n="5">ለእለ፡ በተስፋ፡ ሀለዉ፡ ወብዙኅ፡ ጸልዮ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="david">
+                <persName xml:lang="gez">ዳዊት፡</persName>
+                <persName xml:lang="gez" type="normalized">Dāwit</persName>
+                <persName xml:lang="en">David</persName>
+                <trait type="category"><desc>prophet</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

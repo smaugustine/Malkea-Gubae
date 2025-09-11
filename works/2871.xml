@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2871" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርቆሬዎስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marqorewos</title>
+        <title corresp="#t1" xml:lang="en">Image of Mercurius</title>
+        
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ካልእ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Marqorewos Kāləʾ</title>
+        <title corresp="#t2" xml:lang="en">Second Image of Mercurius</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2871/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="ADMY002">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-002</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>87rb-88vb</locus>
+          </witness>
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>150rb-151va</locus>
+          </witness>
+          
+          <witness xml:id="BNFabb194">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 194</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>120r-123v</locus>
+          </witness>
+          
+          <witness xml:id="CBLw949">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dublin</settlement>
+                <repository>Chester Beatty Library</repository>
+                <idno>W.949</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>82b-85a</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">152</citedRange>
+            </biblStruct>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">168</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘባሕርየ፡ ሞገስ፡ አክሊሉ፨</l>
+            <l n="2">ለሥዕርተ፡ ርእስከ፡ ሰላም፡ ወለርእስከ፡ መብቋሉ፨</l>
+            <l n="3">መርቆሬዎስ፡ እንብብ፡አንብብ፡ ውዳሴ፡ መልክዕከ፡ በበ፡ አምሳሉ፨</l>
+            <l n="4">ከመ፡ ያጥብዕ፡ ሕሊናትየ፡ በእዘዘ፡ ሥልጣኑ፡ ወኀይሉ፨</l>
+            <l n="5">መንፈሰ፡ ረድኤትከ፡ ይምጻእ፡ እምሰማይ፡ ዘላዕሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለገጽከ፡ ወለቀራንብቲከ፡ በአኅብሮ፨</l>
+            <l n="2">ለአዕይንቲከ፡ ሰላም፡ ስንእዋነ፡ ምክር፡ ጊዜ፡ ነጽሮ፨</l>
+            <l n="3">መርቆሬዎስ፡ ሰማዕት፡ ዕጉሠ፡ ሕማም፡ ወተፅዕሮ፨</l>
+            <l n="4">ሀበኒ፡ ቃለ፡ ጥበብ፡ ወጸግወኒ፡ አእምሮ፨</l>
+            <l n="5">በርእሰ፡ ልብየ፡ ዘልፈ፡ ይረሲ፡ ማኅደሮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ በመንፈሳዊ፡ ጽዋዔ፨</l>
+            <l n="2">ለመቃብረከ፡ ሰላም፡ ዘትጸንሕ፡ ተስፋ፡ ትንሣኤ፨</l>
+            <l n="3">መርቆሬዎስ፡ ዘኮንከ፡ ኵነኔ፡ ኃጥአን፡ መዋኤ፨</l>
+            <l n="4">ተወከፍ፡ ዘንተ፡ ማኅሌትየ፡ መጠነ፡ ክልኤቱ፡ ሱባዔ፨</l>
+            <l n="5">በቅድመ፡ ዛቲ፡ ቅድስት፡ ነባቢት፡ ጉባኤ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mercurius">
+                <persName xml:lang="gez">መርቆሬዎስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Marqorewos</persName>
+                <persName xml:lang="en">Mercurius</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0547" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፊቅጦር፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Fiqṭor</title>
+        <title corresp="#t1" xml:lang="en">Image of Fiqṭor</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0547/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">85</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ስቁል፡ ለቤዛ፡ አሐዱ፡ አዳም፨</l>
+            <l n="2">ውዳሴ፡ መልክእከ፡ እጽሐፍ፡ በልሳንየ፡ ቀለም፨</l>
+            <l n="3">ግብጻዊ፡ ፊቅጦር፡ እምከመ፡ ወጠንኩ፡ ዮም፨</l>
+            <l n="4">ኩነኒ፡ ኀይለ፡ ድካምየ፡ እስከ፡ እፌጽም፨</l>
+            <l n="5">እስመ፡ አንተ፡ ኃያል፡ ወአነ፡ ድኩም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘፊደላቲሁ፡ አርባዕቱ፨</l>
+            <l n="2">ከመ፡ ስመ፡ እግዚእ፡ ኢየሱስ፡ ወስመ፡ ማርያም፡ ወላዲቱ፨</l>
+            <l n="3">ቤተ፡ ክርስቲያን፡ መርዓት፡ ትዌድሰከ፡ ለለ፡ ዕለቱ፨</l>
+            <l n="4">ፊቅጦር፡ ወልድ፡ ለአምላክ፡ መጋቤ፡ ቤቱ፨</l>
+            <l n="5">በሥርዓት፡ ወሕግ፡ ፅሙድ፡ ውእቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ሰላም፡ ለእስትንፋስከ፡ ወለጕርዔከ፡ መዓርዒር፨</l>
+            <l n="2">ወለክሳድከ፡ ጽኑዕ፡ በትእዛዘ፡ ክርስቶስ፡ መምህር፨</l>
+            <l n="3">ፊቅጦር፡ ጻድቅ፡ በጸሎትከ፡ ሐጹር፨</l>
+            <l n="4">ዘተኦደት፡ እምኵለሄ፡ ኢትዮጵያ፡ ሀገር፨</l>
+            <l n="5">ትዌድሰከ፡ በሐዋዝ፡ መዝሙር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="22">
+            
+            <l n="1">ሰላም፡ ለመከየድከ፡ ኢትዮጵያ፡ ዘፈለሳ፨</l>
+            <l n="2">ከመ፡ ጳውሎስ፡ አሣዕነ፡ እንበለ፡ ይኅሥሣ፨</l>
+            <l n="3">ፊቅጦር፡ ሀበኒ፡ እምዘመነ፡ ኤልያስ፡ ስሳ፨</l>
+            <l n="4">ለወልድከሰ፡ አዝማናቲሁ፡ ሠላሳ፨</l>
+            <l n="5">ወኢኮኖ፡ አርብዓ፡ ወኃምሳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ በእደ፡ ሱራፊ፡ ቀሲስ፨</l>
+            <l n="2">አመ፡ ዐሡሩ፡ ወሰብዑ፡ ለወርኀ፡ ታኅሣሥ፨</l>
+            <l n="3">አመ፡ ፈለስከ፡ ፊቅጦር፡ እምነ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="4">ወመጽኡ፡ ለቀበላከ፡ በቃለ፡ ማሕሌት፡ ሐዲስ፨</l>
+            <l n="5">መዘምር፡ አሳፍ፡ ወዳዊት፡ ንጉሥ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ በቤተ፡ ማርያም፡ ድንግል፨</l>
+            <l n="2">ከመ፡ ቅጽበተ፡ ዐይን፡ ዘኮነት፡ አራቂተ፡ ኀይል፨</l>
+            <l n="3">ፊቅጦር፡ ጻድቅ፡ ጸሓፌ፡ ሐዲስ፡ ወንጌል፨</l>
+            <l n="4">ሀበኒ፡ እግዚኦ፡ በረከተከ፡ በቃለ፡ ሰላም፡ ወሣህል፨</l>
+            <l n="5">እስመ፡ ጸሎቱ፡ ለጻድቅ፡ ታድኅን፡ እምሀጕል፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="fiqtor">
+                <persName xml:lang="gez">ፊቅጦር፡</persName>
+                <persName xml:lang="gez" type="normalized">Fiqṭor</persName>
+                <persName xml:lang="en">Fiqṭor</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

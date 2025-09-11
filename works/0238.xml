@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0238" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አበክረዙን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAbakərazun</title>
+        <title corresp="#t1" xml:lang="en">Image of Aba Kragon</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0238/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እወጥን፡ ዜና፡ ውዳሴከ፡ በብዙኅ፡ ጽሂቅ፨</l>
+            <l n="2">ዘይኄይስ፡ ጥቀ፡ እመእላፍ፡ ወርቅ፨</l>
+            <l n="3">አበክረዙን፡ ኅሩይ፡ አማዕተ፡ ኢየሱስ፡ ጻድቅ፨</l>
+            <l n="4">ከመ፡ ትትራድአኒ፡ ነዓ፡ እስከ፡ እፌጽም፡ በጥንቁቅ፨</l>
+            <l n="5">ወኢይስሐቀኒ፡ ፀርየ፡ ልማዱ፡ ሥላቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለቀጸላከ፡ ከመ፡ ቀሥተ፡ ደመና፡ አምሳሉ፨</l>
+            <l n="2">ወመንክር፡ ሥነ፡ ጸዳሉ፨</l>
+            <l n="3">መኑ፡ ከማከ፡ መዋኤ፡ ሰይጣን፡ በገድሉ፨</l>
+            <l n="4">ተማሕፀንኩ፡ በቀጸላከ፡ ኀበ፡ ስእለትየ፡ ጽሉ፨</l>
+            <l n="5">አበክረዙን፡ ምስሌየ፡ ኀበ፡ ሖርኩ፡ ሀሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ቀጸላ፡ ርእስከ፡ ሐዋዝ፡ ከመ፡ ቀሥተ፡ ደመና፡ ግቡር፨</l>
+            <l n="2">ዘይበርቅ፡ ሥኑ፡ እምሥነ፡ አሚር፨</l>
+            <l n="3">አበክረዙን፡ መዋኢ፡ ተወካፌ፡ ሕማም፡ ወጻዕር፨</l>
+            <l n="4">ተማሕፀንኩ፡ በቀጸላከ፡ ተኖለወኒ፡ በፍቅር፨</l>
+            <l n="5">ከመ፡ እንተ፡ አብ፡ ለወልዱ፡ ዘበኵር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለሥዕርትከ፡ ጸሊም፡ ከመ፡ ቋዕ፨</l>
+            <l n="2">ዘጠለለ፡ በወንጌላዊት፡ ቅብእ፨</l>
+            <l n="3">አበክረዙን፡ ብፁዕ፡ ሰማዕተ፡ ኢየሱስ፡ እግዚእ፨</l>
+            <l n="4">ተማሕፀንኩ፡ በሥዕርትከ፡ እምሰይጣን፡ ጸብእ፨</l>
+            <l n="5">ወኢትኅድገኒ፡ ይሥኀጠኒ፡ ሰብእ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="73">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ ለለ፡ አሐዱ፡ አሐዱ፨</l>
+            <l n="2">ዘለሐኮሙ፡ ለእግዚአብሔር፡ እዱ፨</l>
+            <l n="3">አበክረዙን፡ ኅሩይ፡ ምዑዘ፡ ምግባር፡ ዘእምናርዱ፨</l>
+            <l n="4">በመልክእከ፡ ተማሕፀንኩ፡ በአክፋነ፡ ንጽሕከ፡ እዕዱ፨</l>
+            <l n="5">እምቀልቀለ፡ ደይን፡ ዘይፈልሕ፡ ሞገዱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="abakragon">
+                <persName xml:lang="gez">አበክረዙን፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAbakərazun</persName>
+                <persName xml:lang="en">Aba Kragon</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

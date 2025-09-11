@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe6176" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጻድቃን፡ ዘመጠራ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṣādqān za-Maṭarā</title>
+        <title corresp="#t1" xml:lang="en">Image of the Righteous of Maṭarā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/6176/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">216</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ ሥሉስ፡ ቅዱስ፡ ማሕድ፡ ባሕርይ፡ ከሃሊ፨</l>
+            <l n="2">ዘኢየሐጽጽ፡ ምንግሥቱ፡ ወዘኢይበሊ፨</l>
+            <l n="3">ዝክረ፡ ውዳሴክሙ፡ ጻድቃን፡ ዘበበ፡ ጾታሁ፡ አሐሊ፨</l>
+            <l n="4">ያንቅሐኒ፡ ወያንሥአኒ፡ እምንዋመ፡ ሀኬት፡ ማህጐሊ፨</l>
+            <l n="5">ጰራቅሊጦስ፡ ስቴ፡ ጽድቅ፡ ዘዕጹብ፡ መቅለሊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለንግደትክሙ፡ እምድረ፡ ሮምያ፡ ርኁቅ፨</l>
+            <l n="2">ኀበ፡ አዜባዊት፡ ሀገር፡ ዐውደ፡ ዘውራቲሃ፡ ምሥራቅ፨</l>
+            <l n="3">ማኅበረ፡ ኖምና፡ ጻድቃን፡ ተለውተ፡ ክርስቶስ፡ ሊቅ፨</l>
+            <l n="4">ጸግዉኒ፡ አጋእዝትየ፡ ኅሊና፡ መንፈስ፡ ዕዉቅ፨</l>
+            <l n="5">ለዝክረ፡ ስምክሙ፡ ሐዋዝ፡ አሐሊ፡ በጽድቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ኀበ፡ ዐምደ፡ ወርቅ፡ ዘተጽሕፈ፨</l>
+            <l n="2">ማኅበረ፡ ኖምና፡ ጻድቃን፡ ዘትትኌለቁ፡ አእላፈ፨</l>
+            <l n="3">እምኔክሙ፡ አሐዱ፡ ሶበ፡ በአሕጻ፡ ተነድፈ፨</l>
+            <l n="4">አምሳለ፡ አንስርት፡ አስሪፆ፡ አክናፈ፨</l>
+            <l n="5">ብሂለ፡ ኖምኩ፡ ኑሙ፡ ተሰምዐ፡ አጽናፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለመቃብሪክሙ፡ በእደ፡ ሰብእ፡ ዘኢተከርየ፨</l>
+            <l n="2">ኀበ፡ በአታት፡ ወጾላዕት፡ ለለ፡ ዘቆምክሙ፡ ህየ፨</l>
+            <l n="3">ዜና፡ ዝኅርክሙ፡ ጻድቃን፡ ዘበምድረ፡ አግዓዚ፡ ተሠምየ፨</l>
+            <l n="4">ቦ፡ እምኔሁ፡ ዘይፌውስ፡ ድዉየ፨</l>
+            <l n="5">ወቦ፡ በረድኤቱ፡ ዘአውፅአ፡ ማየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ ለክሙ፡ ጻድቃን፡ ዘቅድም፨</l>
+            <l n="2">እምአዳም፡ ወእለ፡ ኖምና፡ እስከ፡ መዋዕሊነ፡ ዮም፨</l>
+            <l n="3">ወእለ፡ ትመጽኡ፡ እምዮም፡ እስከ፡ ኅልቀተዝ፡ ዓለም፨</l>
+            <l n="4">ጸሐፉ፡ ስመ፡ ዚአየ፡ በደመ፡ በግዑ፡ ቀለም፨</l>
+            <l n="5">መንገለ፡ ተጽሕፈ፡ ዘዚአክሙ፡ ስም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">አምኃ፡ ሰላም፡ ኅዳጠ፡ ለመልክእክሙ፡ አቅረብኩ፨</l>
+            <l n="2">አምጣነ፡ ዘብየ፡ ክህልኩ፨</l>
+            <l n="3">ነገረ፡ ዜናክሙ፡ ጻድቃን፡ እመ፡ ኢያሠነይኩ፨</l>
+            <l n="4">ወለእመኒ፡ በድካም፡ አቅረብኩ፨</l>
+            <l n="5">ሞገሰ፡ ጻማክሙ፡ አበውየ፡ ዲቤሁ፡ ወስኩ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="sad-matara">
+                <persName xml:lang="gez">ጻድቃን፡ ዘመጠራ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṣādqān za-Maṭarā</persName>
+                <persName xml:lang="en">The Righteous of Maṭarā</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Raineri1980" corresp="http://zotero.org/groups/5599348/items/DBC6MGSV"><analytic><title level="a">Vita dei giusti: missionari dell'Etiopia nel sesto secolo: varianti e inno</title><author><forename>Osvaldo</forename><surname>Raineri</surname></author></analytic><monogr><title level="j">Ephemerides Carmeliticae</title><imprint><biblScope unit="volume">31</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page">377-413</biblScope><date>1980</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

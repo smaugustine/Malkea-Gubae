@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0381" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ንዌጥን፡ ዘንተ፡ ስእለታተ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Nəweṭṭən Zanta Səʾlatāta</title>
+        <title corresp="#t1" xml:lang="en">“We Begin These Petitions…”</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0381/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ንዌጥን፡ ዘንተ፡ ስእለታተ፡ በስመ፡ እግዚአብሔር፡ ፈጣሪ፨</l>
+            <l n="2">ሕያው፡ ተናጋሪ፨</l>
+            <l n="3">ከመ፡ ውስተ፡ ዓለም፡ ይወርድ፡ አመ፡ መዋዕል፡ ደኃሪ፨</l>
+            <l n="4">እንተ፡ ተሰብከ፡ ቀዲሙ፡ በልሳነ፡ ዳዊት፡ ዘማሪ፨</l>
+            <l n="5">ወበቃለ፡ ነቢይ፡ ዮናስ፡ ዘውኅጦ፡ አንበሪ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ኦዘፈነውኮ፡ ለገብርኤል፡ ቅድመ፨</l>
+            <l n="2">ከመ፡ ይዜኑ፡ ምጽአተከ፡ ወሕዋፄከ፡ ዓለመ፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ እስእለከ፡ ፍጹመ፨</l>
+            <l n="4">ከመ፡ ያስምዐኒ፡ ነገረ፡ ፍሥሓ፡ ዳግመ፨</l>
+            <l n="5">ውእቱ፡ መልአክ፡ ቦና፡ ዛሬት፡ ዘቆመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ኵሉ፡ ሊቀ፡ ካህናት፡ ኃጢአተ፡ ሕዝቡ፡ ብዙኀ፨</l>
+            <l n="2">ከመ፡ ያስተስሪ፡ ይነዝ፡ ደመ፡ እጐልት፡ ቀይሐ፨</l>
+            <l n="3">ሊቀ፡ ካህናቲነሰ፡ በዘያነጽሕ፡ ዘረስሐ፨</l>
+            <l n="4">ቅዱሳት፡ አእዳዊሁ፡ አመ፡ ለሕማም፡ ሰፍሐ፨</l>
+            <l n="5">አዕርገ፡ ርእሶ፡ መሥዋዕት፡ ንጹሐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="56">
+            
+            <l n="1">ፍቅደ፡ ስድስቱ፡ ስዕለታት፡ ወኈልቈ፡ ፯ሱባኤ፨</l>
+            <l n="2">ናሁ፡ አቅረብኩ፡ አምኃከ፡ እምሕፀፀልብ፡ ወዝንጋዔ፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ እክለ፡ ሕይወት፡ ወትንሣኤ፨</l>
+            <l n="4">አርኢ፡ በላዕሌየ፡ አድኅኖተከ፡ በቋዔ፨</l>
+            <l n="5">ወበኀይልከ፡ ጽኑዕ፡ ኩነኒ፡ መጽንዔ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="jesus">
+                <persName xml:lang="gez">ኢየሱስ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyasus Krəstos</persName>
+                <persName xml:lang="en">Jesus Christ</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

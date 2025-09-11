@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0402" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮናስ፡ ብፁዕ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yonās Bəḍuʿ</title>
+        <title corresp="#t1" xml:lang="en">Image of Yonās the Blessed</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0402/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="GG076">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-076</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>56va-61vb, IIIr</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">294</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ ሥሉስ፡ ቅዱስ፡ ዘበተዋሕዶ፡ ኅቡረ፨</l>
+            <l n="2">ዓለማተ፡ ኵሎ፡ እንተ፡ በቅጽበት፡ ሣረረ፨</l>
+            <l n="3">ጸግወኒ፡ ዮናስ፡ ዘውዳሴከ፡ ምንሃረ፨</l>
+            <l n="4">ልሳነ፡ መልአክ፡ እሳታዊ፡ ከመ፡ ኪያኪ፡ መሀረ፨</l>
+            <l n="5">ንጽሐ፡ ኅሊና፡ ወገድል፡ ወዓዲ፡ መዝሙረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">በስመ፡ ሥሉስ፡ ዋሕድ፡ አኃዜ፡ ኵሉ፡ ባሕቲቱ፨</l>
+            <l n="2">ዘእምኀበ፡ አልቦ፡ አቀመ፡ ሥዕለ፡ ሰሌዳ፡ ሰብዓቱ፨</l>
+            <l n="3">አርእየኒ፡ ዮናስ፡ ለክብርከ፡ ሥነ፡ ማኅቶቱ፨</l>
+            <l n="4">ወሥቅየኒ፡ ማየ፡ ልቡና፡ እምፈለገ፡ ብርሃን፡ አርባዕቱ፨</l>
+            <l n="5">ወጸጋ፡ ዚአከ፡ ሀበኒ፡ በከንቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">በስመ፡ ሥሉስ፡ ቅዱስ፡ ዋሕድ፡ ዘመንፈሰ፡ ሕይወት፡ ነፍሐ፨</l>
+            <l n="2">በትእዛዘ፡ ቃሉ፡ ግሩም፡ እንተ፡ ተከለ፡ ገሀሀ፨</l>
+            <l n="3">በአድያመ፡ ጽልመት፡ ዮናስ፡ ዘተመስልከ፡ ጽባሐ፨</l>
+            <l n="4">ከመ፡ እንግር፡ በበ፡ ምንታዌ፡ ተአምሪከ፡ ብዙኀ፨</l>
+            <l n="5">ውስተ፡ ልበ፡ ዕንቡዝ፡ ወልድከ፡ አዋኪ፡ ፍሥሓ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ብዕለ፡ ጸጋ፡ አምላክ፡ ልዑል፨</l>
+            <l n="2">እንተ፡ በዲቤሁ፡ ወረደ፡ በኈልቈ፡ ሠለስቱ፡ ፊደል፨</l>
+            <l n="3">ዘበመነፈስ፡ ቅዱስ፡ ዮናስ፡ ሥርግወ፡ አክናፍ፡ ቀሊል፨</l>
+            <l n="4">ነዓ፡ ነዓ፡ እምደብረ፡ ሣህል፡ ደወል፨</l>
+            <l n="5">ወነዓ፡ እምሕፃዛእትከ፡ ሀገረ፡ መስቀል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለዐጽፍከ፡ ጸዳለ፡ ትሩፋት፡ ዘሰፈፎ፨</l>
+            <l n="2">ወግማኔ፡ ርስሐት፡ ዘኢለከፎ፨</l>
+            <l n="3">አብአኒ፡ ዮናስ፡ በቤተ፡ ትፍሥሕትከ፡ ለተሳትፎ፨</l>
+            <l n="4">ለሥጋየ፡ ወልደ፡ መሬት፡ አመ፡ ወርኀ፡ ወርዙት፡ ኀለፎ፨</l>
+            <l n="5">ወአመ፡ ለገዪስ፡ እዴሎ፡ እምዓለም፡ ግልፎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">ኅዳጠ፡ ጸሪቀ፡ ዘእምኅኩከ፡ ለእንግዳ፨</l>
+            <l n="2">እመዝገበ፡ ኀጥእት፡ ልብየ፡ ቅጽረ፡ ተፅናሳት፡ ዘየዐውዳ፨</l>
+            <l n="3">ረሲየከ፡ ዘንተ፡ መባአ፡ ነዳይት፡ ዕቤርተ፡ ኤልዳ፨</l>
+            <l n="4">ሀበኒ፡ ዮናስ፡ ቡራኬከ፡ ለጠለ፡ ሰማያት፡ እምድዳ፨</l>
+            <l n="5">ከመ፡ ወሀቦ፡ ያዕቆብ፡ ለወልዱ፡ ይሁዳ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="yonas-bur">
+                <persName xml:lang="gez">ዮናስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yonās</persName>
+                <persName xml:lang="en">Yonās</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">185</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

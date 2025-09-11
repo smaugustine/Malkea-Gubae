@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2735" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዐቢየ፡ እግዚእ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʿAbiya ʾƎgziʾ</title>
+        <title corresp="#t1" xml:lang="en">Image of ʿAbiya ʾƎgziʾ</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2735/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">19</citedRange>
+            </biblStruct>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">14</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሥሉስ፡ ቅዱስ፡ እለ፡ ዕሩያን፡ በመንበር፨</l>
+            <l n="2">ዜና፡ ውዳሴሁ፡ ንግሩኒ፡ ለዐቢየ፡ እግዚእ፡ ክቡር፨</l>
+            <l n="3">እስመ፡ እምኔክሙ፡ ጸጋ፡ ወእምኔክሙ፡ ምክር፨</l>
+            <l n="4">እንበለ፡ ምክርክሙሰ፡ አመ፡ ባህለ፡ ዕጹብ፡ ነገር፨</l>
+            <l n="5">እምኢተመሰለ፡ ዮሐንስ፡ በንስር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘፊደለ፡ አሌፍ፡ ጥንቱ፨</l>
+            <l n="2">ወዘፍጻሜሁ፡ በዝንቱ፨</l>
+            <l n="3">ዐቢየ፡ እግዚእ፡ ጴጥሮስ፡ ለክርስቶስ፡ ኰኵሐ፡ ትእምርቱ፨</l>
+            <l n="4">ዘተሐንጸ፡ በላዕሌከ፡ ጽኑዐ፡ መሠረት፡ ውእቱ፨</l>
+            <l n="5">ወቅድመ፡ ነፋሳት፡ ይቀውም፡ ሶበ፡ ነፍሑ፡ ቦቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘዕሩይ፡ መጠና፨</l>
+            <l n="2">ምስለ፡ ደብረ፡ ታቦር፡ ወደብረ፡ ሲና፨</l>
+            <l n="3">ዐቢየ፡ እግዚእ፡ ነዓ፡ ምስለ፡ ገብርኤል፡ መልአከ፡ ዳኅና፨</l>
+            <l n="4">ታብዕለኒ፡ በንዋዮሙ፡ ውዱሰ፡ ነገር፡ ወዜና፨</l>
+            <l n="5">ለኢየሉጣ፡ ሰማዕት፡ ወቂርቆስ፡ ሕፃና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="54">
+            
+            <l n="1">ኦዐቢየ፡ እግዚእ፡ ንዋየ፡ ልቡና፡ ማሕሌተ፨</l>
+            <l n="2">አምጣነ፡ አቅረብኩ፡ ለከ፡ ከመ፡ ይኩንከ፡ ጸባሕተ፨</l>
+            <l n="3">በእንተ፡ ማርያም፡ ድንግል፡ እንተ፡ አግመረት፡ እሳተ፨</l>
+            <l n="4">ልቡናከ፡ ይዘከረኒ፡ ኵሎ፡ ዕለተ፨</l>
+            <l n="5">ንሣእ፡ ንሣእ፡ ወተወከፍ፡ አንተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="abiya-egzi">
+                <persName xml:lang="gez">ዐቢየ፡ እግዚእ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʿAbiya ʾƎgziʾ</persName>
+                <persName xml:lang="en">ʿAbiya ʾƎgziʾ</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">2</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

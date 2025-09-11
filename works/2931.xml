@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2931" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፅንሰቱ፡ ወልደቱ፡ ለዮሐንስ፡ መጥምቅ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ḍənsatu wa-Lədatu la-Yoḥannəs Maṭməq</title>
+        <title corresp="#t1" xml:lang="en">Image of the Conception and Birth of John the Baptist</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2931/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">212</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ነገረ፡ ፅንሰትከ፡ ወልደትከ፡ ሶበ፡ ጸውዐተኒ፡ ፈቃድ፨</l>
+            <l n="2">በቃል፡ ኅፁፅ፡ ወበንባብ፡ ውሑድ፨</l>
+            <l n="3">አኀዝኩ፡ እንግር፡ ውስተ፡ ወንጌላዊት፡ አውድ፨</l>
+            <l n="4">ዮሐንስ፡ ፍሥሐ፡ አስሳሌ፡ ሐዘን፡ ክቡድ፨</l>
+            <l n="5">ወሐዋርያሁ፡ ዮሐንስ፡ ለክርስቶስ፡ ወልድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለተበስሮ፡ ፅንስከ፡ በየማነ፡ መስዕ፡ ዘኮነ፨</l>
+            <l n="2">እስመ፡ አልጸቀ፡ ጊዜሁ፡ ለዘይኴንን፡ የማነ፨</l>
+            <l n="3">ወለልደትከ፡ ሰላም፡ ዘአስተፍሥሐ፡ መካነ፨</l>
+            <l n="4">ዮሐንስ፡ መምህር፡ እንተ፡ ትሜህር፡ መድኅነ፨</l>
+            <l n="5">ወማኅቶተ፡ ገዳም፡ ዘታበርህ፡ ጽልመተ፡ ክዱነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለፀንሰትከ፡ እምናዝሬት፡ ዓጸዳ፨</l>
+            <l n="2">ዘአስተናስዓ፡ ለማርያም፡ ለሐዊር፡ መንገለ፡ ዘመዳ፨</l>
+            <l n="3">ወለልደትከ፡ ሰላም፡ ዮሐንስ፡ ፈዳዬ፡ እዳ፨</l>
+            <l n="4">እንዘ፡ ያነክሩ፡ ለኢየሩሳሌም፡ ውሉዳ፨</l>
+            <l n="5">ዘተናገርዎ፡ በኵሉ፡ ይሁዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">በኍልቈ፡ ዓሥር፡ ወክልኤ፡ ደቂቀ፡ እስራኤል፡ ኵሎሙ፨</l>
+            <l n="2">በልብሰ፡ አዕናቍ፡ ከቡራን፡ እለ፡ ተጽሕፈ፡ ስሞሙ፨</l>
+            <l n="3">ዘአቅረብኩ፡ ለከ፡ ዮሐንስ፡ እንዘ፡ ንስቲተ፡ እጻሙ፨</l>
+            <l n="4">ተወከፍ፡ ሊተ፡ ሰላምየ፡ ከመ፡ ተወክፈ፡ ቀዲሙ፨</l>
+            <l n="5">ጸሪቀ፡ መበለት፡ እግዚእከ፡ ኢየሱስ፡ ስሙ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዮሐንስ፡ ስቡሐ፡ ልደት፡ ወዜና፨</l>
+            <l n="2">ሰላም፡ ለከ፡ ዮሐንስ፡ ለመካን፡ ፈታሔ፡ ማሕፀና፨</l>
+            <l n="3">ዕሤተ፡ ሰላምየ፡ ዝንቱ፡ እማዕምቀ፡ ልብ፡ ወኅሊና፨</l>
+            <l n="4">ሐሊ፡ ሊተ፡ ሠናያተ፡ እስመ፡ አዘዘት፡ ቀኖና፨</l>
+            <l n="5">ሐልዮ፡ ሠናይት፡ ለፍቁር፡ ውስተ፡ ቤት፡ ወፍና፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="john-baptist">
+                <persName xml:lang="gez">ዮሐንስ፡ መጥምቅ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannəs Maṭməq</persName>
+                <persName xml:lang="en">John the Baptist</persName>
+                <trait type="category"><desc>prophet</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

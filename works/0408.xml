@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0408" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መዝገበ፡ ሥላሴ፡ ዘጉንደ፡ ጉንዴ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Mazgaba Śǝllāse za-Gunda Gunde</title>
+        <title corresp="#t1" xml:lang="en">Image of Mazgaba Śǝllāse I of Gunda Gunde</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0408/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">186</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ወጠንኩ፡ ሰላመ፡ መልክእከ፡ ዝንቱ፨</l>
+            <l n="2">ዘተበፅዐ፡ ሥነ፡ ርእየቱ፨</l>
+            <l n="3">መምህረ፡ ኀይለ፡ ቃል፡ ኩነኒ፡ መዝገበ፡ ሥላሴ፡ ባሕቱ፨</l>
+            <l n="4">ወማኅቶተ፡ ጸጋ፡ በተቅዋመ፡ ልብየ፡ አኅቱ፨</l>
+            <l n="5">ከመ፡ ገጸ፡ ነገር፡ እርአይ፡ ወእነጽር፡ ቦቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ጥዑም፡ ስምከ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ጥሉል፡ በጠለ፡ አርያም፡ ተስፋከ፨</l>
+            <l n="3">መዝገበ፡ ሥላሴ፡ ቄርሎስ፡ ምክሐ፡ እስክንድርያ፡ ዘኮንከ፨</l>
+            <l n="4">ባርከኒ፡ አብ፡ ለወልድከ፡ ዘወለደኒ፡ ጸጋከ፨</l>
+            <l n="5">ከመ፡ ርእሰ፡ ወልዱ፡ አብርሃም፡ ቀዳሚ፡ ባረከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በአፅፈ፡ ትሩፋት፡ ወገድል፨</l>
+            <l n="2">ወለመቃብሪከ፡ ባቲ፡ እንተ፡ ያስተርኢ፡ ኀይል፨</l>
+            <l n="3">መዝገበ፡ ሥላሴ፡ መምህር፡ ዘስብከትከ፡ ወንጌል፨</l>
+            <l n="4">አንብር፡ ብየ፡ ረድኤተከ፡ አምጻኤ፡ በረከት፡ ወሣህል፨</l>
+            <l n="5">ከመ፡ ዲበ፡ ካህን፡ ዮሴዕ፡ አንበረ፡ አክሊል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ለዕበይከ፡ ንጉሥ፡ አምኃ፡ ሰላም፡ አቅረብኩ፨</l>
+            <l n="2">መጥዐነ፡ ክህልኩ፨</l>
+            <l n="3">መዝገበ፡ አጋእዝት፡ ሥላሴ፡ እለ፡ ይትመለኩ፨</l>
+            <l n="4">ተወከፍ፡ ሊተ፡ ባሕቱ፡ እንዘ፡ ትብል፡ ሠመርኩ፨</l>
+            <l n="5">ጸሪቀ፡ መበለት፡ ከመ፡ ተወክፈ፡ ወልደ፡ አብ፡ ዝኩ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ መዝገበ፡ ሥላሴ፡ ዋሕደ፨</l>
+            <l n="2">ዘይሰበኩ፡ ገሀደ፨</l>
+            <l n="3">ሀብተ፡ ወልድናሁ፡ አፈድፈደ፡ መጠነ፡ ፈቀደ፨</l>
+            <l n="4">እምጸጋከ፡ ለዘተወልደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ መዝገበ፡ ሥላሴ፡ መልአክ፡ አመ፡ ያሌዕል፡ ማዕፅዶ፨</l>
+            <l n="2">ውሉደከ፡ ዕቀብ፡ በተዋሕዶ፨</l>
+            <l n="3">እምጾታ፡ ፍልጠት፡ ወተባዕዶ፨</l>
+            <l n="4">እስመ፡ አብ፡ የዐቅብ፡ ውሉዶ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mazgaba-sellase-i-gg">
+                <persName xml:lang="gez">መዝገበ፡ ሥላሴ፡ ዘጉንደ፡ ጉንዴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Mazgaba Śǝllāse za-Gunda Gunde</persName>
+                <persName xml:lang="en">Mazgaba Śǝllāse I of Gunda Gunde</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">114</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

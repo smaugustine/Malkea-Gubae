@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2983" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዲዮስቆሮስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Diyosqoros</title>
+        <title corresp="#t1" xml:lang="en">Image of Dioscorus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2983/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>173ra-176rb</locus>
+          </witness>
+          
+          <witness xml:id="BNFabb194">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 194</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>7r-15r</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">264</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ እንዘ፡ እብል፨</l>
+            <l n="2">ናሁ፡ ወጠንኩ፡ መዝሙረ፡ ማሕሌት፡ ወስኢል፨</l>
+            <l n="3">አውተረ፡ ውዳሴከ፡ እዝብጥ፡ በድኅንጻ፡ መንፈስ፡ ወቃል፨</l>
+            <l n="4">ዲዮስቆሮስ፡ አርትዕ፡ ልሳንየ፡ በዘዚአከ፡ ክሂል፨</l>
+            <l n="5">እስመ፡ ወልደ፡ አምላክ፡ አንተ፡ በጸጋ፡ ወሣህል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እምነ፡ ጸቃውዕ፡ ጥዑም፨</l>
+            <l n="2">ወቃለ፡ እማኄ፡ እተሉ፡ ለሥዕርትከ፡ ጸሊም፨</l>
+            <l n="3">ዲዮስቆሮስ፡ ጴጥሮስ፡ ጥበበ፡ ስሕተታ፡ ለሮም፨</l>
+            <l n="4">ሶበ፡ ወፅአት፡ እምትእዛዝከ፡ ወሥርዓትከ፡ እቁም፨</l>
+            <l n="5">ከፈለቶ፡ ለክርስቶስ፡ እምሥጋ፡ ወደም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ ለመንፈሰ፡ ጥበብ፡ መካኑ፨</l>
+            <l n="2">ወለገጽከ፡ እምወርኀ፡ ዘይኤድም፡ መልክአ፡ ሥኑ፨</l>
+            <l n="3">ዲዮስቆሮስ፡ ፀሓይ፡ ለዓለመ፡ ጽልመት፡ ብርሃኑ፨</l>
+            <l n="4">ኢይነጽሩ፡ ብርሃንከ፡ ዘዐይነ፡ ኅሊና፡ ከደኑ፨</l>
+            <l n="5">እንዘ፡ ቦሙ፡ አዕይንተ፡ ዕዉራን፡ ኮኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ሰላም፡ ለጽሕምከ፡ በእንተ፡ ሃይማኖት፡ ዘተነጽየ፨</l>
+            <l n="2">ወለመልክእከ፡ ፍሡሐት፡ አመ፡ ተወከፈ፡ ሥቃየ፨</l>
+            <l n="3">ዲዮስቆሮስ፡ ልዮን፡ ዘግዘትከ፡ ዐበየ፨</l>
+            <l n="4">ምስለ፡ ደቂቅከ፡ ነቡረ፡ በእበዱ፡ ኀበ፡ ኢይረክብ፡ ማየ፨</l>
+            <l n="5">እንዘ፡ ነቅዐ፡ ገነት፡ የኀድግ፡ ውስተ፡ በድው፡ ሳኰየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለመዝገበ፡ ሠናያት፡ ኅሊናከ፨</l>
+            <l n="2">ወለአማዑቲከ፡ በቅናት፡ በእንተ፡ ሃይማኖት፡ ዘተሀውከ፨</l>
+            <l n="3">ዲዮስቆሮስ፡ በሎ፡ ለእግዚአብሔር፡ አምላክከ፨</l>
+            <l n="4">ለምንት፡ በወርኀ፡ ምንዳቤ፡ ዘኢተሠሀል፡ ሕዝብከ፨</l>
+            <l n="5">አይቴ፡ ውእቱ፡ ዘትካት፡ ሣህልከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ አመ፡ ሳብዑ፡ ለመስከረም፨</l>
+            <l n="2">ወለበድነ፡ ሥጋከ፡ ዘይጸንሕ፡ ስብሐተ፡ ትንሣኤ፡ ዘገዳም፨</l>
+            <l n="3">ዲዮስቆሮስ፡ ሥመር፡ ከመ፡ ትበለኒ፡ ዮም፨</l>
+            <l n="4">ተንሥእ፡ ነዓ፡ ቅሩብየ፡ እስመ፡ ኀላፊ፡ ዝናም፨</l>
+            <l n="5">ታሕተ፡ ጽላሎተ፡ ኰኵሕ፡ አሀሉ፡ ቅሩበ፡ ጥቅም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ ክቡር፡ በበ፡ አስማቲሁ፡ ወፍቅዱ፨</l>
+            <l n="2">ናሁ፡ አቅረብኩ፡ አምኃ፡ ዘቀደምትየ፡ አውሐዱ፨</l>
+            <l n="3">ለሊቀ፡ ጳጳሳት፡ ቄርሎስ፡ ዲዮስቆሮስ፡ የማነ፡ እዱ፨</l>
+            <l n="4">ለኅርቱም፡ ገብርከ፡ ባርከኒ፡ በበረከተ፡ ቃል፡ አሐዱ፨</l>
+            <l n="5">ከመ፡ ባረኮ፡ አብርሃም፡ ለይስሐቅ፡ ወልዱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">በዓመት፡ ዐሥር፡ ምእት፡ ወአሐዱ፡ ምእት፡ ሰብዓ፡ ወስድስቱ፨</l>
+            <l n="2">ማኅበረ፡ ኬልቄዶን፡ አብዳን፡ እምአመ፡ ሰደድዎ፡ ሎቱ፨</l>
+            <l n="3">ተጽሕፈት፡ ዛቲ፡ ለዲዮስቆሮስ፡ ዜና፡ ስደቱ፨</l>
+            <l n="4">ለንጉሥ፡ ኢትዮጵያዊ፡ በሣልስ፡ ጉባኤ፡ መንግሥቱ፨</l>
+            <l n="5">በወርኀ፡ መጋቢት፡ በራብዕ፡ ዕለቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="dioscorus">
+                <persName xml:lang="gez">ዲዮስቆሮስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Diyosqoros</persName>
+                <persName xml:lang="en">Dioscorus</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

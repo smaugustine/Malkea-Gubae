@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0379" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፋሲለደስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Fāsiladas</title>
+        <title corresp="#t1" xml:lang="en">Image of Basilides</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0379/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="MAKM074">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Māy ʾAnbasā Kidāna Mǝḥrat</repository>
+                <idno>MAKM-074</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>62ra-67va</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">43</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እንተ፡ ቀደመ፡ ተጽሕፎ፨</l>
+            <l n="2">በኢየሩሳሌም፡ ዘላዕሉ፡ መካነ፡ ሐሤት፡ ወአዕርፎ፨</l>
+            <l n="3">ፋሲለደስ፡ መዋኢ፡ ዘመነንከ፡ አምልኮ፡ ግልፎ፨</l>
+            <l n="4">ሰላምየ፡ ረሲ፡ እግዚኦ፡ ለሰላምከ፡ ሱታፎ፨</l>
+            <l n="5">እስመ፡ ኵሎ፡ አሚረ፡ ኪያከ፡ እሴፎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ከመ፡ ደብረ፡ ይጾን፡ ዘተመሰለ፨</l>
+            <l n="2">እምነ፡ አርሞንኤም፡ ዘልፈ፡ ዘይትዌከፍ፡ ጠለ፨</l>
+            <l n="3">ፋሲለደስ፡ ሞጥቀኒ፡ በክንፈ፡ ሚካኤል፡ ላዕለ፨</l>
+            <l n="4">ወእመ፡ በዲቤየ፡ ሥዕርተ፡ ጌጋይ፡ በቈለ፨</l>
+            <l n="5">በግዕዘ፡ ክርዳድ፡ ምላሕ፡ ቅድመ፡ ያንኅ፡ እክለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ለበድነ፡ ሥጋከ፡ ዘዘገቦ፨</l>
+            <l n="2">ፈውሰ፡ ድዉያን፡ ነተቦ፨</l>
+            <l n="3">ፋሲለደስ፡ ዘጾርከ፡ ለአምላከ፡ ሰማይ፡ ማዕተቦ፨</l>
+            <l n="4">ለቃለ፡ አፉየ፡ ተወኪፈከ፡ ንባቦ፨</l>
+            <l n="5">ለገብርከ፡ ጸሐቅ፡ ከመ፡ ተሀብ፡ ዐስቦ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="basilides">
+                <persName xml:lang="gez">ፋሲለደስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Fāsiladas</persName>
+                <persName xml:lang="en">Basilides</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

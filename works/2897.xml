@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2897" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሐና፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ḥannā</title>
+        <title corresp="#t1" xml:lang="en">Image of Hanna</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2897/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLadd16215">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Additional 16215</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>98ra-103ra</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">178</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="thesis">
+              <analytic>
+                <title level="a">Appendix: Mälkǝ’a Mälkǝ’</title>
+                <author><name>Gezahegn Getachew</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">The Mälkǝ': Its Major Features and Source</title>
+                <author><name>Gezahegn Getachew</name></author>
+                <imprint>
+                  <pubPlace>Addis Ababa</pubPlace>
+                  <date>2000</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">33</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ እምዝክረ፡ ማሕሌት፡ አዳም፨</l>
+            <l n="2">ለሥዕርተ፡ ርእስኪ፡ ሰላም፡ ዘሕበሪሁ፡ ጸሊም፨</l>
+            <l n="3">እመ፡ ማርያም፡ ሐና፡ ሕይወተ፡ ኵሉ፡ ዓለም፨</l>
+            <l n="4">ብኪ፡ ተሣረሩ፡ እለ፡ ዘሥጋ፡ ወደም፨</l>
+            <l n="5">ወመላእክት፡ ዘልዑል፡ አርያም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለርእስኪ፡ ወለገጽኪ፡ ጎህ፨</l>
+            <l n="2">ለቀራንብትኪ፡ ሰላም፡ ወለአዕይንትኪ፡ ብሩህ፨</l>
+            <l n="3">አድኅንኒ፡ ሐና፡ እምኀዘነ፡ ወወይሌ፡ ወላህ፨</l>
+            <l n="4">ከመ፡ ድኀነ፡ በእንቲአኪ፡ እምሰርመ፡ አበሳ፡ ወአይኀ፨</l>
+            <l n="5">ምእመን፡ ምስለ፡ ደቂቁ፡ ወጻድቅ፡ ኖኅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም ለአእዛንኪ፡ ወለመላትሕኪ፡ በአምኆ፨</l>
+            <l n="2">ለአእናፍኪ፡ ሰላም፡ ወለከናፍርኪ፡ በስብሖ፨</l>
+            <l n="3">እመ፡ ማርያም፡ ሐና፡ ኢይምጽአኒ፡ ሰይፈ አይኆ፨</l>
+            <l n="4">ፀርየሰ፡ ለእመ፡ ሐነፀ፡ በሰማይ፡ ጽርሖ፨</l>
+            <l n="5">በህየ፡ ፍጡነ፡ ሰይፈ፡ ሞት፡ ይንጽሖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለአፉኪ፡ ወለአስናንኪ፡ ዕብነ፡ በረድ፨</l>
+            <l n="2">ለልሳንኪ፡ ሰላም፡  ወለቃልኪ፡ መርዕድ፨</l>
+            <l n="3">ለእስትንፋስኪ፡ ወለጕርዔኪ፡ ወለዘዚአኪ ከሣድ፨</l>
+            <l n="4">ከመ፡ ታርእዪኒ፡ ሐና፡ ኀልፈተ፡ ፀርየ፡ አብድ፨</l>
+            <l n="5">ናሁ፡ እፀንሐኪ፡ በዝንቱ፡ ዓፀድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለመታክፍትኪ፡ መንጦላዕተ፡ ዘባን፡ ዘተዋሐዳ፨</l>
+            <l n="2">ለእንግድዓኪ፡ ረቅ፡ ወለሕጽንኪ፡ ሰሌዳ፨</l>
+            <l n="3">መጽሐፈ፡ ሕይወት፡ ሐና፡ ወእመ፡ ማርያም፡ ሳይዳ፨</l>
+            <l n="4">ይደምሰሱ፡ ፀረ፡ ዚአየ፡ ወኢይትርፉ ለፍዳ፨</l>
+            <l n="5">ከመ፡ ተደምስሰ፡ ወልዳ፡ ኃጕል፡ ይሁዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለአእዳውኪ፡ ዘምስለ፡ መዘርእ፡ ወኵርናዕ፨</l>
+            <l n="2">ለእመታትኪ፡ ሰላም፡ ወለእራኃትኪ፡ አርባዕ፨</l>
+            <l n="3">እመ፡ ማርያም፡ ሐና፡ ወእምሔውተ፡ ክርስቶስ፡ እግዚእ፨</l>
+            <l n="4">ይሀኃጐሉ፡ ፀረ፡ ዚአየ፡ በናተ፡ አምላክ፡ ኅቡእ፨</l>
+            <l n="5">በከመ፡ ተኃጕለ፡ ቅድመ፡ ኤግሎም፡ ረሲዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለአፃብዕኪ፡ ፅዕዳዌ፡ አጽፋር፡ ዘገልበቦ፨</l>
+            <l n="2">ለአጥባትኪ፡ ሰላም፡ ወለዘዚአኪ፡ ገቦ፨</l>
+            <l n="3">ዕበያትኪ፡ ሐና፡ ዕፁብ፡ ለተናብቦ፨</l>
+            <l n="4">መቅሠፍተ፡ ምንዳቤ፡ ይንሣእ፡ ፀረ፡ ዚአየ፡ አስቦ፨</l>
+            <l n="5">ለአርዌ፡ ርጉም፡ ይትበሀል፡ ዘነቦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለከርሥኪ፡ ወለልብኪ ይደሉ፨</l>
+            <l n="2">ለአማዑትኪ፡ ሰላም፡ ወለንዋየ ውስጥኪ፡ ኵሉ፨</l>
+            <l n="3">ለህሊናኪ፡ ሐና፡ ዘኢይትረከብ አምሳሉ፨</l>
+            <l n="4">ብኪ፡ ይትሜክሑ፡ ወብኪ፡ ያጸሉ፨</l>
+            <l n="5">ፍጥረታት፡ ዘታሕቱ፡ ወፍጥረታት፡ ዘላዕሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ሰላም፡ ለኀንብርትኪ፡ ወለማኀፀንኪ፡ ቡሩክ፨</l>
+            <l n="2">ለአቍያጽኪ፡ ሰላም፡ ዘምስለ፡ አብራክ፨</l>
+            <l n="3">እመ፡ ማርያም፡ ሐና፡ ወእምሔውተ፡ ክርስቶስ፡ አምላክ፨</l>
+            <l n="4">ለእመ፡ ይፀብዑኒ፡ በጽባሕ፡ ወሠርክ፨</l>
+            <l n="5">ፍኖተ፡ ዐርየ፡ ዕዕዊ፡ በሦክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ሰላም፡ ለአእጋርኪ፡ ወለሰከናኪ፡ ወትረ፨</l>
+            <l n="2">ለመከየድኪ፡ ሰላም፡ ወለአፃብዕኪ፡ ዘተሠርገዋ፡ አጽፋረ፨</l>
+            <l n="3">እመ፡ ማርያም፡ ሐና፡ እስእለኪ፡ ነገረ፨</l>
+            <l n="4">እስከ፡ ማእዜኑ፡ እግዚእትየ፡ እሄሉ፡ ኀቡረ፨</l>
+            <l n="5">ምስለ፡ እለ፡ ይጸልዑ፡ ሰብእ፡ ሰላም፡ ወፍቅረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለቆምኪ እንበለ፡ ሕፀዕ፡ ወንትጋ፨</l>
+            <l n="2">ለመልክእኪ፡ ሰላም፡ ወለፀአተ፡ ነፍስኪ፡ ምስለ፡ በድነ፡ ሥጋ፨</l>
+            <l n="3">እመ፡ ማርያም፡ ሐና፡ ወእምሔውተ፡ ክርስቶስ፡ ቀዳሜ፡ ጸጋ፨</l>
+            <l n="4">ይትዐሠር፡ ልሳነ፡ ፀርየ፡ ዘከመነ፡ መንሱት፡ ወጹጋ፨</l>
+            <l n="5">በሰናስል፡ ጽኑዕ፡  ወበድሩክ፡ ጋጋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለግንዘተ ሥጋኪ፡ በአልባስ፡ ሜላት፡ ኢማሳኒ፨</l>
+            <l n="2">ለመቃብርኪ፡ ሰላም፡ ውስተ፡ ርስተ፡ አቡኪ፡ ምድረ፡ ዮፎኒ፨</l>
+            <l n="3">እመ፡ ማርያም፡ ሐና፡ ወእምሔውተ፡ ክርስቶስ፡ መድኃኒ፨</l>
+            <l n="4">ባሕቱ፡ ለንስሐ፡ ንስቲተ፡ አጽንሕኒ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">አኮ፡ አኮ፡ በአብዝኆ፡ ነገር፡ ወተርጕሞ፡</l>
+            <l n="2">አላ፡ ኀዳጠ፡ ወደስኩኪ፡ በኢያርምሞ፨</l>
+            <l n="3">ሐና፡ ግበሪ፡ ለልብየ፡ ዘይኤድሞ፨</l>
+            <l n="4">እመ፡ ሰፍሐ፡ አዕፁቂሁ፡ ወለእመ፡ አንኅ፡ ቆሞ፨</l>
+            <l n="5">ለጕንደ፡ ፀርየ፡ ሰይፈ፡ ሞት፡ ይግዝሞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ስብሐት፡ ይደሉ፡ ለማርያም፡ በሰጊድ፡ ወዝማሬ፨</l>
+            <l n="2">ዘምስለ፡ ፪ሆን፡ በኁባሬ፨</l>
+            <l n="3">እመ፡ ማርያም፡ ሐና፡ ዕንቈ፡ ሶም፡ ወወራውሬ፨</l>
+            <l n="4">ይደምሰሱ፡ ፀረ፡ ዚአየ፡ ወኢይትርፉ፡ ለፍሬ፨</l>
+            <l n="5">ከመ፡ ተደምሰሱ፡ ደቂቁ፡ ለቆሬ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ጥዕምተ፡ ስም፡ ወዝክር፡ በፄወ፡ መለኮት፡ ቅሱም፨</l>
+            <l n="2">ሐና፡ ቅድስት፡ እመ፡ ማርያም፨</l>
+            <l n="3">ዘነገሥኪ፡ በአርያም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ሐና፡ ጽባሕ፡ ወማርያም፡ ሰማይ፨</l>
+            <l n="2">እንተ፡ ወለደቶ፡ ለክርስቶስ፡ ፀሓይ፨</l>
+            <l n="3">ዘያውዒ፡ ሦከ፡ ጌጋይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ዘኪልቂዶን፡ ሐና፡ ወዘባሕርይ፡ ጽዱል፨</l>
+            <l n="2">እንተ፡ እምኔኪ፡ ወፅአት፡ ማርያም፡ ድንግል፨</l>
+            <l n="3">ዘጾረቶ፡ ለነበልባል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ከመ፡ ዳሲለደስ፡ ሰማዕት፡ ወገላውዴዎስ፡ ካልኡ፨</l>
+            <l n="2">ሕዝብኪ፡ ሐና፡ ፍሬ፡ ጽድቅ፡ ይንሥኡ፨</l>
+            <l n="3">በስምኪ፡ እለ፡ ተጋብኡ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ሶበ፡ ሰማዕኩ፡ በዜና፡ ለጥበበ፡ ሰማይ፡ መጠና፨</l>
+            <l n="2">ኅሊናየ፡ ትቤ፡ ሀለወት፡ ሐና፨</l>
+            <l n="3">ለነፍስየ፡ ዘታድኅና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለኪ፡ የዋሂት፡ ሐና፡ ወመንፈሳዊት፡ ርግብ፨</l>
+            <l n="2">እንተ፡ እምኔኪ፡ ወፅአት፡ ማርያም፡ ጠባብ፨</l>
+            <l n="3">ዘጾረቶ፡ ለቃለ፡ አብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ሐና፡ ንጽሕት፡ ወማርያም፡ ጳጦስ፨</l>
+            <l n="2">እንተ፡ ወለደቶ፡ ለክርስቶስ፡ ንጉሥ፨</l>
+            <l n="3">ኀጢአተ፡ ዘይደመስስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለኪ፡ አመኒ፡ መጽአኒ፡ መልአከ፡ ሞት፡ መስጢ፨</l>
+            <l n="2">እምኔየ፡ ሐና፡ ኢትትፈለጢ፨</l>
+            <l n="3">መጽሐፈ፡ ዕዳየ፡ እንዘ፡ ትሠጥጢ፨</l>
+            <l n="4">ወላህየ፡ በሐሤት፡ ወልጢ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="hanna">
+                <persName xml:lang="gez">ሐና፡</persName>
+                <persName xml:lang="gez" type="normalized">Ḥannā</persName>
+                <persName xml:lang="en">Hanna</persName>
+                <trait type="category"><desc>prophet</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Budge1900" corresp="http://zotero.org/groups/5599348/items/JDWD6IDD"><monogr><title level="m">The Miracles of the Blessed Virgin Mary, and the Life of Ḥannâ (Saint Anne), and the Magical Prayers of ʾAhĕta Mîkâêl. The Ethiopic Texts edited with English Translation</title><title type="short">The Miracles of the Blessed Virgin Mary</title><editor><forename>Ernest Alfred Wallis</forename><surname>Budge</surname></editor><respStmt><resp>translator</resp><persName><forename>Ernest Alfred Wallis</forename><surname>Budge</surname></persName></respStmt><imprint><pubPlace>London</pubPlace><publisher>W. Griggs</publisher><date>1900</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

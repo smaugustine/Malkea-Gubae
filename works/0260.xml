@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0260" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አፍኒን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAfnin</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAfnin</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0260/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከተማ፡ ርእስከ፡ ዘስርጋዌሁ፡ አዳም፨</l>
+            <l n="2">ወጥቀ፡ መድምም፨</l>
+            <l n="3">አፍኒን፡ ሐራሁ፡ ለወልደ፡ ማርያም፨</l>
+            <l n="4">ነቅድስናከ፡ ዓዲ፡ ሰላም፨</l>
+            <l n="5">ለባርኮ፡ እዴከ፡ መጥወኒ፡ ዮም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ አኮ፡ ጸሊም፨</l>
+            <l n="2">አላ፡ ባሕቱ፡ አርአያ፡ ቀለምጽጽ፡ ዘአፍሐም፨</l>
+            <l n="3">ወጥቀ፡ መድምም፨</l>
+            <l n="4">አፍኒን፡ ሐራሁ፡ ለወልደ፡ ማርያም፡ ለቅድስናከ፡ ዓዲ፡ ሰላም፨</l>
+            <l n="5">ለባርኮ፡ እዴከ፡ መጥወኒ፡ ዮም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ እምነ፡ አርዝ፡ ነዊኅ፨</l>
+            <l n="2">ወአርአያሁ፡ ብሩህ፨</l>
+            <l n="3">ከመ፡ ወርኀ፡ ሌሊት፡ ዘነግህ፨</l>
+            <l n="4">አፍኒን፡ ኀላዪ፡ ዘእንበለ፡ ንዋም፡ ትጉህ፨</l>
+            <l n="5">አድኅነኒ፡ ነዓ፡ እምኀዘን፡ ብዙኅ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="afnin">
+                <persName xml:lang="gez">አፍኒን፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAfnin</persName>
+                <persName xml:lang="en">Ophanim</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

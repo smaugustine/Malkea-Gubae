@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0214" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እግዚአብሔር፡ አብ፡ ክፍል፡ ዳግማይ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎgziʾabəḥer ʾAb Kəfl Dāgmāy</title>
+        <title corresp="#t1" xml:lang="en">Image of God the Father — Second Part</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0214/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>102va-103rc</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ይትባረክ፡ እግዚአብሔር፡ ለባሕረ፡ ኤርትራ፡ ዘሠጠጣ፨</l>
+            <l n="2">እስራኤል፡ ወይሁዳ፡ ከመ፡ ይኅልፉ፡ በውስጣ፨</l>
+            <l n="3">በክቡር፡ ደሙ፡ ለነፍስየ፡ ተሣየጣ፨</l>
+            <l n="4">ካዕበኒ፡ በሰበነ፡ ርእሱ፡ ዘሦጣ፨</l>
+            <l n="5">ለማርያም፡ ንጽሕት፡ አፍአሃ፡ ወውስጣ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ይትባረክ፡ እግዚአብሔር፡ ዐመፃ፡ ዘአልቦ፨</l>
+            <l n="2">ለእጓለ፡ እመሕያው፡ አፈ፡ ወልሳነ፡ ዘወሀቦ፨</l>
+            <l n="3">ደብረ፡ ታቦርሃ፡ ደመናተ፡ ጽድቁ፡ ገልበቦ፨</l>
+            <l n="4">ለዝመጽሐፍ፡ ለለ፡ ጊዜ፡ አንበቦ፨</l>
+            <l n="5">ያስተባዝኅ፡ ሎቱ፡ ወያመክዕብ፡ ዐስቦ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="father">
+                <persName xml:lang="gez">እግዚአብሔር፡ አብ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎgziʾabəḥer ʾAb</persName>
+                <persName xml:lang="en">God the Father</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

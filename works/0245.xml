@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0245" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አንቂጦስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAnqiṭos</title>
+        <title corresp="#t1" xml:lang="en">Image of Anicetus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0245/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ እብል፡ ለዝክረ፡ ስምከ፡ በተአምኖ፨</l>
+            <l n="2">ወበተጸውኖ፨</l>
+            <l n="3">በዝክረ፡ አባ፡ ኣቀድም፡ ተማሕፅኖ፨</l>
+            <l n="4">ዘትክል፡ ረድኦ፡ ወትክል፡ አድኅኖ፨</l>
+            <l n="5">አንቂጦስ፡ ለገብርከ፡ ኢትርሳዕ፡ ኪዳኖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ሰላም፡ እብል፡ ለመልክእከ፡ ኅቡረ፨</l>
+            <l n="2">ለለ፡ አሐዱ፡ አሐዱ፡ ዘበፍቅረ፡ ክርስቶስ፡ ዕሱረ፨</l>
+            <l n="3">አንቂጦስ፡ ሰማዕት፡ ዕበያቲከ፡ ዘከብረ፨</l>
+            <l n="4">ተማሕፀንኩ፡ በመልክእከ፡ ኩነኒ፡ መምህረ፨</l>
+            <l n="5">እምዋዕየ፡ ፍቅርከ፡ አባ፡ ኢይኩን፡ ቈሪረ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="anicetus">
+                <persName xml:lang="gez">አንቂጦስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAnqiṭos</persName>
+                <persName xml:lang="en">Anicetus</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

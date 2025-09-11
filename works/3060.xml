@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe3060" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ በትረ፡ ማርያም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Batra Māryām</title>
+        <title corresp="#t1" xml:lang="en">Image of Batra Māryām</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/3060/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>102ra-103vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">340</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እሴብሖ፡ ለእግዚአብሔር፡ ተወካፌ፡ ስብሐት፡ ወቅዳሴ፨</l>
+            <l n="2">ከመ፡ ይፍክለኒ፡ እንብ፡ ለመልክእከ፡ ውዳሴ፨</l>
+            <l n="3">በትረ፡ ረድኤታ፡ ለድንግል፡ ማርያም፡ ወለተ፡ እሴ፨</l>
+            <l n="4">አኮ፡ አኮ፡ ትእምርተ፡ በትሩ፡ ለሙሴ፨</l>
+            <l n="5">ቅድመ፡ አፍአውያን፡ ሕዝብ፡ ዘቀጥቀጠ፡ ከይሴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በትረ፡ አእምሮ፡ ወጽኑዕ፨</l>
+            <l n="2">ወለሥዕርተ፡ ርእስከ፡ ሰላም፡ ዘአክሊለ፡ ክብሩ፡ ቆብዕ፨</l>
+            <l n="3">በትረ፡ ማርያም፡ ጴጥሮስ፡ ተወካፌ፡ መስቀል፡ ወግፍዕ፨</l>
+            <l n="4">ባርክ፡ ሊተ፡ ህላዌየ፡ መካነ፡ ጽማዌ፡ ወስንዕ፨</l>
+            <l n="5">እንበለ፡ ተሀብውከ፡ አሀሉ፡ ወልድከ፡ ኃጥእ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ ወለመቃብሪከ፡ ዘጌ፨</l>
+            <l n="2">በጸዊረ፡ ሥጋከ፡ ቅዱስ፡ ዘጼነወት፡ አምሳለ፡ ጽጌ፨</l>
+            <l n="3">በትረ፡ ማርያም፡ ሉቃስ፡ ጸሓፌ፡ ብስራት፡ በኢኑታጌ፨</l>
+            <l n="4">ስረይ፡ ሊተ፡ አበሳየ፡ እንዘ፡ ትከውን፡ ኀዳጌ፨</l>
+            <l n="5">እስመ፡ ሥልጣኖ፡ ነሣእከ፡ ለክርስቶስ፡ ሐርጌ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">ተወኪፈከ፡ እግዚኦ፡ አምኃ፡ ውዳሴከ፡ ዝንቱ፨</l>
+            <l n="2">እምሥያጠ፡ መንፈስ፡ ዘወፅአ፡ ለወልድከ፡ ዐቅመ፡ ንዴቱ፨</l>
+            <l n="3">በትረ፡ ማርያም፡ ያዕቆብ፡ ባርከኒ፡ ለለ፡ ሰዓቱ፨</l>
+            <l n="4">እስመ፡ በረከት፡ አረቦነ፡ ሕይወት፡ ውእቱ፨</l>
+            <l n="5">ከመ፡ ለአብርሃም፡ አበ፡ ሕዝብ፡ ተባረከ፡ ቤቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="batra-maryam">
+                <persName xml:lang="gez">በትረ፡ ማርያም፡</persName>
+                <persName xml:lang="gez" type="normalized">Batra Māryām</persName>
+                <persName xml:lang="en">Batra Māryām</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

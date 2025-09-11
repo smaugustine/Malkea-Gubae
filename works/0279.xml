@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0279" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቀሌመንጦስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Qalemanṭos</title>
+        <title corresp="#t1" xml:lang="en">Image of Clement</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0279/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">አቀድም፡ አንሰ፡ በረድኤተ፡ ሕያው፡ አምላክ፨</l>
+            <l n="2">ጽሒፈ፡ ውዳሴከ፡ ሐዋዝ፡ ለቀሌመንጦስ፡ ላዕክ፨</l>
+            <l n="3">ዘትሜህር፡ ጽድቀ፡ ህየንተ፡ መልአክ፨</l>
+            <l n="4">ምስለ፡ አብ፡ ወወልድ፡ ከመ፡ መንፈስ፡ ቅዱስ፡ ይትመለክ፨</l>
+            <l n="5">ወከመ፡ አሐደ፡ ይሰገድ፡ በበርክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ከመ፡ ጻቃውዕ፡ ጣዕሙ፨</l>
+            <l n="2">ያስተፌሥሕ፡ ልብ፡ ለአስካለ፡ ገነት፡ እምደሙ፨</l>
+            <l n="3">ቀሌመንጦስ፡ ፍንው፡ እምሐዋርያት፡ ኵሎሙ፨</l>
+            <l n="4">ጸሐፎ፡ ለስምየ፡ ኀበ፡ ስምከ፡ ቀለሙ፨</l>
+            <l n="5">ወኀበ፡ ለአቡከ፡ ጴጥሮስ፡ ተሴረከ፡ ስሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለፍናዊከ፡ እምጴጥሮስ፡ ወልደ፡ ዮና፨</l>
+            <l n="2">ምስለ፡ ሲኖዶሶሙ፡ ለሰብአ፡ ዜና፨</l>
+            <l n="3">በከመ፡ ተፈነወ፡ ሙሴ፡ እምእግዚአብሔር፡ እምደብረ፡ ሲና፨</l>
+            <l n="4">ቀሌመንጦስ፡ መንፈስ፡ ለቤተ፡ ክርስቲያን፡ ምእመና፨</l>
+            <l n="5">ንፋሕ፡ ላዕሌየ፡ እትመላእ፡ ልቡና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለቀሌመንጦስ፡ መላክእ፨</l>
+            <l n="2">ዘከሡት፡ ወዘኅቡእ፨</l>
+            <l n="3">መጽሐፈ፡ ዝክርከ፡ ነዋ፡ ሲኖዶስ፡ ለስምዕ፨</l>
+            <l n="4">ተማሕፀንኩ፡ በመልክእከ፡ በከመ፡ እምቀደምት፡ ሥሩዕ፨</l>
+            <l n="5">በረከተ፡ መምህር፡ ይደልወኒ፡ ከመ፡ እንሣእ፡ ረድእ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="clement">
+                <persName xml:lang="gez">ቀሌመንጦስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Qalemanṭos</persName>
+                <persName xml:lang="en">Clement</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2903" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰማንቱ፡ ርቱዓነ፡ ሃይማኖት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śalastu Məʾt ʿAśśartu wa-Samāntu Rətuʿāna Hāymānot</title>
+        <title corresp="#t1" xml:lang="en">Image of the Three-Hundred and Eighteen Orthodox</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2903/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>68rb-69rc</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>119ra-120rb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">184</citedRange>
+            </biblStruct>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">222</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ምሉአ፡ ውዳሴ፡ ወስብሐት፨</l>
+            <l n="2">ለሥዕርተ፡ ርእስክሙ፡ ወለገጽክሙ፡ ገጻተ፡ ጽዱላት፡ ከዋክብት፨</l>
+            <l n="3">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰማንቱ፡ ርቱዓነ፡ ሃይማኖት፨</l>
+            <l n="4">ባርኩኒ፡ በእዴክሙ፡ እደ፡ ጸጋ፡ መንፈስ፡ ወሀብት፨</l>
+            <l n="5">በበረከቶሙ፡ ለአቤል፡ ወሴት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲክሙ፡ ወለዐይንክሙ፡ ጽዱል፨</l>
+            <l n="2">ለአእዛኒክሙ፡ ሰላም፡ ወለመላትሒክሙ፡ ኮል፨</l>
+            <l n="3">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰማንቱ፡ መምህራነ፡ ሐዲስ፡ ወንጌል፨</l>
+            <l n="4">ብክሙ፡ ድኅነት፡ እምተሀጕሎ፡ ወእምአርዮስ፡ ቍንጽል፨</l>
+            <l n="5">ቤተ፡ ክርስቲያን፡ በግዕት፡ ወቆመት፡ በኀይል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋክሙ፡ ወለመቃብሪክሙ፡ በበ፡ መካኑ፨</l>
+            <l n="2">በእንተ፡ ክርስቶስ፡ ስቁል፡ እንዘ፡ ትትኴነኑ፨</l>
+            <l n="3">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰማንቱ፡ ለዓለመ፡ ጽልመት፡ ብርሃኑ፨</l>
+            <l n="4">ትስረዩ፡ ኀጢአትየ፡ ወሀበክሙ፡ አኮኑ፨</l>
+            <l n="5">ሊቀ፡ ካህናት፡ ክርስቶስ፡ እምረቂቅ፡ ሥልጣኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">እለ፡ እስክንድሮስ፡ ነሣኢ፡ እምጸጋ፡ ጴጥሮስ፡ ወሀቢ፨</l>
+            <l n="2">በርእሰ፡ አትናቴዎስ፡ አብ፡ እለ፡ እስክንድሮስ፡ ረባቢ፨</l>
+            <l n="3">በረከተ፡ እሉ፡ አበው፡ ከመ፡ በላዕሌየ፡ ያዕቢ፨</l>
+            <l n="4">ተአዝዚዮ፡ ማርያም፡ ጥቃ፡ መንገሌሁ፡ ቅረቢ፨</l>
+            <l n="5">ወበሐብለ፡ ፍቅርኪ፡ አምላካዊ፡ ነፍስየ፡ ሰሐቢ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ማኅበረ፡ ሠለስቱ፡ ምእት፡ ሕማመ፡ ተሰዶ፡ ሶበ፡ ወጠኑ፨</l>
+            <l n="2">ሥላሴ፡ ዕሩየ፡ እንዘ፡ ይትአመኑ፨</l>
+            <l n="3">በእንተ፡ ስሙ፡ ለክርስቶስ፡ አመ፡ ተኰነኑ፨</l>
+            <l n="4">ቦ፡ ምቱር፡ እምኔሆሙ፡ ወቦ፡ ቅሡፍ፡ ዘባኑ፨</l>
+            <l n="5">ወቦ፡ አምሳለ፡ ጕንድ፡ ዘተገድፈ፡ በድኑ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="nicaea">
+                <persName xml:lang="gez">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰማንቱ፡ ርቱዓነ፡ ሃይማኖት፡</persName>
+                <persName xml:lang="gez" type="normalized">Śalastu Məʾt ʿAśśartu wa-Samāntu Rətuʿāna Hāymānot</persName>
+                <persName xml:lang="en">The Three-Hundred and Eighteen Orthodox</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

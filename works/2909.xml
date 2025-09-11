@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2909" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ካህናተ፡ ሰማይ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Kāhənāta Samāy</title>
+        <title corresp="#t1" xml:lang="en">Image of the Twenty-Four Elders of Heaven</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2909/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="ADMY002">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-002</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>21ra-26vb</locus>
+          </witness>
+          
+          <witness xml:id="CBLw949">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dublin</settlement>
+                <repository>Chester Beatty Library</repository>
+                <idno>W.949</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>67a-76b</locus>
+          </witness>
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>173rb-177rb</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>130ra-132vb</locus>
+          </witness>
+          
+          <witness xml:id="GG085">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-085</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>58va-68rb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">190</citedRange>
+            </biblStruct>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">33, 267</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘያሜኒ፡ ጸቃውዐ፨</l>
+            <l n="2">እምአቅማኀ፡ ጽጌ፡ በዕቍረ፡ አንህብት፡ ዘረግዓ፨</l>
+            <l n="3">ፍቅርክሙ፡ ሐሊብ፡ በአይባነ፡ ልብየ፡ መልአ፨</l>
+            <l n="4">ሊቃናት፡ ውዳሴክሙ፡ ከመ፡ እስንቁ፡ ጥዕጡዐ፨</l>
+            <l n="5">ለዐይነ፡ ኅሊናየ፡ ጽላሌሁ፡ ቅልዑ፡ ቀሊዐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ እብል፡ ለሥዕርትክሙ፡ ዘላህብ፨</l>
+            <l n="2">ቦቶን፡ ዕፍረተ፡ ዘመዐዛሁ፡ ዕጹብ፨</l>
+            <l n="3">ዕሥራ፡ ወርብዕ፡ ሰማያውያን፡ አርባብ፨</l>
+            <l n="4">ምስለ፡ አብያጺሁ፡ ለለ፡ ይቄድስ፡ ኪሩብ፨</l>
+            <l n="5">እምኔክሙ፡ ይትአኰት፡ ወይሴባሕ፡ አብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="43">
+            
+            <l n="1">ሰላም፡ ለቆምክሙ፡ በለዘ፡ መቅደስ፡ ዘራማ፨</l>
+            <l n="2">ወያቁመ፡ ስብሐት፡ ጽኑዕ፡ ምሉአ፡ ሞገስ፡ ወግርማ፨</l>
+            <l n="3">አንቀልቅሎቶ፡ ኢይክል፡ ማዕበለ፡ ኀጢአት፡ መስቴማ፨</l>
+            <l n="4">ካህናት፡ ዘታዐርጉ፡ መሥዋዕተ፡ መንግሥቱ፡ ለፌማ፨</l>
+            <l n="5">ዘከማክሙ፡ ኢሦዐ፡ ሳሙኤል፡ በባማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለመላክኢክሙ፡ ኵሉ፨</l>
+            <l n="2">በቀለመ፡ እሳት፡ ዘተሥዕሉ፨</l>
+            <l n="3">ካህናተ፡ ሰማይ፡ መብረቀ፡ እለ፡ ትትኬለሉ፨</l>
+            <l n="4">መዓልተ፡ ወለያልየ፡ በእንቲአየ፡ ተንብሉ፨</l>
+            <l n="5">ኀበ፡ አምላከ፡ ጽድቅ፡ ሕያው፡ ዘሀሎ፡ ወይሄሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">አብጻሕኩ፡ አንሰ፡ ኍልቈ፡ መልክእክሙ፡ ኵሎ፨</l>
+            <l n="2">ሰላም፡ ሰላም፡ እንዘ፡ እብል፡ በተማኅልሎ፨</l>
+            <l n="3">ካህናተ፡ ሰማይ፡ በሉኒ፡ በቃለ፡ ምሕረት፡ ወተሣህሎ፨</l>
+            <l n="4">ዘኢያማስኖ፡ ቍንቍኔ፡ ወዘሠራቂ፡ ኢይክሎ፨</l>
+            <l n="5">መዝገበ፡ ጻማከ፡ በኀቤነ፡ ሀሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ኦካህናተ፡ ሰማይ፡ እስእለክሙ፡ ጽሑቀ፨</l>
+            <l n="2">በከመ፡ ክርስቶስ፡ ተወክፈ፡ ዘእደ፡ መበለት፡ ጸራይቀ፨</l>
+            <l n="3">ወኪፈክሙ፡ ዘንተ፡ ፍሬ፡ ከናፍርየ፡ ሕቀ፨</l>
+            <l n="4">ድልዉ፡ ዐስብየ፡ ሰላመ፡ ወጽቀ፨</l>
+            <l n="5">ኢይፈቅድ፡ አንሰ፡ ብሩረ፡ ወወርቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ሰላም፡ ለአልባሲክሙ፡ ቃለ፡ እግዚአብሔር፡ ዘአነሞሙ፨</l>
+            <l n="2">ጸዳለ፡ መብረቅ፡ ከመ፡ ዐይነ፡ ኪሩብ፡ ቦሙ፨</l>
+            <l n="3">ልሳናተ፡ እሳት፡ አንትሙ፡ ዘኢታረምሙ፨</l>
+            <l n="4">ይፍረዩ፡ አቅማኅ፡ ገነት፡ ወአዕዋመ፡ ትፍግዕት፡ ይለምልሙ፨</l>
+            <l n="5">እምርእሰ፡ ኤርሞን፡ ጠለ፡ ካህናት፡ አዝንሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም፡ ለመዐዛ፡ አልባሲክሙ፡ ዘዕፍረተ፡ አሮን፡ ኢይትማሰሎ፨</l>
+            <l n="2">ወኢስኂን፡ በገዳመ፡ ሳባ፡ ዘሀሎ፨</l>
+            <l n="3">ካህናት፡ ኄራን፡ ሕሩማን፡ እምተበቅሎ፨</l>
+            <l n="4">ጸበለ፡ ፍኖት፡ ከመ፡ ይግሕፍ፡ ዐውሎ፨</l>
+            <l n="5">ነፋሰ፡ አፉክሙ፡ ይዝሩ፡ ጌጋይየ፡ ኵሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">መሳክወ፡ ፀሓይ፡ ዓሥር፡ ወክልኤቱ፡ ኀበ፡ ይሠርቅ፡ ወየአቱ፨</l>
+            <l n="2">ወዘነፋሳት፡ ከመዝ፡ ውእቱ፨</l>
+            <l n="3">ካህናተ፡ ሰማይ፡ ጥንቁቅ፡ ኍላቌክሙ፡ በዝንቱ፨</l>
+            <l n="4">ርእሰ፡ መዋዕል፡ ኀረየክሙ፡ ለቤቱ፨</l>
+            <l n="5">አፈወ፡ ቅዳሴ፡ ቅስሙ፡ ወትሡዑ፡ ሎቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">እግዚአብሔር፡ አምላክነ፡ በከመ፡ አጼነወ፡ እሙነ፨</l>
+            <l n="2">መሥዋዕተ፡ ኖኅ፡ አቡነ፨</l>
+            <l n="3">ካህናተ፡ ሰማይ፡ ከማሁ፡ ተወከፉኒ፡ እሙነ፨</l>
+            <l n="4">ጸሎተ፡ አፉየ፡ ከዊኖ፡ ስኂነ፨</l>
+            <l n="5">በገጸ፡ ሥላሴ፡ ትዕጥኑ፡ አስተበቍዕ፡ አነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">እግዚአብሔር፡ ዘገብረ፡ በቀዳሚ፡ ሰማየ፨</l>
+            <l n="2">ውስተ፡ ቤተ፡ አብርሃም፡ ዐርኩ፡ በሥላሴሁ፡ አስተርአየ፨</l>
+            <l n="3">ካህናተ፡ ሰማይ፡ ከማሁ፡ ሐውጹ፡ ኪያየ፨</l>
+            <l n="4">ማሕሌትየ፡ ለእመ፡ ኮነ፡ በቅድሜክሙ፡ ሠናየ፨</l>
+            <l n="5">እምፈልፈለ፡ ብዕል፡ ሀቡኒ፡ ዐስብየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ያዕቆብ፡ በግዐ፡ ትንቢት፡ እምገጸ፡ ሐራውያ፡ አመ፡ ተሰደ፨</l>
+            <l n="2">እግዚአብሔር፡ ምስሌሁ፡ ከመ፡ ተአንገደ፨</l>
+            <l n="3">ካህናተ፡ ሰማይ፡ አፍጥኑ፡ ዐቢየ፡ ወሪደ፨</l>
+            <l n="4">ለባርኮትየ፡ ስፍሑ፡ እደ፨</l>
+            <l n="5">እስመ፡ ለምሕረት፡ ብክሙ፡ ልማደ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="elders-heaven">
+                <persName xml:lang="gez">ካህናተ፡ ሰማይ፡</persName>
+                <persName xml:lang="gez" type="normalized">Kāhənāta Samāy</persName>
+                <persName xml:lang="en">The Twenty-Four Elders of Heaven</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

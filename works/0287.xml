@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0287" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አፍቀረነ፡ እግዚእ፡ ዘደብረ፡ ጕጕቤን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAfqaranna ʾƎgziʾ za-Dabra Gʷəgʷəben</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAfqaranna ʾƎgziʾ of Dabra Gʷəgʷəben</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0287/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሕያው፡ ወማሕየዊ፡ ዘዋሕድ፡ ባሕርይሁ፨</l>
+            <l n="2">ወሥሉስ፡ አካላቲሁ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ እንግር፡ ውዳሴ፡ መልክእከ፡ በበ፡ ጾታሁ፨</l>
+            <l n="4">ፈኑ፡ ሊተ፡ ይእዜ፡ አንቀጸ፡ ለብየ፡ ያርኁ፨</l>
+            <l n="5">ጰራቅሊጦስሃ፡ መንፈሰ፡ ጸጋ፡ ዘፍጹም፡ ጸጋሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በስመ፡ እግዚአብሔር፡ ዘተጸውዐ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ጽሑድ፡ ዘተከለለ፡ ቆብዐ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ጳጳስ፡ ዘይንዕዳ፡ በአፍአ፨</l>
+            <l n="4">ከመ፡ እክሥት፡ እምተሠውሮ፡ መድፍነ፡ ውዳሴ፡ ኅቡአ፨</l>
+            <l n="5">በውስተ፡ ከርሥየ፡ ሐድስ፡ መንፈሰ፡ ርቱዐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በአፈወ፡ ዕፍረት፡ ወከርቤ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ በኅዝአትከ፡ ጉግቤ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ገብርኤል፡ መልአከ፡ ስብሐት፡ ወይባቤ፨</l>
+            <l n="4">ኢትኅድገኒ፡ ለሕዝብከ፡ በውስተ፡ ኵሉ፡ ምንዳቤ፨</l>
+            <l n="5">እስመ፡ ዘእንበሌከ፡ ባዕድ፡ አልብነ፡ መጋቤ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለበትረ፡ እዴከ፡ እምበትረ፡ አሮን፡ ዘዐብየ፨</l>
+            <l n="2">ለፈውሰ፡ ብእሲ፡ ሕሙም፡ እስመ፡ አንቅዐ፡ ማየ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ግዘር፡ ዐቅመ፡ ኅሊናሁ፡ ኀለየ፨</l>
+            <l n="4">በዝንቱ፡ ማሕሌትከ፡ እመ፡ ብእሴ፡ ትካዝ፡ ጸለየ፨</l>
+            <l n="5">እስከነ፡ ይስዕር፡ መናፍስተ፡ ወይፌውስ፡ ድዉየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">አፍቀረነ፡ እግዚእ፡ በዕበይከ፡ ፍዳ፡ አቅረብኩ፡ ማሕሌተ፡ ውኁደ፨</l>
+            <l n="2">ለእግዚአብሔር፡ ሰአሎ፡ ወአስተብቍኦ፡ ገሀደ፨</l>
+            <l n="3">እምላዕሌየ፡ አቅልል፡ ጾረ፡ ኀጢአት፡ ክቡደ፨</l>
+            <l n="4">እስመ፡ አብየ፡ ወተለዐለ፡ እምኀጢአተ፡ ሰብእ፡ ፈድፉደ፨</l>
+            <l n="5">ዘከማየ፡ ሰብአ፡ ኢወለድከ፡ ወልደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለመልክእከ፡ እስመ፡ ይደሉ፡ ንስቲተ፨</l>
+            <l n="2">ነዳየ፡ አእምሮ፡ ወልድከ፡ መጠነ፡ ተክህለኒ፡ ሊተ፨</l>
+            <l n="3">አፍቀረነ፡ እግዚእ፡ ክፍልየ፡ ዘረሰይኩከ፡ መክፈልተ፨</l>
+            <l n="4">ውኩፈ፡ ይኩን፡ በቃልከ፡ ወኢይትኀደግ፡ እቱተ፨</l>
+            <l n="5">እስመ፡ ወልድከ፡ አነ፡ ዘበጽድቅ፡ ወአቡየ፡ አንተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="afqaranna-egzi-d-gwegweben">
+                <persName xml:lang="gez">አፍቀረነ፡ እግዚእ፡ ዘደብረ፡ ጕጕቤን፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAfqaranna ʾƎgziʾ za-Dabra Gʷəgʷəben</persName>
+                <persName xml:lang="en">ʾAfqaranna ʾƎgziʾ of Dabra Gʷəgʷəben</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">167</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

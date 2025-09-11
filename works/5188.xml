@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe5188" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መጽሐፈ፡ መድበል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Maṣḥafa Madbal</title>
+        <title corresp="#t1" xml:lang="en">Book of Collection</title>
+        
+        <title xml:id="t2" xml:lang="gez">ጉባኤ፡ ምሥጢራተ፡ ዘመናት፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Gubāʾe Məśṭirāta Zamanāt</title>
+        <title corresp="#t2" xml:lang="en">Collection of the Mysteries of the Times</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/5188/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ እብል፡ ለተዋሕዶ፡ ቅድስት፡ ሥላሴ፨</l>
+            <l n="2">ቀዊምየ፡ ቅድመ፡ ሥላሴ፨</l>
+            <l n="3">እንበለ፡ ናፍቆ፡ ኣአምን፡ ህላዌ፡ ሥላሴ፨</l>
+            <l n="4">ግጻዌሆሙ፡ ሥላሴ፡ ወአካሎሙ፡ ሥላሴ፨</l>
+            <l n="5">ወቅዳሴሆሙ፡ ከማሁ፡ ሥላሴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ለዘአኀዝኩ፡ ወወጠንኩ፡ እንዘ፡ አስተናሥእ፡ ቃለ፨</l>
+            <l n="2">ጽሒፈ፡ አሐዱ፡ ጸሎት፡ እንተ፡ ይሰመይ፡ መድበለ፨</l>
+            <l n="3">አዘቅተ፡ ኂሩት፡ ሥላሴ፡ ትፈለፍሉ፡ ሣህለ፨</l>
+            <l n="4">አዕርጉኒ፡ ለገብርክሙ፡ ሰማየ፡ አእምሮ፡ ልዑለ፨</l>
+            <l n="5">ወጸሐፉ፡ በልብየ፡ ዘጥበብ፡ ፊደለ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0370" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዐሠርቱ፡ ወክልኤቱ፡ ሐዋርያት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʿAśśartu wa-Kəlʾettu Ḥawārəyāt</title>
+        <title corresp="#t1" xml:lang="en">Image of the Twelve Apostles</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0370/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እምአፈ፡ ልቡና፡ ዘይወፅዑ፡ ልሳናተ፡ ጥበብ፡ ወቃል፨</l>
+            <l n="2">ጽልመተ፡ ኅሊናየ፡ ይብራህ፡ በመጽሔቶሙ፡ ጽዱል፨</l>
+            <l n="3">ለሐዋርያተ፡ ክርስቶስ፡ እጽሕፍ፡ አምጣነ፡ ብየ፡ ክሂል፨</l>
+            <l n="4">በቀለመ፡ ፍቅር፡ መልክአ፡ ጻማ፡ ወገድል፨</l>
+            <l n="5">ዘይከውነነ፡ ማዕይት፡ እምሀጕል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ እምቅድመ፡ ዓለማት፡ ዘጠበጠበ፨</l>
+            <l n="2">በዐምደ፡ ወርቅ፡ ዘላዕሉ፡ እንዘ፡ ይኔጽር፡ ይቡበ፨</l>
+            <l n="3">ሐዋርያተ፡ ክርስቶስ፡ እምአርዌ፡ ዘነሣእክሙ፡ ጥበበ፨</l>
+            <l n="4">ወእምነ፡ ርግብ፡ ተየውሆ፡ መንፈስ፡ ካዕበ፨</l>
+            <l n="5">ታፈደፍዱ፡ ጽድቀ፡ ወትነሥኡ፡ ዐስበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለመቃብሪክሙ፡ እንተ፡ ይእቲ፡ ሰሌዳ፨</l>
+            <l n="2">ሞገሰ፡ ረድኤት፡ ዘየዐውዳ፨</l>
+            <l n="3">ሐዋርያተ፡ ክርስቶስ፡ ሰማዕታት፡ አብያጸ፡ ጊዮርጊስ፡ ዘልዳ፨</l>
+            <l n="4">ጸሐፍዋ፡ በልብክሙ፡ ለማሕሌትየ፡ እንግዳ፨</l>
+            <l n="5">ከመ፡ ማርያም፡ ጸሐፈት፡ ነገሮ፡ ለወልዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">አምኃ፡ ስብሐት፡ ሕጹጽ፡ ወአኮ፡ ፍድፉዴ፨</l>
+            <l n="2">ለቃልክሙ፡ እስመ፡ በርዴ፨</l>
+            <l n="3">ሐዋርያተ፡ ክርስቶስ፡ ተንብሉ፡ ኵልክሙ፡ በኢቡአዴ፨</l>
+            <l n="4">ቅድመ፡ እግዚእክሙ፡ በቃልክሙ፡ አዋዴ፨</l>
+            <l n="5">ከመ፡ ያርኁ፡ ሊተ፡ ዘገነት፡ ዴዴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ስብሐት፡ ይደሉ፡ ለሥላሴ፡ ለልብየ፡ ዘመአዶ፨</l>
+            <l n="2">በሰዋስወ፡ ብርሃን፡ ወሪዶ፨</l>
+            <l n="3">ለሐዋርያተ፡ ክርስቶስ፡ እጽሕፍ፡ ዜና፡ ኂሩቶሙ፡ በአንጐድጕዶ፨</l>
+            <l n="4">ይስምዕ፡ በአናቶት፡ ወበመድብያ፡ ተምኢዶ፨</l>
+            <l n="5">ከመ፡ ባህለ፡ ትንቢት፡ ተአምኅ፡ ዘሐጌ፡ ወሀዶ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሠለስተ፡ ይምንየ፡ ሠለስተ፡ ጽግምየ፨</l>
+            <l n="2">ሠለስተ፡ ቅድሜየ፡ ሠለስተ፡ ድኅሬየ፨</l>
+            <l n="3">ሐዋርያተ፡ ክርስቶስ፡ ቡሩካን፡ ንዑ፡ ኀቤየ፨</l>
+            <l n="4">ከመ፡ ትፈጽሙ፡ መፍቅደ፡ ልብየ፨</l>
+            <l n="5">ወከመ፡ ትፅብዑ፡ ለብእሲ፡ ፀርየ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="apostles">
+                <persName xml:lang="gez">ዐሠርቱ፡ ወክልኤቱ፡ ሐዋርያት፡</persName>
+                <persName xml:lang="gez" type="normalized">ʿAśśartu wa-Kəlʾettu Ḥawārəyāt</persName>
+                <persName xml:lang="en">The Twelve Apostles</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

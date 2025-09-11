@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0273" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ታዴዎስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tādewos</title>
+        <title corresp="#t1" xml:lang="en">Image of Thaddeus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0273/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ዜና፡ ውዳሴከ፡ እወጥን፡ ወዘመልክእከ፡ ኵሎን፨</l>
+            <l n="2">በበ፡ ኁባሬሆን፨</l>
+            <l n="3">ታዴዎስ፡ አቡየ፡ ሰባኬ፡ ብርሃን፨</l>
+            <l n="4">ተማሕፀንኩ፡ ብከ፡ አመ፡ ዕለተ፡ ኵነኔ፡ ወደይን፨</l>
+            <l n="5">ኢይትቀወመኒ፡ ፀርየ፡ ሰይጣን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለስምከ፡ ታዴዎስ፡ ይሁዳ፨</l>
+            <l n="2">ለቤተ፡ ክርስቲያን፡ ዐምዳ፨</l>
+            <l n="3">ታዴዎስ፡ ጽዱለ፡ ዕንቍ፡ ቢሬሌ፡ ጻዐዳ፨</l>
+            <l n="4">በስምከ፡ ተማሕፀንኩ፡ አመ፡ ዕለተ፡ ኵነኔ፡ ወፍዳ፨</l>
+            <l n="5">ወኢያስጥመኒ፡ ለሲኦል፡ ሞገዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ሰላም፡ ለትንሣኤከ፡ በንፍሓተ፡ ቀርን፡ ዳግም፨</l>
+            <l n="2">ከመ፡ ትከት፡ ሕያው፡ በሥርዓተ፡ ሥጋ፡ ወደም፨</l>
+            <l n="3">ታዴዎስ፡ ዕንቍ፡ ዘጽርሐ፡ አርያም፡ ኤላም፨</l>
+            <l n="4">ተማሕፀንኩ፡ በትንሣኤከ፡ አመ፡ ይነቅሕ፡ ዓለም፨</l>
+            <l n="5">አመ፡ ኢታድኅን፡ ውሉዳ፡ መሓሪት፡ እም፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="thaddeus">
+                <persName xml:lang="gez">ታዴዎስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tādewos</persName>
+                <persName xml:lang="en">Thaddeus</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

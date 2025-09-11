@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2743" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ያዕቆብ፡ ዘግሙድ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yāʿqob za-Gəmud</title>
+        <title corresp="#t1" xml:lang="en">Image of Jacob Intercisus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2743/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>176rb-181vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">27</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="thesis">
+              <analytic>
+                <title level="a">Appendix: Mälkǝ’a Mälkǝ’</title>
+                <author><name>Gezahegn Getachew</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">The Mälkǝ': Its Major Features and Source</title>
+                <author><name>Gezahegn Getachew</name></author>
+                <imprint>
+                  <pubPlace>Addis Ababa</pubPlace>
+                  <date>2000</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">92</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለመንኮበ፡ እዴከ፡ እምነ፡ አፃብዕ፡ ዐሠርቱ፨</l>
+            <l n="2">ጥንተ፡ ተገምዶ፡ ዘኮነ፡ እስመ፡ በኵረ፡ ልደት፡ ውእቱ፨</l>
+            <l n="3">ያዕቆብ፡ ትቤሎ፡ ለዘይክሕድ፡ ትንሣኤ፡ ዝንቱ፨</l>
+            <l n="4">ኢትሬኢኑ፡ ሥርወ፡ ወይን፡ እምድኅረ፡ ገመድዎ፡ ሎቱ፨</l>
+            <l n="5">ዓፅቀ፡ ሐመልማል፡ ዘይሤኒ፡ ከመ፡ ይሠርፅ፡ ቦቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለካልኢት፡ አፃባዕትከ፡ እንታክቲ፨</l>
+            <l n="2">እምሥርወ፡ የማናይ፡ እዴከ፡ እንተ፡ አውቀይዋ፡ ላቲ፨</l>
+            <l n="3">ያዕቆብ፡ ትቤ፡ በቃለ፡ ሃይማኖት፡ አእኳቲ፨</l>
+            <l n="4">ክልኤ፡ አዕፁቀ፡ ዘተመትሩ፡ እምተክለ፡ የማንከ፡ ዛቲ፨</l>
+            <l n="5">እግዚአብሔር፡ ተወከፍ፡ ወተፈሣሕ፡ ባቲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ ለተወክፎትከ፡ ጽእለተ፡ ብዑላን፡ በአርምሞ፨</l>
+            <l n="2">እንበለ፡ በቀል፡ ወተቀይሞ፨</l>
+            <l n="3">ያዕቆብ፡ ጽጌ፡ ወመዓዛ፡ ሕይወት፡ ቀናንሞ፨</l>
+            <l n="4">ለገብርከ፡ ድውየ፡ ሥጋ፡ እስመ፡ ትፌውስ፡ ሕማሞ፨</l>
+            <l n="5">መናፍስተ፡ ድዌ፡ አሰ|ስል፡ ኢይስብሩ፡ አጽሞ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ያዕቆብ፡ ግሙድ፡ ተወካፌ፡ መስቀል፡ ቡሩክ፨</l>
+            <l n="2">ከመ፡ አምኃ፡ ሰላመ፡ ልሳነ፡ መልአክ፨</l>
+            <l n="3">ለድንግል፡ እመ፡ አምላክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ኣመ፡ በመጥባሕት፡ መተሩ፡ አባላቲከ፡ ወመሌሊተከ፡ ኵሎ፨</l>
+            <l n="2">አድከምከአ፡ ለሰይጣን፡ ኀይሎ፨</l>
+            <l n="3">ወቆምከ፡ በተጋድሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለከ፡ ቤተ፡ ክርስቲያን፡ ታስቆቁ፡ ቀዊማ፡ ወላሀ፡ ማርታ፡ ትላሁ፨</l>
+            <l n="2">ርእያ፡ ሥጋከ፡ እንዘ፡ ይጠብሑ፨</l>
+            <l n="3">ወደመከ፡ እንዘ፡ ይቀድሑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለከ፡ እደ፡ ልቡና፡ ሐፀብከ፡ በማየ፡ አእምሮ፡ መጽሐፍ፨</l>
+            <l n="2">ወክሳደ፡ አብድ፡ መተርከ፡ በብልሐ፡ ሰይፍ፨</l>
+            <l n="3">ያዕቆብ፡ አበ፡ አእላፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለከ፡ ትደነግፅ፡ ነፍስ፡ ወያንቀለቅል፡ ሥጋ፨</l>
+            <l n="2">ሶበ፡ ለለ፡ ጊዜ፡ ይትነገር፡ ቅድመ፡ እንግልጋ፨</l>
+            <l n="3">ገድልከ፡ ሥርግወ፡ ጸጋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ እምኮከብ፡ ኮከብ፡ ከመ፡ ይኄይስ፡ ክብሩ፨</l>
+            <l n="2">ክብርከ፡ ይኄይስ፡ እምእለ፡ ተነግሩ፨</l>
+            <l n="3">ጻድቃን፡ በበ፡ ብሔሩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ለዘይትቀነይ፡ ለከ፡ ማኅሌተከ፡ አምጣነ፡ ኵሉ፡ ማኅሠሥ፨</l>
+            <l n="2">ወዘአንበቦ፡ እንዘ፡ ይደርስ፨</l>
+            <l n="3">ሊቀ፡ ካህናት፡ ኢየሱስ፡ ክርስቶስ፡ ያንጽሐነ፡ እምጌጋይ፡ ወርኵስ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="jacob-intercisus">
+                <persName xml:lang="gez">ያዕቆብ፡ ዘግሙድ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yāʿqob za-Gəmud</persName>
+                <persName xml:lang="en">Jacob Intercisus</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

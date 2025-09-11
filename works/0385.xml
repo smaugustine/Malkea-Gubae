@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0385" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ራጉኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Rāguʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Raguel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0385/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዝክረ፡ ስመ፡ አብ፡ ኅብእት፨</l>
+            <l n="2">ወሞገሰ፡ ኄራን፡ ነገሥት፨</l>
+            <l n="3">ራጉኤል፡ መልአክ፡ ወሀቤ፡ ፯ቱ፡ ሀብታት፨</l>
+            <l n="4">ጸግወኒ፡ ስመ፡ ዘአስተብርኮ፡ ወስመ፡ ኬንያ፡ ኤላት፨</l>
+            <l n="5">እስመ፡ በኅቡእ፡ ስምከ፡ ይትነሣእ፡ ምውት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለህላዌከ፡ በማእከለ፡ ሰማይ፡ ምጡቅ፨</l>
+            <l n="2">ራጉኤል፡ አንተ፡ ሕብረ፡ መደንግጽ፡ መብረቅ፨</l>
+            <l n="3">ዘትስማዕ፡ ወትረ፡ ቃለ፡ ሰማያዊ፡ ማዕነቅ፨</l>
+            <l n="4">መላእክትኒ፡ ይብሉከ፡ ሠያሚሆሙ፡ ለደቅ፨</l>
+            <l n="5">ወታጸንዕ፡ ድንጋጋ፡ ለዕምቅት፡ ሐይቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ መልክአ፡ እሳት፡ ሥዑል፨</l>
+            <l n="2">ዘበሰማያት፡ ጌልጌል፨</l>
+            <l n="3">ንኅበ፡ አርያም፡ ራጉኤል፡ ቀሳሜ፡ ጽጌሁ፡ ለቃል፨</l>
+            <l n="4">እሰግድ፡ ለሥዕልከ፡ ወለግርማከ፡ ኀያል፨</l>
+            <l n="5">ከመ፡ ይረድ፡ በልብየ፡ ዘጥበብ፡ ጠል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለተፈጥሮትከ፡ ኧምነፋስ፡ ወነድ፡ ዘተሥዕለ፨</l>
+            <l n="2">ወዘኢለብሰ፡ አካለ፨</l>
+            <l n="3">ራጉኤል፡ ዘለበስከ፡ ደመና፡ ሰማይ፡ ቀሊለ፨</l>
+            <l n="4">መኑ፡ ከማከ፡ እምኵሉ፡ ዘያሥዒል፡ ብዕለ፨</l>
+            <l n="5">ገብረ፡ መንፈስ፡ ቅዱስ፡ ጻድቅ፡ ኪያከ፡ ሰአለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለከ፡ ራጉኤል፡ መልአክ፨</l>
+            <l n="2">ለግፉዓነ፡ ምድር፡ ምስማክ፨</l>
+            <l n="3">መላእክትኒ፡ ይተልዉከ፡ ለለ፡ ጊዜ፡ ጽባሕ፡ ወሰርክ፨</l>
+            <l n="4">አይኑ፡ መልአክ፡ ዘይብሎ፡ ለሰማያዊ፡ አምላክ፨</l>
+            <l n="5">ታጠፍዖኑ፡ ለዘምድር፡ ሦክ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="raguel">
+                <persName xml:lang="gez">ራጉኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Rāguʾel</persName>
+                <persName xml:lang="en">Raguel</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

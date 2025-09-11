@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0404" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAbrəhām Yəsḥaq wa-Yāʿqob</title>
+        <title corresp="#t1" xml:lang="en">Image of Abraham, Isaac, and Jacob</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0404/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="GG076">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-076</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>85vb-94vb</locus>
+          </witness>
+          
+          <witness xml:id="GG085">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-085</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>68rb-74rb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">12</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘእምቅድመ፡ ዓለም፡ ኅሩይ፨</l>
+            <l n="2">ወለሥዕርትክሙ፡ ሰላም፡ በቅብአ፡ ሃይማኖት፡ ሲሩይ፨</l>
+            <l n="3">አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ ምስካይ፨</l>
+            <l n="4">ዘተውህበክሙ፡ በረከተ፡ ሰማይ፨</l>
+            <l n="5">ሲሳየ፡ ዕለት፡ ሀቡኒ፡ ለብእሲ፡ ነዳይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለርእስክሙ፡ አናብስት፡ ልዑል፨</l>
+            <l n="2">ለገጽክሙ፡ ከመ፡ ገጸ፡ ፀሓይ፡ ጽዱል፨</l>
+            <l n="3">አብርሃም፡ መቅደስ፡ ወያዕቆብ፡ መስቀል፨</l>
+            <l n="4">ወያዕቆብ፡ ዕንቈ፡ ኅሬ፡ ውእቱ፡ ዝንቱ፡ እስራኤል፨</l>
+            <l n="5">ኮል፡ ዘጸገየ፡ በገዳመ፡ ሐቅል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ እብል፡ ለአእጽምቲክሙ፡ ዝርው፨</l>
+            <l n="2">ማእከለ፡ ተኵላት፡ ወአኅርው፨</l>
+            <l n="3">አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ በበድው፨</l>
+            <l n="4">በክብረ፡ ሥጋክሙ፡ ኅሩያን፡ ዕደው፨</l>
+            <l n="5">አማሐፅን፡ ነፍስየ፡ ወሥጋየ፡ ድልው፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ኦማርያም፡ ለአብርሃም፡ ሃይማኖቱ፨</l>
+            <l n="2">ወለይስሐቅ፡ ኪዳነ፡ ምሕረቱ</l>
+            <l n="3">ወለያዕቆብ፡ ዕንቈ፡ ኅሬ፡ ዘኮንኪ፡ ሠርጐ፡ ትርሲቱ፨</l>
+            <l n="4">ኢትመንንኒ፡ ወኢትኅድግኒ፡ በእንተ፡ አበሳየ፡ ዝንቱ፨</l>
+            <l n="5">አኮኑ፡ ወልድኪ፡ መሓሪ፡ ውእቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="abraham">
+                <persName xml:lang="gez">አብርሃም፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAbrəhām</persName>
+                <persName xml:lang="en">Abraham</persName>
+                <trait type="category"><desc>prophet</desc></trait>
+
+                
+              </person>
+              
+              
+              <person xml:id="isaac">
+                <persName xml:lang="gez">ይስሐቅ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yəsḥaq</persName>
+                <persName xml:lang="en">Isaac</persName>
+                <trait type="category"><desc>prophet</desc></trait>
+
+                
+              </person>
+              
+              
+              <person xml:id="jacob">
+                <persName xml:lang="gez">ያዕቆብ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yāʿqob</persName>
+                <persName xml:lang="en">Jacob</persName>
+                <trait type="category"><desc>prophet</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

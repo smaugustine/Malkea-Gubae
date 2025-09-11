@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2870" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አጼ፡ ዮሐንስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAṣe Yoḥannǝs</title>
+        <title corresp="#t1" xml:lang="en">Image of Yoḥannǝs I</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2870/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>118ra-120rb</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>60ra-61vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">151</citedRange>
+            </biblStruct>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">290</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘበመጽሐፈ፡ ሕግ፡ ተሐትመ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሜላት፡ ዘበፈትለ፡ ሥጋ፡ ተአንመ፨</l>
+            <l n="3">ባሕታዊ፡ ዮሐንስ፡ እስመ፡ መነንከ፡ ዓለመ፨</l>
+            <l n="4">በጽላሎትከ፡ ይነቅሕ፡ ዘኖመ፨</l>
+            <l n="5">ወበሰበንከ፡ ይትፌወስ፡ ዘሐመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ ዘይደልዎ፡ ውዳሴ፨</l>
+            <l n="2">ወለገጽከ፡ ስቡሕ፡ ተመሳሌ፡ ገጹ፡ ለሙሴ፨</l>
+            <l n="3">ውስተ፡ ዝኅር፡ ዮሐንስ፡ እምአመ፡ ኮንከ፡ ፈላሴ፨</l>
+            <l n="4">ይበክዩ፡ በእንቲአከ፡ ምስለ፡ ቤተ፡ ዳዊት፡ ዘእሤ፨</l>
+            <l n="5">ኤፍሬም፡ በከዋላ፡ ወበፍጽም፡ ምናሴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ሰላም፡ ለክሳድከ፡ ወለመታክፍቲከ፡ ጕርዔ፨</l>
+            <l n="2">እለ፡ ዕሩቃተ፡ ኮና፡ እምአርዑተ፡ አይሁድ፡ ዝንጋዔ፨</l>
+            <l n="3">እምዘርአ፡ ሥርናይ፡ ዮሐንስ፡ መበይነ፡ ክርዳድ፡ መሥዔ፨</l>
+            <l n="4">ተሐደሰት፡ በመንግሥትከ፡ ዘቈስጠንጢኖስ፡ ጉባኤ፨</l>
+            <l n="5">ወበመንግሥትከ፡ ሰዱቃዊ፡ አእመረ፡ ትንሣኤ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለሕፅንከ፡ ምጽላለ፡ ነዳይ፡ ብእሲ፨</l>
+            <l n="2">ወለአእዳዊከ፡ አብትር፡ መቅሠፍታተ፡ ርእሱ፡ ለከይሲ፨</l>
+            <l n="3">አበ፡ ምኔተ፡ ደብር፡ ዮሐንስ፡ ወዮሐንስ፡ አበ፡ ነጋሢ፨</l>
+            <l n="4">ምስለ፡ አኖሬዎስ፡ ዘበሰማያት፡ ኀሣሢ፨</l>
+            <l n="5">ወአማናዊ፡ ቢጽከ፡ ዳንኤል፡ ፈላሲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለእመትከ፡ ወለእራኅከ፡ እብል፨</l>
+            <l n="2">ሀብተ፡ በረከት፡ መጥዎ፡ ወተመጥዎ፡ ዘይክል፨</l>
+            <l n="3">መልዕልተ፡ ርእስከ፡ ሤመት፡ ንግሥተ፡ እስራኤል፡ ድንግል፨</l>
+            <l n="4">አክሊለ፡ ሰማያዊ፡ ህየንተ፡ ምድራዊ፡ አክሊል፨</l>
+            <l n="5">በምድር፡ ወሰማይ፡ ዮሐንስ፡ ባዕል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለአብራኪከ፡ ዘአጻመዎን፡ ሰጊድ፨</l>
+            <l n="2">ወለአእጋሪከ፡ አብያጽ፡ አዕማደ፡ ሥጋ፡ ማኅፈድ፨</l>
+            <l n="3">አስከሬነ፡ ወርቅ፡ ዮሐንስ፡ ምሥያመ፡ ኢያሱ፡ መረግድ፨</l>
+            <l n="4">መንበርከ፡ ዘኢፈለሰ፡ መንገለ፡ ካልእ፡ ነገድ፨</l>
+            <l n="5">ስብሐት፡ ለአብ፡ ወስብሐት፡ ለወልድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ በዕለተ፡ ዐባይ፡ ሰንበት፨</l>
+            <l n="2">ወለበድነ፡ ሥጋከ፡ ክቡር፡ መንቅሔ፡ ሥጋ፡ ምውት፨</l>
+            <l n="3">ማኅቶትነ፡ ዮሐንስ፡ ተኀድገነ፡ ለምንት፨</l>
+            <l n="4">አኮኑ፡ ተኣምር፡ እግዚኦ፡ ለእመ፡ ጠፍአ፡ ማኅቶት፨</l>
+            <l n="5">ከመ፡ ንጻሬ፡ ይጠፍእ፡ ወይጸልም፡ ቤት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሕዝበ፡ እስራኤል፡ ያብኡ፡ ለንጉሦሙ፡ ጸባሕተ፨</l>
+            <l n="2">እስከ፡ ይእዜ፡ እምሳኦል፡ እስመ፡ አቀሙ፡ ሥርዓተ፨</l>
+            <l n="3">ተመጠወኒ፡ ዮሐንስ፡ ጻማ፡ ከናፍርየ፡ ሊተ፨</l>
+            <l n="4">ወተወከፍ፡ ፍርል፡ አፉየ፡ እንበለ፡ ትበለኒ፡ አንተ፨</l>
+            <l n="5">ዘንተ፡ አሠነይከ፡ ወአኅሠምከ፡ ዘንተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="yohannes-i">
+                <persName xml:lang="gez">አጼ፡ ዮሐንስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAṣe Yoḥannǝs</persName>
+                <persName xml:lang="en">Yoḥannǝs I</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

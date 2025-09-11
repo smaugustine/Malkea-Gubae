@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0518" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፄዋ፡ ለጽድቅ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ḍewā Laṣədq</title>
+        <title corresp="#t1" xml:lang="en">Image of Ḍewā Laṣədq</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0518/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">249</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘአስተማሰልዎ፡ በኮከብ፨</l>
+            <l n="2">ጽልሙታነ፡ ራእይ፡ ሕዝብ፨</l>
+            <l n="3">ፄዋ፡ ለጽድቅ፡ አብ፡ በመንፈስ፡ ቅዱስ፡ ግልቡብ፨</l>
+            <l n="4">ጸውዐነ፡ ለአግብርቲከ፡ ኀበ፡ ዘእግዚአብሔር፡ ከብካብ፨</l>
+            <l n="5">በከመ፡ ጸውዖ፡ ለጴጥሮስ፡ እግዚኡ፡ ጠቢብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለአካለ፡ ቆምከ፡ ወለሕንብርትከ፡ መርዕድ፨</l>
+            <l n="2">እመብረቀ፡ ክረምት፡ ወነጐድጓድ፨</l>
+            <l n="3">ፄዋ፡ ለጽድቅ፡ አባ፡ ዘቤተ፡ ክርስቲያን፡ ዐምድ፨</l>
+            <l n="4">ተወፈይከ፡ መርሖ፡ ሰማይ፡ ከመ፡ እንተ፡ ኬፋ፡ መራድ፨</l>
+            <l n="5">በዘኢየኀልቅ፡ መንግሥቱ፡ ለወልድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ስብሐት፡ ለከ፡ ፄዋ፡ ለጽድቅ፡ ዘአምላክ፡ ገብር፨</l>
+            <l n="2">ዘበዲበ፡ ኔስፋዝ፡ ንቡር፨</l>
+            <l n="3">ወስብሐት፡ ሎቱ፡ ለእግዚእከ፡ ክቡር፨</l>
+            <l n="4">ስብሐት፡ ለማርያም፡ እግዝእተ፡ ኵሉ፡ ፍጡር፨</l>
+            <l n="5">ወስብሐት፡ ለአቡሁ፡ ዘግብሩ፡ መንክር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ኦፄዋ፡ ለጽድቅ፡ አግርር፡ ለነ፡ ጸላእትነ፨</l>
+            <l n="2">ታሕተ፡ እገሪነ፨</l>
+            <l n="3">ወበኪዳንከ፡ ተማሕፀነ፨</l>
+            <l n="4">ይጕይዩ፡ ወይትኀፈሩ፡ እምቅድሜነ፡ ፀርነ፨</l>
+            <l n="5">ከመ፡ አድኃንኮ፡ ለባሮክ፡ ሐመደ፡ ድኅረ፡ ኮነ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="dewa-lasedq">
+                <persName xml:lang="gez">ፄዋ፡ ለጽድቅ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ḍewā Laṣədq</persName>
+                <persName xml:lang="en">Ḍewā Laṣədq</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2868" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እንጦንዮስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎnṭonyos</title>
+        <title corresp="#t1" xml:lang="en">Image of Anthony</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2868/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>59ra-60rb</locus>
+          </witness>
+          
+          <witness xml:id="BNFet350">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien 350</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>49r-51v</locus>
+          </witness>
+          
+          <witness xml:id="EMML0374">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Gəbi Gabrəʾel</repository>
+                <idno>EMML 374</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>200va-202va</locus>
+          </witness>
+          
+          <witness xml:id="GG085">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-085</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>19vb-22rb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">149</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘቀለመ፡ አሌፍ፡ ፊደሉ፨</l>
+            <l n="2">ለሥዕርትከ፡ ወለርእስከ፡ እንዘ፡ ገጸከ፡ አተሉ፨</l>
+            <l n="3">ኮከበ፡ ገዳም፡ እንጦንዮስ፡ ዘስቡሕ፡ ሥነ፡ ጸዳሉ፨</l>
+            <l n="4">እስከ፡ እፌጽም፡ ውዳሴከ፡ ተራድአኒ፡ በኵሉ፨</l>
+            <l n="5">እስመ፡ ኀይለ፡ ረድኤት፡ ብከ፡ ዘታሕቱ፡ ወላዕሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲከ፡ ምጽለላተ፡ ክልኤ፡ አዕይንት፨</l>
+            <l n="2">ለአእዛኒከ፡ ወለመላትሒከ፡ እንተ፡ የዐውዶን፡ ሲበት፨</l>
+            <l n="3">እንጦንዮስ፡ አብ፡ ወላዴ፡ ብዙኃን፡ ፍጥረት፨</l>
+            <l n="4">ልደኒ፡ እማሕፀንከ፡ እንተ፡ ይእቲ፡ ቅናት፨</l>
+            <l n="5">ወሐሊበ፡ ረድኤትከ፡ ይውግዐኒ፡ እምክልኤ፡ አጥባት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘኮነ፡ ስዉረ፨</l>
+            <l n="2">እምዐይነ፡ ጻድቃን፡ ኵሉ፡ ከመ፡ ቃልከ፡ ነገረ፨</l>
+            <l n="3">እንጦንዮስ፡ አብ፡ ናስተበፅዐከ፡ ኅቡረ፨</l>
+            <l n="4">ቃልከ፡ ከመ፡ መምህር፡ ምሥጢረ፡ መላእክት፡ መሀረ፨</l>
+            <l n="5">ወከመ፡ ጻድቃን፡ እግርከ፡ ገዳማተ፡ ሖረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">እምነ፡ መቃሪ፡ ዘወለድኮ፡ እማሕፀነ፡ ቅድስት፡ አስኬማ፨</l>
+            <l n="2">እምጳኵሚስ፡ ወጴሜን፡ ወአሞን፡ እስከ፡ ገሪማ፨</l>
+            <l n="3">አስተበቍዐከ፡ እንጦንስ፡ በእንተ፡ ኵሉ፡ ጉባኤ፡ ራማ፨</l>
+            <l n="4">ከመ፡ ታድኅነኒ፡ እምዓለመ፡ ሕማም፡ ወጻማ፨</l>
+            <l n="5">ዐፀደ፡ ኃሣር፡ ወምንንት፡ ስማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">እንጦንዮስ፡ ወመቃርዮስ፡ አርሳንዮስ፡ ወጰላድዮስ፨</l>
+            <l n="2">ኅሩይ፡ ኪሮስ፡ በብኑዳ፡ ሚሳኤል፡ ወቅሪስ፨</l>
+            <l n="3">ፍቁረ፡ ማርያም፡ ድንግል፡ ወፍቁረ፡ ወልዳ፡ ክርስቶስ፨</l>
+            <l n="4">ገሪማ፡ ሊባኖስ፡ ጰንጠሌዎን፡ ወሊቃኖስ፨</l>
+            <l n="5">ሰአሉ፡ ለነ፡ ጻድቃን፡ ፍሡሓን፡ በሰማያት፡ አግብርተ፡ መንፈስ፡ ቅዱስ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="anthony">
+                <persName xml:lang="gez">እንጦንዮስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎnṭonyos</persName>
+                <persName xml:lang="en">Anthony</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

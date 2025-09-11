@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0393" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አበክረዙን፡ ዘጉንደ፡ ጉንዴ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAbakǝrazun za-Gunda Gunde</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAbakǝrazun of Gunda Gunde</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0393/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="GG076">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-076</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>9rb-15va</locus>
+          </witness>
+          
+          <witness xml:id="GG085">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-085</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>247va-252ra</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">2</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ለእግዚአብሔር፡ አምላክ፡ ልዑለ፡ መንበር፡ ወህላዌ፨</l>
+            <l n="2">አምጻኤ፡ ዓለማት፡ ኵሉ፡ ፍጡነ፡ በበ፡ ምንታዌ፨</l>
+            <l n="3">እስእሎ፡ ንስቲተ፡ መንፈሰ፡ ጥበብ፡ ወልባዌ፨</l>
+            <l n="4">ከመ፡ እወድሶ፡ ዘአልቦ፡ ሕሳዌ፨</l>
+            <l n="5">ለአሸክረዙን፡ ሆሴዕ፡ ኢያሱ፡ ዘነዌ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ አዳም፡ ለሰሚዕ፨</l>
+            <l n="2">ወለሥዕርትከ፡ በቅብአ፡ ሃይማኖት፡ ቅቡእ፨</l>
+            <l n="3">አበክረዙን፡ ብፁዕ፡ ዐምደ፡ ሃይማኖት፡ ጽኑዕ፨</l>
+            <l n="4">ተከሥተ፡ ለከ፡ በንጻሬ፡ በአምሳለ፡ ዮሐንስ፡ ረድእ፨</l>
+            <l n="5">ምሥጢራተ፡ ነገር፡ ኅቡእ፡ ዘሰማይ፡ ሳብዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">አምኃ፡ ሰላም፡ ንሥኡ፡ ህየንተ፡ ምግባር፡ ረስዩ፨</l>
+            <l n="2">ወከመ፡ ሕልቀት፡ ዘወርቅ፡ ውስተ፡ ኅሊናክሙ፡ ደዩ፨</l>
+            <l n="3">አበክረዙን፡ ብርጋና፡ ወእስጢፋኖስ፡ ባሕርዩ፨</l>
+            <l n="4">ዘቀደመሰ፡ ኀጢአትየ፡ ሥረዩ፨</l>
+            <l n="5">ወድኅረሰ፡ ዕቅበተ፡ ጸልዩ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="abakerazun-gg">
+                <persName xml:lang="gez">አበክረዙን፡ ዘጉንደ፡ ጉንዴ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAbakǝrazun za-Gunda Gunde</persName>
+                <persName xml:lang="en">ʾAbakǝrazun of Gunda Gunde</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">1</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

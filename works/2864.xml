@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2864" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሰላማ፡ እንድርያስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Salāmā ʾƎndrəyās</title>
+        <title corresp="#t1" xml:lang="en">Image of Salāmā ʾƎndrəyās</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2864/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">145</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘምዑዝ፡ ጣዕማ፨</l>
+            <l n="2">አምሳለ፡ ማርያም፡ ድንግል፡ ዘጥዑም፡ ስማ፨</l>
+            <l n="3">ሰላማ፡ እንድርያስ፡ ዳግማየ፡ እንድርያስ፡ ወሰላማ፨</l>
+            <l n="4">ያስተበጽዑከ፡ ሊቃውንተ፡ ሞገስ፡ ወግርማ፨</l>
+            <l n="5">እለ፡ የእምሩ፡ ትርጓሜ፡ ወዜማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ጸሊም፡ ከመ፡ ቋዕ፨</l>
+            <l n="2">ወለርእስከ፡ ዘጽሕደ፡ በቅብአ፡ እንጦኒ፡ ቆብዕ፨</l>
+            <l n="3">ሰላማ፡ እንድርያስ፡ ቢጸ፡ ሐዋርያት፡ አርዳዕ፨</l>
+            <l n="4">አጥለልክ፡ ሃይማኖተ፡ ሲበት፡ ረሲዓን፡ ሰብእ፨</l>
+            <l n="5">በቅብዓ፡ ብሂል፡ ወልድ፡ ቅባኢ፡ ወቅብዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ርስያ፡ ጶዴሬ፡ ወቢሶስ፨</l>
+            <l n="2">ወለመልክእከ፡ አዳም፡ አምሳለ፡ ዳዊት፡ ንጉሥ፨</l>
+            <l n="3">ሰላማ፡ እንድርያስ፡ ሐዋርያ፡ ሕያው፡ ክርስቶስ፨</l>
+            <l n="4">ዘልፈ፡ ተአኵተከ፡ በቃለ፡ ማሕሌት፡ ሐዲስ፨</l>
+            <l n="5">እንተ፡ ጸግበት፡ እምጸጋከ፡ ርህብት፡ ነፍስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ኀበ፡ ነሣእከ፡ እምጴጥሮስ፡ ሢመተ፡ ወከብረ፨</l>
+            <l n="2">ኀበሂ፡ ለበውከ፡ እንተ፡ ማርቆስ፡ መንበረ፨</l>
+            <l n="3">ሰላማ፡ እንድርያስ፡ በዘልብከ፡ አእመረ፨</l>
+            <l n="4">ከመዝ፡ እዜምር፡ ለስምከ፡ ወእሴብሐከ፡ ወትረ፨</l>
+            <l n="5">ከመ፡ ትሀበኒ፡ ትምኔትየ፡ ኵሎ፡ አሚረ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="salama-endreyas">
+                <persName xml:lang="gez">ሰላማ፡ እንድርያስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Salāmā ʾƎndrəyās</persName>
+                <persName xml:lang="en">Salāmā ʾƎndrəyās</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

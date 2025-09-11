@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0424" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አፍኒን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAfnin</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAfnin</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0424/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="ADMY002">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-002</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>46ra-52va</locus>
+          </witness>
+          
+          <witness xml:id="GG144">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-144</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>175rc-179rc</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">16</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘይምዕዝ፡ ከልበኔነ፨</l>
+            <l n="2">ወዘጊዜ፡ ገሚድ፡ አውያነ፨</l>
+            <l n="3">አፍኒን፡ ሥርግው፡ ከመ፡ ሄጶዴጤ፡ ብርሃነ፨</l>
+            <l n="4">ዝክረከ፡ ዝክረ፡ አጥናን፡ ከመ፡ ይሰንቁ፡ ይሙነ፨</l>
+            <l n="5">ዘመንፈስ፡ ቅዱስ፡ ሀበኒ፡ ልሳነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለአእዛኒከ፡ ማሕሌተ፡ አዋልድ፡ ሰሚዓ፡ ዘኢፈተዋ፨</l>
+            <l n="2">ትጉሃነ፡ ሰማይ፡ ቅድመ፡ አመ፡ አዘመዋ፨</l>
+            <l n="3">ዐምደ፡ ቤተ፡ እሳት፡ አፍኒን፡ ዘኢኮንከ፡ እምዕፀ፡ ፌዋ፨</l>
+            <l n="4">ተማሕፀንኩ፡ በአእዛኒከ፡ ኢይረስየኒ፡ ፄዋ፨</l>
+            <l n="5">ጋድርኤል፡ ስሙ፡ ዘጸብአ፡ ለሔዋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለመላትሒከ፡ እለ፡ ይበርቃ፡ በጸዳል፨</l>
+            <l n="2">እምሥነ፡ ሑልያስፍ፡ ወአድናኤል፨</l>
+            <l n="3">አመ፡ ያቀድም፡ ዐቅሞ፡ አዕማደ፡ ሰማይ፡ ልዑል፨</l>
+            <l n="4">እምእሳት፡ በላዒ፡ ወእምነፋስ፡ ቀሊል፨</l>
+            <l n="5">በሠርቀ፡ ቀዳሚት፡ በዓል፤ አፍኒን፡ ሥዑል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">ሰላም፡ ለክሳድከ፡ መልዕልተ፡ መታክፍ፡ ሕኑጽ፨</l>
+            <l n="2">እምእሳት፡ ወነፋስ፡ ወአኮ፡ እምዕፅ፨</l>
+            <l n="3">አፍኒን፡ ግሩም፡ መልአከ፡ ቅዳሴ፡ ወገጽ፨</l>
+            <l n="4">ዘውገ፡ ሱራፌን፡ ወዘውገ፡ ኪሩቤን፡ ቢጽ፨</l>
+            <l n="5">በርእሰ፡ መጽሐፉ፡ ለሄኖክ፡ ዝክርከ፡ ሕኑጽ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ሰላም፡ ለልብከ፡ ዘኢመከረ፡ ዓመፃ፨</l>
+            <l n="2">ከመ፡ አዛዝኤል፡ ያርኢ፡ ገቢረ፡ አስይፍት፡ ወአኅፃ፨</l>
+            <l n="3">አፍኒን፡ መልአክ፡ ብዙኃ፡ ቅዳሴ፡ እምኆፃ፨</l>
+            <l n="4">አውታረ፡ ማሕሌት፡ ዘትዘብጥ፡ ድኅንፃ፨</l>
+            <l n="5">ድኅረ፡ ድልቅልቅ፡ አመ፡ መጽአ፡ ፋፃ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ሰላም፡ ለመላክኢከ፡ ኵሎን፡ አምኃ፡ አቄርብ፡ ዘሱላሜ፨</l>
+            <l n="2">ምዑዘ፡ ቅዳሴ፡ አፍኒን፡ እምነ፡ ቀጺመት፡ ወአበሜ፨</l>
+            <l n="3">ዘነፍኒፈ፡ ስብሐት፡ ደመና፡ ወዘጠለ፡ ስብሐት፡ ጊሜ፨</l>
+            <l n="4">መጥወኒ፡ ወይነ፡ ልቡና፡ ወይነ፡ አእምሮ፡ ከራሜ፨</l>
+            <l n="5">እንበለ፡ ፍጻሜ፡ እስርቦ፡ ለነዋኅ፡ ዕድሜ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ምንተ፡ እዌድስ፡ ኪያከ፡ ውዱሰ፨</l>
+            <l n="2">ወምንተ፡ እቄድስ፡ ኪያከ፡ ቅዱሰ፨</l>
+            <l n="3">ኀረየከ፡ አብ፡ ወረሰየከ፡ መንፈሰ፨</l>
+            <l n="4">አፍኒን፡ እሞገስከ፡ ሀበኒ፡ ሞገሰ፨</l>
+            <l n="5">እንበለ፡ ኂሩት፡ ወገድል፡ ዘያጸድቅ፡ ነፍሰ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">እምፈለገ፡ አፍራጦን፡ ወኤፌሶን፡ እምፈለገ፡ ጤግሮስ፡ ወግዮን፨</l>
+            <l n="2">ውሒዘ፡ ዕበድየ፡ በዝኀ፡ እንበለ፡ መስፈርት፡ ወወሰን፨</l>
+            <l n="3">አፍኒን፡ ርኅሩኅ፡ ሊቀ፡ ትጉሃን፨</l>
+            <l n="4">ናዝዘኒ፡ ለኅዙን፡ በጣዕመ፡ ልሳንከ፡ ወይን፨</l>
+            <l n="5">እስመ፡ ኀጢአተ፡ ይሰሪ፡ ካህን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">መልአከ፡ ዓመፃ፡ ቴጌሬ፡ መልአከ፡ ኀጢአት፡ ቴጌሬ፨</l>
+            <l n="2">ናሁ፡ ይፈቅድ፡ የኀጠኒ፡ ዘበጥያሬ፨</l>
+            <l n="3">አፍኒን፡ ትጉህ፡ ቀርነ፡ ጽድቅ፡ ቀርነ፡ ዝማሬ፨</l>
+            <l n="4">በክነፊከ፡ እመሣግሩ፡ ኩነኒ፡ ስዋሬ፨</l>
+            <l n="5">በግበ፡ ዱዳኤል፡ ሕትም፡ ድሩከ፡ ዐንበሬ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="62">
+            
+            <l n="1">ነዓ፡ ኀቤየ፡ ምስለ፡ ኪሩቤል፡ አዕዋፈ፡ ነድ፨</l>
+            <l n="2">እለ፡ ይጸውሩ፡ ሰማየ፡ ዘሕብረ፡ በረድ፨</l>
+            <l n="3">አፍኒን፡ መረግድ፡ በጸዳለ፡ መብረቅ፡ እዉድ፨</l>
+            <l n="4">ከመ፡ ነጐድጓድ፡ ቃልከ፡ ረዐድ፨</l>
+            <l n="5">ያስምዐኒ፡ ጽድቀ፡ በግርምት፡ ዐውድ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="afnin">
+                <persName xml:lang="gez">አፍኒን፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAfnin</persName>
+                <persName xml:lang="en">Ophanim</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0271" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቶማስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tomās</title>
+        <title corresp="#t1" xml:lang="en">Image of Thomas</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0271/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እስመ፡ ብዙኀን፡ እለ፡ አኀዙ፡ ይወጥኑ፡ ወይንግሩ፨</l>
+            <l n="2">ውዳሴ፡ ሐዋርያት፡ በከመ፡ አእመሩ፨</l>
+            <l n="3">ረትዐኒ፡ ሊተ፡ እትልዎ፡ እምጥንተ፡ ዝክሩ፨</l>
+            <l n="4">ለቶማስ፡ መምህርየ፡ ሶበ፡ አደመኒ፡ ፍቅሩ፨</l>
+            <l n="5">መባአ፡ ማሕሌት፡ ንስቲተ፡ አቄርብ፡ ለክብሩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">መቅድመ፡ ሰላም፡ አቄርብ፡ ለተጸንሶትከ፡ በከርሥ፨</l>
+            <l n="2">በሰብሳበ፡ ንጽሕ፡ ዘእንበለ፡ ርኵስ፨</l>
+            <l n="3">ፀሓየ፡ ህንድኬ፡ ቶማስ፡ ብርሃነ፡ ሰማይ፡ ወየብስ፨</l>
+            <l n="4">ሰረገላከ፡ ምሥጢር፡ ወሩጸትከ፡ መንፈስ፨</l>
+            <l n="5">ዘኢያተገከ፡ ዐረባይ፡ ነፋስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ለለ፡ አሐዱ፡ አሐዱ፨</l>
+            <l n="2">በቅብአ፡ መለኮት፡ እለ፡ ጽሕዱ፨</l>
+            <l n="3">ቶማስ፡ ፀሓይ፡ ለእግዚአብሔር፡ ትርሲተ፡ ወልዱ፨</l>
+            <l n="4">እምባሕረ፡ ልሳን፡ ዘይፈልሕ፡ ሞገዱ፨</l>
+            <l n="5">በኀይለ፡ ጸሎተከ፡ አበሐኒ፡ እዕዱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ እብል፡ ለመልክአ፡ አባልከ፡ ኵሉ፨</l>
+            <l n="2">ለለ፡ አሐዱ፡ ዘበበ፡ አምሳሉ፨</l>
+            <l n="3">ፀሓይ፡ ቶማስ፡ አሰረ፡ ንጉሥ፡ ዘትተሉ፨</l>
+            <l n="4">መንገለ፡ ስእለትየ፡ በተመይጦ፡ አእዛንከ፡ ጽሉ፨</l>
+            <l n="5">ወመክፈልተ፡ ርስተከ፡ ሊተ፡ መምህርየ፡ አድሉ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="thomas">
+                <persName xml:lang="gez">ቶማስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tomās</persName>
+                <persName xml:lang="en">Thomas</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

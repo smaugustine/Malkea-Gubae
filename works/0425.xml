@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0425" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሳቁኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Sāquʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Sakuel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0425/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="ADMY002">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-002</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>53ra-57vb</locus>
+          </witness>
+          
+          <witness xml:id="GG144">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-144</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>182va-185vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">237</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተጸውዐ፡ ቀዳሚ፨</l>
+            <l n="2">እምቅድመ፡ ትጸውዕ፡ ምድር፡ ወሰማይ፡ ቀዋሚ፨</l>
+            <l n="3">ሳቁኤል፡ መልአክ፡ ትጉህ፡ ኢነዋሚ፨</l>
+            <l n="4">ጊዜ፡ በጽሐኒ፡ ኀዘን፡ ወደዌ፡ መሕመሚ፨</l>
+            <l n="5">ለመድኃኒትየ፡ ስመከ፡ እስሚ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለማኅበረ፡ መልክእከ፡ እብል፨</l>
+            <l n="2">እንዘ፡ ለኪፎቶን፡ ኢይክል፨</l>
+            <l n="3">ሳቁኤል፡ መልአክ፡ ዖፈ፡ ነበልባል፨</l>
+            <l n="4">እምነ፡ መዝገቡ፡ ከመ፡ ይምጽአኒ፡ ሣህል፨</l>
+            <l n="5">ቅጽብ፡ በእድ፡ ወጸውዕ፡ በቃል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ዐስቡ፡ ለዐሳብ፡ በአምጣነ፡ ይተግህ፡ ወይጻሙ፨</l>
+            <l n="2">ዐስበ፡ ማሕሌትየ፡ እንበለ፡ መጠኑ፡ ወዐቅሙ፨</l>
+            <l n="3">ኦሳቁኤል፡ ለማየ፡ ርኅራኄ፡ ምሥያመ፨</l>
+            <l n="4">ፍቁረ፡ እኩን፡ በኀቤከ፡ ለለ፡ ዕለቱ፡ ወዓሙ፨</l>
+            <l n="5">ከመ፡ ወልድ፡ ብሕትው፡ ወዋሕድ፡ ለእሙ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="sakuel">
+                <persName xml:lang="gez">ሳቁኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Sāquʾel</persName>
+                <persName xml:lang="en">Sakuel</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

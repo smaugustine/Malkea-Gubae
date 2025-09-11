@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe3037" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ስብሐተ፡ መስቀል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Səbḥata Masqal</title>
+        <title corresp="#t1" xml:lang="en">Praise of the Cross</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/3037/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">317</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ስብሐተ፡ መስቀል፡ ቅዱስ፨</l>
+            <l n="2">እንዘ፡ ተማሕፅኖ፡ አጸንዕ፡ በቅንዋቲሁ፡ ኃምስ፨</l>
+            <l n="3">አንተ፡ ውእቱ፡ እግዚአ፡ አእምሮ፡ ሐዲስ፨</l>
+            <l n="4">ምላእ፡ ውስተ፡ ልብየ፡ ኦክርስቶስ፨</l>
+            <l n="5">ውእተ፡ አእምሮ፡ ዘየኀድር፡ በርእስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">በትእምርተ፡ መስቀል፡ ይኩን፡ ለካህን፡ ቡራኬሁ፨</l>
+            <l n="2">ላዕለ፡ ማየ፡ ጸሎትኒ፡ ወላዕለ፡ ምሥዋዕ፡ ከማሁ፨</l>
+            <l n="3">ሐዋርያት፡ ይቤሉ፡ እለ፡ ርእይዎ፡ አሜሁ፨</l>
+            <l n="4">ለክርስቶስ፡ ኅብስተ፡ ናእት፡ ጊዜ፡ ረሰየ፡ ሥጋሁ፨</l>
+            <l n="5">እስመ፡ ከመ፡ ዝ፡ ባረከ፡ በቅዱስ፡ እዴሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">በርእሱ፡ አዳም፡ አምጽአ፡ ሞተ፨</l>
+            <l n="2">እምቈጽለ፡ በለስ፡ ዘኤዶም፡ ሶበ፡ ተፍእመ፡ ንስቲተ፨</l>
+            <l n="3">አምላከ፡ ይኩን፡ እስመ፡ ፈተወ፡ ፍትወተ፨</l>
+            <l n="4">መስቀል፡ ከዊነከ፡ ለእግዚአብሔር፡ ዐራተ፨</l>
+            <l n="5">ሎቱ፡ ወለደቂቁ፡ አሕየውኮሙ፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ኃምስ፡ ቅንዋቲከ፡ ምስለ፡ ሰሌዳሁ፡ ለጲላጦስ፨</l>
+            <l n="2">ዘነገረ፡ ስምዑ፡ ጽሑፍ፡ በቃለ፡ ልሳናት፡ ሠላስ፨</l>
+            <l n="3">መጽንዔ፡ ሥጋ፡ መስቀል፡ ወመንቅሒሃ፡ ለነፍስ፨</l>
+            <l n="4">ይትዐቀቡ፡ በረድኤትከ፡ ሕዋሳትየ፡ ኃምስ፨</l>
+            <l n="5">ከመ፡ ኢይስሐት፡ በአሐዱ፡ እምእሉ፡ ሕዋስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">በኍልቈ፡ ሠላሳ፡ ወሠለስቱ፡ እንበለ፡ ፍድፉዴ፡ ወንትጋ፨</l>
+            <l n="2">ለብሉየ፡ መዋዕል፡ ክርስቶስ፡ ዓመተ፡ ሕይወቱ፡ ዘሥጋ፨</l>
+            <l n="3">መጽሐፈ፡ ስብሐቲከ፡ መስቀል፡ ዘይትነበብ፡ ቅድመ፡ እንግልጋ፨</l>
+            <l n="4">ናሁ፡ ተፈጸመ፡ ኦለሀብት፡ ፈለጋ፨</l>
+            <l n="5">ሀበኒ፡ ሞገሰ፡ ወጸግወኒ፡ ጸጋ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዐራተ፡ ሕማሙ፡ መስቀል፨</l>
+            <l n="2">ለእግዚአብሔር፡ ቃል፨</l>
+            <l n="3">ዘተጼሐ፡ ብከ፡ ፍኖተ፡ ወንጌል፨</l>
+            <l n="4">ዕፀ፡ መድኃኒት፡ ወዕፀ፡ ሣህል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ለመለኮት፡ ክርስቶስ፡ ዘኢያገምሮ፡ መካን፨</l>
+            <l n="2">አግመርኮ፡ ለሊከ፡ ንኡሰ፡ መጠን፨</l>
+            <l n="3">መስቀል፡ ዕፀ፡ ግዕዛን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ መስቀል፡ ጸንዐ፡ ተስፋ፡ ኵሉ፡ ወንጌለ፡ መንግሥት፡ ተሰብከ፨</l>
+            <l n="2">በውእቱሂ፡ ወንጌል፡ ማእሰሩ፡ ተበትከ፨</l>
+            <l n="3">ለሰይጣን፡ ዘይጸልአከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዕፀ፡ በለስ፡ መስቀል፡ ወካልእ፡ አኮ፨</l>
+            <l n="2">እስግድ፡ ለከ፡ በአስተብርኮ፨</l>
+            <l n="3">ምርሐኒኬ፡ ፍኖተ፡ እንተ፡ ኀረይኮ፨</l>
+            <l n="4">እስመ፡ አንተ፡ ለጻድቅ፡ መራሕኮ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="cross">
+                <persName xml:lang="gez">መስቀል፡</persName>
+                <persName xml:lang="gez" type="normalized">Masqal</persName>
+                <persName xml:lang="en">The Cross</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

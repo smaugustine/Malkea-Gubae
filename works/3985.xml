@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe3985" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መዝሙረ፡ ድንግል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Mazmura Dəngəl</title>
+        <title corresp="#t1" xml:lang="en">Psalter of the Virgin</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/3985/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">310</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ነዓ፡ ኀቤየ፡ ዳዊት፡ ንጉሠ፡ እስራኤል፨</l>
+            <l n="2">በዐለ፡ መዝሙር፡ ሠናይ፡ ወጥዑመ፡ ቃል፨</l>
+            <l n="3">ታለብወኒ፡ ነገረ፡ ወፍካሬ፡ ኵሉ፡ አምሳል፨</l>
+            <l n="4">ከመ፡ እወድሳ፡ ለማርያም፡ ድንግል፨</l>
+            <l n="5">እንዘ፡ አነ፡ እጸርሕ፡ ወእብል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ብፁዕ፡ ብእሲ፡ በምክረ፡ ዚአኪ፡ ዘሖረ፨</l>
+            <l n="2">ወዘያነብብ፡ ሕገኪ፡ ኵሎ፡ አሚረ፨</l>
+            <l n="3">ማርያም፡ ስቅይኒ፡ ዘውዳሴኪ፡ ምንሐረ፨</l>
+            <l n="4">ከመ፡ እኩን፡ ተክለ፡ ገነት፡ ወዕፀ፡ ሥሙረ፨</l>
+            <l n="5">ዘምስለ፡ ፍሬ፡ ወቈጽል፡ ዘይትረከብ፡ ወትረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ለምንት፡ ማርያም፡ አሕዛበ፡ ምድር፡ አንገለጉ፨</l>
+            <l n="2">አኮኑ፡ ይንብቡ፡ ውዳሴ፡ ዚአኪ፡ ዘበበ፡ ሕጉ፨</l>
+            <l n="3">እለ፡ ወረዱ፡ ቀላየ፡ ወእለ፡ ሰማያተ፡ ዓርጉ፨</l>
+            <l n="4">ሶበ፡ ኀየሎሙ፡ ለስብሐትኪ፡ ፈለጉ፨</l>
+            <l n="5">እንበለ፡ ይጽብቱ፡ መብዝኅቶ፡ ኀደጉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሚበዝኁ፡ እለ፡ ይሣቅዩኒ፡ እሙ፨</l>
+            <l n="2">ወበላዕሌየ፡ ብዙኃን፡ ቆሙ፨</l>
+            <l n="3">ማርያም፡ ርድእኒ፡ ለወልድኪ፡ በእንተ፡ ደሙ፨</l>
+            <l n="4">ከመ፡ ይትኀፈሩ፡ እለ፡ ይብሉኒ፡ ኵሎሙ፨</l>
+            <l n="5">ማእዜ፡ ይመውት፡ ወይሠዓር፡ ስሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሶበ፡ ጸዋዕኩኪ፡ ማርያም፡ ስምዕኒ፡ ጸሎተ፨</l>
+            <l n="2">ወእምንዳቤየ፡ አርኅቢ፡ ሊተ፨</l>
+            <l n="3">ወካዕበ፡ ደዪ፡ ውስተ፡ ልብየ፡ ትፍሥሕተ፨</l>
+            <l n="4">ከመ፡ ይትዓወቅ፡ በላዕሌየ፡ ወያስተርኢ፡ ክሡተ፨</l>
+            <l n="5">ብርሃነ፡ ገጽኪ፡ ዘአልቦ፡ ጽልመተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ቃልየ፡ አጽምኢ፡ ወጽራሕየ፡ ለብዊ፨</l>
+            <l n="2">ንግሥትየ፡ አንቲ፡ እመ፡ ንጉሥ፡ ሰማያዊ፨</l>
+            <l n="3">ማርያም፡ ታቦት፡ ኅቢቶሙ፡ ለሕዝበ፡ ሌዊ፨</l>
+            <l n="4">ዕቀብኒ፡ ወሠውርኒ፡ እመሥገርተ፡ ልሳን፡ ነዓዊ፨</l>
+            <l n="5">ከመ፡ ዘሠናይ፡ ወትጉህ፡ ኖላዊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ኦማርያም፡ ኢትቅሥፈኒ፡ በመዓቱ፨</l>
+            <l n="2">ይገሥጸኒ፡ በጽድቁ፡ ወይዛለፈኒ፡ በምሕረቱ፨</l>
+            <l n="3">አበ፡ ጠቢባን፡ ወልድኪ፡ ወገባሬ፡ ፍጥረት፡ ባሕቲቱ፨</l>
+            <l n="4">ለዘያፈቅር፡ ኪያኪ፡ ከመዝ፡ ሥርዓቱ፨</l>
+            <l n="5">ለኃጥእሰ፡ ጸዋግ፡ ሞቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ብኪ፡ ተወከልኩ፡ ኢትግድፍኒ፡ ገዲፈ፨</l>
+            <l n="2">አድኅንኒ፡ እምኵሎሙ፡ እለ፡ ይረውዱኒ፡ ዘልፈ፨</l>
+            <l n="3">ሶበ፡ እጼውዕ፡ ስመኪ፡ ከሢትየ፡ አፈ፨</l>
+            <l n="4">በላዕለ፡ ፀርየ፡ እንዘ፡ ትመልሒ፡ ሰይፈ፨</l>
+            <l n="5">እምቅድመ፡ ገጽየ፡ ማርያም፡ አንትዒ፡ አእላፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ጥቀ፡ ተሰብሐ፡ ስምኪ፡ መዋኢ፨</l>
+            <l n="2">ወበኵሉ፡ ረዳኢ፨</l>
+            <l n="3">ሰማያተኒ፡ ግብረ፡ ወልድኪ፡ ንሬኢ፨</l>
+            <l n="4">በእንተ፡ ጸላኢ፡ ወበእንተ፡ ኵሉ፡ ገፋዒ፨</l>
+            <l n="5">ማርያም፡ ተንሥኢ፡ ወፍጡነ፡ ንዒ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">እገኒ፡ ለኪ፡ በኵሉ፡ ልብየ፨</l>
+            <l n="2">ወእነግር፡ ኵሎ፡ ዘውዳሴኪ፡ ዕበየ፨</l>
+            <l n="3">ከመ፡ እትፈሣሕ፡ ብኪ፡ ማርያም፡ እምየ፨</l>
+            <l n="4">ይድወዩ፡ ወይትኀጐሉ፡ እምቅድመ፡ ገጽየ፨</l>
+            <l n="5">እለ፡ ያዓብዩ፡ አፉሆሙ፡ ላዕሌየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">በእግዚአብሔር፡ ተወከልኩ፡ እፎ፡ ይብልዋ፨</l>
+            <l n="2">ለነፍስየ፡ ነአስ፡ እለ፡ ይፀብእዋ፨</l>
+            <l n="3">በሐኪ፡ ማርያም፡ ሐዳስዩ፡ ጣዕዋ፨</l>
+            <l n="4">ከመ፡ ይቅትሎ፡ ለፀርየ፡ ወለፀረ፡ እምየ፡ ሔዋ፨</l>
+            <l n="5">ጽንዓ፡ ምክረ፡ ብእሲት፡ ሀብኒ፡ ዘትነብር፡ ቤጤልዋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">አድኅንኒ፡ እግዝእትየ፡ እስመ፡ ሐልቀ፡ ኄር፨</l>
+            <l n="2">ወውሕደ፡ ሃይማኖት፡ እምነ፡ ምድር፨</l>
+            <l n="3">እመኒ፡ ተንሥኡ፡ ለተፃብኦትየ፡ ፀር፨</l>
+            <l n="4">በእኪት፡ ወበኃሣር፡ ትተልዎሙ፡ ወግር፨</l>
+            <l n="5">ወበላዕሌሆሙ፡ ይደቁ፡ አድባር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">እስከ፡ ማእዜኑ፡ እግዝእትየ፡ ትረስዕኒ፡ እብል፨</l>
+            <l n="2">ወትፄዕረኒ፡ ልብየ፡ በኵሉ፡ መዋዕል፨</l>
+            <l n="3">ነጽሪ፡ ኀቤየ፡ ወተመየጢ፡ በሣህል፨</l>
+            <l n="4">እሴብሖ፡ ለዕበይኪ፡ ድንግል፨</l>
+            <l n="5">ወእዜምር፡ ለስምኪ፡ ልዑል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ይብል፡ አብድ፡ እግዚአብሔር፡ አልቦ፨</l>
+            <l n="2">በእንቲአኪ፡ ዘይነብብ፡ ነገረ፡ ሐሜት፡ ወተሐዝቦ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ መቅለሊተ፡ ክበድ፡ ለዘዓፀቦ፨</l>
+            <l n="4">ዘሰ፡ እግዚአብሔር፡ ዓተቦ፨</l>
+            <l n="5">ለዕበየ፡ ኂሩትኪ፡ ዘልፈ፡ ያቄርብ፡ የብቦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">መኑ፡ የኀድር፡ ውስተ፡ ጽላሎትኪ፡ ዓርዝ፨</l>
+            <l n="2">ወመኑ፡ ያጸልል፡ ውስተ፡ ቤትኪ፡ ግዑዝ፨</l>
+            <l n="3">እንበለ፡ ዘይረውጽ፡ ብእሲ፡ በዕፍረትኪ፡ ምዑዝ፨</l>
+            <l n="4">ማርያም፡ ሠናይተ፡ ግዕዝ፡ በዘዚአኪ፡ ትእዛዝ፨</l>
+            <l n="5">ዝክረ፡ ሞት፡ ይሠዓር፡ ወይዘርዘር፡ ኅምዝ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ዕቀብኒ፡ ማርያም፡ እስመ፡ ተወከልኩኪ፡ አነ፨</l>
+            <l n="2">ወጊዜ፡ ሰአልኩኪ፡ ዓዲ፡ ስምዕኒ፡ ፍጡነ፨</l>
+            <l n="3">እምዕበይኪ፡ ብዙኅ፡ ዘአልቦ፡ ወሰነ፨</l>
+            <l n="4">በምድርሰ፡ ውሑደ፡ ርኢነ፨</l>
+            <l n="5">ዘበሰማያት፡ መኑ፡ ፈተነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ጐሥዓ፡ ልብየ፡ ቃለ፡ ሠናየ፨</l>
+            <l n="2">ከመ፡ ቀለመ፡ ጸሐፊ፡ ዘጠበጠበ፡ ይጽሕፍ፡ ልሳንየ፨</l>
+            <l n="3">እንዘ፡ እዌድስ፡ ስነኪ፡ ወዘዚአኪ፡ ላህየ፨</l>
+            <l n="4">ኦማርያም፡ እምየ፨</l>
+            <l n="5">እስመ፡ ለኪ፡ ወትረ፡ አየድዕ፡ ግብርየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="89">
+            
+            <l n="1">ምሕረተኪ፡ እሴብሕ፡ እግዝእትየ፡ ማርያም፨</l>
+            <l n="2">ለዓለም፡ ወለዓለመ፡ ዓለም፨</l>
+            <l n="3">እስመ፡ ጽድቀ፡ ዚአኪ፡ ጸንዓ፡ በአርያም፨</l>
+            <l n="4">ለታቦርኒ፡ ወአርሞኔም፨</l>
+            <l n="5">ያስተፌሥሖሙ፡ ስመ፡ ዚአኪ፡ ጥዑም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="137">
+            
+            <l n="1">ውስተ፡ አፍላገ፡ ባቢሎን፡ ነበሩ፡ ወበከዩ፡ እለ፡ እዝራ፨</l>
+            <l n="2">በእንተ፡ ውእየታ፡ ለጽዮን፡ ወበእንተ፡ ኵሉ፡ ኀሣራ፨</l>
+            <l n="3">ለኪሰ፡ ማርያም፡ ወለተ፡ ቅሥራ፨</l>
+            <l n="4">እንዘ፡ ይዘብጡ፡ ከበሮ፡ ወይነፍሑ፡ እንዚራ፨</l>
+            <l n="5">ዳዊት፡ ይሴብሕ፡ ወትዘፍን፡ ዲቦራ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="151">
+            
+            <l n="1">ሰብሕዎ፡ ለእግዚአብሔር፡ በቅዱሳኑ፡ ቅዱስ፨</l>
+            <l n="2">ሰብሕዎ፡ በጽንዓ፡ ኀይሉ፡ ለእግዚአብሔር፡ ንጉሥ፨</l>
+            <l n="3">ለኪኒ፡ ማርያም፡ ዘወለድኪዮ፡ እምከርሥ፨</l>
+            <l n="4">ሰብሑኪ፡ በጸናጽል፡ ወበይባቤ፡ ሐዲስ፨</l>
+            <l n="5">ኵሉ፡ ነፍስ፡ ወኵሉ፡ መንፈስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="152">
+            
+            <l n="1">ንኡስ፡ አነ፡ እምእኃውየ፡ ኵሎሙ፨</l>
+            <l n="2">ከናፍርየ፡ ያስተዋድዳ፡ ዳእሙ፨</l>
+            <l n="3">ስብሐታተኪ፡ ማርያም፡ ለመዝሙረ፡ ዳዊት፡ በዓቅሙ፨</l>
+            <l n="4">ዝኬ፡ ለነገርየ፡ ተፍጻሙ፨</l>
+            <l n="5">ወለጸሎትየ፡ ውእቱ፡ ማኅተሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="153">
+            
+            <l n="1">ኦማርያም፡ ዘውዳሴኪ፡ ተዝካረ፨</l>
+            <l n="2">ጸሐፍኩ፡ ኅዳጠ፡ በአምጣነ፡ ዳዊት፡ ዘመረ፨</l>
+            <l n="3">እስመ፡ ኢይክል፡ ፈጽሞ፡ ዘዚአኪ፡ ክብረ፨</l>
+            <l n="4">በኍልቈ፡ ከዋክብት፡ ወኆፃ፡ ባሕር፡ እመ፡ አብዛኅኩ፡ ነገረ፨</l>
+            <l n="5">ወበኍልቈ፡ አቍጽል፡ ወሣዕር፡ ዘይከድኑ፡ ምድረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="154">
+            
+            <l n="1">በቀዳሚት፡ ዕለት፡ እንተ፡ ትሰመይ፡ እሑደ፨</l>
+            <l n="2">እምዘ፡ ገብረ፡ እግዚአብሔር፡ ሰባዕተ፡ ዘመደ፨</l>
+            <l n="3">ኦማርያም፡ እምየ፡ እንዘ፡ አቀድም፡ ሰጊደ፨</l>
+            <l n="4">አቄርብ፡ ዮም፡ ስብሐታተኪ፡ ፈድፋደ፨</l>
+            <l n="5">አሐደ፡ ወካልአ፡ እደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="155">
+            
+            <l n="1">ንሴብሖ፡ ለእግዚአብሔር፡ በስብሐተ፡ ነቢይ፡ ሙሴ፨</l>
+            <l n="2">እንዘ፡ ናተሉ፡ ለዕበይኪ፡ ውዳሴ፨</l>
+            <l n="3">ማርያም፡ በትር፡ ዘሠረፅኪ፡ እምሠርወ፡ እሴ፨</l>
+            <l n="4">መፈውሰ፡ ነፍስ፡ ወዘያነጽሕ፡ አባሴ፨</l>
+            <l n="5">እምጕንደ፡ ዚአኪ፡ ጸገየ፡ ቅዳሴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="163">
+            
+            <l n="1">ይትባረክ፡ እግዚአብሔር፡ አምላከ፡ ሠለስቱ፡ ደቂቅ፨</l>
+            <l n="2">ዘረሰየኪ፡ ሙባአ፡ ወሙፃአ፡ ለፀሓየ፡ ጽድቅ፨</l>
+            <l n="3">ማርያም፡ ኆኅት፡ ዘተቀመርከ፡ በሠርቅ፨</l>
+            <l n="4">ማዕከለ፡ ኀዋኅው፡ ወመሳክው፡ ዘኡደቶን፡ ጥንቁቅ፨</l>
+            <l n="5">ኀበ፡ ይወፅኡ፡ ቦን፡ ጥዒና፡ ወሞት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="167">
+            
+            <l n="1">ታዐብዮ፡ ነፍስየ፡ በአምጣነ፡ ብየ፡ ክሂል፨</l>
+            <l n="2">ለእግዚአብሔር፡ ወልድከ፡ ከመ፡ ኣቅደምኪ፡ ብሂል፨</l>
+            <l n="3">በእንቲአየ፡ ገብረ፡ ዐቢያተ፡ ኀይለ፨</l>
+            <l n="4">ትሑታነሂ፡ በትሕትናሁ፡ አልዐለ፨</l>
+            <l n="5">ወለነዳያን፡ አጽገቦሙ፡ እክለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="170">
+            
+            <l n="1">መኃልየ፡ መኃልይ፡ ዝውእቱ፡ ዘሰሎሞን፨</l>
+            <l n="2">እመዝሙረ፡ ዳዊት፡ ዘይተሉ፡ ወእምስብሐተ፡ ሙሴ፡ ካህን፨</l>
+            <l n="3">አዳም፡ ይቤ፡ ጥበ፡ ዚአኪ፡ እምወይን፨</l>
+            <l n="4">ማርያም፡ ጥዕምተ፡ ስም፡ እምነ፡ ዕቍረ፡ ማየ፡ ልብን፨</l>
+            <l n="5">ወእምነ፡ ፀበል፡ ዘስሒን፡ ለምሥዋዕ፡ ዕዩን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="177">
+            
+            <l n="1">መኑ፡ ይእቲ፡ ዛቲ፡ ትቤ፡ ራእየ፨</l>
+            <l n="2">እንተ፡ ትሔውጽ፡ ከመ፡ ጎሕ፡ ድኅረ፡ ለያልይ፨</l>
+            <l n="3">በእንቲአኪ፡ ማርያም፡ ሙፃአ፡ ፀሐይ፨</l>
+            <l n="4">ክንፈ፡ ፍቅርኪ፡ ክንፈ፡ እሳት፡ ውዑይ፨</l>
+            <l n="5">ኢይክል፡ አጥፍኦታ፡ ማይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="178">
+            
+            <l n="1">ስብሐታተኪ፡ ማርያም፡ ከመ፡ እንተ፡ ሕልቀት፡ አዖድኩ፨</l>
+            <l n="2">ዘበበአፃብዕ፡ እንዘ፡ ያሰምኩ፨</l>
+            <l n="3">ዘተመነይኩ፡ ሀብኒ፡ ወዘኃሠሥኩ፨</l>
+            <l n="4">በማሕሌት፡ ወበመዝሙር፡ ስመ፡ ዚአኪ፡ ነገርኩ፨</l>
+            <l n="5">ወዘወሀብክኒ፡ ግብረኪ፡ ፈጸምኩ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mary">
+                <persName xml:lang="gez">ማርያም፡ ድንግል፡</persName>
+                <persName xml:lang="gez" type="normalized">Māryām Dəngəl</persName>
+                <persName xml:lang="en">Virgin Mary</persName>
+                <trait type="category"><desc>marian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Sokolinskaia2007" corresp="http://zotero.org/groups/5599348/items/794MFFWA"><analytic><title level="a">Mäzmurä dǝngǝl</title><title type="short">EAe</title><author><forename>Evgenia</forename><surname>Sokolinskaia</surname></author><author><forename>Ute</forename><surname>Pietruschka</surname></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">896b-897a</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

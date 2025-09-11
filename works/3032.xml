@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe3032" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሥቃዩ፡ ለጊዮርጊስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śəqāyu la-Giyorgis</title>
+        <title corresp="#t1" xml:lang="en">Image of the Torture of George</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/3032/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BNFabb170">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 170</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>12vb-14vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">312</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="thesis">
+              <analytic>
+                <title level="a">Appendix: Mälkǝ’a Mälkǝ’</title>
+                <author><name>Gezahegn Getachew</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">The Mälkǝ': Its Major Features and Source</title>
+                <author><name>Gezahegn Getachew</name></author>
+                <imprint>
+                  <pubPlace>Addis Ababa</pubPlace>
+                  <date>2000</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">23</citedRange>
+            </biblStruct>
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ነገረ፡ ፊደላት፡ ሳምን፡ ከመ፡ ዳንኤል፡ ፈከረ፨</l>
+            <l n="2">ናሁ፡ እከሥት፡ ዘውዳሴከ፡ ምሥጢረ፨</l>
+            <l n="3">ጊዮርጊስ፡ ፍቅርከ፡ አመ፡ ረሰየኒ፡ ገብረ፨</l>
+            <l n="4">መኑ፡ ይከልአኒ፡ ዜና፡ ገድልከ፡ ነጊረ፨</l>
+            <l n="5">እመ፡ አንቀልቀሉ፡ ነፋሳት፡ ኢልማድ፡ አድባረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ተማሕፀንኩ፡ እግዚእየ፡ በርኅራኄከ፡ ዘቅድም፨</l>
+            <l n="2">ጊዜ፡ አድኀንካ፡ ለወለት፡ እምአፈ፡ አርዌ፡ ርጉም፨</l>
+            <l n="3">ጊዮርጊስ፡ የዋህ፡ እንበለ፡ መስፈርት፡ ወዐቅም፨</l>
+            <l n="4">ተራኅርኅ፡ በላዕሌየ፡ በአምሳለ፡ አብ፡ ወእም፨</l>
+            <l n="5">እስመ፡ ሱታፌከ፡ አነ፡ በሥጋ፡ ወደም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ተማሕፀንኩ፡ በቀዊሞትከ፡ በቅድመ፡ ዱድያኖስ፡ ንጉሥ፨</l>
+            <l n="2">መፍቀሬ፡ ተስናን፡ ወካዕስ፨</l>
+            <l n="3">ጊዮግሪስ፡ ጥቡዕ፡ ሰማዕተ፡ ኢየሱስ፡ ክርስቶስ፨</l>
+            <l n="4">ዝርዎሙ፡ ለአፅራርየ፡ አምሳለ፡ ጸበል፡ ወጢስ፨</l>
+            <l n="5">ኀይለ፡ ረድኤትከ፡ መዋኢ፡ ነፋስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ተማሕፀንኩ፡ በኪዳንከ፡ በዘወሀበከ፡ ወልድ፡ ዋሕድ፨</l>
+            <l n="2">ከመ፡ ይምሕር፡ ለከ፡ እስከነ፡ ዐሥርቱ፡ ትውልድ፨</l>
+            <l n="3">ጊዮርጊስ፡ ኢትዝክር፡ ኀጢአተ፡ ገብርከ፡ አብድ፨</l>
+            <l n="4">አኮኑ፡ አምላክከ፡ እንዘ፡ ቅንወ፡ እግር፡ ወእድ፨</l>
+            <l n="5">ኢተዘከረ፡ አበሳሆሙ፡ ለአብዳን፡ አይሁድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ከመ፡ ኢይትርፍ፡ ብከ፡ ንባበ፡ ዝንቱ፡ አፉየ፨</l>
+            <l n="2">ወጻማ፡ ነባቢ፡ ልሳንየ፨</l>
+            <l n="3">ጊዮርጊስ፡ ለከ፡ ትብለከ፡ ነፍስየ፨</l>
+            <l n="4">ዕሥየኒ፡ በሰማያት፡ ዕሤተ፡ ሠናየ፨</l>
+            <l n="5">ዘእዝነ፡ መዋቲ፡ ኢሰምዐ፡ ወዘዐይን፡ ኢርእየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">ለዐምደ፡ ቤትከ፡ ወይንነ፡ ዘእንስሳ፡ ገዳም፡ ተርዕያ፨</l>
+            <l n="2">ወይበልዐ፡ ኵሉ፡ ኀላፌ፡ ፍኖት፡ ዘርእያ፨</l>
+            <l n="3">ጊዮርጊስ፡ አሰኒ፡ በላሕይከ፡ ላሕያ፨</l>
+            <l n="4">አኮኑ፡ አርአያ፡ ወርቅ፡ በዘይሤኒ፡ አርአያ፨</l>
+            <l n="5">ኪነ፡ ጥበቡ፡ ይትነክር፡ ያሤኒ፡ ኬንያ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="george">
+                <persName xml:lang="gez">ጊዮርጊስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Giyorgis</persName>
+                <persName xml:lang="en">George</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

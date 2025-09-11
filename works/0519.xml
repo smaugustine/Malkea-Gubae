@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0519" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብረ፡ ናዝራዊ፡ ዘደብረ፡ ቀወት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabra Nāzrāwi za-Dabra Qawat</title>
+        <title corresp="#t1" xml:lang="en">Image of Gabra Nāzrāwi of Dabra Qawat</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0519/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">99</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተሰብሐ፡ ወተወደሰ፨፨</l>
+            <l n="2">በአፈ፡ አምላክ፡ አሚነ፡ ወዕበየ፡ ስብሐት፡ ዘለብሰ፨</l>
+            <l n="3">ገብረ፡ ናዝራዊ፡ እትናበብ፡ ማሕሌተከ፡ ሐዲስ፨</l>
+            <l n="4">አፉየ፡ ምላእ፡ እግዚኦ፡ ማሕሌታዌ፡ መንፈሰ፨</l>
+            <l n="5">ወተናብቦትየ፡ ረሲ፡ ንባበ፡ ቅዱሰ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ኀበ፡ ዘሠምረ፡ ንጉሠ፡ ራማ፨</l>
+            <l n="2">ለመካነ፡ ቅድስት፡ ኀረይክዋ፡ ዘጽዋዔ፡ ዐቢይ፡ ወልዑል፡ ስማ፨</l>
+            <l n="3">ገብረ፡ ናዝራዊ፡ ርሱይ፡ በትርዒተ፡ ሞገስ፡ ወልብሰ፡ ግርማ፨</l>
+            <l n="4">ከመ፡ አቡከ፡ ንንሣእ፡ በረከቶ፡ ለመንፈስ፡ ቅዱስ፡ ፌማ፨</l>
+            <l n="5">ከመ፡ ያድኅነነ፡ እምእኩይ፡ መስቴማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰረገላ፡ መንበር፡ ይትሌዐል፡ ተፅዕንከ፡ ገብረ፡ ናዝራዊ፨</l>
+            <l n="2">ውስተ፡ በአትከ፡ ኀረይክዋ፡ ምስካየ፡ ኅሩይ፡ ባሕታዊ፨</l>
+            <l n="3">ህየንተ፡ አምኃ፡ ንጹሕ፡ ማሕሌተ፡ ያሬድ፡ ሌዋዊ፨</l>
+            <l n="4">ማየ፡ ሰሊሆም፡ በረከትከ፡ ሐዋርያ፡ ሰላም፡ ላዕላዊ፨</l>
+            <l n="5">ገነተ፡ ሰብእናየ፡ ይስቂ፡ ወነፍስየ፡ ያርዊ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለገብረ፡ ናዝራዊ፡ እንተ፡ ነጸረ፡ ወርእየ፨</l>
+            <l n="2">ለእግዚአብሔር፡ ገሀደ፡ ስብሐተ፡ ገጹ፡ ውኩየ፨</l>
+            <l n="3">በላዕለ፡ ምጥማቃትኒ፡ ሶበ፡ ውእቱ፡ ጸለየ፨</l>
+            <l n="4">አምሳለ፡ መብረቅ፡ ሰጢቆ፡ ሰማየ፨</l>
+            <l n="5">ብርሃነ፡ ጸጋ፡ ወረደ፡ ከመ፡ ይቀድስ፡ ማየ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="gabra-nazrawi-d-qawat">
+                <persName xml:lang="gez">ገብረ፡ ናዝራዊ፡ ዘደብረ፡ ቀወት፡</persName>
+                <persName xml:lang="gez" type="normalized">Gabra Nāzrāwi za-Dabra Qawat</persName>
+                <persName xml:lang="en">Gabra Nāzrāwi of Dabra Qawat</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">67</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

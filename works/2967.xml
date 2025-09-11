@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2967" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">በሰማይ፡ ወበምድር፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Ba-Samāy wa-ba-Mədr</title>
+        <title corresp="#t1" xml:lang="en">“In Heaven and On Earth…”</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2967/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLadd16215">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Additional 16215</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>56ra-58vb</locus>
+          </witness>
+          
+          <witness xml:id="EMML0374">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Gəbi Gabrəʾel</repository>
+                <idno>EMML 374</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>99ra-100vb</locus>
+          </witness>
+          
+          <witness xml:id="GG144">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-144</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>143rc-144ra</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">248</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በሰማይ፡ ወበምድር፡ አልብየ፡ ባዕደ፨</l>
+            <l n="2">አበ፡ ወእመ፡ እኅተ፡ ወውሉደ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ እትአመነኪ፡ ገሀደ፨</l>
+            <l n="4">ኪያኪ፡ ተስፋ፡ ኪያኪ፡ መፍቅደ፨</l>
+            <l n="5">ኪያኪ፡ ዐውቀ፡ ኪያኪ፡ ዘመደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">በሰማይ፡ ወበምድር፡ እንዘ፡ ሀሎክኒ፡ ረድኤተ፨</l>
+            <l n="2">ምንትኑ፡ ያፈርሀኒ፡ ሊተ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ እትአመነኪ፡ ክሡተ፨</l>
+            <l n="4">ኪያኪ፡ ልዕልና፡ ኪያኪ፡ ሢመተ፨</l>
+            <l n="5">ኪያኪ፡ ርስተ፡ ኪያኪ፡ አብያተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">አልብየ፡ እመ፡ በኵሉ፡ መዋዕል፨</l>
+            <l n="2">ስምዕየ፡ ሊተ፡ እግዚአብሔር፡ ልዑል፨</l>
+            <l n="3">እትአመነኪ፡ ፈድፋደ፡ ማርያም፡ ድንግል፨</l>
+            <l n="4">ፍቅርኪ፡ ጽሙና፡ ፍቅርኪ፡ ገድል፨</l>
+            <l n="5">ፍቅርኪ፡ ትርሲት፡ ፍቅርኪ፡ አክሊል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ኢትኅድግኒ፡ ዐቂበ፡ ኵሎ፡ መዐልተ፡ ወሌሊተ፨</l>
+            <l n="2">ኀበ፡ ሖርኩ፡ በፍና፡ ወኀበ፡ ኀደርኩ፡ ቤተ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ዘትመግቢ፡ ነፍሳተ፨</l>
+            <l n="4">በልብስ፡ ወበሲሳይ፡ ኢታርእይኒ፡ ንዴተ፨</l>
+            <l n="5">እስመ፡ ቍር፡ ወርኀብ፡ ያረስዕ፡ ጸሎተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mary">
+                <persName xml:lang="gez">ማርያም፡ ድንግል፡</persName>
+                <persName xml:lang="gez" type="normalized">Māryām Dəngəl</persName>
+                <persName xml:lang="en">Virgin Mary</persName>
+                <trait type="category"><desc>marian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

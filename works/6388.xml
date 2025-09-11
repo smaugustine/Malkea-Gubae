@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe6388" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሥሉስ፡ ቅዱስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Śǝllus Qǝddus</title>
+        <title corresp="#t1" xml:lang="en">Image of the Holy Trinity</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/6388/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ አምላክ፨</l>
+            <l n="2">እንዘ፡ ኣአምን፡ ወአመልክ፡ እንበለ፡ ትአውሳክ፨</l>
+            <l n="3">እክሕደከ፡ ሰይጣን፡ አርዌ፡ ተመንግኖ፡ ድሩክ፨</l>
+            <l n="4">በቅድመ፡ ዛቲ፡ ቤተ፡ ክርስቲያን፡ መንፈሳዊት፡ ምስማክ፨</l>
+            <l n="5">እንተ፡ ይእቲ፡ ማርያም፡ ዳግሚት፡ ፈለክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ኣአምን፡ በአብ፡ እምወልዱ፡ ዘኢቀደመ፡ ዘመነ፨</l>
+            <l n="2">ወኣአምን፡ በወልድ፡ ምስለ፡ ወላዲሁ፡ ዘየኀብር፡ ሥልጣነ፨</l>
+            <l n="3">ወኣአምን፡ በመንፈስ፡ ቅዱስ፡ እንተ፡ ዘአልቦቱ፡ ፍልጣነ፨</l>
+            <l n="4">እንዘ፡ ኣአምን፡ ከመዝ፡ አሐደ፡ ከዊነ፨</l>
+            <l n="5">ወእምዝ፡ እወጥን፡ ድርሳነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለህላዌክሙ፡ ዘኢይትበሀል፡ ዘመኑ፨</l>
+            <l n="2">እምዝየ፡ ምውጣኑ፡ ወእስከ፡ ዝየ፡ ወሰኑ፨</l>
+            <l n="3">ህላዌክሙ፡ ሥላሴ፡ እምዘተፈጥሩ፡ ወኮኑ፨</l>
+            <l n="4">እምሰብእ፡ ወመላእክት፡ ዘየአምር፡ መኑ፨</l>
+            <l n="5">እስመ፡ ክዋኔሁ፡ ምሥጢር፡ ወኅቡእ፡ ሥልጣኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ መሠረተ፡ ኵሉ፡ ዓለም፨</l>
+            <l n="2">ወስመ፡ መሀላሁ፡ ግሩም፨</l>
+            <l n="3">ሥሉስ፡ ቅዱስ፡ ኀይላተ፡ አርያም፨</l>
+            <l n="4">ይኩነኒ፡ ዝክረ፡ ስምክሙ፡ አርአያ፡ ሐጹር፡ ወጥቅም፨</l>
+            <l n="5">ብአድኅር፡ ወበፍጽም፡ በይምን፡ ወበፅግም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስክሙ፡ አምሳለ፡ በረድ፡ ወፀምር፨</l>
+            <l n="2">ጸዐድዒደ፡ ራእይ፡ ወሕብር፨</l>
+            <l n="3">ሥሉስ፡ ቅዱስ፡ ሥሉጣነ፡ ሰማያት፡ ወምድር፨</l>
+            <l n="4">ጊዜ፡ ኣቄርብ፡ ውዳሴ፡ ለንግሥክሙ፡ ክቡር፨</l>
+            <l n="5">በሉኒ፡ አደመነ፡ ቃልከ፡ ፍቁር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለመልክእክሙ፡ ዘኢይትከሀል፡ ለተርጕሞ፨</l>
+            <l n="2">እመልክአ፡ መልአክ፡ ወሰብእ፡ በበ፡ ግጻዌሁ፡ ዘሤሞ፨</l>
+            <l n="3">ሥሉስ፡ ቅዱስ፡ ህልዋን፡ በተሳልሞ፨</l>
+            <l n="4">ለመልክእክሙ፡ ለለ፡ ጊዜ፡ እጼውዕ፡ ስሞ፨</l>
+            <l n="5">ውስተ፡ መልክእየ፡ አንብሩ፡ ማሕተሞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">በአብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ተማሕፀንኩ፨</l>
+            <l n="2">በስመ፡ ሥላሴ፡ አምለኩ፨</l>
+            <l n="3">እምከርሠ፡ እምየ፡ በኀይለ፡ ሥላሴ፡ ጸናዕኩ፨</l>
+            <l n="4">እመኒ፡ ሞትኩ፡ ወሐየውኩ፡ በምክረ፡ ሥላሴ፡ አስመኩ፨</l>
+            <l n="5">በእደ፡ ሥላሴ፡ ነፍስየ፡ ወሥጋየ፡ ገደፍኩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">አብ፡ በአካሉ፡ ወልድ፡ በአካሉ፨</l>
+            <l n="2">ወመንፈስ፡ ቅዱስ፡ በአካሉ፨</l>
+            <l n="3">በሰማይ፡ ወበምድር፡ ህልዋን፡ በውስተ፡ ኵሉ፨</l>
+            <l n="4">በአፍአ፡ ወበውሥጥ፡ አመልክ፡ ለኵሉ፨</l>
+            <l n="5">አኰቴት፡ ወክብር፡ ለሥሉስ፡ ይደሉ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ስብሐት፡ ለክሙ፡ ሥሉስ፡ ቅዱስ፡ ዘበአሐቲ፡ ሥምረት፨</l>
+            <l n="2">ብክሙ፡ ቆመ፡ ሥነ፡ ፍጥረታት፨</l>
+            <l n="3">በምድር፡ ወበሰማያት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ስብሐት፡ ለክሙ፡ ሥሉስ፡ ቅዱስ፡ ዘበአሐቲ፡ ምልክና፨</l>
+            <l n="2">ባሕረ፡ ኤርትራ፡ ተከፍለት፡ ከመ፡ ትኩን፡ ፍና፨</l>
+            <l n="3">እስከ፡ ቃዴስ፡ ለሕዝበ፡ ሲና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ስብሐት፡ ለክሙ፡ ሥሉስ፡ ቅዱስ፡ ዘትወልዱ፡ ሕይወተ፨</l>
+            <l n="2">ኵሎ፡ አዝማነ፡ ወዕለታተ፨</l>
+            <l n="3">ረድኤተክሙ፡ ትፈንዉ፡ ሊተ፨</l>
+            <l n="4">ቅድሜክሙ፡ እጼሊ፡ ጸሎተ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="trinity">
+                <persName xml:lang="gez">ቅድስት፡ ሥላሴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Qəddəst Śəllāse</persName>
+                <persName xml:lang="en">Holy Trinity</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

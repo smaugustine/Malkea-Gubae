@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0375" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ሰቆቃወ፡ ሥጋ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Saqoqāwa Śəgā</title>
+        <title corresp="#t1" xml:lang="en">Lamentation of the Body</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0375/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ሰቆቃወ፡ ሥጋ፡ ግሱስ፨</l>
+            <l n="2">ተላዌ፡ ሰቆቃው፡ ዘነፍስ፨</l>
+            <l n="3">ባሕቱ፡ ብሂለ፡ ኢትበለኒ፡ ክርስቶስ፨</l>
+            <l n="4">ለምንት፡ ትነብብ፡ በአፉከ፡ እንዘ፡ ልብከ፡ ግሑሥ፨</l>
+            <l n="5">እምገቢረ፡ ዓሥር፡ ትእዛዝ፡ ወቃላት፡ ሳድስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">በእንቲአኪ፡ ነበብኩ፡ መንፈቀ፡ ሠላሳ፡ ድርሳናት፨</l>
+            <l n="2">ኦሥጋየ፡ ድሉተ፡ ኵለንታ፡ ለሞት፨</l>
+            <l n="3">ለመጽሐፈ፡ ዜናኪሰ፡ እስከ፡ ፍጻሜ፡ እምጥንት፨</l>
+            <l n="4">በረቀ፡ ሰማይ፡ ወበማየ፡ ሕመት፨</l>
+            <l n="5">አብሕርት፡ እምኢፈጸምዎ፡ ወብዙኃን፡ ጸሐፍት፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      
+    </back>
+
+  </text>
+</TEI>

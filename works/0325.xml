@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0325" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ መጥምቅ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Maṭməq</title>
+        <title corresp="#t1" xml:lang="en">Image of John the Baptist</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0325/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተፀውዐ፡ ወተነግረ፨</l>
+            <l n="2">በአፈ፡ ኢሳይያስ፡ ቅድመ፡ ወበአፈ፡ ገብርኤል፡ ድኅረ፨</l>
+            <l n="3">ቃለ፡ አዋዲ፡ ዮሐንስ፡ እንተ፡ ትሰብከ፡ ምስጢረ፨</l>
+            <l n="4">እስመ፡ ኢይክል፡ ጸቢተ፡ ዘማየ፡ ውዳሴከ፡ ባሕረ፨</l>
+            <l n="5">መንፈሰ፡ ጸጋከ፡ ይኩነኒ፡ ሐመረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተርእስከ፡ እለ፡ ኮናሁ፡ አክናፈ፨</l>
+            <l n="2">እምዲበ፡ ጻህል፡ ርእስከ፡ አመ፡ ውስተ፡ ሰማይ፡ ኀለፈ፨</l>
+            <l n="3">ንስረ፡ ገሊላ፡ ዮሐንስ፡ እንተ፡ ትጸውር፡ መጽሐፈ፨</l>
+            <l n="4">እፎ፡ አዘዘ፡ እምላዕሌከ፡ ከመ፡ ኢይሚጡ፡ ሰይፈ፨</l>
+            <l n="5">በዕለተ፡ ልደቱ፡ ሄሮድስ፡ እንተ፡ ጸግበ፡ ጻዕፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1">ሰላም፡ ለሐቌከ፡ ዘቀነተ፡ ኀይለ፨</l>
+            <l n="2">ህየንተ፡ ቅናቱ፡ ለአሮን፡ በወርቀ፡ ቅድሳት፡ ዘተቀፍለ፨</l>
+            <l n="3">ዮሐንስ፡ ዐቢይ፡ እንተ፡ ነሣእከ፡ ክሂለ፨</l>
+            <l n="4">አድኅነኒ፡ እምኃጥኣን፡ እለ፡ ይትአመኑ፡ ብዕለ፨</l>
+            <l n="5">እስመ፡ ከመ፡ መላጺ፡ በሊኅ፡ ይገብሩ፡ ህብለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘእግዚአብሔር፡ ቀደሳ፨</l>
+            <l n="2">አምሳለ፡ ታቦቱ፡ ለኖኅ፡ እንተ፡ ተቀብአት፡ ፒሳ፨</l>
+            <l n="3">ዮሐንስ፡ መጥምቅ፡ አመ፡ ቆምከ፡ ምስለ፡ ንጉሣ፨</l>
+            <l n="4">ስብሐተከ፡ ዮርዳኖስ፡ እንዘ፡ ትብል፡ ሐዊሳ፨</l>
+            <l n="5">ወዓሣትኒ፡ ነበቡ፡ በከርሣ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ተወከፍ፡ አምኃየ፡ ወዕሤትየ፡ ትደሎ፨</l>
+            <l n="2">ኦዮሐንስ፡ ሰባኬ፡ መድኃኒት፡ ወተሣህሎ፨</l>
+            <l n="3">ናሁ፡ ፈጸምኩ፡ በበ፡ ጸዋትው፡ ወበበ፡ መትሎ፨</l>
+            <l n="4">በሰላም፡ ወበእማኄ፡ ስብሐተ፡ መልክእከ፡ ኵሎ፨</l>
+            <l n="5">እንዘ፡ እግዚእ፡ ይረድእ፡ ወያጸንዕ፡ ቃሎ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="john-baptist">
+                <persName xml:lang="gez">ዮሐንስ፡ መጥምቅ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannəs Maṭməq</persName>
+                <persName xml:lang="en">John the Baptist</persName>
+                <trait type="category"><desc>prophet</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0523" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሰይፈ፡ ሚካኤል፡ ዘጻዕዳ፡ እምባ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Sayfa Mikāʾel za-Ṣāʿədā ʾƎmbā</title>
+        <title corresp="#t1" xml:lang="en">Image of Sayfa Mikāʾel of Ṣāʿədā ʾƎmbā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0523/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">240</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሥሉስ፡ ዕሩየ፡ ምልክና፡ በአካሉ፨</l>
+            <l n="2">ውዳሴ፡ መልክእከ፡ እጽሕፍ፡ ለትውልደ፡ ትውልድ፡ ዘይሄሉ፨</l>
+            <l n="3">ሰይፈ፡ ሚካኤል፡ ቄርሎስ፡ ለዐጽቀ፡ ሃይማኖት፡ ቈጽሉ፨</l>
+            <l n="4">ኢይቅስሙ፡ ፍሬ፡ ጽድቅከ፡ ኅጡኣነ፡ ሥርየት፡ አስካሉ፨</l>
+            <l n="5">ተአስሩ፡ በቃልከ፡ ሕዝበ፡ ካሕድ፡ ኵሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ክብረ፡ ነዳያን፡ ነገድ፨</l>
+            <l n="2">ወለሥዕርተ፡ ርእስከ፡ ሰላም፡ ዘግልባቤሁ፡ መረግድ፨</l>
+            <l n="3">ሰይፈ፡ ሚካኤል፡ ሰሎሞን፡ ንጉሠ፡ ምናኔ፡ ውሉድ፨</l>
+            <l n="4">መኑ፡ እምግብር፡ ዘከማከ፡ እምግብረ፡ መላእክት፡ ልማድ፨</l>
+            <l n="5">እንበለ፡ ማርያም፡ እግዝእትከ፡ እምዓለም፡ ፈቃድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ትንሣኤከ፡ በጼወ፡ መለኮት፡ ዘተቀሥመ፨</l>
+            <l n="2">ዓዲ፡ ክብርከ፡ በደብረ፡ ኤራር፡ ተሠይመ፨</l>
+            <l n="3">ድኅረ፡ ጸአልከ፡ አባ፡ አበሳ፡ ዘማ፡ መርገመ፨</l>
+            <l n="4">ነዋ፡ ይብለከ፡ እግዚእከ፡ ምስለ፡ ኤዎስጣቴዎስ፡ ዓለመ፨</l>
+            <l n="5">እስመ፡ አልቦ፡ እንበሌክሙ፡ ዘነፍሶ፡ አድከመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ ለከ፡ ኖላዊነ፡ ኄረ፨</l>
+            <l n="2">ኪያከ፡ ረሰየ፡ ለጽንፈ፡ ነገዱ፡ መምህረ፨</l>
+            <l n="3">ሰይፈ፡ ሚካኤል፡ ጽድቅከ፡ ሕንጻ፡ ቤተ፡ አሚን፡ ሣረረ፨</l>
+            <l n="4">ሀበኒ፡ ሊተ፡ እግዚኦ፡ ለብእሴ፡ ነገድ፡ ማኅደረ፨</l>
+            <l n="5">እስመ፡ በዓለ፡ ቤት፡ አንተ፡ ታፈቅር፡ ግዩረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">መጻሕፍተ፡ ዜና፡ ይቤሉ፡ በረከተከ፡ በቃለ፡ ጉባኤ፡ ሐዲስ፨</l>
+            <l n="2">ሰሚዖሙ፡ ቅድመ፡ ሰይፈ፡ ሚካኤል፡ ውዱስ፨</l>
+            <l n="3">እምደብረ፡ ሊባኖስ፡ ቤትከ፡ ደብረ፡ ትክለ፡ አሚን፡ መቅደስ፨</l>
+            <l n="4">ባርከኒ፡ አባ፡ በረከተ፡ መንፈስ፡ ቅዱስ፨</l>
+            <l n="5">እስመ፡ ለእዴከ፡ ባረኮ፡ ክርስቶስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ስብሐት፡ ለእግዚአብሔር፡ እምነ፡ ማእምራን፡ ክፍለ፨</l>
+            <l n="2">ለፈጽሞ፡ ዝንቱ፡ ድርሳን፡ ዘአልበወኒ፡ ቃለ፨</l>
+            <l n="3">ሰይፈ፡ ሚካኤል፡ ስምከ፡ መልአከ፡ መድኃኒት፡ ተብህለ፨</l>
+            <l n="4">ዕሥየኒ፡ ዕሤተ፡ ጽድቅ፡ እምውስተ፡ ጸጋከ፡ ብዕለ፨</l>
+            <l n="5">ወህየንተ፡ ሠላሳ፡ ወክልኤቱ፡ ጸግወኒ፡ ሣህለ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዕረፍትከ፡ በበዓለ፡ መልአክ፡ ቃለ፡ ማዕነቅ፨</l>
+            <l n="2">በምድረ፡ ሥርየት፡ ተሰምዐ፡ ቃለ፡ ዚአከ፡ ጽድቅ፨</l>
+            <l n="3">ሰይፈ፡ ሚካኤል፡ ኖላዊ፡ ለመርዔተ፡ ወንጌል፡ ደቂቅ፨</l>
+            <l n="4">ወይ፡ ሊተ፡ አሌ፡ ሊተ፡ አመ፡ ዕለተ፡ ወይሌ፡ ሥላቅ፨</l>
+            <l n="5">ጸሎትከ፡ ትባልሀኒ፡ ለብእሲ፡ ውዱቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሀገሩ፡ ጽርሐ፡ ሥላሴ፡ ታዕካ፨</l>
+            <l n="2">በዓልተ፡ ኪዳን፡ ቅድስት፡ ምስካየ፡ አእላፍ፡ ዋካ፨</l>
+            <l n="3">ሰይፈ፡ ሚካኤል፡ ጳውሎስ፡ ንዋየ፡ ሃይማኖት፡ ምህርካ፨</l>
+            <l n="4">ያስተበጽዕዋ፡ ክቡታነ፡ ሞት፡ ምስማካ፨</l>
+            <l n="5">እስመ፡ ደብረ፡ ኤራር፡ ደብረ፡ ጽዮን፡ ትመስል፡ ፋሲካ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="sayfa-mikael-saeda-emba">
+                <persName xml:lang="gez">ሰይፈ፡ ሚካኤል፡ ዘጻዕዳ፡ እምባ፡</persName>
+                <persName xml:lang="gez" type="normalized">Sayfa Mikāʾel za-Ṣāʿədā ʾƎmbā</persName>
+                <persName xml:lang="en">Sayfa Mikāʾel of Ṣāʿədā ʾƎmbā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

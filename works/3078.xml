@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe3078" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሰላማ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Salāmā</title>
+        <title corresp="#t1" xml:lang="en">Image of Salāmā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/3078/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>43va-47vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">358</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እዌጥን፡ እንዘ፡ እብል፡ ወእነግር፡ ክሡተ፨</l>
+            <l n="2">እምገድልከ፡ ብዙኅ፡ አየድዕ፡ ንስቲተ፨</l>
+            <l n="3">ለሀገሪትነ፡ ዛቲ፡ ዘኮንከ፡ ማኅቶተ፨</l>
+            <l n="4">አባ፡ ሰላማ፡ ሐዋርያነ፡ አንተ፨</l>
+            <l n="5">መንፈሳዊ፡ ንጉሥ፡ ዜነወነ፡ ዘንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ከመ፡ ዝክረ፡ ፀሐይ፡ ብሩህ፨</l>
+            <l n="2">ወከመ፡ ዝክረ፡ ወርኅ፡ ፍሡሕ፡ ዘአሜ፡ ገሃህ፨</l>
+            <l n="3">አባ፡ ሰላማ፡ ተአምሪከ፡ ብዙኅ፨</l>
+            <l n="4">ተማኅፀንኩ፡ በረድኤትከ፡ ወጸሎትከ፡ ንጹሕ፨</l>
+            <l n="5">ከመ፡ ታድኅነኒ፡ እምአርዌ፡ ቀይሕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘጸሊም፡ ኅበሪሁ፨</l>
+            <l n="2">ወድሉል፡ ድምድማሁ፨</l>
+            <l n="3">አባ፡ ሰላማ፡ ለወልደ፡ ማርያም፡ ሰባኪሁ፨</l>
+            <l n="4">ርድአኒ፡ በጸሎትከ፡ አመ፡ ዕለተ፡ ጊዜ፡ እላሁ፨</l>
+            <l n="5">ከመ፡ ይረድኦ፡ ፍቁር፡ ለፍቁር፡ እኁሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለአጽፋረ፡ እግርከ፡ ጽፋረ፡ እግርከ፡ ዘተመሰለ፡ ፀዓድዒደ፨</l>
+            <l n="2">ተሴርዮተ፡ ኅብር፡ ዘኢለመደ፨</l>
+            <l n="3">አባ፡ ሰላማ፡ ገድለ፡ ዚአከ፡ ፈድፈደ፨</l>
+            <l n="4">ከመ፡ ታንብረኒ፡ ምስሌከ፡ ገሃደ፨</l>
+            <l n="5">አመ፡ ዕለተ፡ ፍዳ፡ እምዓውድ፡ ኢይኩን፡ ስዱደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ዘይመስል፡ ዓርዘ፨</l>
+            <l n="2">እንተ፡ ዘበቈለ፡ ማእከለ፡ አፍላግ፡ ዘውሕዘ፨</l>
+            <l n="3">አባ፡ ሰላማ፡ ዘፈጸምከ፡ ትእዛዘ፨</l>
+            <l n="4">ላዕለ፡ ስብከትከ፡ ለእመ፡ አምጽአ፡ ጋዕዘ፨</l>
+            <l n="5">በኲናተ፡ ወንጌል፡ በሊሕ፡ ለይኩን፡ ውጉዘ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ሰላም፡ እብል፡ ለመልክዕከ፡ ኵሉ፨</l>
+            <l n="2">በበ፡ አርአያሁ፡ ወበበ፡ አምሳሉ፨</l>
+            <l n="3">አባ፡ ሰላማ፡ ለእግዚአብሔር፡ ሰባኬ፡ ቃሉ፨</l>
+            <l n="4">ኪያከ፡ ዘተወከሉ፡ እንዘ፡ ያብዕሉ፨</l>
+            <l n="5">ዕሤተ፡ ቡራኬከ፡ ፈኑ፡ እምሰማይ፡ ዘላዕሉ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ሰላማ፡ ጳጳስ፨</l>
+            <l n="2">አስኬማ፡ መላእክት፡ ልቡስ፨</l>
+            <l n="3">በኢትዮጵያ፡ ሰበከ፡ ትሥልስተ፡ መንፈስ፨</l>
+            <l n="4">ጠቢብ፡ ወመስተዓግሥ፨</l></l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ሰላማ፡ መምህር፨<</l>
+            <l n="2">በፈረሰ፡ መንፈስ፡ ሱሩር፨</l>
+            <l n="3">በኢትዮጵያ፡ ሰበከ፡ ወንጌለ፡ ምሥጢር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ ቃለ፡ አፉከ፡ ውኩፍ፡ ከመ፡ ፄና፡ ዕጣን፡ ጽሩይ፨</l>
+            <l n="2">ሰላማ፡ ንጹሕ፡ እምዕንቈ፡ ባሕርይ፨</l>
+            <l n="3">ውኩይ፡ እምስነ፡ ፀሐይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ንብለከ፡ ሰላም፡ በመቅደስከ፡ መርጡል፨</l>
+            <l n="2">እንዘ፡ ለትካዝነ፡ ንስእል፨</l>
+            <l n="3">ቅድመ፡ ገጸ፡ አምላክ፡ ይቁም፡ ከመ፡ መተንብል፨</l>
+            <l n="4">ረድኤትከ፡ ያሠልጥ፡ ወይክል፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="frumentius">
+                <persName xml:lang="gez">ሰላማ፡</persName>
+                <persName xml:lang="gez" type="normalized">Salāmā</persName>
+                <persName xml:lang="en">Salāmā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">129</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

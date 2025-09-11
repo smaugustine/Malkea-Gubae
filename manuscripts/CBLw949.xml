@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CBLw949" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MS CBL W.949</title>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <msDesc>
+
+          <msIdentifier>
+            <settlement>Dublin</settlement>
+            <repository>Chester Beatty Library</repository>
+            <idno>W.949</idno>
+          </msIdentifier>
+
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc>
+                <support>
+                  <material key="parchment"/>
+                </support>
+                <extent>
+                  <measure unit="leaf">47</measure>
+                  <dimensions type="outer" unit="mm">
+                    <height>220</height>
+                    <width>162</width>
+                  </dimensions>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="2" writtenLines="22"/> 
+              </layoutDesc>
+            </objectDesc>
+          </physDesc>
+
+          
+          <msPart n="1">
+            <msIdentifier/>
+
+            <msContents>
+              <summary/>
+
+              
+              
+              <msItem n="1">
+                
+                <locus facs="3">1a-10a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2736" corresp="https://w3id.org/malke/2736/">
+                  <title xml:lang="gez">መልክአ፡ ሥላሴ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Śəllāse</title>
+                  <title xml:lang="en">Image of the Trinity</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="2">
+                
+                <locus facs="12">10a-14a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2924" corresp="https://w3id.org/malke/2924/">
+                  <title xml:lang="gez">መልክአ፡ በርተሎሜዎስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Bartalomewos</title>
+                  <title xml:lang="en">Image of Bartholomew</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="3">
+                
+                <locus facs="16">14b-18a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2921" corresp="https://w3id.org/malke/2921/">
+                  <title xml:lang="gez">መልክአ፡ ማቴዎስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Mātewos</title>
+                  <title xml:lang="en">Image of Matthew</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="4">
+                
+                <locus facs="20">18b-22a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2922" corresp="https://w3id.org/malke/2922/">
+                  <title xml:lang="gez">መልክአ፡ ሉቃስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Luqās</title>
+                  <title xml:lang="en">Image of Luke</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="5">
+                
+                <locus facs="24">22b-25b</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2855" corresp="https://w3id.org/malke/2855/">
+                  <title xml:lang="gez">መልክአ፡ ፊልጶስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Filəṗṗos</title>
+                  <title xml:lang="en">Image of Philip</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="6">
+                
+                <locus facs="27">25b-28b</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2929" corresp="https://w3id.org/malke/2929/">
+                  <title xml:lang="gez">መልክአ፡ እንድርያስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa ʾƎndrəyās</title>
+                  <title xml:lang="en">Image of Andrew</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="7">
+                
+                <locus facs="31">29a-35a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2928" corresp="https://w3id.org/malke/2928/">
+                  <title xml:lang="gez">መልክአ፡ ዮሐንስ፡ ወንጌላዊ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Wangelāwi</title>
+                  <title xml:lang="en">Image of John the Evangelist</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="8">
+                
+                <locus facs="37">35a-38b</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2918" corresp="https://w3id.org/malke/2918/">
+                  <title xml:lang="gez">መልክአ፡ ያዕቆብ፡ ወልደ፡ እልፍዮስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Yāʿqob Walda ʾƎlfyos</title>
+                  <title xml:lang="en">Image of James, Son of Alphaeus</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="9">
+                
+                <locus facs="40">38b-42a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2916" corresp="https://w3id.org/malke/2916/">
+                  <title xml:lang="gez">መልክአ፡ ማትያስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Mātyās</title>
+                  <title xml:lang="en">Image of Matthias</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="10">
+                
+                <locus facs="44">42b-46a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2925" corresp="https://w3id.org/malke/2925/">
+                  <title xml:lang="gez">መልክአ፡ ያዕቆብ፡ ወልደ፡ ዘብዴዎስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Yāʿqob Walda Zabdewos</title>
+                  <title xml:lang="en">Image of James, Son of Zebedee</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="11">
+                
+                <locus facs="48">46a-50a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2917" corresp="https://w3id.org/malke/2917/">
+                  <title xml:lang="gez">መልክአ፡ ማርቆስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Mārqos</title>
+                  <title xml:lang="en">Image of Mark</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="12">
+                
+                <locus facs="52">50b-54a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2920" corresp="https://w3id.org/malke/2920/">
+                  <title xml:lang="gez">መልክአ፡ ቶማስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Tomās</title>
+                  <title xml:lang="en">Image of Thomas</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="13">
+                
+                <locus facs="56">54a-58a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2829" corresp="https://w3id.org/malke/2829/">
+                  <title xml:lang="gez">መልክአ፡ ታዴዎስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Tādewos</title>
+                  <title xml:lang="en">Image of Thaddeus</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="14">
+                
+                <locus facs="60">58a-62a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2828" corresp="https://w3id.org/malke/2828/">
+                  <title xml:lang="gez">መልክአ፡ ናትናኤል፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Nātnāʾel</title>
+                  <title xml:lang="en">Image of Nathaniel</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="15">
+                
+                <locus facs="64">62a-66b</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2912" corresp="https://w3id.org/malke/2912/">
+                  <title xml:lang="gez">መልክአ፡ ያዕቆብ፡ እኁሁ፡ ለእግዚእ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Yāʿqob ʾƎḫuhu la-ʾƎgziʾ</title>
+                  <title xml:lang="en">Image of James, Brother of the Lord</title>
+                </title>
+                
+              </msItem>
+              
+
+            </msContents>
+
+          </msPart>
+          
+          <msPart n="2">
+            <msIdentifier/>
+
+            <msContents>
+              <summary/>
+
+              
+              
+              <msItem n="1">
+                
+                <locus facs="69">67a-76b</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2909" corresp="https://w3id.org/malke/2909/">
+                  <title xml:lang="gez">መልክአ፡ ካህናተ፡ ሰማይ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Kāhənāta Samāy</title>
+                  <title xml:lang="en">Image of the Twenty-Four Elders of Heaven</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="2">
+                
+                <locus facs="79">77a-82a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2876" corresp="https://w3id.org/malke/2876/">
+                  <title xml:lang="gez">መልክአ፡ አቢብ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa ʾAbib</title>
+                  <title xml:lang="en">Image of Phib</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="3">
+                
+                <locus facs="84">82b-85a</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2871" corresp="https://w3id.org/malke/2871/">
+                  <title xml:lang="gez">መልክአ፡ መርቆሬዎስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Marqorewos</title>
+                  <title xml:lang="en">Image of Mercurius</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="4">
+                
+                <locus facs="87">85a-92b</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2998" corresp="https://w3id.org/malke/2998/">
+                  <title xml:lang="gez">መልክአ፡ አረጋዊ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa ʾAragāwi</title>
+                  <title xml:lang="en">Image of ʾAragāwi</title>
+                </title>
+                
+              </msItem>
+              
+
+            </msContents>
+
+          </msPart>
+          
+
+        </msDesc>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  
+  <facsimile source="https://viewer.cbl.ie/viewer/api/v1/records/W_949/manifest/"/>
+  
+  <text>
+
+    <body>
+      <ab/>
+    </body>
+
+  </text>
+</TEI>

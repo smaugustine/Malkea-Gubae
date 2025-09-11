@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2836" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብረ፡ መንፈስ፡ ቅዱስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabra Manfas Qəddus</title>
+        <title corresp="#t1" xml:lang="en">Image of Gabra Manfas Qəddus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2836/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">120</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ነቢበ፡ ሥርዓታ፡ ወሕጋ፨</l>
+            <l n="2">ለግብረ፡ ውዳሴከ፡ ምልእተ፡ ጸጋ፨</l>
+            <l n="3">ለገብረ፡ መንፈስ፡ ቅዱስ፡ ትጉህ፡ ለግዕዘ፡ መልአክ፡ ዘትዛወጋ፨</l>
+            <l n="4">አንቅሐኒ፡ ለስባሔከ፡ እንበለ፡ ሕፀፅ፡ ወንትጋ፨</l>
+            <l n="5">እስመ፡ መንፈስ፡ ይፈቅድ፡ ወይደክም፡ ሥጋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ምክንያተ፡ ድኅነት፡ እምደይን፨</l>
+            <l n="2">ለዘመደ፡ ኵሉ፡ ፍጥረት፡ ዘይጼውዖ፡ በአሚን፨</l>
+            <l n="3">ገብረ፡ መንፈስ፡ ቅዱስ፡ አቡየ፡ በዓለ፡ ሐምስቱ፡ ምናን፨</l>
+            <l n="4">የሐንጸኒ፡ ከመ፡ እለስ፡ እመ፡ ሰአለ፡ ሰይጣን፨</l>
+            <l n="5">ለአጽንዖትየ፡ ይምጻእ፡ ኀይልከ፡ ስምዖን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ናሁ፡ ፈነውኩ፡ ለዕበይከ፡ ጸባሕተ፨</l>
+            <l n="2">ብእሲ፡ ነዳይ፡ እምዘ፡ አጥረይኩ፡ ጥሪተ፨</l>
+            <l n="3">ገብረ፡ መንፈስ፡ ቅዱስ፡ ጳውሎስ፡ ተወኪፈከ፡ ክሡተ፨</l>
+            <l n="4">በለኒ፡ ተወከፍኩ፡ ንጹሐ፡ መሥዋዕተ፨</l>
+            <l n="5">ልሳንከ፡ አፍሮዲጡ፡ ዘአብአ፡ ሊተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="gabra-manfas-qeddus">
+                <persName xml:lang="gez">ገብረ፡ መንፈስ፡ ቅዱስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Gabra Manfas Qəddus</persName>
+                <persName xml:lang="en">Gabra Manfas Qəddus</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">62</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

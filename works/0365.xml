@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0365" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኢያሱ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾIyyāsu</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾIyyāsu I</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0365/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ በፈቃደ፡ ንጉሥ፡ ወንግሥት፨</l>
+            <l n="2">ወለልደትከ፡ ሰላም፡ ዘይተልዎ፡ ጥምቀት፨</l>
+            <l n="3">በትረ፡ ጊዮርጊስ፡ ኢያሱ፡ ሰማዕተ፡ ሥላሴ፡ ቅድስት፨</l>
+            <l n="4">ጊዜ፡ ሐወጹከ፡ ኢሐወጸከ፡ ፍርሀት፨</l>
+            <l n="5">ነበልባለ፡ እሳት፡ መፍርህ፡ ወበሊኅ፡ ኲናት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ክብረ፡ ነዳያን፡ ውሉድ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሰላም፡ ዘግልባቤሆን፡ ሞገድ፨</l>
+            <l n="3">ባሕታዌ፡ ደሴት፡ ኢያሱ፡ ገብረ፡ መንገስ፡ ቅዱስ፡ ዋሕድ፨</l>
+            <l n="4">ዕቀቦ፡ ለወልድከ፡ ኀበ፡ ኢሀሎ፡ ዘመድ፨</l>
+            <l n="5">ደብረ፡ ሊባኖስ፡ ቤትከ፡ ኢትኩን፡ ለባዕድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለአፉከ፡ ወለአስናኒከ፡ ጽዕድዋት፨</l>
+            <l n="2">እምሐሊበ፡ ዕጐልት፡ ዘባሳን፡ ምርአየ፡ ዕጐልት፨</l>
+            <l n="3">ፋሲለደስ፡ ኢያሱ፡ መናኔ፡ ተድላ፡ ምድር፡ መንግሥት፨</l>
+            <l n="4">አርፈቀከ፡ ጴጥሮስ፡ ኀበ፡ ሀሎ፡ ውስተ፡ ሕፅነ፡ አብርሃም፡ ዘይት፨</l>
+            <l n="5">ወጳውሎስ፡ መዐዛሁ፡ ለክርስቶስ፡ ዕፍረት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለልሳንከ፡ መፈክረ፡ ሐዲስ፡ ቀኖና፨</l>
+            <l n="2">ወለኀይለ፡ ቃልከ፡ ሰላም፡ ዘይከብድ፡ በደብረ፡ ሲና፨</l>
+            <l n="3">ኢያሱ፡ ወጣኒ፡ ወፈጻሜ፡ ሕግ፡ ምንኵስና፨</l>
+            <l n="4">አሰሰሉ፡ ለከ፡ ዝንጋዔ፡ ወወሀቡከ፡ ልቡና፨</l>
+            <l n="5">ዘደሴተ፡ ዳጋ፡ እስጢፋኖስ፡ ወቂርቆስ፡ ዘጻና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ዘአቅረብኩ፡ አነ፡ ውዳሴ፡ መልክእከ፡ በበ፡ መንታ፨</l>
+            <l n="2">በኀይለ፡ ቀዳሚ፡ ክርስቶስ፡ በፍኖተ፡ መስቀል፡ ዘጎልጎታ፨</l>
+            <l n="3">ንጉሠ፡ ይሁዳ፡ ኢያሱ፡ ሥነ፡ ቤተ፡ ዳዊት፡ ዘኤፍራታ፨</l>
+            <l n="4">ደብረ፡ ኢየሩሳሌም፡ ካልእታ፨</l>
+            <l n="5">እስመ፡ ለባሕቲታ፡ ወለደት፡ ኪያከ፡ ባሕቲታ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="iyyasu-i">
+                <persName xml:lang="gez">ኢያሱ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyāsu</persName>
+                <persName xml:lang="en">ʾIyyāsu I</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

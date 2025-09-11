@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0438" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሄኖክ፡ ዘዓዲ፡ ኳላ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Henok za-ʿĀddi Kʷālā</title>
+        <title corresp="#t1" xml:lang="en">Image of Henok of ʿĀddi Kʷālā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0438/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ወለልደትከ፡ እምከርሥ፨</l>
+            <l n="2">እምቅድመ፡ ትትወለድ፡ ዘኀረየከ፡ ኢየሱስ፡ ክርስቶስ፨</l>
+            <l n="3">ዐርከ፡ ኤልያስ፡ ሄኖክ፡ ቢጸ፡ እንጦንስ፡ ወመቃርስ፨</l>
+            <l n="4">ባርኮ፡ ባረኩ፡ መላእክተ፡ ሰማይ፡ ሐዳስ፨</l>
+            <l n="5">ዘቦሙ፡ መዘምራን፡ ዘባጥያተ፡ ከበሮ፡ ለተውዳስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለህላዌከ፡ እም፡ ገዳም፡ ውስተ፡ ገዳም፨</l>
+            <l n="2">ወእምነ፡ በዐት፡ ወጾላዕት፡ ወአእባን፡ ኅቱም፨</l>
+            <l n="3">ሄኖክ፡ ስምከ፡ ንቡረ፡ ቅድስት፡ ጽርሐ፡ አርያም፨</l>
+            <l n="4">ኣእሚረከ፡ በለብዎ፡ ህልፈተ፡ ዛቲ፡ ዓለም፨</l>
+            <l n="5">ምስለ፡ አናብስት፡ ወአናምርት፡ ነበርከ፡ በሰላም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘደመና፡ ሰማይ፡ ትርጓሜሁ፨</l>
+            <l n="2">ወጼና፡ ስኂን፡ ጼና፡ መዐዛሁ፨</l>
+            <l n="3">ቢጸ፡ ዕዝራ፡ ወሚሳኤል፡ ሄኖክ፡ በህላዌሁ፨</l>
+            <l n="4">ነዓ፡ ነዓ፡ እምህላዌከ፡ ጽርሑ፨</l>
+            <l n="5">ይባርከነ፡ በስፉሕ፡ እዴሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ማእከለ፡ ሠላስ፡ አድባር፨</l>
+            <l n="2">ወውሒዘ፡ ማይ፡ ምሥጢር፨</l>
+            <l n="3">ሄኖክ፡ ለባዊ፡ ወበፍኖተ፡ ጽድቅ፡ ማእምር፨</l>
+            <l n="4">ኀይለ፡ ጸሎትከ፡ ያድኅን፡ እምፀር፨</l>
+            <l n="5">ወእምነ፡ ጸላኢ፡ ዘግብሩ፡ መሪር፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ይትባረክ፡ እግዚአብሔር፡ ዘአፈጸመነ፡ ለተናብቦ፨</l>
+            <l n="2">ለሰሚዐ፡ እዝን፡ አስተዐጽቦ፨</l>
+            <l n="3">በእዝን፡ ለሰሚዕ፡ መኑ፡ ከማከ፡ ቃለ፡ ኪዳን፡ ዘተውህቦ።፡</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">አባ፡ አባ፨</l>
+            <l n="2">ጸሎትከ፡ አባ፨</l>
+            <l n="3">ለሀገሪትነ፡ አድኅና፡ እም፡ ዐጸባ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ኦብእሴ፡ እግዚአብሔር፡ ዕዝራ፡፡</l>
+            <l n="2">ወቡሩከ፡ አምላክ፡ ወሰብአ፡ ማኅበራ፨</l>
+            <l n="3">ማእከለ፡ ሰማዕት፡ ወጻድቃን፡ ዘሐነጹ፡ ማኅደራ፡፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="henok-addi-kwala">
+                <persName xml:lang="gez">ሄኖክ፡ ዘዓዲ፡ ኳላ፡</persName>
+                <persName xml:lang="gez" type="normalized">Henok za-ʿĀddi Kʷālā</persName>
+                <persName xml:lang="en">Henok of ʿĀddi Kʷālā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

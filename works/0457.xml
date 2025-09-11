@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0457" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መኰንን፡ ወልደ፡ ሚካኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Makʷannǝn Walda Mikāʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Makʷannǝn Walda Mikāʾel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0457/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተጸውዐ፡ እምንእሱ፨</l>
+            <l n="2">በስመ፡ ንጉሥ፡ ሰሎሞን፡ ወበስመ፡ መስፍን፡ ኢያሱ፨</l>
+            <l n="3">መኰንነ፡ ጽድቅ፡ ኤልያስ፡ ለንጉሠ፡ ነገሥት፡ ዐቃቤ፡ ንግሡ፨</l>
+            <l n="4">ኢያምልክ፡ ባዕደ፡ ኢትዮጵያ፡ በአድያማቲሃ፡ ታንሶሱ፨</l>
+            <l n="5">ወእለ፡ የአምኑ፡ በስምከ፡ ኪያሃ፡ ወረሱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="ras-makwannen">
+                <persName xml:lang="gez">መኰንን፡ ወልደ፡ ሚካኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Makʷannǝn Walda Mikāʾel</persName>
+                <persName xml:lang="en">Makʷannǝn Walda Mikāʾel</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

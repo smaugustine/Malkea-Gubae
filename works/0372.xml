@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0372" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ወልደ፡ ገብርኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Walda Gabrəʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Walda Gabrəʾel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0372/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በአድያመ፡ ማርቆስ፡ ዘተዐውቀ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ግልቡብ፡ መልበሰ፡ ገብረ፡ አብ፡ ጽድቀ፨</l>
+            <l n="3">ወልደ፡ ገብርኤል፡ መልአክ፡ ዘትመስል፡ ወርቀ፨</l>
+            <l n="4">ፈረየ፡ አምኣተ፡ ወአመክዐበ፡ ጥቀ፨</l>
+            <l n="5">ውስተ፡ ምድር፡ ሠናይ፡ ሥጋከ፡ ዘወድቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ ወለገጽከ፡ ብሩህ፨</l>
+            <l n="2">ወለቀራንብቲከ፡ ሰላም፡ ወለዐይንከ፡ ንጹሕ፨</l>
+            <l n="3">በእንተ፡ ዝንቱ፡ ሞትከ፡ ወልደ፡ ገብርኤል፡ ፍሱሕ፨</l>
+            <l n="4">እምዐይነ፡ አቡከ፡ ወእምከ፡ እምሰርክ፡ እስከ፡ ነግህ፨</l>
+            <l n="5">ከመ፡ ማይ፡ ውሕዙ፡ ሰቆቃው፡ ወላሕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘአስተዳለወ፡ ማርቆስ፨</l>
+            <l n="2">ለዘያፈቅሮ፡ እምልበ፡ ተክለ፡ ሃይማኖት፡ ንጉሥ፨</l>
+            <l n="3">ለወልደ፡ ገብርኤል፡ ዜናዊ፡ ምሉአ፡ ሞገስ፨</l>
+            <l n="4">በቃለ፡ ሐሰት፡ ነፋሰ፡ አውሎ፡ ፍጹመ፡ ኢትኤብስ፨</l>
+            <l n="5">ዘቈጽላ፡ ኢይትነገፍ፡ ብዕልከ፡ በለስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">አብርሃም፡ ወባስልዮስ፡ ከመ፡ አዘዝዎሙ፡ ገብሩ፨</l>
+            <l n="2">ለመልአከ፡ ፀሓይ፡ ምስሌሁ፡ እለ፡ በቃለ፡ ጽድቅ፡ ኀብሩ፨</l>
+            <l n="3">ወልደ፡ ገብርኤል፡ ሥጋከ፡ እንዘ፡ ይበውእ፡ ውስተ፡ ማኅደሩ፨</l>
+            <l n="4">በከዩ፡ ወአስቆቀዉ፡ በሐልዮ፡ አዳም፡ ግብሩ፨</l>
+            <l n="5">ለገብረ፡ ሕይወት፡ እንዘ፡ ይትገበር፡ ተዝካሩ፨</l>
+            <l n="6">እስመ፡ ወይነ፡ ሰትዩ፡ ወእክለ፡ ተደሩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለአኃዊከ፡ እለ፡ ይነግዱ፡ ባሕረ፨</l>
+            <l n="2">ተጽዒኖሙ፡ ሐመረ፨</l>
+            <l n="3">ወልደ፡ ገብርኤል፡ ሥጋከ፡ በጊዜ፡ ተቀብረ፨</l>
+            <l n="4">ዘረዉ፡ ለነዳያን፡ ወርቀ፡ ወብሩረ፨</l>
+            <l n="5">እንዘ፡ ያውሕዙ፡ እምዐይኖሙ፡ አንብዐ፡ መሪረ፨</l>
+            <l n="6">እምቅድመ፡ ገጾሙ፡ እስመ፡ ኀጥኡ፡ ኪያከ፡ ክቡረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለኀዘንኪ፡ ዘያውዒ፡ አማዑተ፨</l>
+            <l n="2">ወያነድድ፡ ኵልያተ፨</l>
+            <l n="3">ወለተ፡ ጊዮርጊስ፡ ወይን፡ ዘትከውኒ፡ ትፍሥሕተ፨</l>
+            <l n="4">ዐይንኪ፡ ማሕየዊ፡ አስተዳለወ፡ ክረምተ፨</l>
+            <l n="5">እስመ፡ ሲሳየ፡ ሕዝብ፡ ወልድኪ፡ ተዘርአ፡ መሬተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="setta-leyaw">
+                <persName xml:lang="gez">ሽታ፡ ልየው፡</persName>
+                <persName xml:lang="gez" type="normalized">Šəttā Ləyaw</persName>
+                <persName xml:lang="en">Šəttā Ləyaw</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0479" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዘሚካኤል፡ ዘዓዲ፡ ኣጣል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zamikāʾel za-ʿĀddi ʾĀṭāl</title>
+        <title corresp="#t1" xml:lang="en">Image of Zamikāʾel of ʿĀddi ʾĀṭāl</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0479/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ቀዳሜ፡ ልሱሓን፡ ጰራቅሊጦስ፡ መንፈሰ፡ አብ፡ ወወልድ፨</l>
+            <l n="2">ልስሐተ፡ ልሳንየ፡ ይቅሥም፡ ከመ፡ ተላሜድ፨</l>
+            <l n="3">ዘሚካኤል፡ ክቡር፡ ዘመደ፡ ክቡራን፡ ዘመድ፨</l>
+            <l n="4">ከመ፡ እወድስከ፡ በመዝሙረ፡ ማሕሌት፡ ንዑድ፨</l>
+            <l n="5">ጥበበ፡ ሀበኒ፡ ለገብርከ፡ አብድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ስምከ፡ ቀናንሞ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ዓዲ፡ ተጽፍሮ፡ ቈዝዕ፡ ዘኢአየሞ፨</l>
+            <l n="3">ዘሚካኤል፡ ካልኡ፡ ለዘሚካኤል፡ መምህረ፡ ዳሞ፨</l>
+            <l n="4">ዜና፡ ኂሩትከ፡ ለኅሊናየ፡ ገረሞ፨</l>
+            <l n="5">ወለአፉየ፡ እመዐር፡ ጥዕሞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለመላትሒከ፡ ምዑዛነ፡ አፈው፡ ወርሔ፨</l>
+            <l n="2">ወእምሥነ፡ ጽሓይ፡ ወወርኅ፡ ጽዱላነ፡ ሥን፡ ወሱራሄ፨</l>
+            <l n="3">ዘሚካኤል፡ ኢያሱ፡ ወልደ፡ አብራንዮስ፡ ሙናሄ፨</l>
+            <l n="4">አዕርገኒ፡ ደብረ፡ ጸሎት፡ ወመልእልተ፡ መስቀል፡ ኵለሄ፨</l>
+            <l n="5">ከመ፡ እቤል፡ ህየ፡ ኤሎሄ፡ ኤሎሄ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለአእዳዊከ፡ በሰናስለ፡ ንጽሕ፡ እለ፡ ተአስሩ፨</l>
+            <l n="2">ወለመዛርኢከ፡ ደርገ፡ እንተ፡ ምስሌሆሙ፡ ኀብሩ፨</l>
+            <l n="3">ዘሚካኤል፡ ኅሩይ፡ ለእግዚአብሔር፡ ፍቁሩ፨</l>
+            <l n="4">አንተኑ፡ ገብረ፡ ክርስቶስ፡ ዘመነነ፡ ክብሩ፨</l>
+            <l n="5">ወሚመ፡ ማርቆስ፡ ዘቶርማቅ፡ ደብሩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በልብሰ፡ ሐሜለት፡ አነዳ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ ለመቅደሰ፡ ጊዮርጊስ፡ ውስተ፡ ዐጸዳ፨</l>
+            <l n="3">ትሩፈ፡ ምግባር፡ ዘሚካኤል፡ ወምዑዝ፡ እምጽጌ፡ ረዳ፨</l>
+            <l n="4">አብራኪከ፡ ቅድመ፡ መንበሩ፡ ለአኃዜ፡ ዓለም፡ ይስግዳ፨</l>
+            <l n="5">ከመ፡ ያስተሥርያ፡ ዘዚአየ፡ ሰዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሶበ፡ አዕረፈ፡ ዘሚካኤል፡ ከዊኖ፡ ህልወ፡ በቤቱ፨</l>
+            <l n="2">እንዘ፡ ርሁብ፡ ወጽሙእ፡ ውእቱ፨</l>
+            <l n="3">ላእካነ፡ አብራንዮስ፡ አሜሃ፡ እለ፡ መጽኡ፡ ለአፍልሶቱ፨</l>
+            <l n="4">ተበሀሉ፡ በበይናቲሆሙ፡ ኀበ፡ እምድር፡ ተልዕሎቱ፨</l>
+            <l n="5">ለዐጸደ፡ መቅደሱ፡ ለጊዮርጊስ፡ በድነዝ፡ መቅበርቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ይትባረክ፡ እግዚአብሔር፡ እምንዋመ፡ ሐኬት፡ ዘአንቃሕከኒ፨</l>
+            <l n="2">ድርሳነ፡ መልክእከ፡ አንብብ፡ አቅመ፡ ተክህለኒ፨</l>
+            <l n="3">ዘሚካኤል፡ አምሳሉ፡ ለገብረ፡ ክርስቶስ፡ መናኒ፨</l>
+            <l n="4">ዜና፡ ኂሩትከ፡ ለተናግሮ፡ ኖኀኒ፨</l>
+            <l n="5">ወትሩፋቲከ፡ ለነቢብ፡ በዝኀኒ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">ተወከፍ፡ አምኃየ፡ ህይንተ፡ ጸሪቅ፡ አሐዱ፨</l>
+            <l n="2">ኀበ፡ አንበረኒ፡ እንብብ፡ መንፈሰ፡ ወላዲ፡ ወወልዱ፨</l>
+            <l n="3">ዘሚካኤል፡ ጻድቅ፡ ለአብራንዮስ፡ ምክሐ፡ ነገዱ፨</l>
+            <l n="4">እንበለ፡ ዝንቱ፡ አምኃየ፡ ወንዋያትየ፡ ውሕዱ፨</l>
+            <l n="5">ወለንዴትየ፡ ኆፃ፡ ኢይትወሰን፡ ፍቅዱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዜና፡ ዝክርከ፡ ጥዑም፡ ውስተ፡ ክሉ፡ ዓለም፡ ዘተሰምዐ፨</l>
+            <l n="2">ወበአፈ፡ ኵሉ፡ ግብርከ፡ ተበፅዐ፨</l>
+            <l n="3">ዘሚካኤል፡ መናኔ፡ መርዐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዘሚካኤል፡ ባሕርይ፡ ዘኢይትረከብ፡ ሤጡ፨</l>
+            <l n="2">ማዕሰ፡ አንደየ፡ ሶበ፡ ሰጠጡ፨</l>
+            <l n="3">ወአዕፅምትየ፡ ኵሎ፡ ለእመ፡ ቀጥቀጡ፨</l>
+            <l n="4">እምረከቡ፡ ፍቅርከ፡ በውስጡ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="zamikael">
+                <persName xml:lang="gez">ዘሚካኤል፡ ዘዓዲ፡ ኣጣል፡</persName>
+                <persName xml:lang="gez" type="normalized">Zamikāʾel za-ʿĀddi ʾĀṭāl</persName>
+                <persName xml:lang="en">Zamikāʾel of ʿĀddi ʾĀṭāl</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

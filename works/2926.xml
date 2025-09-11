@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2926" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኢያሱ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾIyyāsu</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾIyyāsu I</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2926/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">207</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ተጽሕፈ፡ በስመ፡ ሥላሴ፡ ዋሕድ፨</l>
+            <l n="2">ለንጉሠ፡ ነገሥት፡ ኢያሱ፡ ውዳሴ፡ መልክኡ፡ በፍቅድ፨</l>
+            <l n="3">ለዘአጽሐፎ፡ ባሕቱ፡ ወለዘጸሐፎ፡ በእድ፨</l>
+            <l n="4">ለዘእንበቦ፡ ወተርጐሞ፡ ወለዘአጽምአ፡ ነገድ፨</l>
+            <l n="5">በረከተ፡ ሰማይ፡ ይጸጉ፡ አምላክነ፡ ወልድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ወለልደትከ፡ ቅዱስ፨</l>
+            <l n="2">እምዘወለደተከ፡ ንግሥት፡ በዘአእመራ፡ ንጉሥ፨</l>
+            <l n="3">መናኔ፡ መንግሥት፡ ኢያሱ፡ ወሰማዕተ፡ ሥቃይ፡ ሐዲስ፨</l>
+            <l n="4">ከመ፡ እንብብ፡ ትሩፋቲከ፡ በውስተ፡ ቀላይ፡ ወየብስ፨</l>
+            <l n="5">አስተናብበኒ፡ ለገብርከ፡ በዐዚዝ፡ መንፈስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላ፡ ለዝክረ፡ ስምከ፡ ግጽወ፡ ፊደላት፡ ሠለስቱ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሰላም፡ ዘተወደሰ፡ ሲበቱ፨</l>
+            <l n="3">ንጉሠ፡ ምናኔ፡ ኢያሱ፡ ወሰማዕት፡ በላዕለ፡ ዝንቱ፨</l>
+            <l n="4">ትብለከ፡ ደብረ፡ ብርሃን፡ ለመርዓዌ፡ ሰማይ፡ መርዓቱ፨</l>
+            <l n="5">ወልድ፡ እኁየ፡ ወሪዶ፡ ውስተ፡ ገነቱ፡ አፈዋተ፡ ምዕዘ፡ ልብሰቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ኀበ፡ አቡከ፡ ሰከበ፨</l>
+            <l n="2">ድኅረ፡ አሠነየ፡ ምግበ፨</l>
+            <l n="3">ኢያሱ፡ እምዝንቱ፡ ከመ፡ ቃለ፡ መጽሐፍ፡ ነበበ፨</l>
+            <l n="4">ትንሣኤ፡ ሕይወት፡ ለከ፡ ደኃሪ፡ እንዘ፡ ትኄይስ፡ ኮከበ፨</l>
+            <l n="5">እስመ፡ ባሕታዌ፡ ገድል፡ አንተ፡ ወሰማዕት፡ ካዕበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ደብረ፡ ሊባኖስ፡ ንግሥት፡ ጸዋሪተ፡ አክሊል፡ በርእሳ፨</l>
+            <l n="2">ኀበ፡ በዓለከ፡ ገብረት፡ ምስለ፡ መሢሐዊ፡ ንጉሳ፨</l>
+            <l n="3">አቅረብኩ፡ ለከ፡ ኢያሱ፡ አምኃ፡ ማሕሌት፡ ቅድመ፡ ከኒሳ፨</l>
+            <l n="4">ዕሥየነ፡ ርስተ፡ ባሕቱ፡ ዘአርሳንዮስ፡ ወረሳ፨</l>
+            <l n="5">ወእምቅደሜሁ፡ ዳንኤል፡ ዘሱሳ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="iyyasu-i">
+                <persName xml:lang="gez">ኢያሱ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyāsu</persName>
+                <persName xml:lang="en">ʾIyyāsu I</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

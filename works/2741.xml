@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2741" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቅንዋት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Qənnəwāt</title>
+        <title corresp="#t1" xml:lang="en">Image of the Nails</title>
+        
+        <title xml:id="t2" xml:lang="gez">ቅንዋት፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Qənnəwāt</title>
+        <title corresp="#t2" xml:lang="en">Nails</title>
+        
+        <title xml:id="t3" xml:lang="gez">መልክአ፡ መድኃኔ፡ ዓለም፡ ራብዕ፡</title>
+        <title corresp="#t3" xml:lang="gez" type="normalized">Malkəʾa Madḫāne ʿĀlam Rābəʿ</title>
+        <title corresp="#t3" xml:lang="en">Fourth Image of the Saviour of the World</title>
+        
+        <title xml:id="t4" xml:lang="gez">መልክአ፡ ሕማም፡</title>
+        <title corresp="#t4" xml:lang="gez" type="normalized">Malkəʾa Ḥəmām</title>
+        <title corresp="#t4" xml:lang="en">Image of the Suffering</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2741/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLor576">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 576</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>36ra-48va</locus>
+          </witness>
+          
+          <witness xml:id="BNFabb170">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 170</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>1ra-4vb</locus>
+          </witness>
+          
+          <witness xml:id="BNFet349">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien 349</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>34rb-46ra</locus>
+          </witness>
+          
+          <witness xml:id="EMML0374">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Gəbi Gabrəʾel</repository>
+                <idno>EMML 374</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>37ra-44ra</locus>
+          </witness>
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>197va-201rb</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>192ra-195rb</locus>
+          </witness>
+          
+          <witness xml:id="GG144">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-144</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>56ra-59vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">25, 26, 128</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለሕማምከ፡ ቤተ፡ አይሁድ፡ ዘአንደደ፨</l>
+            <l n="2">ወረሰዮሙ፡ ሐመደ፨</l>
+            <l n="3">ማርያምሃ፡ እለ፡ ቦሙ፡ ካሕደ፨</l>
+            <l n="4">ተማኅፀነ፡ በሕማምከ፡ መጥወነ፡ እደ፨</l>
+            <l n="5">አጽራሪነ፡ ወትረ፡ ረሲ፡ ብድብደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሕማምከ፡ ቤተ፡ አይሁድ፡ ዘአመዝበረ፨</l>
+            <l n="2">ወረሰዮሙ፡ ዝርዙረ፨</l>
+            <l n="3">ዘሤሬቅ፡ ወይን፡ እምነ፡ ዕጕስታር፡ መረ፨</l>
+            <l n="4">ተማሕፀነ፡ በሕማምከ፡ እግዚአብሔር፡ ወትረ፨</l>
+            <l n="5">እምአምልኮ፡ ሰይጣን፡ አድኅን፡ ዛተ፡ ሀገረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለከተማ፡ ርእስከ፡ አክሊለ፡ ሦክ፡ ዘተመልአ፨</l>
+            <l n="2">በእደ፡ ዕብራይ፡ በበትረ፡ ሕለት፡ ተኰርዐ፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ ምሥዋዒነ፡ ነዓ፨</l>
+            <l n="4">በእንተ፡ ርእስከ፡ አቅንተነ፡ ጽንዐ፨</l>
+            <l n="5">ማኅበረነ፡ ለባርኮ፡ አፍጥን፡ መጺአ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ጸዓዳ፡ ከመ፡ በረድ፨</l>
+            <l n="2">ቍርባነ፡ ወንጌል፡ ወልድ፨</l>
+            <l n="3">ጥብሕከ፡ ነድ፡ ሰዓሬ፡ ብድብድ፨</l>
+            <l n="4">እስመ፡ ቀሪበ፡ ቍርባን፡ ይከልእ፡ መንሱተ፨</l>
+            <l n="5">በከመ፡ ይቤ፡ ጴጥሮስ፡ በሲኖዶስ፡ ዘንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="40">
+            
+            <l n="1">ሰላም፡ ለርግዘተ፡ ገቦከ፡ ኲናተ፡ ሐራዊ፡ ዘረገዞ፨</l>
+            <l n="2">በአጽልእቲከ፡ ለቍስልየ፡ አምዕዞ፨</l>
+            <l n="3">ኢይደቅ፡ ርእስየ፡ መድኃኔ፡ ዓለም፡ አኀዞ፨</l>
+            <l n="4">ተማሕፀነ፡ በርግዘትከ፡ ለጉባኤነ፡ ናዝዞ፨</l>
+            <l n="5">በረምኀ፡ መስቀል፡ ለሰይጣን፡ ርግዞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለኵሎን፡ መልክእከ፨</l>
+            <l n="2">አነ፡ ገብርከ፡ ወልደ፡ አምላክ፡ ወወልደ፡ ማርያም፡ ኪያከ፨</l>
+            <l n="3">ተማሕፀና፡ መልክእየ፡ በመልክእከ፨</l>
+            <l n="4">እምእደ፡ ሰይጣን፡ ያምስጣ፡ ነግሀ፡ ወሰርከ፨</l>
+            <l n="5">ወበኵሎን፡ ሳዕ፡ ዕቀቦን፡ እንከ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="saviour">
+                <persName xml:lang="gez">መድኃኔ፡ ዓለም፡</persName>
+                <persName xml:lang="gez" type="normalized">Madḫāne ʿĀlam</persName>
+                <persName xml:lang="en">The Saviour of the World</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Getatchew_Haile2018" corresp="http://zotero.org/groups/5599348/items/WN6UTT7J"><monogr><title level="m">The Ethiopian Orthodox Church's Tradition on the Holy Cross</title><author><name>Getatchew Haile</name></author><imprint><pubPlace>Leiden</pubPlace><publisher>Brill</publisher><date>2018</date></imprint></monogr><series><title level="s">Texts and Studies in Eastern Christianity</title><biblScope unit="volume">10</biblScope></series></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

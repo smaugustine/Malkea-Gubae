@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0282" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሰብዓ፡ ወክልኤ፡ አርድእት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Sabʿā wa-Kəlʾe ʾArdəʾət</title>
+        <title corresp="#t1" xml:lang="en">Image of the Seventy-Two Disciples</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0282/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ በጽላተ፡ ሰማይ፡ ዘተጽሕፋ፨</l>
+            <l n="2">ሰብዓ፡ ወክልኤ፡ አርድእተ፡ ኢየሱስ፡ አልፋ፨</l>
+            <l n="3">መስገርተ፡ ሕቀ፡ አንትሙ፡ ዘቤተ፡ ሳውል፡ ወኬፋ፨</l>
+            <l n="4">እስእለክሙ፡ አጋእዝትየ፡ ጸግዉኒ፡ ተስፋ፨</l>
+            <l n="5">ታሕተ፡ ሕፅንክሙ፡ ትረሲ፡ ነፍስየ፡ ምዕራፋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርትክሙ፡ ትእምርተ፡ ኀይል፡ ዘቦን፨</l>
+            <l n="2">ከመ፡ ቈናዝዒሁ፡ ለሰምሶን፨</l>
+            <l n="3">ሰብዓ፡ ወክልኤ፡ አርድእተ፡ ኢየሱስ፡ መድኅን፨</l>
+            <l n="4">በሥዕርትክሙ፡ ተማሕፀንኩ፡ አጋእዝትየ፡ ኄራን፨</l>
+            <l n="5">ኢይቅትለኒ፡ በልሳን፡ ወልደ፡ ሀጕል፡ ሰይጣን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለርእስክሙ፡ በአዕይንት፡ ዘተከለላ፨</l>
+            <l n="2">ከመ፡ ጌራ፡ ወርቅ፡ ጽሩይ፡ ወከም፡ ባሕርይ፡ ቀጸላ፨</l>
+            <l n="3">ሰብዓ፡ ወክልኤ፡ አርድእተ፡ ኢየሱስ፡ ንጉሠ፡ ገሊላ፨</l>
+            <l n="4">ኢትሕምም፡ ርእስየ፡ በገሩረ፡ ጌጋይ፡ ቈሲላ፨</l>
+            <l n="5">ታሕተ፡ ርእስክሙ፡ ተሀሉ፡ ርእስየ፡ አጽሊላ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለገጽክሙ፡ በብርሃነ፡ ስብሐት፡ ዘተሞገሳ፨</l>
+            <l n="2">አርብዓ፡ ወክልኤ፡ ወዓዲ፡ ሥላሳ፨</l>
+            <l n="3">ክቡራን፡ አርድእት፡ መምህራነ፡ ሕግ፡ ዘከኒሳ፨</l>
+            <l n="4">ሜላተ፡ ንጽሕ፡ ዘላዕሌክሙ፡ ነፍስየ፡ ለቢሳ፨</l>
+            <l n="5">ተሀሉ፡ ምስሌክሙ፡ በሰማይ፡ ነጊሣ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲክሙ፡ ጽድቀ፡ እለ፡ ቀጸባ፨</l>
+            <l n="2">ለመጽሐፈ፡ ሰሎሞን፡ ከመ፡ ንባባ፨</l>
+            <l n="3">ሰብዓ፡ ወክልኤ፡ ለ</l>
+            <l n="4"> </l>
+            <l n="5"> </l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="seventy-two-disciples">
+                <persName xml:lang="gez">ሰብዓ፡ ወክልኤ፡ አርድእት፡</persName>
+                <persName xml:lang="gez" type="normalized">Sabʿā wa-Kəlʾe ʾArdəʾət</persName>
+                <persName xml:lang="en">The Seventy-Two Disciples</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

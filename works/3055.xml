@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe3055" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እግዚአብሔር፡ አብ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎgziʾabəḥer ʾAb</title>
+        <title corresp="#t1" xml:lang="en">Image of God the Father</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/3055/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLadd16215">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Additional 16215</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>58vb-64ra</locus>
+          </witness>
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>103rc-105va</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>70va-72rb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">335</citedRange>
+            </biblStruct>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">78</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እሰግድ፡ ለመለኮትከ፡ እንተ፡ ፈጠርከ፡ ጽልመተ፨</l>
+            <l n="2">እምቀድመ፡ ብርሃነ፡ ትግበር፡ ወታሰተባሪ፡ መዓልተ፨</l>
+            <l n="3">እግዚአብሔር፡ አሐዱ፡ እንተ፡ ኢኮንከ፡ ክልኤተ፨</l>
+            <l n="4">በስምዕ፡ ይሰምዩከ፡ ሠለስተ፨</l>
+            <l n="5">እንዘ፡ በመለኮት፡ ዋሕድ፡ ወብሁት፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">እሰግድ፡ ለመለኮትከ፡ ዘሣረርከ፡ ምድረ፨</l>
+            <l n="2">ለእጓለ፡ እመሕያው፡ ይኩን፡ ወለእንስሳ፡ ማኅደረ፨</l>
+            <l n="3">እግዚአብሔር፡ ገባሪ፡ ዘእንበለ፡ ትኅሥሥ፡ ምክረ፨</l>
+            <l n="4">ትጸውር፡ ድደ፡ በኀይልከ፡ እንዘ፡ ትነብር፡ ጠፈረ፨</l>
+            <l n="5">ወእንዘ፡ ተሐንጽ፡ መሠረተ፡ ትፄዐን፡ ቀመረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">እሰግድ፡ ለመለኮትከ፡ እምገቦ፡ አዳም፡ ድኅረ፨</l>
+            <l n="2">እንተ፡ አውፃእካ፡ ለሔዋን፡ ከመ፡ ትርድኦ፡ ተግባረ፨</l>
+            <l n="3">እግዚአብሔር፡ ኪያከ፡ በዘአጸመድ፡ ወትረ፨</l>
+            <l n="4">መኑ፡ ያወፅእ፡ እምልብየ፡ ፍትወተ፡ ዓለም፡ ነኪረ፨</l>
+            <l n="5">እንበለ፡ ጥበብከ፡ አምላካዊ፡ ዘሰማየ፡ ገብረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">እሰግድ፡ ለመለኮትከ፡ ዘአዕረፎሙ፡ ለአይሁድ፨</l>
+            <l n="2">በዐለተ፡ ሰንበት፡ ሰብእት፡ እምተግባረ፡ አእጋር፡ ወእድ፨</l>
+            <l n="3">እግዚአብሔር፡ አንተ፡ ሰንበተ፡ ክርስቲያን፡ እሑድ፨</l>
+            <l n="4">አግዕዘኒ፡ እምቅኔ፡ ሥጋ፡ ለአብጽሐ፡ ንስቲት፡ ሰጊድ፨</l>
+            <l n="5">በኍልቈ፡ ዕሥራ፡ ወክልኤቱ፡ ሰሙያን፡ አንጋድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ስብሐት፡ ለከ፡ እግዚአብሔር፡ ለለ፡ ሠርቀ፡ ዕለት፡ ወለያልይ፨</l>
+            <l n="2">ስብሐት፡ ለከ፡ እግዚአብሔር፡ በተባርዮ፡ ክረምት፡ ወሐጋይ፨</l>
+            <l n="3">ስብሐት፡ ለከ፡ እግዚአብሔር፡ በወርኀ፡ መጸው፡ ወጸደይ፨</l>
+            <l n="4">ስብሐት፡ ለከ፡ እግዚአብሔር፡ በኍልቈ፡ ኵሉ፡ ዘይትረአይ፡ ወኢይትረአይ፨</l>
+            <l n="5">ስብሐተ፡ ቅድምናከ፡ ዘልፈ፡ ይነግር፡ ሰማይ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="father">
+                <persName xml:lang="gez">እግዚአብሔር፡ አብ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎgziʾabəḥer ʾAb</persName>
+                <persName xml:lang="en">God the Father</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2850" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሥቃዩ፡ ለቴዎድሮስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śəqāyu la-Tewodros</title>
+        <title corresp="#t1" xml:lang="en">Image of the Suffering of Theodore</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2850/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BNFabb170">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 170</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>76vb-77vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">132</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ትምክሕተ፡ ሀገር፡ እስያ፨</l>
+            <l n="2">ምስለ፡ አባላቲከ፡ ኵሎን፡ እለ፡ በበ፡ ገጽ፡ ወበአርአያ፨</l>
+            <l n="3">ቴዎድሮስ፡ ስሙይ፡ በስመ፡ ቴዎድሮስ፡ ዘአንጾኪያ፨</l>
+            <l n="4">ከመ፡ ትትሉ፡ ጸውዖተከ፡ አሠረ፡ ክርስቶስ፡ ኬንያ፨</l>
+            <l n="5">መክፈልተ፡ ሰላምከ፡ ኀርየት፡ ነፍስየ፡ ማርያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ኦዘኢያውሣእከ፡ ለጽዋዔ፡ ንጉሥ፡ ወዐበይቱ፨</l>
+            <l n="2">ከመ፡ ለግልፎ፡ ዕፅ፡ ትስግድ፡ ህየንተ፡ አማልክት፡ ሠለስቱ፨</l>
+            <l n="3">ቴዎድሮስ፡ ጽኑዕ፡ ለክርስቶስ፡ በአምልኮቱ፨</l>
+            <l n="4">ከመ፡ አንብብ፡ ዜና፡ ገድልከ፡ መጠነ፡ ኀይልየ፡ ዝንቱ፨</l>
+            <l n="5">ጥበበ፡ ልቡና፡ ምልአኒ፡  እስመ፡ አነ፡ ከንቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ኦዘተሠጠጡከ፡ ለእለ፡ ተስእሉከ፡ ሕዝብ፨</l>
+            <l n="2">ከመ፡ ወልዶ፡ ለወልድ፡ እግዚአብሔር፡ አብ፨</l>
+            <l n="3">ቴዎድሮስ፡ ትጉህ፡ ሠናየ፡ ተግባር፡ ንህብ፨</l>
+            <l n="4">ኪያከ፡ እዌድስ፡ እግዚኦ፡ እምተግባርከ፡ ዕጹብ፨</l>
+            <l n="5">አምጣነ፡ ጥበብ፡ ተርእየት፡ ወከብረት፡ ጥቁብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ኦዘአውዓይከ፡ ዐቢየ፡ ጣዖተ፨</l>
+            <l n="2">ሶበ፡ ገነውቱ፡ ተአኅዙ፡ በንዋመ፡ ዑረት፡ ሌሊተ፨</l>
+            <l n="3">እስከ፡ ኀበ፡ ንጉሥ፡ በጻሕከ፡ እንዘ፡ ትትዐሠር፡ ድኅሪተ፨</l>
+            <l n="4">ቴዎድሮስ፡ አጠይቀኒ፡ ጠይቆተከ፡ ሠናይተ፨</l>
+            <l n="5">ህየንተ፡ ሠናይት፡ ገብርከ፡ ኢይግበር፡ እኪተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ኦዘተዓገሥከ፡ እምእደ፡ መኰንን፡ ተፀፍዖ፨</l>
+            <l n="2">ሊቀ፡ መላእክት፡ ገብርኤል፡ ዘቅብዓ፡ መዓት፡ ቀብኦ፨</l>
+            <l n="3">ዘበኵረ፡ መእመናን፡ ክርስቶስ፡ እንዘ፡ ትዜከር፡ ተገፍዖ፨</l>
+            <l n="4">ቴዎድሮስ፡ ማኅጸንተከ፡ ለስእለትየ፡ አጽምኦ፨</l>
+            <l n="5">ለዘይፀብዓኒ፡ በኅቡእ፡ ገሃደ፡ ትፅብዖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ኦዘተፅዕንከ፡ ፈረሰ፡ መንፈስ፡ ፀዓዳ፡</l>
+            <l n="2">ወለእስያ፡ ሀገር፡ አንሶስውከ፡ ውስተ፡ ዐጸዳ፨</l>
+            <l n="3">እንዘ፡ ትሜህር፡ አሚነ፡ ለድንግል፡ በስመ፡ ወልዳ፨</l>
+            <l n="4">ቴዎድሮስ፡ ማኅጸንተከ፡ አመ፡ ፍትሐ፡ ግሩም፡ ፍዳ፨</l>
+            <l n="5">ይምሥጠኒ፡ ፈረስከ፡ ለሲኦል፡ እምዓውዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ኦዘተወደይከ፡ ውስተ፡ ቤተ፡ ሞቅሕ፡ ኅቱም፨</l>
+            <l n="2">ከመ፡ በረኃብ፡ ትሙት፡ ወበጽምዓ፡ ማይ፡ ግሩም፨</l>
+            <l n="3">ቴዎድሮስ፡ ለከ፡ ንጉሠ፡ ኀላፊ፡ ዓለም፨</l>
+            <l n="4">እፎ፡ አዘዘ፡ ሲሳየከ፡ መጠነ፡ አሐዱ፡ ድርኅም፨</l>
+            <l n="5">እንዘ፡ በእዴከ፡ ተድላ፡ ይምን፡ ወፅግም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ኦዘተሰቀልከ፡ ማእከለ፡ ፪አዕማድ፨</l>
+            <l n="2">እንዘ፡ ስፉሐ፡ እግር፡ ወእድ፨</l>
+            <l n="3">ቴዎድሮስ፡ ኵኑን፡ በእንተ፡ ስመ፡ አብ፡ ወወልድ፨</l>
+            <l n="4">ጥብጣቤከ፡ በሕገ፡ ላህም፡ እምእደ፡ ገፋዒት፡ ዓውድ፨</l>
+            <l n="5">ትፍሥሕተ፡ ልቡና፡ ይኩነኒ፡ እምኃዘን፡ ክቡድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ኦዘኮንከ፡ አምሳለ፡ በጽዕ፡ እመርዔት፨</l>
+            <l n="2">መሥዋዕተ፡ ክርስቶስ፡ ሕያው፡ ውስተ፡ ነደ፡ እቶን፡ ስፍሕት፨</l>
+            <l n="3">ቴዎድሮስ፡ ኀያል፡ ቢጸ፡ ጊዮርጊስ፡ ሰማዕት፨</l>
+            <l n="4">እሳት፡ ዘነደት፡ ላዕሌከ፡ ለገሥጸ፡ ፀርየ፡ ሞት፨</l>
+            <l n="5">ቀስተ፡ ደመና፡ ትትመስል፡ በመንክር፡ ሥርዓት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ኦዘተወከፍከ፡ ዝብጠተ፡ ስፉሐት፡ ዕፀው፨</l>
+            <l n="2">እስከ፡ ዐፅመ፡ ዚአከ፡ ኮነ፡ ከመ፡ ሐመድ፡ ዝርው፨</l>
+            <l n="3">እንዘ፡ ጸዊሮቶ፡ ኢይክሉ፡ መጠነ፡ ፳ዕደው፨</l>
+            <l n="4">ቴዎድሮስ፡ ልጓመ፡ ብርት፡ በእንተ፡ ፍቅረ፡ ወልድ፡ ሕያው፨</l>
+            <l n="5">ቀሊለ፡ መሰልከ፡ ውስተ፡ ቤት፡ ወበድው።</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ኦዘተሰመይከ፡ በእንተ፡ ሃይማኖት፡ አሠርየ፨</l>
+            <l n="2">አመ፡ ከመ፡ ምትሐት፡ ልብከ፡ መንግሥተ፡ በርነፍስ፡ ረሰየ፨</l>
+            <l n="3">ቴዎድሮስ፡ ሰማዕት፡ ሶበ፡ ነጸረ፡ ወርእየ፨</l>
+            <l n="4">እምእደ፡ ኀያላን፡ ፲ዘተወከፍከ፡ ሥቃየ፨</l>
+            <l n="5">በእንተ፡ ግፍዕከ፡ አንበሳ፡ በከየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ኦዘፈወስከ፡ ቅቡፃነ፡ ሐዳስ፡ ተስፋ፨</l>
+            <l n="2">ውስተ፡ ግበ፡ እሳት፡ ሥጋከ፡ በትዕግሥት፡ እንተ፡ ተወክፋ፨</l>
+            <l n="3">ቴዎድሮስ፡ በገድል፡ ከመ፡ አኅበርኮ፡ ለፊላኒፋ፨</l>
+            <l n="4">ምስሌከ፡ እኅበር፡ እግዚኦ፡ በመንግሥተ፡ ክርስቶስ፡ አልፋ፨</l>
+            <l n="5">በዐውደ፡ ዘለፋ፡ ነፍስየ፡ ኢትስማዕ፡ ዘለፋ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዐፀደ፡ መበለት፡ ነፍስየ፡ እስመ፡ እሴፎ፡ ኪያከ፨</l>
+            <l n="2">ቴዎድሮስ፡ እርአይ፡ ኀይለ፡ ረድኤትከ፨</l>
+            <l n="3">አንሶሱ፡ በፈረስከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ኢይዕብዑኒ፡ አፅራር፡ ማእከለ፡ ፍና፡ ወቤት፨</l>
+            <l n="2">እምአፈ፡ ፈረስከ፡ ይፃእ፡ እሳተ፡ መዓት፨</l>
+            <l n="3">ቴዎድሮስ፡ ዘውገ፡ ሰማዕት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለከ፡ ኢትስተይ፡ ማየ፡ ሶበ፡ አዘዘ፡ ንጉሥ፨</l>
+            <l n="2">እንዘ፡ ውስተ፡ ሞቅሕ፡ አንተ፡ እምጸጋ፡ መንፈስ፨</l>
+            <l n="3">ረወይከ፡</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለከ፡ ብስራትኪ፡ ዮም፡ ለነፍስከ፡ እስመ፡ አመ፡ ሥቃይ፡ ትቤላ፨</l>
+            <l n="2">ገነተ፡ ዕረፍት፡ ወረስከ፡ ወምድረ፡ ተድላ፨</l>
+            <l n="3">ቴዎድሮስ፡ ገብረ፡ መሐላ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለከ፡ እምኀበ፡ ንጉሥ፡ ምጽዋተ፡ ለእለ፡ ይኅሥሡ፡ ቆሙ፨</l>
+            <l n="2">እምኀይለ፡ ደዌ፡ ደምከ፡ እስመ፡ ፈወሶሙ፨</l>
+            <l n="3">ቴዎድሮስ፡ አእመንኮሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ እምእለ፡ እምሰማይ፡ ወረዱ፡ አክሊላቲከ፡ ሠለስቱ፨</l>
+            <l n="2">ለአሐዱ፡ እትፈሣሕ፡ በጸዊሮቱ፨</l>
+            <l n="3">ለክርስቶስ፡ ሰማዕተ፡ ሞቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ ከንቱ፡ ከንቱ፡ ቃለ፡ ሰሎሞን፡ ዘይብል፨</l>
+            <l n="2">ቴዎድሮስ፡ አንተ፡ እንዘ፡ ባዕል፨</l>
+            <l n="3">አምጣነ፡ ምሁረ፡ ኮንከ፡ በይነ፡ ፍቅረ፡ ቃል፨</l>
+            <l n="4">ተደለውከ፡ ለንዴት፡ ወብዕል፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="theodore-general">
+                <persName xml:lang="gez">ቴዎድሮስ፡ ሊቀ፡ ሠራዊት፡</persName>
+                <persName xml:lang="gez" type="normalized">Tewodros Liqa Śarāwit</persName>
+                <persName xml:lang="en">Theodore the General</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0329" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አቢብ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAbib</title>
+        <title corresp="#t1" xml:lang="en">Image of Phib</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0329/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርትከ፡ ምስለ፡ ርእሱ፨</l>
+            <l n="2">ለገጽከ፡ ወቀራንብቲከ፡ እስከ፡ ብርሃናዊ፡ ሞገሱ፨</l>
+            <l n="3">አበ፡ ብዙኃን፡ አቢብ፡ ለእንጦንዮስ፡ ምዋርሱ፨</l>
+            <l n="4">ፈጽም፡ ሊተ፡ እግዚኦ፡ ለኅሊናየ፡ ማኅሠሡ፨</l>
+            <l n="5">በሀገረ፡ ተስፋ፡ ነፍስ፡ ምስሌከ፡ ታንሶሱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለአእዛኒከ፡ ምስለ፡ መላትሕ፡ ኅቡረ፨</l>
+            <l n="2">ለአእናፊከ፡ ወለከናፍሪከ፡ ወለአፉከ፡ ድኅረ፨</l>
+            <l n="3">አቢብ፡ ፍቁሩ፡ ለዘኵሎ፡ ፈጠረ፨</l>
+            <l n="4">ተወከፍ፡ ጸሎትየ፡ ኵሎ፡ አሚረ፨</l>
+            <l n="5">ወእምአባላትየ፡ ስድድ፡ አበሳ፡ ወነውረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="11">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ፍትው፡ ወለመልክእከ፡ አዳም፨</l>
+            <l n="2">ለፀአተ፡ ነፍስከኒ፡ ወለበድነ፡ ሥጋከ፡ ሰላም፨</l>
+            <l n="3">አቢብ፡ አቡየ፡ ኮከበ፡ ገዳም፨</l>
+            <l n="4">ጸሊ፡ ሊተ፡ እግዚኦ፡ ወጸሎትከ፡ ግጹም፨</l>
+            <l n="5">ከመ፡ ታዕርፈኒ፡ እምስራህ፡ ለዛቲ፡ ዓለም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለቆብዕከ፡ ወለአፅፍከ፡ ዘምስለ፡ አስኬማ፨</l>
+            <l n="2">ዘተረሰይከ፡ ቦሙ፡ አምሳለ፡ በዝግና፡ ቃማ፨</l>
+            <l n="3">አቢብ፡ ሥጋዊ፡ ወመልአከ፡ ሰማይ፡ ዘራማ፨</l>
+            <l n="4">በዐይነ፡ ረድኤትከ፡ ነጽር፡ ለሰብእናየ፡ ድካማ፨</l>
+            <l n="5">እስመ፡ ያረስእ፡ ሰይጣን፡ ለብዙኅ፡ ጻማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ይጽውኡ፡ ስምከ፡ ዮም፡ እለ፡ ተጋባእነ፡ ሕዝብ፨</l>
+            <l n="2">አስተጋብአነ፡ ለዕለተ፡ ከብካብ፨</l>
+            <l n="3">ወዓዲ፡ ይእዜ፡ ቅዱስ፡ አቢብ፨</l>
+            <l n="4">አጥብበኒ፡ ለደቂቅከ፡ በዘዚአከ፡ ጥበብ፨</l>
+            <l n="5">ወበየማንከ፡ ባርከኒ፡ አብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ማሕፀን፡ በሕማምከ፡ ሶበ፡ ነጸረከ፡ ሕማሞ፨</l>
+            <l n="2">በመልዕልተ፡ ቅዱስ፡ መስቀል፡ እንተ፡ አንጸፍጸፈ፡ ደሞ፨</l>
+            <l n="3">ለኢየሱስ፡ ክርስቶስ፡ ሕሩመ፡ በቀል፡ ወተቀይሞ፨</l>
+            <l n="4">አባ፡ አቢብ፡ ዕቀበኒ፡ እምባሕረ፡ ሲኦል፡ ተሰጥሞ፨</l>
+            <l n="5">እስመ፡ ኵሉ፡ ድኅን፡ ዘጸውዐ፡ ስሞ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="phib">
+                <persName xml:lang="gez">አቢብ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAbib</persName>
+                <persName xml:lang="en">Phib</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

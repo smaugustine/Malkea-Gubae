@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe3041" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሴፍ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yosef</title>
+        <title corresp="#t1" xml:lang="en">Image of Joseph</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/3041/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>107ra-111ra</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">321</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኣቀድም፡ አስተብቍዖተከ፡ እግዚአብሔር፡ አምላክ፨</l>
+            <l n="2">ወእትጋነይ፡ ለከ፡ እንዘ፡ ሰግድ፡ በብረክ፨</l>
+            <l n="3">ከመ፡ እዜኑ፡ ንስቲተ፡ እምዝክረ፡ ዮሴፍ፡ ቡሩክ፨</l>
+            <l n="4">ያንቅሓኒ፡ ጊዜ፡ ጽባሕ፡ ወያትግሃኒ፡ በሰርክ፨</l>
+            <l n="5">በቅድመ፡ ገጽከ፡ ዘይተግህ፡ መልአክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ሞገሰ፡ ከናፍር፡ ወልሳን፨</l>
+            <l n="2">ዜና፡ ፍሥሓ፡ ለእዝን፡ ወሠርጐ፡ መርዓዊ፡ ለዐይን፨</l>
+            <l n="3">መዋዕለ፡ ጽጋብ፡ ዮሴፍ፡ ወዘጊዜ፡ ተድላ፡ ዘመን፨</l>
+            <l n="4">እምከመሰ፡ ሰረብዎ፡ ለፍቅርከ፡ ወይን፨</l>
+            <l n="5">እምልበ፡ ኣግዓዚ፡ ወገብር፡ ይትረሳእ፡ ኀዘን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘኢተቀብአ፡ ለአንኆ፨</l>
+            <l n="2">ቅብአ፡ መዐዛ፡ ወተመክሖ፨</l>
+            <l n="3">ብዙኀ፡ ምሕረት፡ ዮሴፍ፡ ለምሕረትከ፡ ሰብሖ፨</l>
+            <l n="4">አንግረኒ፡ እምአበ፡ ደም፡ ወባልሐኒ፡ ባልሖ፨</l>
+            <l n="5">ከመ፡ ኢይርከበኒ፡ በፍኖት፡ ጸኒሖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="42">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ዓርዘ፡ ተነብዮ፡ ወኣምሳል፨</l>
+            <l n="2">በፈለገ፡ ኦሪት፡ ዘልህቀ፡ ወበነቅዐ፡ ሐዲስ፡ ወንጌል፨</l>
+            <l n="3">ዮሴፍ፡ መዋኢ፡ በውስተ፡ ኵሉ፡ ኀያል፨</l>
+            <l n="4">መግበኒ፡ በኲናትከ፡ ወበሰይፍከ፡ ስሑል፨</l>
+            <l n="5">እስመ፡ ፈድፋደ፡ አስርሐኒ፡ ቀትል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="43">
+            
+            <l n="1">ሰላም፡ እብል፡ በበ፡ መሌሊቱ፡ ወስሙ፨</l>
+            <l n="2">ለማኅፈደ፡ ሥጋከ፡ ኵሉ፡ ምስለ፡ ኣስራዊኡ፡ ወደሙ፨</l>
+            <l n="3">ዮሴፍ፡ ፍቁር፡ በኀበ፡ ኢየሱስ፡ ወእሙ፨</l>
+            <l n="4">ገብረተ፡ ዓመፃ፡ እመ፡ በላዕሌየ፡ ቆሙ፨</l>
+            <l n="5">ኪዳኖሙ፡ ዘርዝር፡ ወዕሉ፡ ምክሮሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ እንበለ፡ ፃዕር፡ ወሙስና፨</l>
+            <l n="2">ፈጺመከ፡ ሕገ፡ ቀኖና፨</l>
+            <l n="3">አስተበቍዓከ፡ ዮሴፍ፡ በእንተ፡ ማርያም፡ ወለተ፡ ሓና፨</l>
+            <l n="4">በኃሣር፡ ወኅርትምና፡ ዓመታትየ፡ ኮና፨</l>
+            <l n="5">አዕርገኒ፡ በደመና፡ ሀገረከ፡ ሲና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋከ፡ ዘኪነ፡ ግንዘቱ፡ መንክር፨</l>
+            <l n="2">በአፈወ፡ ወንጌል፡ ምፁዝ፡ ወበልብሰ፡ ክህነት፡ ክቡር፨</l>
+            <l n="3">ሀገረ፡ መድኃኒት፡ ዮሴፍ፡ ዘተሐነጽከ፡ በደብር፨</l>
+            <l n="4">ምስካይየ፡ ወምጕያይየ፡ በዕለተ፡ ምንዳቤ፡ ወፃዕር፨</l>
+            <l n="5">አመ፡ ዴገነኒ፡ አበ፡ ደም፡ ነኪር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘኢያንቀለቅል፡ ድዳ፨</l>
+            <l n="2">በኀይለ፡ አዕፅምቲከ፡ ዮሴፍ፡ እስመ፡ ጸንዐ፡ ፅንጻ፡ ማኅፈዳ፨</l>
+            <l n="3">እንዘ፡ የሐቅፍዋ፡ ወትረ፡ ወይትካፈልዎ፡ ለክበዳ፨</l>
+            <l n="4">ከመ፡ መቃብሩ፡ ለጊዮርጊስ፡ ዘልዳ፨</l>
+            <l n="5">ያመጽኡ፡ ላቲ፡ ነገሥታት፡ ጋዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ኦዮሴፍ፡ ኀቤከ፡ እንዘ፡ ኣንቀዓዱ፨</l>
+            <l n="2">አማኅኩከ፡ እማኄ፡ ለመላክዒከ፡ ዘበበ፡ ፍቅዱ፨</l>
+            <l n="3">ወአንተኒ፡ ለብዝኀ፡ ሂሩትከ፡ ከመ፡ ልማዱ፨</l>
+            <l n="4">ድሉ፡ ሊተ፡ ዕሤትየ፡ ዘለለ፡ አሐዱ፡ አሐዱ፨</l>
+            <l n="5">ለኅሊናየ፡ ከመዝ፡ መፍቅዱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="joseph">
+                <persName xml:lang="gez">ዮሴፍ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yosef</persName>
+                <persName xml:lang="en">Joseph</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

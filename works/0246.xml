@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0246" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ስብስትያኖስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Səbəstyānos</title>
+        <title corresp="#t1" xml:lang="en">Image of Sebastian</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0246/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘይትበደር፡ እምብሩር፨</l>
+            <l n="2">ወይጥዕም፡ እምሶከር፨</l>
+            <l n="3">ስብስትያኖስ፡ ንጹሕ፡ ትሩፈ፡ ምግባር፨</l>
+            <l n="4">በዝክረ፡ ስምከ፡ ተማሕፀንኩ፡ ኢትኅድገኒ፡ ለገብር፨</l>
+            <l n="5">አመ፡ ትወፅእ፡ ነፍስየ፡ እምሥጋ፡ በግብር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ ዝብጠታተ፡ ኀጺን፡ ዘተወክፋ፨</l>
+            <l n="2">ወትዕግስታተ፡ አዝለፋ፨</l>
+            <l n="3">ስብስትያኖስ፡ ጸማዊ፡ ሱታፌ፡ ሕማሙ፡ ለአልፋ፨</l>
+            <l n="4">መልክአ፡ ገጽከ፡ ኀበ፡ ተጽሕፋ፡ ለመልክእየ፡ ጸሐፋ፨</l>
+            <l n="5">ውስተ፡ ምዕራፍከ፡ ረሲ፡ ምዕራፋ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="sebastian">
+                <persName xml:lang="gez">ስብስትያኖስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Səbəstyānos</persName>
+                <persName xml:lang="en">Sebastian</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

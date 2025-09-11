@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0429" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ሰላምታ፡ ዘሳጥናኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Salāmtā za-Sāṭnāʾel</title>
+        <title corresp="#t1" xml:lang="en">Salutations for Sāṭnāʾel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0429/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ መልአከ፡ አጋንንት፡ ሳጥናኤል፡ ቢስሚላሂ፡ እሮሂም፡ እራሂማን፨</l>
+            <l n="2">ወለአላ፡ ሙስረላ፡ ዩመለን፨</l>
+            <l n="3">ቀውላ፡ ያውጣቂን፨</l>
+            <l n="4">አላ፡ ወለካብሂ፡ ወሶላ፡ ኮብሊን፨</l>
+            <l n="5">ከብዩል፡ ሰሩላ፡ ቀላዜን፨</l>
+            <l n="6">ከመዝ፡ ወአብደላ፡ መሊኩን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ መልአከ፡ አጋንንት፡ ሳጥናኤል፡ አህለሚን፡ ዘኦላ፨</l>
+            <l n="2">አልዚዙ፡ በረቡህ፡ ኦህሊላ፨</l>
+            <l n="3">ያፈሊካ፡ ወሙሲቂስ፡ ዳቤላ፨</l>
+            <l n="4">ሤሩክ፡ ቀሜም፡ ረኩመላ፨</l>
+            <l n="5">ሀሊቁ፡ ቄድሩ፡ አላ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለከ፡ መልአከ፡ አጋንንት፡ ሳጥናኤል፡ ቦአሊ፡ ዴቂቢራ፡ ፌንጆ፨</l>
+            <l n="2">አንዱራ፡ ኩኒ፡ ኤልኩራጆ፨</l>
+            <l n="3">ላቢሂ፡ ቀቢጅራ፡ ጐርጆ፨</l>
+            <l n="4">አላ፡ ጁል፡ ወጊልጆ፨</l>
+            <l n="5">ብርያል፡ ኮማጆ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለከ፡ መልአከ፡ አጋንንት፡ ሳጥናኤል፡ ሴአለክ፡ ወሰበሐነከ፡ ብልያቂ፨</l>
+            <l n="2">አደል፡ አብደል፡ ይነፍሐከ፡ ቢልቃቂ፨</l>
+            <l n="3">አደባኒካ፡ ኬሩፍ፡ ሌጌዎን፡ ጨልዋዊ፨</l>
+            <l n="4">ጮላትጋ፡ ዝናሾል፡ ጀልዳቂ፨</l>
+            <l n="5">ሙርጃን፡ መጥቁል፡ ወዶራቂ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="satnael">
+                <persName xml:lang="gez">ሳጥናኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Sāṭnāʾel</persName>
+                <persName xml:lang="en">Sāṭnāʾel</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="bookSection" xml:id="Strelcyn1960" corresp="http://zotero.org/groups/5599348/items/8RNTFZJ2"><analytic><title level="a">La magie éthiopienne</title><author><forename>Stefan</forename><surname>Strelcyn</surname></author></analytic><monogr><title level="m">Atti del Convegno Internazionale di Studi Etiopici (Roma 2–4 aprile 1959)</title><imprint><pubPlace>Roma</pubPlace><biblScope unit="page">147-166</biblScope><publisher>Accademia Nazionale dei Lincei</publisher><date>1960</date></imprint></monogr><series><title level="s">Accademia Nazionale dei Lincei</title><biblScope unit="volume">357, Problemi attuali di scienza e di cultura, 48</biblScope></series></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

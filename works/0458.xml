@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0458" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ በትረ፡ ጊዮርጊስ፡ ወስምዖን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Batra Giyorgis wa-Səmʿon</title>
+        <title corresp="#t1" xml:lang="en">Image of Batra Giyorgis and Səmʿon</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0458/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ሰላም፡ እምብዙኅ፡ በውሑድ፨</l>
+            <l n="2">ለዝክረ፡ ስምክሙ፡ ንብል፡ በገቢረ፡ በዓል፡ ውሉድ፨</l>
+            <l n="3">በትረ፡ ጊዮርጊስ፡ ሐዋርያ፡ ወስምዖን፡ ዘዐምድ፨</l>
+            <l n="4">በትረ፡ ተራድኦ፡ እምሁከተ፡ ዘመን፡ ክቡድ፨</l>
+            <l n="5">ለዐቂቦትነ፡ አኃዙ፡ በእድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርትክሙ፡ ሐመልማለ፡ ርእስ፡ ገዳም፨</l>
+            <l n="2">ወበበ፡ ርእስክሙ፡ እብል፡ ለርእስክሙ፡ ሰላም፨</l>
+            <l n="3">በትረ፡ ጊዮርጊስ፡ ወስምዖን፡ በዘትመጽእ፡ ዓለም፨</l>
+            <l n="4">እምገድልከ፡ ጻማ፡ ተሰዶ፡ ወምግባርከ፡ ቀዊም፨</l>
+            <l n="5">አስተሳትፉኒ፡ ለብእሲ፡ ድኩም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለገጽክሙ፡ ሥነ፡ ጸጋሁ፡ ዘተሰብሐ፨</l>
+            <l n="2">ለቀራንብቲክሙኒ፡ አንብዓ፡ ስእለታት፡ ዘነዝኃ፨</l>
+            <l n="3">በትረ፡ ጊዮርጊስ፡ ወስምዖን፡ ዜንዉኒ፡ ዜና፡ ፍሥሐ፨</l>
+            <l n="4">ሰይጣንሰ፡ ኢይንግረኒ፡ ዜናሃ፨</l>
+            <l n="5">በከመ፡ ስሙ፡ ለሐሰት፡ አቡሃ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ሰላም፡ እብል፡ ለመልክኣቲክሙ፡ ሠናያነ፨</l>
+            <l n="2">ፀአተ፡ ንፍስክሙኒ፡ በመዋዕለ፡ ጾም፡ ዘኮነ፨</l>
+            <l n="3">በትረ፡ ጊዮርጊስ፡ ወስምዖን፡ ከመ፡ ንትካየድ፡ ኪዳነ፨</l>
+            <l n="4">ኀቤየ፡ ንዑ፡ በትሕትና፡ ምስለ፡ ማርያም፡ እምነ፨</l>
+            <l n="5">እስመ፡ ኢተክህለኒ፡ እምጻእ፡ ኀቤክሙ፡ አነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋክሙ፡ ወግንዘትክሙ፡ በክብር፨</l>
+            <l n="2">ለመቃብሪክሙኒ፡ ነቅዐ፡ ማየ፡ ሕይወት፡ መንክር፨</l>
+            <l n="3">አርአያ፡ ትሩፋት፡ ስምዖን፡ ወበትረ፡ ጊዮርጊስ፡ መምህር፨</l>
+            <l n="4">ዘኢወፅአ፡ እምቃልክሙ፡ በውስተ፡ ኵሉ፡ ብሔር፨</l>
+            <l n="5">ነቢብ፡ አልቦ፡ ወአልቦ፡ ነገር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ነሢአክሙ፡ ሰላመ፡ አምኃ፡ ማሕሌትየ፡ ዝንቱ፨</l>
+            <l n="2">ዘበኃምስቱ፡ ይትፈቀድ፡ መጠነ፡ ጊዜያት፡ ኃምስቱ፨</l>
+            <l n="3">በትረ፡ ጊዮርጊስ፡ ወስምዖን፡ ለበረከትክሙ፡ መክፈልተ፡ ሀብቱ፨</l>
+            <l n="4">ጸግዉኒ፡ አስበ፡ ጻማየ፡ በዓለመ፡ ነገሥት፡ ሠለስቱ፨</l>
+            <l n="5">ወአግብኦ፡ ፍዳ፡ እምጥንት፡ ለጻድቅ፡ ሥርዓቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="batra-giyorgis">
+                <persName xml:lang="gez">በትረ፡ ጊዮርጊስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Batra Giyorgis</persName>
+                <persName xml:lang="en">Batra Giyorgis</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+              
+              <person xml:id="semon">
+                <persName xml:lang="gez">ስምዖን፡</persName>
+                <persName xml:lang="gez" type="normalized">Səmʿon</persName>
+                <persName xml:lang="en">Səmʿon</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

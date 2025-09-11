@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe3095" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቂርቆስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Qirqos</title>
+        <title corresp="#t1" xml:lang="en">Image of Cyricus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/3095/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="ADMY002">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-002</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>89ra-93vb</locus>
+          </witness>
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>159va-164rb</locus>
+          </witness>
+          
+          <witness xml:id="BNFabb170">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 170</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>31ra-34rb</locus>
+          </witness>
+          
+          <witness xml:id="BNFabb194">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 194</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>15v-26r</locus>
+          </witness>
+          
+          <witness xml:id="EMML0374">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Gəbi Gabrəʾel</repository>
+                <idno>EMML 374</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>166va-173vb</locus>
+          </witness>
+          
+          <witness xml:id="GG085">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-085</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>149rb-159rb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">375, 124</citedRange>
+            </biblStruct>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">207</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኦክርስቶስ፡ ናዝራዊ፡ ዘተወከፍከ፡ ሕማመ፨</l>
+            <l n="2">ፀሓይ፡ ብሩህ፡ ወጽዱል፡ አመ፡ ሱራሬሁ፡ አጽለመ፨</l>
+            <l n="3">መጽሐፈ፡ ዜናሁ፡ ለቂርቆስ፡ መንፈሳዊ፡ ወዘመልክኡ፡ ሰላመ፨</l>
+            <l n="4">ጸሐፍ፡ ውስተ፡ ልብየ፡ እንዘ፡ ትገብር፡ ቀለመ፨</l>
+            <l n="5">ደመከ፡ አምላካዊ፡ በመስቀል፡ ዘዘንመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ቂርቆስ፡ ሕፃን፨</l>
+            <l n="2">ዘፍካሬሁ፡ ተብህለ፡ ጽጌ፡ ምዑዝ፡ ዕፍራን፨</l>
+            <l n="3">ለዝስምከ፡ ነጋሢ፡ ዘኢየዐርቆ፡ ሥልጣን፨</l>
+            <l n="4">ሶበ፡ ይጼውዖ፡ ልሳንየ፡ ውስተ፡ ገጸ፡ ኵሉመካን፨</l>
+            <l n="5">ይደንግፅ፡ ሞት፡ ወይጕየይ፡ ሰይጣን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘሠረፁ፡ ወበቈሉ፨</l>
+            <l n="2">ለርእስከ፡ በላዕሉ፨</l>
+            <l n="3">በለኒ፡ ቂርቆስ፡ ዘይቤ፡ ለክርስቶስ፡ እግዚአ፡ ኵሉ፨</l>
+            <l n="4">ሀብተ፡ በረከቱ፡ ወሞገሰ፡ ቅዱስ፡ መስቀሉ፨</l>
+            <l n="5">ለዓለመ፡ ዓለም፡ እምይእዜ፡ ምስሌከ፡ የሀሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ወሰላም፡ እብሎን፨</l>
+            <l n="2">ለአፃብዒከ፡ ዐሥር፡ ምስለ፡ አጽፋሪሆን፨</l>
+            <l n="3">ኀድፈኒ፡ ቂርቆስ፡ ኖትያ፡ መንገለ፡ መርስ፡ ወዛኅን፨</l>
+            <l n="4">እስመ፡ ናሁ፡ አስጠሙ፡ ኅሊናየ፡ በዝዘመን፨</l>
+            <l n="5">ሰቆቃው፡ ጤግሮስ፡ ወግዮን፡ ኀዘን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="40">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋከ፡ በሰረገላሁ፡ ዘተኀብአ፨</l>
+            <l n="2">ለነቢይ፡ ኤልያስ፡ በሕገ፡ አምላክ፡ ዘቀንአ፨</l>
+            <l n="3">መምህረ፡ መምህራን፡ ቂርቆስ፡ እንተ፡ ታጸድቅ፡ ኃጥአ፨</l>
+            <l n="4">ጌጋይየ፡ ሥረይ፡ ለአባሲ፡ በከመ፡ መምህርከ፡ ሠርዐ፨</l>
+            <l n="5">ወኅድግ፡ አበሳየ፡ በበ፡ ስብዕ፡ ስብዓ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ሰላም፡ ለሕማምከ፡ ወለግፍዕከ፡ ብዙኅ፨</l>
+            <l n="2">እንተ፡ ያበኪ፡ አልባበ፡ ከመ፡ ግᎈ፡ ክርስቶስ፡ ርኅሩኅ፨</l>
+            <l n="3">ክረምተ፡ ፍሥሓየ፡ ቂርቆስ፡ ለብእሴ፡ ሰቆቃው፡ ወላሕ፨</l>
+            <l n="4">ያንጠብጥብ፡ በላዕሌየ፡ መጠነ፡ ሠለስቱ፡ አውራኅ፨</l>
+            <l n="5">ነጠብጣበ፡ ትፍሥሕት፡ በረከትከ፡ ወዝናም፡ ንጹሕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="42">
+            
+            <l n="1">ሰላም፡ ለነቅዐ፡ ደምከ፡ ዘተቶስሐ፡ በደሙ፨</l>
+            <l n="2">ለበግዐ፡ መስቀል፡ ክርስቶስ፡ እንተ፡ ያደንግፅ፡ ዜና፡ ሕማሙ፨</l>
+            <l n="3">እኅወ፡ ሰማዕታት፡ ቂርቆስ፡ ወለሐዋርያት፡ ወልዶሙ፨</l>
+            <l n="4">ለእለ፡ ገብሩ፡ ተዝካረከ፡ ጸጋ፡ መንፈስ፡ ቅዱስ፡ ሀቦሙ፨</l>
+            <l n="5">ወዕሤተ፡ ጽድቅ፡ በሰማይ፡ አስተዳሉ፡ ሎሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="43">
+            
+            <l n="1">ሰላም፡ ለህላዌከ፡ ማእከለ፡ ሰባዕቱ፡ ነገድ፨</l>
+            <l n="2">እለ፡ ስኡላን፡ በነድ፨</l>
+            <l n="3">አስተምሕር፡ ቂርቆስ፡ ቅድመ፡ መንበረ፡ አብ፡ ወወልድ፨</l>
+            <l n="4">ኀበ፡ ተሐንጸ፡ መርጡልከ፡ ወዘዚአከ፡ ዐጸድ፨</l>
+            <l n="5">ኢይምጻእ፡ በዓለም፡ ዘይቀትል፡ ብድብድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="44">
+            
+            <l n="1">በሰላመ፡ መንፈስ፡ ቅዱስ፡ ሰላም፡ ሰላም፨</l>
+            <l n="2">ለሥነ፡ ቆምኪ፡ አዳም፨</l>
+            <l n="3">ኢየሉጣ፡ ገነት፡ ዘመዐዛኪ፡ ጥዑም፨</l>
+            <l n="4">ይትከዐው፡ ውስተ፡ አፉየ፡ ሐሊበ፡ አጥባትኪ፡ ዮም፨</l>
+            <l n="5">ከመ፡ እምደመና፡ ይትከዐው፡ ወይወርድ፡ ዝናም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለመልክኣትኪ፡ አርብዓ፡ ወሠለስቱ፨</l>
+            <l n="2">ዓዲ፡ ሰላም፡ ለጠባይዕኪ፡ አርባዕቱ፨</l>
+            <l n="3">ኢየሉጣ፡ ቅድስት፡ ለቂርቆስ፡ ወላዲቱ፨</l>
+            <l n="4">ሰአሊዮ፡ በእንቲአየ፡ ከመ፡ ኢይጥፋእ፡ በከንቱ፨</l>
+            <l n="5">ለእግዚአብሔር፡ አምላከ፡ ጽድቅ፡ ዘብዙኅ፡ ምሕረቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ለዝንቱ፡ ቃለ፡ ማሕሌት፡ ወለዝንቱ፡ ድርሳን፨</l>
+            <l n="2">ለዘጸሐፎ፡ በአእዳው፡ ወለዘአንበቦ፡ በልሳን፨</l>
+            <l n="3">ወለዘሰምዐ፡ ቃላቲሁ፡ በክልኤ፡ አእዛን፨</l>
+            <l n="4">ኅቡረ፡ ይባርኩነ፡ በእዘዘ፡ ክርስቶስ፡ ብርሃን፨</l>
+            <l n="5">ቅዱሳት፡ አፃብዒሁ፡ ለቂርቆስ፡ ሕፃን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ማሕሌተ፡ መልክኡ፡ ለቂርቆስ፡ ወዘኢየሉጣ፡ አባሉ፨</l>
+            <l n="2">ናሁ፡ ጸሐፍኩ፡ እንዘ፡ አስተዋፅእ፡ እምነ፡ ገድሉ፨</l>
+            <l n="3">ባርኪ፡ ሊተ፡ ማርያም፡ እግዝእተ፡ ኵሉ፨</l>
+            <l n="4">ዘባረኪ፡ በዲበ፡ ምድር፡ ቡሩክ፡ በላዕሉ፨</l>
+            <l n="5">ወዘቀድስኪ፡ ለዓለም፡ ዘይሄሉ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="cyricus">
+                <persName xml:lang="gez">ቂርቆስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Qirqos</persName>
+                <persName xml:lang="en">Cyricus</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Grébaut1912" corresp="http://zotero.org/groups/5599348/items/ANMK6I42"><analytic><title level="a">Les manuscrits éthiopiens de M. E. Delorme</title><author><forename>Sylvain</forename><surname>Grébaut</surname></author></analytic><monogr><title level="j">Revue de l'Orient Chrétien</title><imprint><biblScope unit="volume">17</biblScope><biblScope unit="page">113-132</biblScope><date>1912</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

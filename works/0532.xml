@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0532" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ተንሥአ፡ መድኅን፡ ዘደብረ፡ ዓሣ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tanśəʾa Madḫən za-Dabra ʿĀśā</title>
+        <title corresp="#t1" xml:lang="en">Image of Tanśəʾa Madḫən of Dabra ʿĀśā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0532/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">261</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ለመልክእከ፡ ውዳሴሁ፨፨</l>
+            <l n="2">እንዘ፡ አስተዋድድ፡ በበ፡ ጾታሁ፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ ጻድቅ፡ ተራድአኒ፡ ለለ፡ ጊዜሁ፨</l>
+            <l n="4">ከመ፡ ዘይረድኦ፡ ዐርክ፡ ጊዜ፡ መከራሁ፨</l>
+            <l n="5">እስመ፡ አጽአቀኒ፡ ሊተ፡ ለዓለም፡ ሥራሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ኀበ፡ ዐምደ፡ ብርሃን፡ ዘተሥዕለ፨</l>
+            <l n="2">በእደ፡ ፈጣሪ፡ ኬንያ፡ ዘኢየአምር፡ በቀለ፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ ክቡር፡ ኀበ፡ ስምከ፡ ተልዕለ፨</l>
+            <l n="4">ኢይኩን፡ ሕጸተ፡ ማይ፡ ወህጠተ፡ ሥርናይ፡ እክለ፨</l>
+            <l n="5">ባሕቱ፡ ለአምክከ፡ ሰአሎ፡ ስኢለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ ሥርግወ፡ ሠናይ፡ አስኬማ፨</l>
+            <l n="2">በመዋዕሊሁ፡ ለአባ፡ ከሣቴ፡ ብርሃን፡ ሰላማ፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ ሐዋርያ፡ ክሉለ፡ ሞገስ፡ ወግርማ፨</l>
+            <l n="4">ይኩነነ፡ ረድኤትከ፡ ከመ፡ ዘውስተ፡ ፀምር፡ ቃማ፨</l>
+            <l n="5">ወበረድኤትከ፡ ይርኅቅ፡ መስቴማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲከ፡ መአድማነ፡ እለ፡ ኮና፨</l>
+            <l n="2">ከመ፡ ዐይነ፡ ርግብ፡ ሠናይት፡ ወከመ፡ ዖፍ፡ ብርጋና፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ ኅሩይ፡ ለደብረ፡ ዓሥዓ፡ ጸወና፨</l>
+            <l n="4">አስትየነ፡ ወይነ፡ ሃይማኖት፡ በማኅፈደ፡ ዚአከ፡ ንጽሕና፨</l>
+            <l n="5">እስመ፡ ነጽፈ፡ ጤግሮስ፡ ሙስና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለአዕይንቲከ፡ ምሥጢረ፡ መለኮት፡ እለ፡ ርእያ፨</l>
+            <l n="2">ውስተ፡ መንበሩ፡ ለአብ፡ አምላከ፡ ጳውሎስ፡ ሐዋርያ፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ ኀቤከ፡ በቅድመ፡ ሰላማ፡ ኬንያ፨</l>
+            <l n="4">ሰገዱ፡ ወአስተብረኩ፡ ሕዝበ፡ ደብረ፡ ዓሣ፡ ሶርያ፨</l>
+            <l n="5">እስመ፡ አንተ፡ ለሕዝብከ፡ መድኃኒት፡ ነያ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="39">
+            
+            <l n="1">ሰላም፡ ለአእጋሪከ፡ እለ፡ ኤላ፡ ለሕዋጼ፨</l>
+            <l n="2">ደብረ፡ አስቦ፡ ለተጋድሎ፡ በኢልማደ፡ ሰብእ፡ ድንጋፄ፨</l>
+            <l n="3">ምስለ፡ ሕዝቅኤል፡ ሰይፍከ፡ ወአሌፍ፡ ማኅጼ፨</l>
+            <l n="4">በኀይለ፡ ጸሎትከ፡ አባ፡ እንተ፡ አድከምከ፡ ዐመጻ፨</l>
+            <l n="5">ፍሬ፡ ረድኤትከ፡ ዲቤነ፡ ለይኩን፡ ሠራጼ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="40">
+            
+            <l n="1">ሰላም፡ ለሰኳንዊከ፡ እምፍና፡ እግረ፡ ወልድ፡ እለ፡ ኢድኅፃ፨</l>
+            <l n="2">አመ፡ ደብረ፡ ሐውዜን፡ ሖርከ፡ ታርኁ፡ አንቀጻ፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ በኵረ፡ ጽድቅ፡ ውሳጤ፡ ሀገርከ፡ ኆፃ፨</l>
+            <l n="4">ደፊነከ፡ ቅዕበተ፡ ለግብጻዊ፡ ዘልማደ፡ ቤቱ፡ ዐመጻ፨</l>
+            <l n="5">ትትካፈል፡ እምእሊአከ፡ ክፍለ፡ ርስት፡ ዕፃ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ለደብረ፡ ዓሣ፡ ገቦሃ፨</l>
+            <l n="2">እንተ፡ ለጉቡኣን፡ ኵልነ፡ ኮነተነ፡ ምክሐ፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ አቡነ፡ እንተ፡ ኖምከ፡ በውሳጤሃ፨</l>
+            <l n="4">ዕቀበነ፡ በተኣምሪከ፡ በከመ፡ ንቤ፡ አሜሃ፨</l>
+            <l n="5">ከመ፡ ኢይብጽሐነ፡ ሞት፡ ሀበነ፡ ንሥሓ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ በእደ፡ ጻድቃን፡ ስድስቱ፨</l>
+            <l n="2">እምበአትከ፡ ላዕላይ፡ ያውርዱከ፡ ኀበ፡ ታሕቱ፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ አቡነ፡ ለክርስቶስ፡ መጋቤ፡ ቤቱ፨</l>
+            <l n="4">አንተኑ፡ በዓለ፡ መካልይ፡ ዐሠርቱ፨</l>
+            <l n="5">እንተ፡ ተሠየምከ፡ በአድባር፡ ሰብዓቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ተንሥአ፡ መድኅን፡ ተወኪፈከ፡ ዘአወፈይኩከ፡ ዘንተ፨</l>
+            <l n="2">አምኃ፡ ልሳንየ፡ ኃምሣ፡ ወዘይተሉ፡ ምእተ፨</l>
+            <l n="3">ጊዜ፡ አንበበ፡ ካህን፡ ዘትሬስዮ፡ ቅጽበተ፨</l>
+            <l n="4">ዘይፌውስ፡ ደዌ፡ ሕሙማን፡ ወዘያነሥእ፡ ምዉተ፨</l>
+            <l n="5">ለኅጡአ፡ ምግባር፡ ገብርከ፡ ሀበኒ፡ ዕሤተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለመጽአትከ፡ እምግብጽ፡ ክፍለ፡ ኤፍራታ፨</l>
+            <l n="2">ለኢትዮጵያ፡ ውስቴታ፨</l>
+            <l n="3">ተንሥአ፡ መድኅን፡ አቡነ፡ በረከተ፡ ኤልያስ፡ ዘሰራጵታ፨</l>
+            <l n="4">ሰውረነ፡ ለደቂቅከ፡ አመ፡ ይከውን፡ ሐተታ፨</l>
+            <l n="5">ወአመ፡ ታገብእ፡ ምድር፡ ዘነሥአት፡ ማሕፀንታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ተንሥአ፡ መድኅን፡ ምሉአ፡ በረከት፡ ወሣህል፨</l>
+            <l n="2">ከመ፡ ሐዋርያ፡ ዘጽድቅ፡ ማርይቆስ፡ ኀያል፨</l>
+            <l n="3">በጸሎትከ፡ ኲናት፡ ወዘሰይፍከ፡ ወንጌል፨</l>
+            <l n="4">ሰዐርከ፡ በኀይልከ፡ ጋኔነ፡ ዐመጻ፡ ወቀትል፨</l>
+            <l n="5">ዘለዘርአ፡ ብእሲ፡ አቀመ፡ መስገርቶ፡ ለሐጕል፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="tansea-madhen-d-asa">
+                <persName xml:lang="gez">ተንሥአ፡ መድኅን፡ ዘደብረ፡ ዓሣ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tanśəʾa Madḫən za-Dabra ʿĀśā</persName>
+                <persName xml:lang="en">Tanśəʾa Madḫən of Dabra ʿĀśā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

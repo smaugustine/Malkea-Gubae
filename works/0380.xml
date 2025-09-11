@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0380" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ውዕየተ፡ ዐፅሙ፡ ለጊዮርጊስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Wəʿyata ʿAḍmu la-Giyorgis</title>
+        <title corresp="#t1" xml:lang="en">Image of the Burning of the Bones of George</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0380/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለውዕየተ፡ ዐፅምከ፡ በትግርምተ፡ እሳት፡ ውዑይ፨</l>
+            <l n="2">ኀበ፡ ተጋብዑ፡ ደርገ፡ ሠራዊተ፡ ንጉሥ፡ ጊጉይ፨</l>
+            <l n="3">ጊዮርጊስ፡ ጳዝዮን፡ ዘአርአያከ፡ ልሑይ፨</l>
+            <l n="4">ይትሜነዮ፡ አጥርዮተከ፡ እምኵሉ፡ ንዋይ፨</l>
+            <l n="5">በሰፍሐ፡ ምድር፡ እለ፡ ሀለዉ፡ ወልዑል፡ ሰማይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለውዕየተ፡ ዐፅምከ፡ ዋዕየ፡ መከራ፡ ዘረከቦ፨</l>
+            <l n="2">ወለበድነ፡ ሥጋከ፡ ንጹሕ፡ አመ፡ ኀይለ፡ እሳት፡ አጽሐቦ፨</l>
+            <l n="3">ንጉሠ፡ አምልኮ፡ ጊዮርጊስ፡ አክሊለ፡ በረከት፡ ዘቦ፨</l>
+            <l n="4">መፍትው፡ ለከ፡ በይነዝ፡ ለቅኑይከ፡ ተተሀቦ፨</l>
+            <l n="5">ዘመነ፡ ፍሥሐ፡ ሕጡአ፡ ፍቅድ፡ ዘኃዘን፡ አልቦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለውዕየተ፡ ዐፅምከ፡ ሥርግወ፡ ነበልባል፡ ቅዳሴ፨</l>
+            <l n="2">ለፍልሰተ፡ ሥጋከኒ፡ በዓለ፡ ብዙኅ፡ ውዳሴ፨</l>
+            <l n="3">እስመ፡ ጊዮርጊስ፡ በጸጋ፡ አምላከ፡ ዓለም፡ ረምሴ፨</l>
+            <l n="4">አንተ፡ ውእቱ፡ ዳግማይ፡ ሙሴ፨</l>
+            <l n="5">አንተ፡ ለእስራኤል፡ መስፍኖሙ፡ አውሴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">በኀይልከ፡ ጊዮርጊስ፡ እምስካቦሙ፡ ተንሥኡ፨</l>
+            <l n="2">ሙታነ፡ ፸አሱሩ፡ ወሰብኡ፨</l>
+            <l n="3">አመ፡ መግነንጥዮን፡ ይቤ፡ ወዱድያኖስ፡ ካልኡ፨</l>
+            <l n="4">አአምን፡ በአምላክከ፡ በኀይሉ፡ ወበጽንዑ፨</l>
+            <l n="5">ሶበ፡ ምዉታን፡ ሕይወተ፡ አድምዑ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="george">
+                <persName xml:lang="gez">ጊዮርጊስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Giyorgis</persName>
+                <persName xml:lang="en">George</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

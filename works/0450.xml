@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0450" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብረ፡ ክርስቶስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabra Krəstos</title>
+        <title corresp="#t1" xml:lang="en">Image of Alexius</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0450/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ገብረ፡ ክርስቶስ፡ መናኔ፡ መርዐት፡ ወአገጽዎ፨</l>
+            <l n="2">ወሐውዘ፡ ዓለም፡ ዘኢያፍተዎ፨</l>
+            <l n="3">ፈጽሞ፡ ነገሩ፡ ኢክህሉ፡ እመ፡ ፈቀዱ፡ ለአለብዎ፨</l>
+            <l n="4">ሰላመ፡ መልክኡሰ፡ አንሰ፡ ከመ፡ እዜኑ፡ ዜንዎ፨</l>
+            <l n="5">ረትዐኒ፡ ጥቀ፡ እምጥንቱ፡ እትልዎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርተ፡ ርእስከ፡ ድሉል፨</l>
+            <l n="2">ለርእስከኒ፡ ዘክላሌሁ፡ ምስሐል፨</l>
+            <l n="3">ገብረ፡ ክርስቶስ፡ ብፁዕ፡ እንተ፡ ንእደከ፡ ወንጌል፨</l>
+            <l n="4">ከመ፡ እንግር፡ ኂሩተከ፡ ነፋሰ፡ ልባዌ፡ ወቃል፨</l>
+            <l n="5">በምድረ፡ ኅሊናየ፡ ትንፋሕ፡ ማርያም፡ ድንግል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለገጽከ፡ ወለቀራንብቲከ፡ ካዕበ፨</l>
+            <l n="2">ምስለ፡ አዕይትን፡ ወአእዛን፡ እለ፡ ይነብሩ፡ ቅሩበ፨</l>
+            <l n="3">ገብረ፡ ክርስቶስ፡ ባሕርይ፡ እንተ፡ አልብከ፡ ሐሳበ፨</l>
+            <l n="4">ጸውዐኒ፡ ለምስኪንከ፡ ጊዜ፡ ትገብር፡ ከብካበ፨</l>
+            <l n="5">ወእምጥበብከ፡ ሊተ፡ ሀበኒ፡ ጥበበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋከ፡ ሊቀ፡ ጳጳሳት፡ ዘገነዛ፨</l>
+            <l n="2">ለግንዘትከኒ፡ ወለመቃብሪከ፡ ገነተ፡ ዖዛ፨</l>
+            <l n="3">ገብረ፡ ክርስቶስ፡ ጽጌ፡ ወጼና፡ ስኂን፡ ዘጠረጴዛ፨</l>
+            <l n="4">ሶበ፡ አእመረት፡ ቃለ፡ ትእምርት፡ ወዘዚአከ፡ መዐዛ፨</l>
+            <l n="5">እፎ፡ በከየት፡ እምከ፡ መርኬዛ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">እንዘ፡ ኢያረትዕ፡ ቃለ፡ ወኢያእምር፡ ትርጓሜ፨</l>
+            <l n="2">ናሁ፡ አብጻሕኩ፡ ለመልክእከ፡ እስከ፡ ፍጻሜ፨</l>
+            <l n="3">ገብረ፡ ክርስቶስ፡ ጴጥሮስ፡ ወጳውሎስ፡ ዘብሔረ፡ ሮሜ፨</l>
+            <l n="4">ከመ፡ እጠንቅቅ፡ በተአምኖ፡ ምግባረ፡ ዐዚዝ፡ ሱላሜ፨</l>
+            <l n="5">ዓመተ፡ ትፍሥሕት፡ ሀበኒ፡ ወስከኒ፡ ዕድሜ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="alexius">
+                <persName xml:lang="gez">ገብረ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Gabra Krəstos</persName>
+                <persName xml:lang="en">Alexius</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

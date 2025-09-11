@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0422" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ንዒ፡ ማርያም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Nəʿi Māryām</title>
+        <title corresp="#t1" xml:lang="en">Come, Mary</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0422/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="GG144">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-144</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>151ra-152rc</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኣዐትብ፡ ነፍስየ፡ በኀይለ፡ ሃይማኖት፡ ዘነፍስ፨</l>
+            <l n="2">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፨</l>
+            <l n="3">ወበስምኪ፡ ማርያም፡ ማሕተመ፡ ቅድሳት፡ ሐዲስ፨</l>
+            <l n="4">ኢይቁም፡ ቅድመ፡ ገጽየ፡ እንተ፡ አማሰና፡ ለየብስ፨</l>
+            <l n="5">መንፈሰ፡ ሰይጣን፡ ወጋኔን፡ ርኩስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ንዒ፡ ኀቤየ፡ እምዐጸደ፡ ሰማይ፡ ጸናፊ፨</l>
+            <l n="2">ስእለትየ፡ ኵሎ፡ ከመ፡ ትትወከፊ፨</l>
+            <l n="3">ጠለ፡ ርኅራኄ፡ ወፍቅር፡ በላዕሌነ፡ ነፍንፊ፨</l>
+            <l n="4">ብዕልሰ፡ ዘበምድር፡ ኀላፊ፨</l>
+            <l n="5">ማርያም፡ ሊተ፡ ጽድቀኪ፡ አትርፊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1">ንዒ፡ ኀቤየ፡ ምስለ፡ ማኅበራንኪ፡ ሰብእ፨</l>
+            <l n="2">በኢየሩሳሌም፡ ዘላዕሉ፡ አስማቲሆሙ፡ ልኩእ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ አምጻኢተ፡ ተድላ፡ ወፍግዕ፨</l>
+            <l n="4">አስተበቍዐኪ፡ በስመ፡ ወልድኪ፡ ኅቡእ፨</l>
+            <l n="5">ከመ፡ ታቅንትኒ፡ ኀይለኪ፡ በጸብእ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ሶበ፡ አእምርኩ፡ ገሀደ፡ ከመ፡ ኢትፈቅዲ፡ ወርቀ፨</l>
+            <l n="2">አባእኩ፡ ለኪ፡ ፍሬ፡ ከናፍርየ፡ ሕቀ፨</l>
+            <l n="3">ማርያም፡ ሀብኒ፡ ወኢትበልኒ፡ ኀልቀ፨</l>
+            <l n="4">ዘየአክለኒ፡ በረከተ፡ አፉኪ፡ ስንቀ፨</l>
+            <l n="5">ከመ፡ እንተ፡ ብእሲ፡ ዘይነግድ፡ ብሔረ፡ ርኁቀ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mary">
+                <persName xml:lang="gez">ማርያም፡ ድንግል፡</persName>
+                <persName xml:lang="gez" type="normalized">Māryām Dəngəl</persName>
+                <persName xml:lang="en">Virgin Mary</persName>
+                <trait type="category"><desc>marian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

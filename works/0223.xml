@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0223" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዜና፡ ማርቆስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zenā Mārqos</title>
+        <title corresp="#t1" xml:lang="en">Image of Zenā Mārqos</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0223/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>26vc-30rb</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>141ra-143vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            <biblStruct type="thesis">
+              <analytic>
+                <title level="a">Appendix: Mälkǝ’a Mälkǝ’</title>
+                <author><name>Gezahegn Getachew</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">The Mälkǝ': Its Major Features and Source</title>
+                <author><name>Gezahegn Getachew</name></author>
+                <imprint>
+                  <pubPlace>Addis Ababa</pubPlace>
+                  <date>2000</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">29</citedRange>
+            </biblStruct>
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">305</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሕያው፡ ዘይሤለስ፡ በአካል፨</l>
+            <l n="2">እንተ፡ ፈጠረ፡ ዓለመ፡ ለዋሕድ፡ ኀይል፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ ጠቢብ፡ ሰባኬ፡ ቅዱስ፡ ወንጌል፨</l>
+            <l n="4">እስመ፡ አሕመመኒ፡ ሐጸ፡ ፍቅርከ፡ ሥሁል፨</l>
+            <l n="5">ለመልክእከ፡ በበ፡ ገጹ፡ ሰላም፡ እብል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ በሥምረተ፡ አምላክ፡ ዘኮነ፨</l>
+            <l n="2">ወለልደትከ፡ ብርሃን፡ እንተ፡ ከሠተ፡ አሚነ፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ ጴጥሮስ፡ ዘተወከይከ፡ ሥልጣነ፨</l>
+            <l n="4">ዘተአሥረ፡ በቃልከ፡ ይነሥእ፡ ደይነ፨</l>
+            <l n="5">ወዘፈታሕከ፡ እምኵነኔ፡ ይከውን፡ ድኁነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘኢይጸራዕ፡ እምአፍ፨</l>
+            <l n="2">ወዘኢይትአተት፡ ለዘልፍ፨</l>
+            <l n="3">በዐለ፡ ትርጓሜ፡ ሐዲስ፡ ዜና፡ ማርቆስ፡ መጽሐፍ፨</l>
+            <l n="4">ናሁ፡ ወጠንኩ፡ ዜንዎ፡ ዜና፡ ገልድከ፡ ትሩፍ፨</l>
+            <l n="5">አምጣነ፡ ሰከርኩ፡ በፍቅርከ፡ ጻእፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለከናፍሪከ፡ ዘበፍሥሓ፡ ያንሰሐስሓ፨</l>
+            <l n="2">ከመ፡ ይሰብሐ፡ ዘልፈ፡ ስመ፡ ፈጣሪ፡ ስቡሐ፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ ዮሐንስ፡ ሰባኬ፡ ጥምቀት፡ ወንሥሓ፨</l>
+            <l n="4">ኃጥእት፡ ነፍሰ፡ ዚአየ፡ እስከ፡ ትኔስሕ፡ ጽንሐ፨</l>
+            <l n="5">እስመ፡ ጌጋይ፡ ፈድፈደ፡ ወበዝኀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለአፉከ፡ ዘመሀረ፡ ጽድቀ፨</l>
+            <l n="2">ለብእሲ፡ አፍአዊ፡ እምነ፡ ሃይማኖት፡ ዘርኅቀ፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ ምስሌየ፡ እንተ፡ ትከውን፡ ልጹቀ፨</l>
+            <l n="4">አለብወኒ፡ እግዚኦ፡ ወመሀረኒ፡ ጥዩቀ፨</l>
+            <l n="5">ጸዋትወ፡ ኵሉ፡ ነገር፡ ወምክረ፡ ዕሙቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ እብል፡ በሰጊድ፡ ወበተጋንዮ፨</l>
+            <l n="2">ለኵልያቲከ፡ አንቅዕተ፡ ኀልዮ፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ ዘትቀንት፡ ኤፉደ፡ ጸሎት፡ ወአስተሥርዮ፨</l>
+            <l n="4">ርጢነ፡ ጽድቅከ፡ ለሰብእናየ፡ አጥእዮ፨</l>
+            <l n="5">እስመ፡ ኀጢአት፡ ፈድፉደ፡ አድወዮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ሰላም፡ እብል፡ በሰጊድ፡ ወእማኄ፨</l>
+            <l n="2">ለአማዑቲከ፡ ሥርግው፡ በወርቀ፡ ርኅራኄ፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ ዘትጼኑ፡ እምነ፡ አፈው፡ ወርሔ፨</l>
+            <l n="4">ሶበ፡ ረሰይከ፡ ህላዌከ፡ ጾላዕተ፡ ድኩም፡ ግሔ፨</l>
+            <l n="5">ዜና፡ ዝክርከ፡ ተሰምዐ፡ ኵለሄ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ በየማነ፡ ቅዱስ፡ ምሥዋዕ፨</l>
+            <l n="2">ኀበ፡ ይቀውማ፡ እገሪሁ፡ ለሊቀ፡ ካህናት፡ ቅቡእ፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ ሀበኒ፡ ዘመነ፡ ተድላ፡ ወፍግዕ፨</l>
+            <l n="4">እስመ፡ ሰባሕኩከ፡ በኍልቈ፡ ሱባዔ፡ ሳብዕ፨</l>
+            <l n="5">እንዘ፡ ሕጹጸ፡ ልብ፡ አነ፡ እምኵሎሙ፡ ሰብእ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">በዝንቱ፡ ቃለ፡ ማሕሌት፡ ለዘይስእለከ፡ ብእሲ፨</l>
+            <l n="2">እማዕምቀ፡ ልቡ፡ ወነፍሱ፡ እንዘ፡ ጽድቀከ፡ ኀሣሢ፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ እግዚእ፡ መጽደቄ፡ ኃጥእ፡ ወአባሲ፨</l>
+            <l n="4">ዘገብረ፡ ውስተ፡ ዓለም፡ ጌጋያቲሁ፡ አናሕሲ፨</l>
+            <l n="5">ወፀአተ፡ ነፍሱ፡ እምሥጋ፡ በሰላም፡ ረሲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ስብሐት፡ ለእግዚአብሔር፡ ዘይሜግብ፡ ፍጥረታት፨</l>
+            <l n="2">ስብሐተ፡ መልክእከ፡ ኵሎ፡ ዘአፈጸመኒ፡ ሊተ፨</l>
+            <l n="3">ዜና፡ ማርቆስ፡ ተወከፍ፡ ብፅዐታትየ፡ እሎንተ፨</l>
+            <l n="4">ከመ፡ ተወክፈ፡ እግዚእነ፡ ጸራይቀ፡ ብእሲት፡ ክልኤተ፨</l>
+            <l n="5">እምእለ፡ አብኡ፡ ብዙኀ፡ ዐሥራተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="zena-marqos">
+                <persName xml:lang="gez">ዜና፡ ማርቆስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Zenā Mārqos</persName>
+                <persName xml:lang="en">Zenā Mārqos</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">200</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

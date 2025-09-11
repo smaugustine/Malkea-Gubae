@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IES1016" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MS IES 1016</title>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <msDesc>
+
+          <msIdentifier>
+            <settlement>ʾAddis ʾAbabā</settlement>
+            <repository>Institute for Ethiopian Studies</repository>
+            <idno>1016</idno>
+          </msIdentifier>
+
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc>
+                <support>
+                  <material key="parchment"/>
+                </support>
+                <extent>
+                  <measure unit="leaf">41</measure>
+                  <dimensions type="outer" unit="mm">
+                    <height>86</height>
+                    <width>70</width>
+                  </dimensions>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1" writtenLines="11"/> 
+              </layoutDesc>
+            </objectDesc>
+          </physDesc>
+
+          
+          <msPart n="1">
+            <msIdentifier/>
+
+            <msContents>
+              <summary/>
+
+              
+              
+              <msItem n="1">
+                
+                <locus facs="3">2r-23v</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="4551" corresp="https://w3id.org/malke/4551/">
+                  <title xml:lang="gez">መልክአ፡ ላሊበላ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Lālibalā</title>
+                  <title xml:lang="en">Image of Lālibalā</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="2">
+                
+                <locus facs="25">24r-31r</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="0219" corresp="https://w3id.org/malke/0219/">
+                  <title xml:lang="gez">መልክአ፡ ይምርሐነ፡ ክርስቶስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Yəmrəḥanna Krəstos</title>
+                  <title xml:lang="en">Image of Yəmrəḥanna Krəstos</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="3">
+                
+                <locus facs="33">31v-40v</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2834" corresp="https://w3id.org/malke/2834/">
+                  <title xml:lang="gez">መልክአ፡ ነአኵቶ፡ ለአብ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Naʾakkʷəto Laʾab</title>
+                  <title xml:lang="en">Image of Naʾakkʷəto Laʾab</title>
+                </title>
+                
+              </msItem>
+              
+
+            </msContents>
+
+          </msPart>
+          
+
+        </msDesc>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  
+  <facsimile source="https://eap.bl.uk/archive-file/EAP286-1-1-133/manifest?manifest=https://eap.bl.uk/archive-file/EAP286-1-1-133"/>
+  
+  <text>
+
+    <body>
+      <ab/>
+    </body>
+
+  </text>
+</TEI>

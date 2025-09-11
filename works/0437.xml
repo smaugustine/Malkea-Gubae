@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0437" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዞሲማስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zosimās</title>
+        <title corresp="#t1" xml:lang="en">Image of Zosimās</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0437/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">307</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ሰላመ፡ መልክእከ፡ ጥዑም፨</l>
+            <l n="2">በኀይለ፡ ኢየሱስ፡ ክርስቶስ፡ ሠዋቄ፡ ደራሲ፡ ድኩም፨</l>
+            <l n="3">ዞሲማስ፡ ሐዋርያ፡ ዐርከ፡ ማቴዎስ፡ አዳም፨</l>
+            <l n="4">አመ፡ ሖርከ፡ ዮርዳኖሰ፡ ገዳመ፡ ብሕትዋን፡ በጾም፨</l>
+            <l n="5">ተዳደቀ፡ ምስሌሃ፡ ለግብጻዊት፡ ማርያም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እንተ፡ ተለዐለ፡ ዕበዩ፨</l>
+            <l n="2">እምገድለ፡ ቅዱሳን፡ አበው፡ ዘሥጋሆሙ፡ አንደዩ፨</l>
+            <l n="3">ገብረ፡ መንፈስ፡ ቅዱስ፡ ዞሲማስ፡ ለለ፡ ስመከ፡ ሰመዩ፨</l>
+            <l n="4">አብኦሙ፡ ብሔረ፡ ጻድቃን፡ ወምድረ፡ ብፁዓን፡ ዘጐዩ፨</l>
+            <l n="5">እምነ፡ ኀጢአት፡ ነምር፡ ዘሕሡም፡ ራእዩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="40">
+            
+            <l n="1">ሰላም፡ ለትንሣኤከ፡ ሥጋከ፡ አመ፡ ይከውን፡ ሐተታ፨</l>
+            <l n="2">በየማነ፡ አምላክ፡ ዘይቀውም፡ ምስለ፡ ነፍሰ፡ ጻድቃን፡ ጣቢታ፨</l>
+            <l n="3">ዲዲሞስ፡ ዞሲማስ፡ ስሙየ፡ ዘቶማስ፡ መንታ፨</l>
+            <l n="4">ነፍስነ፡ ግብጻዊት፡ ከመ፡ ኢትንበር፡ ባሕቲታ፨</l>
+            <l n="5">በመንግሥተ፡ ሰማይ፡ ምስሌከ፡ አስተዛውግ፡ ሕይወታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">ህየንተ፡ አርብዓ፡ ዓመት፡ በዊአከ፡ ቀኖና፨</l>
+            <l n="2">ወበይነ፡ ብሔረ፡ ብፁዓን፡ ዘጾምከ፡ ወአምጻእከ፡ ዜና፨</l>
+            <l n="3">ድርሳነ፡ መልክእከ፡ ሐለይኩ፡ ኊልቈ፡ አርብዓ፡ ይኩና፨</l>
+            <l n="4">ተወከፍ፡ ጸሎትየ፡ ወማኅሌትየ፡ ዕሪና፨</l>
+            <l n="5">ከመ፡ ተወክፈ፡ ፈጣሪከ፡ ጸሎታ፡ ለሐና፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="zosimas">
+                <persName xml:lang="gez">ዞሲማስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Zosimās</persName>
+                <persName xml:lang="en">Zosimās</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

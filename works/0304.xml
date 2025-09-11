@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0304" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ ወንጌላዊ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Wangelāwi</title>
+        <title corresp="#t1" xml:lang="en">Image of John the Evangelist</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0304/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ ኢየሱስ፡ ክርስቶስ፡ እግዚእየ፡ ወአምላኪየ፨</l>
+            <l n="2">ወበስመ፡ ማርያም፡ ድንግል፡ ቃውመ፡ ነፍስየ፡ ወሥጋየ፨</l>
+            <l n="3">ማሕሌተ፡ ሰላም፡ ወጠንኩ፡ በስመ፡ ዚአከ፡ ፀሓየ፨</l>
+            <l n="4">ዮሐንስ፡ ለዕበይከ፡ እንዘ፡ ኣቄርብ፡ ግናየ፨</l>
+            <l n="5">ሠናየ፡ ቃለ፡ ጐሥዐ፡ ልብየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እምቅድመ፡ ፀሓይ፡ ዘሀሎ፨</l>
+            <l n="2">በኅሊና፡ አምላክ፡ ተሥዒሎ፨</l>
+            <l n="3">ረኣዬ፡ ኅቡኣት፡ ዮሐንስ፡ ሥርግወ፡ ዕበይ፡ ወተድንግሎ፨</l>
+            <l n="4">ሕገ፡ ተናበብከ፡ ለእግዚአብሔር፡ ወንጌሎ፨</l>
+            <l n="5">አንብበኒ፡ ሊተ፡ ውዳሴከ፡ ኵሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለፍልሰትከ፡ በልብሰተ፡ ሥጋ፡ ወደም፨</l>
+            <l n="2">ሕያወከ፡ ትንብር፡ ውስተ፡ አርያም፨</l>
+            <l n="3">ዮሐንስ፡ ግንግል፡ ወርቀ፡ ጳሩሄም፡ አዳም፨</l>
+            <l n="4">ባልሐኒ፡ እምላህበ፡ ደዌ፡ በትንባሌከ፡ ቃውም፨</l>
+            <l n="5">አስተበቍዐከ፡ ብእሲ፡ ድኩም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">አምኃ፡ ማሕሌት፡ ኅዳጠ፡ ቅድመ፡ ገጸ፡ አእላፍ፡ እንግልጋ፨</l>
+            <l n="2">እምዚአከ፡ ለከ፡ እንበይነ፡ ዘአቅረብኩ፡ እንበለ፡ ንትጋ፨</l>
+            <l n="3">ሠራዊተ፡ ሰማይ፡ ዘላዕሉ፡ ወደቂቀ፡ ዓለም፡ ልቡሳነ፡ ሥጋ፨</l>
+            <l n="4">ዮሐንስ፡ ለዕበይከ፡ እስከ፡ ያነክሩ፡ ሕጋ፨</l>
+            <l n="5">ህየንተ፡ ጸጋ፡ በዲበ፡ ጸጋ፡ ዕሥየኒ፡ ጸጋ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="john-evangelist">
+                <persName xml:lang="gez">ዮሐንስ፡ ወንጌላዊ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannəs Wangelāwi</persName>
+                <persName xml:lang="en">John the Evangelist</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

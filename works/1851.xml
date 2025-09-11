@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe1851" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሕማማቲሁ፡ ለክርስቶስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Ḥǝmāmātihu la-Krǝstos</title>
+        <title corresp="#t1" xml:lang="en">Image of the Sufferings of Christ</title>
+        
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ሕማማት፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkǝʾa Ḥǝmāmāt</title>
+        <title corresp="#t2" xml:lang="en">Image of the Sufferings</title>
+        
+        <title xml:id="t3" xml:lang="gez">መልክአ፡ ሕማማተ፡ መስቀል፡</title>
+        <title corresp="#t3" xml:lang="gez" type="normalized">Malkǝʾa Ḥǝmāmāta Masqal</title>
+        <title corresp="#t3" xml:lang="en">Image of the Sufferings of the Cross</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/1851/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ማርያም፡ ስብሕት፡ ቅስተ፡ መሐላሁ፡ ለኖኅ፨</l>
+            <l n="2">ውስተ፡ ገጸ፡ ምድር፡ ዳግመ፡ እምደመና፡ ላህ፨</l>
+            <l n="3">ኢያንጠብጥብ፡ ዝናመ፡ አይኅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ማርያም፡ ጎሞር፡ ወላዲተ፡ ክርስቶስ፡ መና፨</l>
+            <l n="2">እንበለ፡ ሩካቤ፡ ወዘርዕ፡ በድንግላ፨</l>
+            <l n="3">በገዳም፡ በሐቅለ፡ ሲና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="139">
+            
+            <l n="1">ስብሐት፡ ለክሙ፡ ትእዛዘ፡ ቃልክሙ፡ ይኩን፡ አምጣነ፡ ብሕልር፡ መስየ፨</l>
+            <l n="2">ጸላኢ፡ ኢይባዕ፡ ውስተ፡ ቤትየ፨</l>
+            <l n="3">ሥላሴ፡ ዘከሐ፡ ሥላሴ፡ ዘዝየ፨</l>
+            <l n="4">በሰላም፡ ኅድሩ፡ ምስሌየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="140">
+            
+            <l n="1">ስብሐት፡ ለእግዚአብሔር፡ ኪያነ፡ ዘፈጠረ፡ ከመ፡ ናምልኮ፨</l>
+            <l n="2">ስብሐት፡ ለማርያም፡ እመ፡ አምላክ፡ እግዝእትነ፡ ወመድኃኒትነ፨</l>
+            <l n="3">ስብሐት፡ ለመስቀለ፡ ክርስቶስ፡ ዕፀ፡ መድኃኒት፡ ኀይልነ፡ ወጸወንነ፨</l>
+            <l n="4"></l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በፈቃደ፡ አቡሁ፡ ወበሥምረተ፡ ርእሱ፡ አመ፡ ርእሶ፡ ይሰቀል፨</l>
+            <l n="2">ወአመ፡ ተአገሠ፡ ወልድ፡ ሐፃውንተ፡ ቅዱስ፡ መስቀል፨</l>
+            <l n="3">ሶበ፡ ሰማዕኪ፡ ማርያም፡ ዘነገሩኪ፡ በቃል፨</l>
+            <l n="4">ዘውሕዘ፡ እምአዕይንትኪ፡ ከመ፡ ማየ፡ ክረምት፡ ዘይፈለፍል፨</l>
+            <l n="5">ድንግል፡ ድንግል፡ ወላዲተ፡ አምላክ፡ ልዑል፨</l>
+            <l n="6">ይኩነኒ፡ ቤዛ፡ ማየ፡ አንብዕኪ፡ እምሀጕል፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ሄኖክ_ወልደ_ሚካኤል" corresp="http://zotero.org/groups/5599348/items/JBRF6LRT"><monogr><title level="m">መልክዐ ጉባኤ</title><editor><name>ሄኖክ ወልደ ሚካኤል</name></editor><imprint><date>፳፻፲ ዓ/ም</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>

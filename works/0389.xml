@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0389" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መልአከ፡ ዑቃቤ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Malʾaka ʿUqābe</title>
+        <title corresp="#t1" xml:lang="en">Image of the Guardian Angel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0389/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ አሐዱ፡ አምላክ፡ ሠራዒ፨</l>
+            <l n="2">ሥነ፡ ሠርጐ፡ ሰማይ፡ ወምድር፡ ወስእለተ፡ ኵሉ፡ ሰማዒ፨</l>
+            <l n="3">መልአከ፡ ዑቃቤ፡ ዘትሬኢ፡ ወዘኢታስተርኢ፨</l>
+            <l n="4">ይትመላህ፡ ቅድመ፡ ገጽየ፡ ሰይፈ፡ እዴከ፡ በላዒ፨</l>
+            <l n="5">ዘንተ፡ ርእዮ፡ ለይኅፍር፡ ጸላኢ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለተፈጥሮትከ፡ ከመ፡ ነገረ፡ ቃለ፡ መጽሐፍ፨</l>
+            <l n="2">ዘኢይትነገር፡ ኩነቱ፡ ወክዋኔሁ፡ ዘዘልፍ፨</l>
+            <l n="3">መልአከ፡ ዑቃቤየ፡ አጽድል፡ ገጸ፡ ዚአየ፡ በክንፍ፨</l>
+            <l n="4">ከመ፡ በብርሃን፡ አጽደለ፡ ሥነ፡ ገጸ፡ ሙሴ፡ ግዙፍ፨</l>
+            <l n="5">እስከ፡ ነጽሮቶ፡ ኢክህሉ፡ እስራኤል፡ አእላፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርትከ፡ ድሉል፨</l>
+            <l n="2">ወለርእስከ፡ ሰላም፡ ተቀጻሊ፡ ብሩህ፡ አክሊል፨</l>
+            <l n="3">መልአከ፡ ዑቃቤየ፡ ነዓ፡ እንዘ፡ ትረውጽ፡ በኀይል፨</l>
+            <l n="4">አመሐልኩከ፡ በጸሎታ፡ ለማርያም፡ ድንግል፨</l>
+            <l n="5">ከመ፡ ትዕቀበኒ፡ እመንሱት፡ ወሀጕል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">ሰላም፡ ለአጻብዒከ፡ ወለአጽፋሪከ፡ ጽዕድዋን፨</l>
+            <l n="2">ወለቆምከ፡ ዓዲ፡ ሠናየ፡ መልክእ፡ ወሥን፨</l>
+            <l n="3">መልአከ፡ ዑቃቤ፡ ምስሌየ፡ እንዘ፡ ትቀውም፡ በይምን፨</l>
+            <l n="4">አብሰረኒ፡ ብስራተ፡ ጽድቅ፡ እንተ፡ አልቦቱ፡ ኀዘን፨</l>
+            <l n="5">ለዘካርያስ፡ ከመ፡ አብሰርኮ፡ ብስራተ፡ በእዝን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለመልክእከ፡ ክሡተ፨</l>
+            <l n="2">ለለ፡ አሐዱ፡ አሐዱ፡ እንዘ፡ አተሉ፡ ክልኤተ፨</l>
+            <l n="3">መልአከ፡ ዑቃቤየ፡ ነዓ፡ እንዘ፡ ትተሉ፡ ድኅሪተ፨</l>
+            <l n="4">ወኢትትፈለጥ፡ እምኔየ፡ መዓልተ፡ ወሌሊተ፨</l>
+            <l n="5">አምጣነ፡ ምክሕየ፡ ወተስፋየ፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ከመ፡ ጠለ፡ አርሞንኤም፡ ዘይወርድ፡ እምአድባረ፡ ጽዮን፡ ላዕላዊት፨</l>
+            <l n="2">ጠለ፡ ፍቅረ፡ ዚአየ፡ ይረድ፡ ዲበ፡ ልበ፡ ኵሉ፡ ፍጥረት፨</l>
+            <l n="3">መልአከ፡ ዑቃቤ፡ ቅብአኒ፡ ቅብአ፡ ቀርነ፡ ሐዋዝ፡ ዕፍረት፨</l>
+            <l n="4">በከመ፡ ቀብኦ፡ ሳሙኤል፡ ሊቀ፡ ካህናት፨</l>
+            <l n="5">ቅብአ፡ ፯ቱ፡ ሀብታት፡ ለንጉሥ፡ ዳዊት፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="guardian-angel">
+                <persName xml:lang="gez">መልአከ፡ ዑቃቤ፡</persName>
+                <persName xml:lang="gez" type="normalized">Malʾaka ʿUqābe</persName>
+                <persName xml:lang="en">The Guardian Angel</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0460" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብረ፡ ዮሐንስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gabra Yoḥannəs</title>
+        <title corresp="#t1" xml:lang="en">Image of Gabra Yoḥannəs</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0460/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">99b</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ገብረ፡ ዮሐንስ፡ ለመልክእከ፡ ማሕሌቶ፨</l>
+            <l n="2">ለእግዚአብሔር፡ አምላክ፡ እንዘ፡ ኣቀድም፡ አእኵቶቶ፨</l>
+            <l n="3">እስከ፡ እፌጽም፡ ኪያሁ፡ ወእሰብክ፡ አምሳለ፡ ቲቶ፨</l>
+            <l n="4">ዘያሴስል፡ እምኅሊናየ፡ ለንዋመ፡ ሀሌት፡ ሙቀቶ፨</l>
+            <l n="5">ለመንቅሒ፡ አልባብ፡ ጰራቅሊጦስ፡ ሀበኒ፡ ንቅሐቶ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘይጥዕም፡ እምጣዕመ፡ መና፨</l>
+            <l n="2">ወያስተፌሥሕ፡ ፈድፋደ፡ እምወይነ፡ ትፍሥሕት፡ ዘቃና፨</l>
+            <l n="3">ገብረ፡ ዮሐንስ፡ ጻድቅ፡ መፍቀሬ፡ ጸሎት፡ ወጽሙና፨</l>
+            <l n="4">አስትየኒ፡ ስቴ፡ ጥበብ፡ እንተ፡ ያጐስእ፡ ልቡና፨</l>
+            <l n="5">ነገረ፡ ውዳሴከ፡ እስብክ፡ ወእዜኑ፡ ዜና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ ለትንሣኤከ፡ ለእመ፡ ፍጡራን፡ እማሕፀና፨</l>
+            <l n="2">በስብሐት፡ ወክብር፡ አመ፡ ሰማያት፡ ይረስና፨</l>
+            <l n="3">ዜና፡ ጽድቅከ፡ እዜኑ፡ ገብረ፡ ዮሐንስ፡ እንጦና፨</l>
+            <l n="4">ተሐውር፡ በኀይለ፡ መንፈስ፡ እስከ፡ ውሳጤሃ፡ ለጻና፨</l>
+            <l n="5">ወኢየሩሳሌም፡ ትበጽሕ፡ ለብሩህ፡ ደመና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">በዝንቱ፡ ማሕሌተ፡ መልክእከ፡ እምስርወ፡ ልቡ፡ ወኅሊናሁ፨</l>
+            <l n="2">ሶበ፡ ይስእለከ፡ ትኩዝ፡ ወይጼውዐከ፡ በአፉሁ፨</l>
+            <l n="3">ገብረ፡ ዮሐንስ፡ ብጽሖ፡ ፍጡነ፡ ለኑዛዜሁ፨</l>
+            <l n="4">ወበሎ፡ አስጣዌ፡ ቃል፡ እንዘ፡ ትቀውም፡ ቅድሜሁ፨</l>
+            <l n="5">ፈጸምኩ፡ ስእለተከ፡ ወሰለጥኩ፡ ናሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">ለኬጥሮ፡ ጋውሎስ፡ ምሉእ፡ ሶበ፡ ሐልቀ፡ ምዝር፡ ዘውስቴቱ፨</l>
+            <l n="2">ገብረ፡ ዮሐንስ፡ በረከተከ፡ በከመ፡ መላእከ፡ ቦቱ፨</l>
+            <l n="3">በረከተከ፡ ዓሣት፡ ክልኤ፡ ወኅብስተ፡ ትእምርት፡ ኃምስቱ፨</l>
+            <l n="4">ምላእ፡ ውስተ፡ ደብርከ፡ ወዲበ፡ ጉባኤነ፡ ዝንቱ፨</l>
+            <l n="5">በነሢአ፡ ጸጋከ፡ አብያቲነ፡ በሰላም፡ ንእቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="gabra-yohannes">
+                <persName xml:lang="gez">ገብረ፡ ዮሐንስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Gabra Yoḥannəs</persName>
+                <persName xml:lang="en">Gabra Yoḥannəs</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

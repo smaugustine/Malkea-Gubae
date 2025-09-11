@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0444" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ወልደ፡ ሩፋኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Walda Rufāʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Walda Rufāʾel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0444/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">272</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ወለልደትከ፡ እማሕፀን፨</l>
+            <l n="2">በእሳት፡ ሠናይ፡ ወበሣህላዊ፡ ዘመን፨</l>
+            <l n="3">ሕፃነ፡ ኢያሱ፡ ንጉሥ፡ ወልደ፡ ሩፋኤል፡ መስፍን፨</l>
+            <l n="4">ተደለውከ፡ ለአሠንዮ፡ ሕንጻ፡ ቤተ፡ ክርስቶስ፡ መድኅን፨</l>
+            <l n="5">በብሩር፡ ወወርቅ፡ ዘአልቦ፡ ወሰን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘበኀበ፡ ኵሉ፡ ተጸውዐ፨</l>
+            <l n="2">ወበውስተ፡ ኵሉ፡ ተሰምዐ፨</l>
+            <l n="3">ወልደ፡ ሩፋኤል፡ መርዓዊ፡ ዘነበርከ፡ በቤተ፡ መርዓ፨</l>
+            <l n="4">ነዓ፡ ነዓ፡ ውስተ፡ ቤተ፡ አምላክ፡ ነዓ፨</l>
+            <l n="5">ለደቂቀ፡ ዛቲ፡ ደብርከ፡ ትኩነነ፡ መርድዐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለገጽከ፡ ዘቅብአ፡ መንፍሥት፡ ቅቡእ፨</l>
+            <l n="2">ወያስተፌሥሕ፡ ለሰብእ፨</l>
+            <l n="3">ወልደ፡ ሩፋኤል፡ አቤል፡ ሠዋዔ፡ ምጽዋት፡ በግዕ፨</l>
+            <l n="4">ዕቀበኒ፡ በኪዳንከ፡ ለብእሲ፡ ኃጥእ፨</l>
+            <l n="5">ኀይለ፡ ኪዳንከ፡ አምላካዊ፡ አኮኑ፡ ጽኑዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለአፉከ፡ ዘጣዕመ፡ ነገሩ፡ ውዱስ፨</l>
+            <l n="2">እንዘ፡ ቅድመ፡ ኵሉ፡ ይትናገር፡ ነገረ፡ ኅድአት፡ ወመርስ፨</l>
+            <l n="3">ወልደ፡ ሩፋኤል፡ ዮሐንስ፡ ፍቁረ፡ እግዚእ፡ ክርስቶስ፨</l>
+            <l n="4">ለኵሎሙ፡ እለ፡ ሀለዉ፡ በኢትዮጵያ፡ ሐዳስ፨</l>
+            <l n="5">አንተ፡ መኰንን፡ ወአንተ፡ ንጉሥ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">ሰላም፡ ለኵልያቲከ፡ ፍጹመ፡ እለ፡ ተፈትኑ፨</l>
+            <l n="2">ለእሳተ፡ ጥበብ፡ በርስኑ፨</l>
+            <l n="3">ወልደ፡ ሩፋኤል፡ ዘአንተ፡ ለኢትዮጵያ፡ መስፍኑ፨</l>
+            <l n="4">መኑ፡ በኂሩትከ፡ ዘይመስለከ፡ መኑ፨</l>
+            <l n="5">እንበለ፡ ቀዳማይ፡ አብርሃም፡ ዘነዊኅ፡ ዘመኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ መቃብረ፡ አበው፡ ነገሥት፨</l>
+            <l n="2">ውስተ፡ ደብረ፡ ቍስቋም፡ ቅድስት፨</l>
+            <l n="3">እንዘ፡ መቃብሪከ፡ ዝየ፡ ውስተ፡ ቀራንዮ፡ ሕንጽት፨</l>
+            <l n="4">መፍትው፡ ለነ፡ ትትመየጠነ፡ ዐይነ፡ ሥጋከ፡ ብርህት፨</l>
+            <l n="5">እግዚእነ፡ በጸሎትከ፡ ዘአልቦ፡ ጽልሁት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ እምሀገረ፡ ከሃ፡ ኀቤነ፨</l>
+            <l n="2">ከመ፡ ተሰፈውነ፨</l>
+            <l n="3">ወልደ፡ ሩፋኤል፡ ዘኮንከ፡ እንዘ፡ ወላዲ፡ መካነ፨</l>
+            <l n="4">ኢህለወ፡ ዐፅመ፡ ሥጋከ፡ ዘያመጽእ፡ ለነ፨</l>
+            <l n="5">ባሕቱ፡ ቃለ፡ ፈጣሪ፡ ኢነአምር፡ ንሕነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="53">
+            
+            <l n="1">ስብሐት፡ ለአብ፡ ዘአፈጸመነ፡ በአቅም፨</l>
+            <l n="2">ድርሳነ፡ መልክእኡ፡ ለኄር፡ ወልደ፡ ሩፋኤል፡ ቃውም፨</l>
+            <l n="3">ወስብሐት፡ ለወልድ፡ መድኃኔ፡ ኵሉ፡ ዓለም፨</l>
+            <l n="4">ወስብሐት፡ ልወሕይወቶሙ፡ ዘምስለ፡ ማርያም፡ እም፨</l>
+            <l n="5">ለመስቀልኒ፡ በሰጊድ፡ ሰላም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="54">
+            
+            <l n="1">ስብሐት፡ ለእግዚአብሔር፡ መኅዳኔ፡ ዓዸም፡ ኵላ፨</l>
+            <l n="2">ለሰንበተ፡ ክርስቲያን፡ እንተ፡ አልዐላ፨</l>
+            <l n="3">ወልደ፡ ሩፋኤል፡ መሲሕ፡ ዘበርእስከ፡ ቀጸላ፨</l>
+            <l n="4">አዝዝ፡ ለነ፡ እግዚኦ፡ በቃለ፡ ጽኑዕ፡ መሐላ፨</l>
+            <l n="5">ዘከማከ፡ ይከውነነ፡ ሕፃነከ፡ ተድላ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ወልደ፡ ሩፋኤል፡ ወይን፨</l>
+            <l n="2">እንተ፡ ሤሙከ፡ በቀርን፨</l>
+            <l n="3">መገብተ፡ ኵሉ፡ ፍጥረት፡ ሥላሴ፡ ኄራን፨</l>
+            <l n="4">ታጸግብ፡ ዘልፈ፡ ከርሠ፡ ነዳያን፡ ወታረዊ፡ ለጽሙኣን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ወልደ፡ ሩፋኤል፡ መጽሐፍ፨</l>
+            <l n="2">ዘከሠቱከ፡ አእላፍ፨</l>
+            <l n="3">ወዘአንበቡከ፡ በልሳን፡ ወአፍ፨</l>
+            <l n="4">እንዘ፡ ይብሉ፡ ቀታሌ፡ እልፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ ወልደ፡ ሩፋኤል፡ ዳግመ፡ ለቤተ፡ ክርስቲያን፡ ሰአላ፨</l>
+            <l n="2">እንዘ፡ ታክብራ፡ ወታሌዕላ፨</l>
+            <l n="3">ከመ፡ ቀዳሚሃ፡ በጥንተ፡ አካላ፨</l>
+            <l n="4">ወግበር፡ ዲበ፡ ርእሳ፡ እንተ፡ ወርቅ፡ ቀጸላ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="walda-rufael">
+                <persName xml:lang="gez">ወልደ፡ ሩፋኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Walda Rufāʾel</persName>
+                <persName xml:lang="en">Walda Rufāʾel</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

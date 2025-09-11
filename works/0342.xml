@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0342" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሳሙኤል፡ ዘዋልድባ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Sāmuʾel za-Wāldǝbbā</title>
+        <title corresp="#t1" xml:lang="en">Image of Sāmuʾel of Wāldǝbbā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0342/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">229</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ስምዐኒ፡ ብሂል፨</l>
+            <l n="2">እምአፈ፡ ነቢይት፡ ሐና፡ እንዘ፡ እዝነ፡ እግዚአብሔር፡ ልዑል፨</l>
+            <l n="3">ኮከበ፡ ገዳም፡ ሳሙኤል፡ ዘውገ፡ ሚካኤል፨</l>
+            <l n="4">ሀበኒ፡ ኀይለ፡ ለፍጻሜ፡ በሞገሰ፡ ንባብ፡ ወቃል፨</l>
+            <l n="5">ውዳሴ፡ ዚአከ፡ ዘሥርው፡ በሣህል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ወለገጽከ፡ ስቡሕ፨</l>
+            <l n="2">ለቀራንብቲከ፡ ክልኤ፡ ወለዐይንከ፡ ፍሡሕ፨</l>
+            <l n="3">ገዳማዊ፡ ሳሙኤል፡ መግረሬ፡ አንበሳ፡ መፍርህ፨</l>
+            <l n="4">ሚካኤል፡ ቅድሜከ፡ ፍና፡ ጽድቅ፡ እንዘ፡ ይመርሕ፨</l>
+            <l n="5">ሐውጸኒ፡ በረድኤት፡ ወምሕረት፡ ብዙኅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ መቃብረ፡ ጻድቃን፡ ዘኮነ፨</l>
+            <l n="2">ለዘዓለመ፡ ኀደገ፡ ወለዘመንግሥቶ፡ መነነ፨</l>
+            <l n="3">ላዕለ፡ ታቦተ፡ ሕግ፡ ሳሙኤል፡ ዘተሰመይከ፡ ካህነ፨</l>
+            <l n="4">ሥነ፡ ስብሐቲከ፡ እንዘ፡ ይትሜሰል፡ ብርሃነ፨</l>
+            <l n="5">ሰማየ፡ ሰማየ፡ ወሰማያተ፡ ከደነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">እስመ፡ አቅረብኩ፡ ስብሐተ፡ ለመልክእከ፡ አምጣነ፡ ብየ፡ ልቡና፨</l>
+            <l n="2">በእንተ፡ ማርያም፡ ድንግል፡ ወዕፀ፡ ትእምርት፡ ዘደብረ፡ ሲና፨</l>
+            <l n="3">ሳሙኤል፡ ምርሐኒ፡ ገዳመ፡ ጸሎት፡ ወጽሙና፨</l>
+            <l n="4">ለወለተ፡ ከልብ፡ ዘመራሕካ፡ በፍና፨</l>
+            <l n="5">እስከነ፡ ግብራ፡ ተበፅዐ፡ ወኮነ፡ ለዜና፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="samuel-waldebba">
+                <persName xml:lang="gez">ሳሙኤል፡ ዘዋልድባ፡</persName>
+                <persName xml:lang="gez" type="normalized">Sāmuʾel za-Wāldǝbbā</persName>
+                <persName xml:lang="en">Sāmuʾel of Wāldǝbbā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">138</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

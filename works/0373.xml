@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0373" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፊልሞና፡ ዘደብረ፡ ባርታርዋ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Filmonā za-Dabra Bārtārwā</title>
+        <title corresp="#t1" xml:lang="en">Image of Filmonā of Dabra Bārtārwā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/0373/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ እዜኑ፡ ለለ፡ ሠርቀ፡ አሚር፡ ወወዐሙ፨</l>
+            <l n="2">ዜና፡ ማሕሌትከ፡ ክቡረ፡ ስሙ፨</l>
+            <l n="3">ፊልሞና፡ አቡየ፡ አደወ፡ እምነ፡ ዐቅሙ፨</l>
+            <l n="4">ገድልከ፡ መንክር፡ ሶበ፡ ነጸሩ፡ ተደሙ፨</l>
+            <l n="5">ዕጹብ፡ እንዘ፡ ይብሉ፡ መላእክት፡ አርመሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በአጽናፈ፡ ዓለም፡ ዘተሰምዐ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ድሉል፡ በመዐዛ፡ ዕፍረት፡ ወሚዐ፨</l>
+            <l n="3">ፊልሞና፡ ዝክርከ፡ እምዝክረ፡ ቅዱሳን፡ ተበፅዐ፨</l>
+            <l n="4">ውስተ፡ መርዐ፡ አመ፡ ይከውን፡ ውውዐ፨</l>
+            <l n="5">ሀበኒ፡ ማኅቶተ፡ ወውዱሰ፡ ቅብዐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ እንበለ፡ ምማቴ፡ ወፍርሀት፨</l>
+            <l n="2">ወለበድነ፡ ሥጋከኒ፡ ዘመዐዛሁ፡ ዕፍረት፨</l>
+            <l n="3">በእንተ፡ ኢየሱስ፡ ክርስቶስ፡ ምቱረ፡ አጽባዕት፨</l>
+            <l n="4">ንሥኦሙ፡ ለደቂቅከ፡ በጸሎትከ፡ ቅድስት፨</l>
+            <l n="5">ኀበ፡ ማኅበረ፡ በኵር፡ ሀለዉ፡ ተንሢኦሙ፡ እሞት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘትከ፡ ዘመዐዛሁ፡ አበሜ፨</l>
+            <l n="2">ወለዝኅርከኒ፡ ክልእተ፡ ዝኅረ፡ ጴጥሮስ፡ ነቅዐ፡ ትርጓሜ፨</l>
+            <l n="3">ዐምደ፡ ሃይማኖት፡ ፊልሞና፡ እንተ፡ ትሰመይ፡ ቀዋሜ፨</l>
+            <l n="4">በእደ፡ ፈቃድ፡ እምቤተ፡ ዐቢይ፡ ቅያሜ፨</l>
+            <l n="5">ያውፅአኒ፡ ጸጋከ፡ ቀዋሚ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለቀብዐ፡ ርእስከ፡ ዘአርአያሁ፡ አክሊለ፡ ሦክ፨</l>
+            <l n="2">ዘቦቱ፡ ይትመዋእ፡ ጸብአ፡ መስቴማ፡ ድሩክ፨</l>
+            <l n="3">ውዱሰ፡ ምግባር፡ ፊልሞና፡ መሥመሬ፡ ክርስቶስ፡ አምላክ፨</l>
+            <l n="4">ምጥቀኒ፡ ለደቂቅከ፡ ውስተ፡ ሰማያዊት፡ ፈለክ፨</l>
+            <l n="5">ምስለ፡ እኩታን፡ ቅኑያን፡ ዘሰርክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ናሁ፡ ፈጸምኩ፡ ማሕሌተ፡ መልክእከ፡ ኵሉ፨</l>
+            <l n="2">እንዘ፡ ይትራድአኒ፡ ሚካኤል፡ መልአከ፡ ኀይሉ፨</l>
+            <l n="3">ለንጉሠ፡ አፍአ፡ ወውስጥ፡ ዘሀሎ፡ ወይሄሉ፨</l>
+            <l n="4">ተወከፍ፡ ሊተ፡ ፊልሞና፡ በበ፡ መክፈልቱ፡ ወክፍሉ፨</l>
+            <l n="5">ተወክፎተ፡ ስብሐት፡ ለአብ፡ እምወልዱ፡ ይደሉ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="filmona-d-bartarwa">
+                <persName xml:lang="gez">ፊልሞና፡ ዘደብረ፡ ባርታርዋ፡</persName>
+                <persName xml:lang="gez" type="normalized">Filmonā za-Dabra Bārtārwā</persName>
+                <persName xml:lang="en">Filmonā of Dabra Bārtārwā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

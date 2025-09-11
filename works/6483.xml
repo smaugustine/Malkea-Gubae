@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe6483" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እንጦንዮስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎnṭonyos</title>
+        <title corresp="#t1" xml:lang="en">Image of Anthony</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/6483/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="ADMY002">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-002</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>105ra-108va</locus>
+          </witness>
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>73vb-76va</locus>
+          </witness>
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>156vc-160ra</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>175ra-177rb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            
+            
+            <biblStruct type="bookSection" xml:id="Habtemichael_Kidane2024" corresp="http://zotero.org/groups/5599348/items/AQD952X9">
+              <analytic>
+                <title level="a">Supplement to the Repertory of &lt;hi rend="italics"&gt;Mälkəʿat&lt;/hi&gt; in European-Held Ethiopian Manuscripts Published by Marius Chaîne</title>
+                <author><name>Habtemichael Kidane</name></author>
+              </analytic>
+              <monogr>
+                <title level="m">Celebrating the Holy Saints: The Origin, Evolution, and Liturgical Use of the Mälkəʿ</title>
+                <imprint>
+                  <pubPlace>Piscataway, NJ</pubPlace>
+                  <biblScope unit="page">267–369</biblScope>
+                  <publisher>Gorgias Press</publisher>
+                  <date>2024</date>
+                </imprint>
+              </monogr>
+              <series>
+                <title level="s">Gorgias Eastern Christian Studies</title>
+                <biblScope unit="volume">67</biblScope>
+              </series>
+              <citedRange unit="item">66</citedRange>
+            </biblStruct>
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በረድኤትከ፡ መንፈስ፡ ኅቡዓ፡ ህላዌ፡ እምተረክቦ፨</l>
+            <l n="2">ከመ፡ ኢይክሥት፡ አፉየ፡ ሕሊና፡ ሕፀፅ፡ እም፡ ተጠብቦ፨</l>
+            <l n="3">ውስተ፡ ፀምረ፡ ልብየ፡ ይረድ፡ ነገረ፡ ድርሳን፡ አምሳለ፡ ህቦ፨</l>
+            <l n="4">አንፈ፡ ሐራውያ፡ ለእመ፡ ተሠርገወ፡ ውፅቦ፨</l>
+            <l n="5">አኮኑ፡ ያኤምር፡ ሕሠመ፡ እንተ፡ ቦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ጣዕመ፡ ስቴሁ፡ አሚን፨</l>
+            <l n="2">ዘትካዘ፡ ሥጋ፡ ያረሥዕ፡ ከመ፡ ስቴ፡ ወይን፨</l>
+            <l n="3">እንጦንስ፡ ጳውሎስ፡ ሰባኬ፡ ሐዲስ፡ ኪዳን፨</l>
+            <l n="4">ይድምፅ፡ ውስተ፡ ልብየ፡ ቃለ፡ ትምህርትከ፡ ቀርን፨</l>
+            <l n="5">እስከ፡ እምንዋማ፡ ትነቅህ፡ ነፍስየ፡ ፌቤን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ሥእርተ፡ መላእክት፡ ዘኮነ፨</l>
+            <l n="2">ድኅረ፡ እማርያም፡ ነሥአ፡ ዘበሰማያት፡ አቡነ፨</l>
+            <l n="3">እንጦንስ፡ ጠቢብ፡ አመ፡ ሕይወተ፡ ዴገነ፨</l>
+            <l n="4">በእሳተ፡ ገድል፡ ወርቀ፡ ሥጋሁ፡ ፈተነ፨</l>
+            <l n="5">ወእምነ፡ ሥኑ፡ አጥረየ፡ ለመድኅን፡ ሥነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="35">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለመቃብሪከ፡ ኅቡእ፨</l>
+            <l n="2">እምአዕይንተ፡ ኵሎሙ፡ ሰብእ፨</l>
+            <l n="3">በከመ፡ አዘዘኮሙ፡ እንጦንስ፡ ለደቂቅከ፡ አርዳእ፨</l>
+            <l n="4">ሰውረኒ፡ እምገጸ፡ ሞት፡ በትንባሌከ፡ ባቍዕ፨</l>
+            <l n="5">ከመ፡ ተሰወረ፡ ሄኖክ፡ እምአዳም፡ ሳብዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="36">
+            
+            <l n="1">ሰላም፡ ለንቅሀትከ፡ ምስለ፡ አእላፋት፡ ጉባኤ፨</l>
+            <l n="2">አመ፡ ይከውን፡ ድኅረ፡ ሰዓተ፡ ትንሣኤ፨</l>
+            <l n="3">እንጦንዮስ፡ ተባእ፡ ዘኢያእመርከ፡ ጾታ፡ ምማዔ፨</l>
+            <l n="4">ጸውዖሙ፡ ለአብያጺከ፡ እለ፡ ኀደጉ፡ ዝንጋዔ፨</l>
+            <l n="5">በዐጸደ፡ ነፍስየ፡ ጥቀ፡ ይግበሩ፡ ውዋዔ?፡</l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1">ናሁ፡ ዘአቅረብኩ፡ ለመልክእከ፡ ስብሐት፨</l>
+            <l n="2">በልሳንየ፡ ድክምት፨</l>
+            <l n="3">እንጦንዮስ፡ ተወከፍ፡ አምሳለ፡ ንጹሕ፡ ወሥዋዕት፨</l>
+            <l n="4">ከመ፡ ተወክፈ፡ መድኃኒነ፡ ጸሪቀ፡ አሐቲ፡ ብእሲት፨</l>
+            <l n="5">ወአስተብፅዐ፡ በክብር፡ ወሐዲስ፡ ብስራት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="38">
+            
+            <l n="1">ስብሐት፡ ይደሉ፡ ለእግዚአብሔር፡ ዋሕድ፨</l>
+            <l n="2">በልሳነ፡ ኵሉ፡ ዘመድ፨</l>
+            <l n="3">ዘጸገወኒ፡ እትናገር፡ ውዳሴ፡ እንጦንስ፡ ፅሙድ፨</l>
+            <l n="4">ኢትፍራህ፡ በለኒ፡ ፍቁርየ፡ ኢይሁበከ፡ ለባዕድ፨</l>
+            <l n="5">ኣቀውመከ፡ አነ፡ በመፍርህ፨</l>
+            <l n="6">ዐጸድ፡ ወሀለውኩከ፡ አነ፡ በግሩም፡ ዐውድ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ እንጦንዮስ፡ አብ፡ ወብርሃነ፡ ሐዲስ፡ ዓለም፨</l>
+            <l n="2">እንተ፡ ኢያረሥዕ፡ ሕገ፡ ዘአብርሃም፨</l>
+            <l n="3">ወያጸርዕ፡ ግብረ፡ ድካም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ ሶበ፡ ኀለይኩ፡ ወልድከ፡ እንጦንዮስ፡ አቡየ፨</l>
+            <l n="2">አርዑተ፡ ቀኖናከ፡ እጹር፡ ዘኢድልወትየ፨</l>
+            <l n="3">ኢትዝክር፡ አባ፡ ኃጢአትየ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለከ፡ እምንዴት፡ ጽኑዕ፡ በይነ፡ አፍቀርኩ፡ ኪያከ፨</l>
+            <l n="2">እንተ፡ ነበብኩ፡ ሰላመ፡ እንጦንዮስ፡ ንሣእ፡ በእዴከ፨</l>
+            <l n="3">ወጸሐፋ፡ በጽሌ፡ ልብከ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="anthony">
+                <persName xml:lang="gez">እንጦንዮስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎnṭonyos</persName>
+                <persName xml:lang="en">Anthony</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

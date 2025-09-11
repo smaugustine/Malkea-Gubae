@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2851" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኪሮስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Kiros</title>
+        <title corresp="#t1" xml:lang="en">Image of Cyrus</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/2851/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="BLor577">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 577</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>48ra-50rb</locus>
+          </witness>
+          
+          <witness xml:id="BNFabb170">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 170</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>81vb-83rb</locus>
+          </witness>
+          
+          <witness xml:id="BNFet350">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien 350</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>24v-27v</locus>
+          </witness>
+          
+          <witness xml:id="EMML0374">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Gəbi Gabrəʾel</repository>
+                <idno>EMML 374</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>194rba-196va</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">133, 141</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ኀበ፡ ዐምደ፡ ወርቅ፡ ዘተጽሐፈ፨</l>
+            <l n="2">ምስለ፡ ስመ፡ አበው፡ ኄራን፡ እንዘ፡ ይከውን፡ ሱቱፈ፨</l>
+            <l n="3">ጻድቅ፡ ኪሮስ፡ እንተ፡ ታገኒ፡ አእላፈ፨</l>
+            <l n="4">አባ፡ ሀበኒ፡ ለወልድከ፡ ሰማያዊተ፡ ምዕራፈ፨</l>
+            <l n="5">ወዘመላእክት፡ አስኬማ፡ ወዐጽፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ወለርእስከ፡ በእማኄ፨</l>
+            <l n="2">ወለገጽከ፡ ጽዱል፡ እንተ፡ ተሳተፈ፡ ሥነ፡ ሱራሔ፨</l>
+            <l n="3">ጻድቅ፡ ኪሮስ፡ ወምዑዘ፡ ምግባር፡ እምነ፡ ርሔ፨</l>
+            <l n="4">እምግብረ፡ ሰይጣን፡ ዘኢለመደ፡ ርኅራኄ፨</l>
+            <l n="5">ኀይለ፡ ጸሎትከ፡ ይኩነኒ፡ ባላሔ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ መዐዛ፡ ክርስቶስ፡ ወሜዐ፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ በሥምረተ፡ ክርስቶስ፡ ንጉሠ፡ መርዓ፨</l>
+            <l n="3">ጻድቅ፡ ኪሮስ፡ ጊዜ፡ ይደምፅ፡ ቀርነ፡ ውውዐ፨</l>
+            <l n="4">ያኅቱ፡ መኃትውየ፡ ዘዚአከ፡ ቅብዐ፨</l>
+            <l n="5">አርአያ፡ አብዳት፡ ኢይቁም፡ በአፍአ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ስብሐተ፡ መልክእከ፡ ኅዳጠ፡ አምጣነ፡ ብየ፡ አቅረብኩ፨</l>
+            <l n="2">እምአመ፡ ንእስየ፡ አበ፡ እስመ፡ ኪያከ፡ ረሰይኩ፨</l>
+            <l n="3">ጻድቅ፡ ኪሮስ፡ ለሕይወትየ፡ በሳን፡ ሰርኩ፨</l>
+            <l n="4">አድኅነኒ፡ ወባልሐኒ፡ በጽንዐ፡ እዴከ፡ ዝኩ፨</l>
+            <l n="5">ቅድመ፡ ይንሥአኒ፡ ለዓለም፡ መልአኩ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ በእንቲአከ፡ ተብህለ፡ እመድሎተ፡ ሰማይ፡ ወምድር፨</l>
+            <l n="2">ይፈደፍድ፡ ጥቀ፡ ዘእግርከ፡ ጽፍር፨</l>
+            <l n="3">ኪሮስ፡ ምሉአ፡ ክብር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለከ፡ እግዚአብሔር፡ ይብለከ፡ እምኑኀ፡ ሰማይ፡ ወሪዶ፨</l>
+            <l n="2">በስምከ፡ ኪሮስ፡ ዘይሰሚ፡ ወልዶ፨</l>
+            <l n="3">እምበረከትከ፡ ኢያውሕዶ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ሰላም፡ ለከ፡ ነፍስየ፡ ኪሮስ፡ አወፈይኩከ፡ ዕጣነ፨</l>
+            <l n="2">ማዕኰት፡ ብከ፡ ወሥልጣነ፨</l>
+            <l n="3">ለሰሚዐ፡ ገድል፡ እለ፡ ተጋባእነ፨</l>
+            <l n="4">ዘብሩር፡ ክንፈከ፡ ክድነነ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="cyrus">
+                <persName xml:lang="gez">ኪሮስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Kiros</persName>
+                <persName xml:lang="en">Cyrus</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ኃይለ_ሚካኤል_ተስፋ_ኢየሱስ" corresp="http://zotero.org/groups/5599348/items/GGK5ZBB6"><monogr><title level="m">ዝክረ አበው መልክአ ጉባኤ ወመዝገበ ጸሎት በልሳነ ግዕዝ ባለ መቶ አሥራ አራት አርእስት፣ በማኅሌት ጊዜም አንድኛና ሁለትኛ መክፈያዎችን ያያካተተ መጽሐፍ እነሆ።</title><title type="short">ዝክረ አበው መልክአ ጉባኤ</title><editor><name>ኃይለ ሚካኤል ተስፋ ኢየሱስ</name></editor><editor><name>ዘይቤ ሚካኤል</name></editor><imprint><date/></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>
