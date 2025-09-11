@@ -7,7 +7,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     site.pages << Jekyll::PageWithoutAFile.new(site, site.source, 'api/json/works', "#{work.data['title']}.json").tap do |file|
 
       file.data.merge!(work.data)
-      file.data['layout'] = 'api/jsonapi'
+      file.data['layout'] = 'api/works/jsonapi'
 
       file.output
 

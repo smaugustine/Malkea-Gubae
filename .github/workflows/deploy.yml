@@ -52,7 +52,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: tei
-          path: ./_site/api/xml/works
+          path: ./_site/api/xml
 
   # Deployment job
   deploy:

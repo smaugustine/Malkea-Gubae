@@ -46,6 +46,12 @@ layout: main/default
           </p>
         </div>
 
+        <hr>
+
+        <div class="buttons is-centered">
+          <a class="button is-small is-info" href="{{ '/api/xml/manuscripts/' | append: page.slug | append: '.xml' | absolute_url }}" title="TEI XML">XML</a>
+        </div>
+
       </div>
     </aside>
     {% endif %}
@@ -165,6 +171,12 @@ layout: main/default
             <br>
             Lines: {{ page.lines }}
           </p>
+        </div>
+
+        <hr>
+
+        <div class="buttons is-centered">
+          <a class="button is-small is-info" href="{{ '/api/xml/manuscripts/' | append: page.slug | append: '.xml' | absolute_url }}" title="TEI XML">XML</a>
         </div>
 
       </div>

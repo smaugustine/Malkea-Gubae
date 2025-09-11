@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ page.slug }}" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>{{ page.title }}</title>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>{{ "now" | date: "%Y" }}</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <msDesc>
+
+          <msIdentifier>
+            <settlement>{{ page.place }}</settlement>
+            <repository>{{ page.institution }}</repository>
+            <idno>{{ page.shelfmark }}</idno>
+          </msIdentifier>
+
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc>
+                <support>
+                  {% unless page.material -%}
+                  <material key="parchment"/>
+                  {%- else -%}
+                  <material key="{{ page.material }}"/>
+                  {%- endunless %}
+                </support>
+                <extent>
+                  <measure unit="leaf">{{ page.folios }}</measure>
+                  <dimensions type="outer" unit="mm">
+                    <height>{{ page.height }}</height>
+                    <width>{{ page.width }}</width>
+                  </dimensions>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="{{ page.columns }}" writtenLines="{{ page.lines | replace: '-', ' ' }}"/> 
+              </layoutDesc>
+            </objectDesc>
+          </physDesc>
+
+          {% for unit in page.units %}
+          <msPart n="{{ forloop.index }}">
+            <msIdentifier/>
+
+            <msContents>
+              <summary/>
+
+              {% for item in unit.contents %}
+              {% assign work = site.works | find: "uid", item.uid %}
+              <msItem n="{{ forloop.index }}">
+                {% if item.facs %}
+                <locus facs="{{ item.facs }}">{{ item.locus }}</locus>
+                {% else %}
+                <locus>{{ item.locus }}</locus>
+                {% endif %}
+                <textLang mainLang="gez"/>
+                {% if work %}
+                <title ref="{{ work.clavis }}" corresp="{{ 'https://w3id.org/malke/' | append: work.clavis | append: '/' }}">
+                  <title xml:lang="gez">{{ work.titles[0].gez | fidal }}</title>
+                  <title xml:lang="gez" type="normalized">{{ work.titles[0].gez }}</title>
+                  <title xml:lang="en">{{ work.titles[0].en }}</title>
+                </title>
+                {% else %}
+                <title>
+                  <title xml:lang="gez">{{ item.title.gez | fidal }}</title>
+                  <title xml:lang="gez" type="normalized">{{ item.title.gez }}</title>
+                  <title xml:lang="en">{{ item.title.en }}</title>
+                </title>
+                {% endif %}
+              </msItem>
+              {% endfor %}
+
+            </msContents>
+
+          </msPart>
+          {% endfor %}
+
+        </msDesc>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  {% if page.iiif %}
+  <facsimile source="{{ page.iiif }}"/>
+  {% endif %}
+  <text>
+
+    <body>
+      <ab/>
+    </body>
+
+  </text>
+</TEI>

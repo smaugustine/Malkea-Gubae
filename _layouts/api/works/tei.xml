@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ page.title }}" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe{{ page.title }}" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,23 @@
       </publicationStmt>
 
       <sourceDesc>
-        <p>{{ site.alt_title }}</p>
+        <listWit>
+          {% assign witnesses = site.data.items | where: "uid", page.uid %}
+          {% if witnesses.size > 0 %}
+          {% for item in witnesses %}
+          <witness xml:id="{{ item.manuscript.slug }}">
+            <msDesc>
+              <msIdentifier>
+                <settlement>{{ item.manuscript.place }}</settlement>
+                <repository>{{ item.manuscript.institution }}</repository>
+                <idno>{{ item.manuscript.shelfmark }}</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>{{ item.locus }}</locus>
+          </witness>
+          {% endfor %}
+          {% endif %}
+        </listWit>
       </sourceDesc>
 
       {% if page.chaine or page.habtemichael %}

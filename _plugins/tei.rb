@@ -7,7 +7,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     site.pages << Jekyll::PageWithoutAFile.new(site, site.source, 'api/xml/works', "#{work.data['title']}.xml").tap do |file|
 
       file.data.merge!(work.data)
-      file.data['layout'] = 'api/tei'
+      file.data['layout'] = 'api/works/tei'
 
       if work.data.include? 'zotero_key'
         begin
@@ -17,6 +17,19 @@ Jekyll::Hooks.register :site, :pre_render do |site|
           file.data.delete('bibliography')
         end
       end
+
+      file.output
+
+    end
+
+  end
+
+  site.collections['manuscripts'].docs.each do |manuscript|
+
+    site.pages << Jekyll::PageWithoutAFile.new(site, site.source, 'api/xml/manuscripts', "#{manuscript.data['slug']}.xml").tap do |file|
+
+      file.data.merge!(manuscript.data)
+      file.data['layout'] = 'api/manuscripts/tei'
 
       file.output
 
