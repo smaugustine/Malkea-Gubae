@@ -140,17 +140,17 @@ layout: main/default
         <div class="block">
           <span class="is-hidden-touch">Clavis Aethiopica: {{ page.clavis }}</span>
           <span class="is-hidden-desktop">CAe: {{ page.clavis }}</span>
-          {% if page.chaine or page.habtemichael %}<br>{% endif %}
+          {% if page.chaine or page.gezahegn or page.habtemichael %}<br>{% endif %}
           {% if page.chaine %}
-          <small class="is-hidden-mobile">MC:&nbsp;{{ page.chaine | join: ", " }}</small>
+          <small>MC:&nbsp;{{ page.chaine | join: ", " }}</small>
           {% endif %}
           {% if page.gezahegn %}
-          {% if page.chaine %}<span class="is-hidden-desktop"> | </span>{% endif %}
-          <small class="is-hidden-mobile">GG:&nbsp;{{ page.gezahegn | join: ", " }}</small>
+          {% if page.chaine %}<small> | </small>{% endif %}
+          <small>GG:&nbsp;{{ page.gezahegn | join: ", " }}</small>
           {% endif %}
           {% if page.habtemichael %}
-          {% if page.chaine or page.gezahegn %}<span class="is-hidden-desktop"> | </span>{% endif %}
-          <small class="is-hidden-mobile">HK:&nbsp;{{ page.habtemichael | join: ", " }}</small>
+          {% if page.chaine or page.gezahegn %}<small> | </small>{% endif %}
+          <small>HK:&nbsp;{{ page.habtemichael | join: ", " }}</small>
           {% endif %}
           <br>
           <span>Permalink: <a href="{{ 'https://w3id.org/malke/' | append: page.clavis | append: '/' }}">{{ 'https://w3id.org/malke/' | append: page.clavis | append: '/' }}</a></span>
