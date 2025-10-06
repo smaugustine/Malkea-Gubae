@@ -150,6 +150,7 @@
       </listRelation>
       
       
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="encyclopediaArticle" xml:id="Getatchew_Haile2007" corresp="http://zotero.org/groups/5599348/items/3PT5ZG4N"><analytic><title level="a">Mälkǝʾa Gäbrǝʾel</title><title type="short">EAe</title><author><name>Getatchew Haile</name></author></analytic><monogr><title level="m">Encyclopaedia Aethiopica</title><editor><forename>Siegbert</forename><surname>Uhlig</surname></editor><imprint><pubPlace>Wiesbaden</pubPlace><biblScope unit="volume">III</biblScope><biblScope unit="page">702b-704a</biblScope><publisher>Harrassowitz Verlag</publisher><date>2007</date></imprint></monogr></biblStruct></listBibl>
     </back>
 
   </text>

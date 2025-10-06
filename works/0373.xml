@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፊልሞና፡ ዘደብረ፡ ባርታርዋ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Filmonā za-Dabra Bārtārwā</title>
-        <title corresp="#t1" xml:lang="en">Image of Filmonā of Dabra Bārtārwā</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፊልሞና፡ ዘአበርጉት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Filmonā za-ʾAbargut</title>
+        <title corresp="#t1" xml:lang="en">Image of Filmonā of ʾAbargut</title>
         
       </titleStmt>
 
@@ -72,6 +72,26 @@
 
           </lg>
           
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለአፉከ፡ ዘይወልድ፡ ወትረ፡ ዝናመ፡ መዝሙር፡ ወነጐድጓድ፨</l>
+            <l n="2">ወለአስናኒከ፡ ንጹሕ፡ እምፍተታተ፡ ጽዕድው፡ በረድ፨</l>
+            <l n="3">ፊልሞና፡ ጳውሎስ፡ ዘላፌ፡ ረሲዓን፡ አይሁድ፨</l>
+            <l n="4">እፎ፡ ተዐገሥከ፡ ተመትሮ፡ አእጋር፡ ወእድ፨</l>
+            <l n="5">እምፈተውኩ፡ ተሳትፎ፡ ግብርከ፡ ዋሕድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለሕፅንከ፡ ምርፋቀ፡ በረከት፡ ወጸጋ፨</l>
+            <l n="2">ወለአእዳዊከ፡ ስፉሓት፡ ተሰርግዎ፡ ወርቅ፡ እንተ፡ ኀደጋ፨</l>
+            <l n="3">ዕንቈ፡ አሮን፡ ፊልሞና፡ ለደብረ፡ ዳሬት፡ ሠራዔ፡ ሕጋ፨</l>
+            <l n="4">ናዝዘኒ፡ እግዚኦ፡ ምስለ፡ ኅሩያን፡ እንግልጋ፨</l>
+            <l n="5">ለሕዙነ፡ ነፍስ፡ ዘሐመ፡ በሥጋ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="25">
             
             <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ እንበለ፡ ምማቴ፡ ወፍርሀት፨</l>
@@ -94,7 +114,7 @@
           
           <lg type="stanza" n="27">
             
-            <l n="1">ሰላም፡ ለቀብዐ፡ ርእስከ፡ ዘአርአያሁ፡ አክሊለ፡ ሦክ፨</l>
+            <l n="1">ሰላም፡ ለቆብዐ፡ ርእስከ፡ ዘአርአያሁ፡ አክሊለ፡ ሦክ፨</l>
             <l n="2">ዘቦቱ፡ ይትመዋእ፡ ጸብአ፡ መስቴማ፡ ድሩክ፨</l>
             <l n="3">ውዱሰ፡ ምግባር፡ ፊልሞና፡ መሥመሬ፡ ክርስቶስ፡ አምላክ፨</l>
             <l n="4">ምጥቀኒ፡ ለደቂቅከ፡ ውስተ፡ ሰማያዊት፡ ፈለክ፨</l>
@@ -114,7 +134,33 @@
           
         </div>
 
-        
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ፊልሞና፡ ቢጸ፡ ገብረ፡ ክርስቶስ፡ ፈላሲ፨</l>
+            <l n="2">ጥበበ፡ ምክረ፡ ከመ፡ ኵሲ፨</l>
+            <l n="3">ወኢጌሥከ፡ ቤተ፡ መያሲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ እፎ፡ አናኅከ፡ ተዐግሦ፡ ከመ፡ ያዕቆብ፡ ግሙድ፨</l>
+            <l n="2">ምትረተ፡ አእጋር፡ ወመዝራዕተ፡ እድ፨</l>
+            <l n="3">እስከ፡ በጽሐ፡ ኀበ፡ ክሳድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለከ፡ ምስለ፡ ማኅበራኒከ፡ አባ፡ አርብዓ፡ ወሳብዕ፨</l>
+            <l n="2">አመ፡ ናዝዝ፡ ወባቍዕ፡ እምክበደ፡ ላህ፡ ወወይሌ፡ ጽኑዕ፨</l>
+            <l n="3">ናዝዘኒ፡ በኵሎን፡ ሳዕ፨</l>
+
+          </lg>
+          
+        </div>
         
       </div>
     </body>
@@ -127,10 +173,10 @@
             <listPerson>
               
               
-              <person xml:id="filmona-d-bartarwa">
-                <persName xml:lang="gez">ፊልሞና፡ ዘደብረ፡ ባርታርዋ፡</persName>
-                <persName xml:lang="gez" type="normalized">Filmonā za-Dabra Bārtārwā</persName>
-                <persName xml:lang="en">Filmonā of Dabra Bārtārwā</persName>
+              <person xml:id="filmona-abargut">
+                <persName xml:lang="gez">ፊልሞና፡ ዘአበርጉት፡</persName>
+                <persName xml:lang="gez" type="normalized">Filmonā za-ʾAbargut</persName>
+                <persName xml:lang="en">Filmonā of ʾAbargut</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
