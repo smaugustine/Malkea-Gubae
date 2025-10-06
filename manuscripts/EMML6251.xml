@@ -121,7 +121,7 @@
               
               <msItem n="5">
                 
-                <locus>14va-16vb</locus>
+                <locus facs="17">14va-16vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -136,7 +136,7 @@
               
               <msItem n="6">
                 
-                <locus>17ra-21rb</locus>
+                <locus facs="19">17ra-21rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -151,7 +151,7 @@
               
               <msItem n="7">
                 
-                <locus>21ra-24ra</locus>
+                <locus facs="23">21ra-24ra</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -166,7 +166,7 @@
               
               <msItem n="8">
                 
-                <locus>26va-30ra</locus>
+                <locus facs="29">26va-30ra</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -181,7 +181,7 @@
               
               <msItem n="9">
                 
-                <locus>30ra-33rb</locus>
+                <locus facs="32">30ra-33rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -196,7 +196,7 @@
               
               <msItem n="10">
                 
-                <locus>33ra-40rb</locus>
+                <locus facs="35">33ra-40rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -211,7 +211,7 @@
               
               <msItem n="11">
                 
-                <locus>40ra-42rb</locus>
+                <locus facs="42">40ra-42rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -226,7 +226,7 @@
               
               <msItem n="12">
                 
-                <locus>43ra-46rb</locus>
+                <locus facs="45">43ra-46rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -241,7 +241,7 @@
               
               <msItem n="13">
                 
-                <locus>46ra-48vb</locus>
+                <locus facs="48">46ra-48vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -256,7 +256,7 @@
               
               <msItem n="14">
                 
-                <locus>48va-51vb</locus>
+                <locus facs="51">48va-51vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -271,7 +271,7 @@
               
               <msItem n="15">
                 
-                <locus>51va-54vb</locus>
+                <locus facs="54">51va-54vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -286,7 +286,7 @@
               
               <msItem n="16">
                 
-                <locus>55ra-55vb</locus>
+                <locus facs="57">55ra-55vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -301,7 +301,7 @@
               
               <msItem n="17">
                 
-                <locus>55vb-58rb</locus>
+                <locus facs="58">55vb-56vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -316,7 +316,22 @@
               
               <msItem n="18">
                 
-                <locus>58ra-60rb</locus>
+                <locus facs="59">56vb-58rb</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title>
+                  <title xml:lang="gez">ሰላምታ፡ ዘሥላሴ፡ ዘሰብዐቱ፡ ጊዜያት፡</title>
+                  <title xml:lang="gez" type="normalized">Salāmtā za-Śǝllāse za-Sabʿattu Gizeyāt</title>
+                  <title xml:lang="en">Salutations for the Trinity for the Canonical Hours</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="19">
+                
+                <locus facs="60">58ra-60rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -329,9 +344,9 @@
               </msItem>
               
               
-              <msItem n="19">
+              <msItem n="20">
                 
-                <locus>60ra-61vb</locus>
+                <locus facs="62">60ra-61vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -344,9 +359,9 @@
               </msItem>
               
               
-              <msItem n="20">
+              <msItem n="21">
                 
-                <locus>61va-63rb</locus>
+                <locus facs="64">61va-63rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -359,9 +374,9 @@
               </msItem>
               
               
-              <msItem n="21">
+              <msItem n="22">
                 
-                <locus>63ra-64vb</locus>
+                <locus facs="65">63ra-64vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -374,9 +389,9 @@
               </msItem>
               
               
-              <msItem n="22">
+              <msItem n="23">
                 
-                <locus>64va-66rb</locus>
+                <locus facs="67">64va-66rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -389,9 +404,9 @@
               </msItem>
               
               
-              <msItem n="23">
+              <msItem n="24">
                 
-                <locus>66va-68rb</locus>
+                <locus facs="69">66va-68rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -404,24 +419,9 @@
               </msItem>
               
               
-              <msItem n="24">
-                
-                <locus>68va-70rb</locus>
-                
-                <textLang mainLang="gez"/>
-                
-                <title ref="0213" corresp="https://w3id.org/malke/0213/">
-                  <title xml:lang="gez">መልክአ፡ እግዚአብሔር፡ አብ፡</title>
-                  <title xml:lang="gez" type="normalized">Malkəʾa ʾƎgziʾabəḥer ʾAb</title>
-                  <title xml:lang="en">Image of God the Father</title>
-                </title>
-                
-              </msItem>
-              
-              
               <msItem n="25">
                 
-                <locus>70ra-70vb</locus>
+                <locus facs="71">68va-70rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -436,7 +436,22 @@
               
               <msItem n="26">
                 
-                <locus>70va-72rb</locus>
+                <locus facs="72">70ra-70vb</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="0213" corresp="https://w3id.org/malke/0213/">
+                  <title xml:lang="gez">መልክአ፡ እግዚአብሔር፡ አብ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa ʾƎgziʾabəḥer ʾAb</title>
+                  <title xml:lang="en">Image of God the Father</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="27">
+                
+                <locus facs="73">70va-72rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -449,9 +464,9 @@
               </msItem>
               
               
-              <msItem n="27">
+              <msItem n="28">
                 
-                <locus>72ra-75rb</locus>
+                <locus facs="74">72ra-75rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -464,9 +479,9 @@
               </msItem>
               
               
-              <msItem n="28">
+              <msItem n="29">
                 
-                <locus>75rb-76rb</locus>
+                <locus facs="77">75rb-76rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -479,9 +494,9 @@
               </msItem>
               
               
-              <msItem n="29">
+              <msItem n="30">
                 
-                <locus>76ra-78rb</locus>
+                <locus facs="78">76ra-78rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -494,9 +509,9 @@
               </msItem>
               
               
-              <msItem n="30">
+              <msItem n="31">
                 
-                <locus>78ra-78vb</locus>
+                <locus facs="80">78ra-78vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -509,9 +524,9 @@
               </msItem>
               
               
-              <msItem n="31">
+              <msItem n="32">
                 
-                <locus>79ra-80vb</locus>
+                <locus facs="81">79ra-80vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -524,9 +539,9 @@
               </msItem>
               
               
-              <msItem n="32">
+              <msItem n="33">
                 
-                <locus>81ra-83rb</locus>
+                <locus facs="83">81ra-83rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -539,9 +554,9 @@
               </msItem>
               
               
-              <msItem n="33">
+              <msItem n="34">
                 
-                <locus>84ra-85rb</locus>
+                <locus facs="86">84ra-85rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -554,9 +569,9 @@
               </msItem>
               
               
-              <msItem n="34">
+              <msItem n="35">
                 
-                <locus>85ra-88rb</locus>
+                <locus facs="87">85ra-88rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -569,9 +584,9 @@
               </msItem>
               
               
-              <msItem n="35">
+              <msItem n="36">
                 
-                <locus>88ra-90rb</locus>
+                <locus facs="90">88ra-90rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -584,9 +599,9 @@
               </msItem>
               
               
-              <msItem n="36">
+              <msItem n="37">
                 
-                <locus>90va-92rb</locus>
+                <locus facs="93">90va-92rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -599,9 +614,9 @@
               </msItem>
               
               
-              <msItem n="37">
+              <msItem n="38">
                 
-                <locus>92ra-93vb</locus>
+                <locus facs="94">92ra-93vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -614,9 +629,9 @@
               </msItem>
               
               
-              <msItem n="38">
+              <msItem n="39">
                 
-                <locus>93va-95vb</locus>
+                <locus facs="96">93va-95vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -629,9 +644,9 @@
               </msItem>
               
               
-              <msItem n="39">
+              <msItem n="40">
                 
-                <locus>95va-96vb</locus>
+                <locus facs="98">95va-96vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -644,9 +659,9 @@
               </msItem>
               
               
-              <msItem n="40">
+              <msItem n="41">
                 
-                <locus>96va-97vb</locus>
+                <locus facs="99">96va-97vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -659,9 +674,9 @@
               </msItem>
               
               
-              <msItem n="41">
+              <msItem n="42">
                 
-                <locus>97va-106rb</locus>
+                <locus facs="100">97va-106rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -674,9 +689,9 @@
               </msItem>
               
               
-              <msItem n="42">
+              <msItem n="43">
                 
-                <locus>106ra-107vb</locus>
+                <locus facs="108">106ra-107vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -689,9 +704,9 @@
               </msItem>
               
               
-              <msItem n="43">
+              <msItem n="44">
                 
-                <locus>108ra-109vb</locus>
+                <locus facs="110">108ra-109vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -704,9 +719,9 @@
               </msItem>
               
               
-              <msItem n="44">
+              <msItem n="45">
                 
-                <locus>109va-110vb</locus>
+                <locus facs="112">109va-110vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -719,9 +734,9 @@
               </msItem>
               
               
-              <msItem n="45">
+              <msItem n="46">
                 
-                <locus>110va-112rb</locus>
+                <locus facs="113">110va-112rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -734,9 +749,9 @@
               </msItem>
               
               
-              <msItem n="46">
+              <msItem n="47">
                 
-                <locus>112va-113vb</locus>
+                <locus facs="115">112va-113vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -749,9 +764,9 @@
               </msItem>
               
               
-              <msItem n="47">
+              <msItem n="48">
                 
-                <locus>113va-116vb</locus>
+                <locus facs="116">113va-116vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -764,9 +779,9 @@
               </msItem>
               
               
-              <msItem n="48">
+              <msItem n="49">
                 
-                <locus>116va-119rb</locus>
+                <locus facs="119">116va-119rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -779,9 +794,9 @@
               </msItem>
               
               
-              <msItem n="49">
+              <msItem n="50">
                 
-                <locus>119ra-120rb</locus>
+                <locus facs="121">119ra-120rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -794,9 +809,9 @@
               </msItem>
               
               
-              <msItem n="50">
+              <msItem n="51">
                 
-                <locus>120ra-122vb</locus>
+                <locus facs="122">120ra-122vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -809,9 +824,9 @@
               </msItem>
               
               
-              <msItem n="51">
+              <msItem n="52">
                 
-                <locus>123ra-125rb</locus>
+                <locus facs="125">123ra-125rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -824,9 +839,9 @@
               </msItem>
               
               
-              <msItem n="52">
+              <msItem n="53">
                 
-                <locus>125ra-126v</locus>
+                <locus facs="127">125ra-126v</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -839,9 +854,9 @@
               </msItem>
               
               
-              <msItem n="53">
+              <msItem n="54">
                 
-                <locus>126va-127vb</locus>
+                <locus facs="129">126va-127vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -854,9 +869,9 @@
               </msItem>
               
               
-              <msItem n="54">
+              <msItem n="55">
                 
-                <locus>127va-128vb</locus>
+                <locus facs="130">127va-128vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -869,9 +884,9 @@
               </msItem>
               
               
-              <msItem n="55">
+              <msItem n="56">
                 
-                <locus>129ra-129vb</locus>
+                <locus facs="131">129ra-129vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -884,9 +899,9 @@
               </msItem>
               
               
-              <msItem n="56">
+              <msItem n="57">
                 
-                <locus>130ra-132vb</locus>
+                <locus facs="132">130ra-132vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -899,9 +914,9 @@
               </msItem>
               
               
-              <msItem n="57">
+              <msItem n="58">
                 
-                <locus>132va-134rb</locus>
+                <locus facs="135">132va-134rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -914,9 +929,9 @@
               </msItem>
               
               
-              <msItem n="58">
+              <msItem n="59">
                 
-                <locus>134ra-137rb</locus>
+                <locus facs="136">134ra-137rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -929,9 +944,9 @@
               </msItem>
               
               
-              <msItem n="59">
+              <msItem n="60">
                 
-                <locus>137rb-138vb</locus>
+                <locus facs="139">137ra-138vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -944,9 +959,9 @@
               </msItem>
               
               
-              <msItem n="60">
+              <msItem n="61">
                 
-                <locus>139ra-141rb</locus>
+                <locus facs="141">139ra-141rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -959,9 +974,9 @@
               </msItem>
               
               
-              <msItem n="61">
+              <msItem n="62">
                 
-                <locus>141ra-143vb</locus>
+                <locus facs="143">141ra-143vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -974,9 +989,9 @@
               </msItem>
               
               
-              <msItem n="62">
+              <msItem n="63">
                 
-                <locus>143va-146rb</locus>
+                <locus facs="146">143va-146rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -989,9 +1004,9 @@
               </msItem>
               
               
-              <msItem n="63">
+              <msItem n="64">
                 
-                <locus>146ra-147vb</locus>
+                <locus facs="148">146ra-147vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1004,9 +1019,9 @@
               </msItem>
               
               
-              <msItem n="64">
+              <msItem n="65">
                 
-                <locus>147va-149rb</locus>
+                <locus facs="150">147va-149rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1019,9 +1034,9 @@
               </msItem>
               
               
-              <msItem n="65">
+              <msItem n="66">
                 
-                <locus>149va-152vb</locus>
+                <locus facs="152">149va-152vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1034,9 +1049,9 @@
               </msItem>
               
               
-              <msItem n="66">
+              <msItem n="67">
                 
-                <locus>152va-154vb</locus>
+                <locus facs="155">152va-154vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1049,9 +1064,9 @@
               </msItem>
               
               
-              <msItem n="67">
+              <msItem n="68">
                 
-                <locus>154va-157rb</locus>
+                <locus facs="157">154va-157rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1064,9 +1079,9 @@
               </msItem>
               
               
-              <msItem n="68">
+              <msItem n="69">
                 
-                <locus>157ra-158vb</locus>
+                <locus facs="159">157ra-158vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1079,9 +1094,9 @@
               </msItem>
               
               
-              <msItem n="69">
+              <msItem n="70">
                 
-                <locus>158va-161rb</locus>
+                <locus facs="161">158va-161rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1094,9 +1109,9 @@
               </msItem>
               
               
-              <msItem n="70">
+              <msItem n="71">
                 
-                <locus>161ra-162vb</locus>
+                <locus facs="163">161ra-162vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1109,9 +1124,9 @@
               </msItem>
               
               
-              <msItem n="71">
+              <msItem n="72">
                 
-                <locus>163ra-164vb</locus>
+                <locus facs="165">163ra-164vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1124,9 +1139,9 @@
               </msItem>
               
               
-              <msItem n="72">
+              <msItem n="73">
                 
-                <locus>164va-166rb</locus>
+                <locus facs="167">164va-166rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1139,9 +1154,9 @@
               </msItem>
               
               
-              <msItem n="73">
+              <msItem n="74">
                 
-                <locus>166ra-168vb</locus>
+                <locus facs="168">166ra-168vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1154,9 +1169,9 @@
               </msItem>
               
               
-              <msItem n="74">
+              <msItem n="75">
                 
-                <locus>168va-170vb</locus>
+                <locus facs="171">168va-170vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1169,9 +1184,9 @@
               </msItem>
               
               
-              <msItem n="75">
+              <msItem n="76">
                 
-                <locus>171ra-175rb</locus>
+                <locus facs="173">171ra-173vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1184,9 +1199,24 @@
               </msItem>
               
               
-              <msItem n="76">
+              <msItem n="77">
                 
-                <locus>175ra-177rb</locus>
+                <locus facs="176">173va-175rb</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="2807" corresp="https://w3id.org/malke/2807/">
+                  <title xml:lang="gez">ሰላምታ፡ ዘማርያም፡ ዘሰብዐቱ፡ ጊዜያት፡</title>
+                  <title xml:lang="gez" type="normalized">Salāmtā za-Māryām za-Sabʿattu Gizeyāt</title>
+                  <title xml:lang="en">Salutations for Mary for the Canonical Hours</title>
+                </title>
+                
+              </msItem>
+              
+              
+              <msItem n="78">
+                
+                <locus facs="177">175ra-177rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1199,9 +1229,9 @@
               </msItem>
               
               
-              <msItem n="77">
+              <msItem n="79">
                 
-                <locus>177va-178rb</locus>
+                <locus facs="180">177va-178rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1214,9 +1244,9 @@
               </msItem>
               
               
-              <msItem n="78">
+              <msItem n="80">
                 
-                <locus>178ra-180vb</locus>
+                <locus facs="180">178ra-180vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1229,9 +1259,9 @@
               </msItem>
               
               
-              <msItem n="79">
+              <msItem n="81">
                 
-                <locus>181ra-183rb</locus>
+                <locus facs="183">181ra-183rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1244,9 +1274,9 @@
               </msItem>
               
               
-              <msItem n="80">
+              <msItem n="82">
                 
-                <locus>183ra-184vb</locus>
+                <locus facs="185">183ra-184vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1259,9 +1289,9 @@
               </msItem>
               
               
-              <msItem n="81">
+              <msItem n="83">
                 
-                <locus>184va-186vb</locus>
+                <locus facs="187">184va-186vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1274,9 +1304,9 @@
               </msItem>
               
               
-              <msItem n="82">
+              <msItem n="84">
                 
-                <locus>186va-188vb</locus>
+                <locus facs="189">186va-188vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1289,9 +1319,9 @@
               </msItem>
               
               
-              <msItem n="83">
+              <msItem n="85">
                 
-                <locus>189ra-190vb</locus>
+                <locus facs="191">189ra-190vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1304,9 +1334,9 @@
               </msItem>
               
               
-              <msItem n="84">
+              <msItem n="86">
                 
-                <locus>190va-192rb</locus>
+                <locus facs="193">190va-192rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1319,9 +1349,9 @@
               </msItem>
               
               
-              <msItem n="85">
+              <msItem n="87">
                 
-                <locus>192ra-195rb</locus>
+                <locus facs="194">192ra-195rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1334,9 +1364,9 @@
               </msItem>
               
               
-              <msItem n="86">
+              <msItem n="88">
                 
-                <locus>195va-198rb</locus>
+                <locus facs="198">195va-198rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1349,9 +1379,9 @@
               </msItem>
               
               
-              <msItem n="87">
+              <msItem n="89">
                 
-                <locus>198ra-200vb</locus>
+                <locus facs="200">198ra-200vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1364,9 +1394,9 @@
               </msItem>
               
               
-              <msItem n="88">
+              <msItem n="90">
                 
-                <locus>200va-202rb</locus>
+                <locus facs="203">200va-202rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1379,9 +1409,9 @@
               </msItem>
               
               
-              <msItem n="89">
+              <msItem n="91">
                 
-                <locus>202va-204rb</locus>
+                <locus facs="205">202va-204rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1394,9 +1424,9 @@
               </msItem>
               
               
-              <msItem n="90">
+              <msItem n="92">
                 
-                <locus>204ra-205rb</locus>
+                <locus facs="206">204ra-205rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1409,9 +1439,9 @@
               </msItem>
               
               
-              <msItem n="91">
+              <msItem n="93">
                 
-                <locus>205va-207rb</locus>
+                <locus facs="208">205va-207rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -1441,6 +1471,8 @@
       </langUsage>
     </profileDesc>
   </teiHeader>
+  
+  <facsimile source="https://www.vhmml.org/image/manifest/200043"/>
   
   <text>
 
