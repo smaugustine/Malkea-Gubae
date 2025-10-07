@@ -10,7 +10,6 @@ folios: 47
 columns: 2
 lines: 22
 origin: 18th century
-
 paginated: true
 
 iiif: https://viewer.cbl.ie/viewer/api/v1/records/W_949/manifest/
