@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="GG085">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-085</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>159va-166vb</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 
