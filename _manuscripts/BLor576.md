@@ -12,6 +12,13 @@ columns: 2
 lines: 13
 origin: 18th century
 
+arrangement:
+  types:
+    - trinitarian: 11r-50r
+    - marian: 51r-86r
+    - angelic: 87r-107r
+    - martyr: 108r-139v
+
 units:
   - locus: 11r-139v
     contents:

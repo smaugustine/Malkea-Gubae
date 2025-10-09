@@ -11,6 +11,12 @@ columns: 2
 lines: 26
 origin: 18th-19th century
 
+arrangement:
+  types:
+    - angelic: 7r-57v
+    - martyr: 59r-104v
+    - righteous: 105r-121r
+
 units:
   - locus: 
     contents:

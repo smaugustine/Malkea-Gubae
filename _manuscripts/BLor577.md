@@ -13,6 +13,13 @@ lines: 20
 origin: 1721-1730
 century: 18th century
 
+arrangement:
+  types:
+    - prophet: 1r-17r
+    - apostle: 17r-32r
+    - righteous: 32r-120r
+    - martyr: 121r-189v
+
 units:
   - locus: 1r-196v
     contents:
