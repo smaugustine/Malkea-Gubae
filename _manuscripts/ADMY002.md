@@ -9,7 +9,7 @@ width: 220
 folios: 123
 columns: 2
 lines: 26
-century: 18th-19th century
+origin: 18th-19th century
 
 units:
   - locus: 
