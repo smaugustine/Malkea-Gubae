@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ አፍቀረነ፡ እግዚእ፡ ዘዴጐ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAfqaranna ʾƎgziʾ za-Degʷa</title>
-        <title corresp="#t1" xml:lang="en">Image of ʾAfqaranna ʾƎgziʾ of Degʷa</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አፍቀረነ፡ እግዚእ፡ ዘደብረ፡ ዴጐ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAfqaranna ʾƎgziʾ za-Dabra Degʷa</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAfqaranna ʾƎgziʾ of Dabra Degʷa</title>
         
       </titleStmt>
 
@@ -180,10 +180,10 @@
             <listPerson>
               
               
-              <person xml:id="afqaranna-egzi-degwa">
-                <persName xml:lang="gez">አፍቀረነ፡ እግዚእ፡ ዘዴጐ፡</persName>
-                <persName xml:lang="gez" type="normalized">ʾAfqaranna ʾƎgziʾ za-Degʷa</persName>
-                <persName xml:lang="en">ʾAfqaranna ʾƎgziʾ of Degʷa</persName>
+              <person xml:id="afqaranna-egzi-d-degwa">
+                <persName xml:lang="gez">አፍቀረነ፡ እግዚእ፡ ዘደብረ፡ ዴጐ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAfqaranna ʾƎgziʾ za-Dabra Degʷa</persName>
+                <persName xml:lang="en">ʾAfqaranna ʾƎgziʾ of Dabra Degʷa</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

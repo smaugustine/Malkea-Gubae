@@ -31,6 +31,17 @@
           
           
           
+          <witness xml:id="CBLw919">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dublin</settlement>
+                <repository>Chester Beatty Library</repository>
+                <idno>W.919</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>8ra-8vb</locus>
+          </witness>
+          
           <witness xml:id="EMML0659">
             <msDesc>
               <msIdentifier>
@@ -58,7 +69,7 @@
               <msIdentifier>
                 <settlement>ʾAddis ʾAbabā</settlement>
                 <repository>Institute for Ethiopian Studies</repository>
-                <idno>1016</idno>
+                <idno>IES 1016</idno>
               </msIdentifier>
             </msDesc>
             <locus>24r-31r</locus>

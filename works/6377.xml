@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="CBLw919">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dublin</settlement>
+                <repository>Chester Beatty Library</repository>
+                <idno>W.919</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>33rb-35rb</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

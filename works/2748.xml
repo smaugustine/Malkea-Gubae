@@ -31,6 +31,17 @@
           
           
           
+          <witness xml:id="CBLw919">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dublin</settlement>
+                <repository>Chester Beatty Library</repository>
+                <idno>W.919</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>38ra-40rb</locus>
+          </witness>
+          
           <witness xml:id="EMML0374">
             <msDesc>
               <msIdentifier>

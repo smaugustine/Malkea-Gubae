@@ -64,6 +64,17 @@
             <locus>3r-5r</locus>
           </witness>
           
+          <witness xml:id="CBLw919">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dublin</settlement>
+                <repository>Chester Beatty Library</repository>
+                <idno>W.919</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>35va-37r</locus>
+          </witness>
+          
           <witness xml:id="EMML0659">
             <msDesc>
               <msIdentifier>

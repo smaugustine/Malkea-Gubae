@@ -320,10 +320,10 @@
                 
                 <textLang mainLang="gez"/>
                 
-                <title ref="0377" corresp="https://w3id.org/malke/0377/">
-                  <title xml:lang="gez">መልክአ፡ ፊቅጦር፡</title>
-                  <title xml:lang="gez" type="normalized">Malkəʾa Fiqṭor</title>
-                  <title xml:lang="en">Image of Victor</title>
+                <title>
+                  <title xml:lang="gez"></title>
+                  <title xml:lang="gez" type="normalized"></title>
+                  <title xml:lang="en"></title>
                 </title>
                 
               </msItem>
