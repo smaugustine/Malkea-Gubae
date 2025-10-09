@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe1864" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሥዕል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śəʿl</title>
+        <title corresp="#t1" xml:lang="en">Image of the Icon</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/1864/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="CBLw919">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dublin</settlement>
+                <repository>Chester Beatty Library</repository>
+                <idno>W.919</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>38ra-40rb</locus>
+          </witness>
+          
+          <witness xml:id="EMML0374">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Gəbi Gabrəʾel</repository>
+                <idno>EMML 374</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>92rb-94rb</locus>
+          </witness>
+          
+          <witness xml:id="EMML0659">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>ʾArādā Giyorgis</repository>
+                <idno>EMML 659</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>73rc-74va</locus>
+          </witness>
+          
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>84ra-85rb</locus>
+          </witness>
+          
+          <witness xml:id="GG144">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Gunda Gunde</repository>
+                <idno>GG-144</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>145rb-146rc</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">32</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለሥዕልኪ፡ ዘይኤድም፡ ለንጻሬ፨</l>
+            <l n="2">ዓዲ፡ ሰላም፡ ለሥዕለ፡ ወልድኪ፡ በኁባሬ፨</l>
+            <l n="3">አክሊለ፡ ሢመቱ፡ ለጴጥሮስ፡ ማርያም፡ እንተ፡ ትጸድሊ፡ እምወራውሬ፨</l>
+            <l n="4">ለተአምርኪ፡ ባቍዕ፡ ሶበ፡ አቄርብ፡ ዝማሬ፨</l>
+            <l n="5">ክድንኒ፡ ሊተ፡ ለገብርኪ፡ ሣህለኪ፡ ጶዴሬ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">ሰላም፡ ለሥዕልኪ፡ ወለሥዕለ፡ ወልድኪ፡ አልፋ፨</l>
+            <l n="2">ማርያም፡ ዘኮንኪ፡ ለኃጥአነ፡ ምድር፡ ተስፋ፨</l>
+            <l n="3">እመቦ፡ እምሰብእ፡ ዘይሜንና፡ ወዘይገድፋ፨</l>
+            <l n="4">ለተአምርኪ፡ ባቍዕ፡ እንተ፡ ደቅስዮስ፡ ጸሐፋ፨</l>
+            <l n="5">ውጉዘ፡ ይኩን፡ በቃሎሙ፡ ለሳውል፡ ወኬፋ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እሰግድ፡ ለኪ፡ ከመ፡ ኃጢአትየ፡ ታስተስርዪ፨</l>
+            <l n="2">ማርያም፡ ንግሥት፡ ቅድመ፡ ዓይነ፡ ኵሉ፡ ጸላዪ፨</l>
+            <l n="3">ሥዕለ፡ አድኅኖ፡ ሥዕልኪ፡ እንተ፡ ትሰመዪ፨</l>
+            <l n="4">ተአምረ፡ ከመ፡ ታርእዪ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">እሰግድ፡ ለኪ፡ ማርያም፡ ረድአቶ፡ ለዘእምዓራቱ፡ ተነጽሐ፨</l>
+            <l n="2">ሥዕለ፡ አድኅኖ፡ ሥዕልኪ፡ መዝራዕታ፡ ሰፊሓ፨</l>
+            <l n="3">ትርድአኒ፡ ከመ፡ አሜሃ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">እሰግድ፡ ለኪ፡ ማርያም፡ ኩኒ፡ ለሕይወትየ፡ ጸወኖ፨</l>
+            <l n="2">እስመ፡ ተማኅፀንኩ፡ አንሰ፡ ተማኅፅኖ፨</l>
+            <l n="3">በሥዕልኪ፡ ሥዕለ፡ አድኅኖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">እሰግድ፡ ለኪ፡ በእንተ፡ ዛቲ፡ ግርምት፡ ሥዕለ፡ አድኅኖ፡ ሥዕልኪ፨</l>
+            <l n="2">ወሥዕለ፡ መለኮት፡ ሕፃንኪ፨</l>
+            <l n="3">ጽጌያተ፡ ማኅሌት፡ ስብዓ፡ ዘአወፈይኩኪ፨</l>
+            <l n="4">ንሥኢ፡ ማርያም፡ ቀጸላ፡ ይኩንኪ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="icon-mary">
+                <persName xml:lang="gez">ሥዕላ፡ ለማርያም፡</persName>
+                <persName xml:lang="gez" type="normalized">Śəʿlā la-Māryām</persName>
+                <persName xml:lang="en">The Icon of Mary</persName>
+                <trait type="category"><desc>marian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>
