@@ -5,9 +5,13 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርዓዊ፡ ክርስቶስ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marʿāwi Krəstos</title>
-        <title corresp="#t1" xml:lang="en">Image of Marʿāwi Krəstos</title>
+        <title xml:id="t1" xml:lang="gez"></title>
+        <title corresp="#t1" xml:lang="gez" type="normalized"></title>
+        <title corresp="#t1" xml:lang="en"></title>
+        
+        <title xml:id="t2" xml:lang="gez"></title>
+        <title corresp="#t2" xml:lang="gez" type="normalized"></title>
+        <title corresp="#t2" xml:lang="en"></title>
         
       </titleStmt>
 
@@ -170,9 +174,9 @@
               
               
               <person xml:id="marawi-krestos">
-                <persName xml:lang="gez">መርዓዊ፡ ክርስቶስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Marʿāwi Krəstos</persName>
-                <persName xml:lang="en">Marʿāwi Krəstos</persName>
+                <persName xml:lang="gez">መርዓዊ፡ ክርስቶስ፡ ዘጻዕዳ፡ እምባ፡</persName>
+                <persName xml:lang="gez" type="normalized">Marʿāwi Krəstos za-Ṣāʿədā ʾƎmbā</persName>
+                <persName xml:lang="en">Marʿāwi Krəstos of Ṣāʿədā ʾƎmbā</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

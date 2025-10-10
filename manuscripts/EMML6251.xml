@@ -305,10 +305,10 @@
                 
                 <textLang mainLang="gez"/>
                 
-                <title ref="3067" corresp="https://w3id.org/malke/3067/">
-                  <title xml:lang="gez">መልክአ፡ ሥሉስ፡ ቅዱስ፡</title>
-                  <title xml:lang="gez" type="normalized">Malkəʾa Śəllus Qəddus</title>
-                  <title xml:lang="en">Image of the Holy Trinity</title>
+                <title ref="2908" corresp="https://w3id.org/malke/2908/">
+                  <title xml:lang="gez">መልክአ፡ ሥላሴ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Śəllāse</title>
+                  <title xml:lang="en">Image of the Trinity</title>
                 </title>
                 
               </msItem>
@@ -440,10 +440,10 @@
                 
                 <textLang mainLang="gez"/>
                 
-                <title ref="0213" corresp="https://w3id.org/malke/0213/">
-                  <title xml:lang="gez">መልክአ፡ እግዚአብሔር፡ አብ፡</title>
-                  <title xml:lang="gez" type="normalized">Malkəʾa ʾƎgziʾabəḥer ʾAb</title>
-                  <title xml:lang="en">Image of God the Father</title>
+                <title ref="0214" corresp="https://w3id.org/malke/0214/">
+                  <title xml:lang="gez">መልክአ፡ እግዚአብሔር፡ አብ፡ ክፍል፡ ዳግማይ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa ʾƎgziʾabəḥer ʾAb Kəfl Dāgmāy</title>
+                  <title xml:lang="en">Image of God the Father — Second Part</title>
                 </title>
                 
               </msItem>

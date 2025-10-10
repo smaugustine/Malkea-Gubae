@@ -46,6 +46,17 @@
             <locus>52vc-54ra</locus>
           </witness>
           
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>55vb-56vb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

@@ -42,6 +42,17 @@
             <locus>102va-103rc</locus>
           </witness>
           
+          <witness xml:id="EMML6251">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>ʾAddis ʿĀlam Māryām</repository>
+                <idno>EMML 6251</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>70ra-70vb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>
