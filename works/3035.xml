@@ -97,6 +97,17 @@
             <locus>84vb-88vc</locus>
           </witness>
           
+          <witness xml:id="EMML1950">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Wallo</settlement>
+                <repository>Ḥayq ʾƎsṭifānos</repository>
+                <idno>EMML 1950</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>96ra-98va</locus>
+          </witness>
+          
           <witness xml:id="EMML6251">
             <msDesc>
               <msIdentifier>

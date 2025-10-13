@@ -86,6 +86,17 @@
             <locus>39rc-42ra</locus>
           </witness>
           
+          <witness xml:id="EMML1950">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Wallo</settlement>
+                <repository>Ḥayq ʾƎsṭifānos</repository>
+                <idno>EMML 1950</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>58vb-61rb</locus>
+          </witness>
+          
           <witness xml:id="EMML6251">
             <msDesc>
               <msIdentifier>
