@@ -1,5 +1,5 @@
 ---
 name: Gabra Mikāʾel
 commemorations:
-  - [23, 12]
+  - [23, 1]
 ---
