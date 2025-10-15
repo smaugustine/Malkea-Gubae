@@ -53,6 +53,17 @@
             <locus>71rb-75vb</locus>
           </witness>
           
+          <witness xml:id="EMIP0764">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 764</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>76ra-77ra</locus>
+          </witness>
+          
           <witness xml:id="EMML0374">
             <msDesc>
               <msIdentifier>

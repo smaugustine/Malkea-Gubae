@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0350" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2904" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,7 @@
           </persName>
         </authority>
         <date>2025</date>
-        <ref target="https://w3id.org/malke/0350/"/>
+        <ref target="https://w3id.org/malke/2904/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -33,6 +33,34 @@
         </listWit>
       </sourceDesc>
 
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">185</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
       
     </fileDesc>
 
@@ -54,31 +82,31 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ በሰሌዳ፡ ሰማይ፡ ጥብጡብ፨</l>
-            <l n="2">ዘሆህያቲሁ፡ ታስዕ፡ ወካዕበተ፡ ካዕብ፨</l>
-            <l n="3">አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ አንቅዕተ፡ ጥበብ፨</l>
-            <l n="4">አኅልፉኒ፡ በተንብሎ፡ እምነ፡ ፍኖት፡ መጽብብ፨</l>
-            <l n="5">ምስሌክሙ፡ ለሀልዎ፡ ውስተ፡ ምድር፡ ርኂብ፨</l>
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ክቡር፡ ወልዑል፨</l>
+            <l n="2">እምዝክረ፡ አበው፡ ቀደምት፡ ሠናያነ፡ ምግባር፡ ወቃል፨</l>
+            <l n="3">አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ በጌራተ፡ አሚን፡ ክሉል፨</l>
+            <l n="4">ከመ፡ እንብብ፡ ስብሐቲክሙ፡ በመዝሙረ፡ ሐዲስ፡ ፊደል፨</l>
+            <l n="5">አፈ፡ ልቡናየ፡ ይክሥት፡ ዘጰራቅሊጦስ፡ ኀይል፨</l>
 
           </lg>
           
-          <lg type="stanza" n="2">
+          <lg type="stanza" n="20">
             
-            <l n="1">ሰላም፡ ለሥዕርትክሙ፡ ወለአርእስቲክሙ፡ ክሉላነ፡ ጌራ፨</l>
-            <l n="2">ለፍጽምክሙ፡ ሰላም፡ ወለገጽክሙ፡ ኅብረ፡ ነከራ፨</l>
-            <l n="3">አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ አዕማደ፡ ሴድራ፨</l>
-            <l n="4">እምዐላውያን፡ ነገሥት፡ ከመ፡ ተባልሐት፡ ሳራ፨</l>
-            <l n="5">ባልሑኒ፡ ሊተ፡ እምኵሉ፡ መከራ፨</l>
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋክሙ፡ በሥርዓተ፡ አበው፡ ቀደምት፨</l>
+            <l n="2">ወለመቃብሪክሙ፡ ሰላም፡ እስከ፡ ትመጽእ፡ ሕይወት፨</l>
+            <l n="3">አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ ዘነበርክሙ፡ ዘበሐይመታት፨</l>
+            <l n="4">እንዘ፡ ትጸንሑ፡ ዘበላዕሉ፡ መንግሥት፨</l>
+            <l n="5">አኮ፡ ምድረ፡ ተስፋ፡ ወሌዎን፡ ርስት፨</l>
 
           </lg>
           
-          <lg type="stanza" n="16">
+          <lg type="stanza" n="21">
             
-            <l n="1">በከመ፡ ተወክፈ፡ እግዚአብሔር፡ መሥዋዕተክሙ፡ ንጹሐ፨</l>
-            <l n="2">በበ፡ ዘመንክሙ፡ ለለ፡ አሐዱ፡ ጊዜ፡ አዕረግክሙ፡ ጽንሐሐ፨</l>
-            <l n="3">አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ ለእመ፡ አምላክ፡ አበዊሃ፨</l>
-            <l n="4">ተወኪፈክሙ፡ በኢመንኖ፡ እንዘ፡ አቅረብኩ፡ አምኃ፨</l>
-            <l n="5">ዕሥዩኒ፡ ጥቀ፡ ዕሤተ፡ ብዙኀ፨</l>
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ እንዘ፡ አስተሐምም፡ ጥቀ፨</l>
+            <l n="2"> </l>
+            <l n="3"> </l>
+            <l n="4"> </l>
+            <l n="5"> </l>
 
           </lg>
           

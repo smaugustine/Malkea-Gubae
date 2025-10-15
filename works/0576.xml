@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMIP0764">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 764</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>114ra-116ra</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 
@@ -54,10 +67,10 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ___ ___፨</l>
-            <l n="2">ወመንፈስ፡ ቅዱስ፡ አሐዱ፡ ጸጋ፨</l>
-            <l n="3">ሥርዓተ፡ ቍርባን፡ አንበረ፡ ለቤተ፡ ክርስቲያን፡ መልዕልተ፡ ሕጋ፨</l>
-            <l n="4">ይትዌለጡ፡ ወይከውኑ፡ እንበለ፡ ተፈልጦ፡ ወንትጋ፨</l>
+            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ አሐዱ፡ አምላክ፡ ጥንተ ጸጋ፨</l>
+            <l n="2">ዘምስጢረ፡ ቍርባን፡ አንበረ፡ ለቤተ፡ ክርስቲያን፡ መልዕልተ፡ ሕጋ፨</l>
+            <l n="3">ሶበ፡ ይትቄደሱ፡ ኅብስት፡ ወጽዋዐ፡ ወይን፡ ቅድመ፡ እንግልጋ፨</l>
+            <l n="4">ይትዌለጡ፡ ወይከውኑ፡ እንበለ፡ ተከፍሎ፡ ወንትጋ፨</l>
             <l n="5">ደመ፡ መለኮት፡ ነባቢ፡ ወሕያው፡ ሥጋ፨</l>
 
           </lg>

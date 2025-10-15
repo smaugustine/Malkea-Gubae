@@ -42,6 +42,17 @@
             <locus>64ra-67va</locus>
           </witness>
           
+          <witness xml:id="EMIP0764">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 764</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>120ra-121ra</locus>
+          </witness>
+          
           <witness xml:id="EMML0659">
             <msDesc>
               <msIdentifier>
@@ -128,7 +139,7 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ወለሥዕርትክሙ፡ በፍቅድ፨</l>
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ወለሥዕርትክሙ፡ በፍቅድ፨</l>
             <l n="2">ለርእስክሙ፡ ሰላም፡ ወለገጽክሙ፡ ጽሑድ፨</l>
             <l n="3">አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ ዘቤተ፡ አእምሮ፡ ፍድፉድ፨</l>
             <l n="4">ይትቀሰም፡ አእምሮትየ፡ በልሳንክሙ፡ እድ፨</l>

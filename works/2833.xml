@@ -50,6 +50,17 @@
             <locus>21va-26ra</locus>
           </witness>
           
+          <witness xml:id="EMIP0764">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 764</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>24ra-26va</locus>
+          </witness>
+          
           <witness xml:id="EMML0659">
             <msDesc>
               <msIdentifier>
