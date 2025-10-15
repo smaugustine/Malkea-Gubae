@@ -81,9 +81,9 @@
                 <textLang mainLang="gez"/>
                 
                 <title ref="0313" corresp="https://w3id.org/malke/0313/">
-                  <title xml:lang="gez"></title>
-                  <title xml:lang="gez" type="normalized"></title>
-                  <title xml:lang="en"></title>
+                  <title xml:lang="gez">መልክአ፡ መርዓዊ፡ ክርስቶስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Marʿāwi Krəstos</title>
+                  <title xml:lang="en">Image of Marʿāwi Krəstos</title>
                 </title>
                 
               </msItem>
