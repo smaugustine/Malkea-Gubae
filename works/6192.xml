@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Saqoqāwa Nafs</title>
         <title corresp="#t1" xml:lang="en">Lamentation of the Soul</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ሰቆቃወ፡ ነፍስ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkǝʾa Saqoqāwa Nafs</title>
+        <title corresp="#t2" xml:lang="en">Image of the Lamentation of the Soul</title>
+        
       </titleStmt>
 
       <publicationStmt>

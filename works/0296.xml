@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yəmrəḥanna Krəstos Lālibalā wa-Naʾakkʷəto Laʾab</title>
         <title corresp="#t1" xml:lang="en">Image of Yəmrəḥanna Krəstos, Lālibalā, and Naʾakkʷəto Laʾab</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ቅዱሳን፡ ነገሥታት፡ ዘሮሐ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Qǝddusān Nagaśtāt za-Roḥa</title>
+        <title corresp="#t2" xml:lang="en">Image of the Holy Kings of Roḥa</title>
+        
       </titleStmt>
 
       <publicationStmt>

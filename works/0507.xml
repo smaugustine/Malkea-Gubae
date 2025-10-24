@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Fəlsatomu la-Kəlʾettu Qəddusān</title>
         <title corresp="#t1" xml:lang="en">Image of the Translation of Two Saints</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ተክለ፡ አልፋ፡ ወቶማስ፡ ዘደብረ፡ ድማኅ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Takla ʾAlfā wa-Tomās za-Dabra Dǝmāḫ</title>
+        <title corresp="#t2" xml:lang="en">Image of Takla ʾAlfā and Tomās of Dabra Dǝmāḫ</title>
+        
       </titleStmt>
 
       <publicationStmt>

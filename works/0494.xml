@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tomās za-Zanāqude</title>
         <title corresp="#t1" xml:lang="en">Image of Tomās of Zanāqude</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ቶማስ፡ ዘሐይዳ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Tomās za-Ḥaydā</title>
+        <title corresp="#t2" xml:lang="en">Image of Tomās of Ḥaydā</title>
+        
       </titleStmt>
 
       <publicationStmt>

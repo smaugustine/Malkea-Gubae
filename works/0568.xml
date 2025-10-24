@@ -7,7 +7,7 @@
         
         <title xml:id="t1" xml:lang="gez">መልክአ፡ አጼ፡ ዮሐንስ፡</title>
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAṣe Yoḥannǝs</title>
-        <title corresp="#t1" xml:lang="en">Image of Yoḥannǝs I</title>
+        <title corresp="#t1" xml:lang="en">Image of Yoḥannǝs IV</title>
         
       </titleStmt>
 
@@ -128,10 +128,10 @@
             <listPerson>
               
               
-              <person xml:id="yohannes-i">
+              <person xml:id="yohannes-iv">
                 <persName xml:lang="gez">አጼ፡ ዮሐንስ፡</persName>
                 <persName xml:lang="gez" type="normalized">ʾAṣe Yoḥannǝs</persName>
-                <persName xml:lang="en">Yoḥannǝs I</persName>
+                <persName xml:lang="en">Yoḥannǝs IV</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

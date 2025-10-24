@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṣādqān</title>
         <title corresp="#t1" xml:lang="en">Image of the Righteous</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ማኅበረ፡ ክርስቶስ፡ ጻድቃን፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Māḫbara Krǝstos Ṣādqān</title>
+        <title corresp="#t2" xml:lang="en">Image of the Assembly of Christ, the Righteous</title>
+        
       </titleStmt>
 
       <publicationStmt>

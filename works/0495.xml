@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥanni za-Dabra ʿĀśā</title>
         <title corresp="#t1" xml:lang="en">Image of Yoḥanni of Dabra ʿĀśā</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ዮሐኒ፡ ዘተንቤን፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Yoḥanni za-Tanben</title>
+        <title corresp="#t2" xml:lang="en">Image of Yoḥanni of Tanben</title>
+        
       </titleStmt>
 
       <publicationStmt>

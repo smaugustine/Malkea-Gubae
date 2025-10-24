@@ -7,7 +7,7 @@
         
         <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ ከማ፡</title>
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Kamā</title>
-        <title corresp="#t1" xml:lang="en">Image of John Kamā</title>
+        <title corresp="#t1" xml:lang="en">Image of Yoḥannəs Kamā</title>
         
       </titleStmt>
 
@@ -192,7 +192,7 @@
               <person xml:id="john-kama">
                 <persName xml:lang="gez">ዮሐንስ፡ ከማ፡</persName>
                 <persName xml:lang="gez" type="normalized">Yoḥannəs Kamā</persName>
-                <persName xml:lang="en">John Kamā</persName>
+                <persName xml:lang="en">Yoḥannəs Kamā</persName>
                 <trait type="category"><desc>martyr</desc></trait>
 
                 

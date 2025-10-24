@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tewodros</title>
         <title corresp="#t1" xml:lang="en">Image of Theodore</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ቴዎድሮስ፡ በናድልዮስ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Tewodros Banādlǝyos</title>
+        <title corresp="#t2" xml:lang="en">Image of Theodore the Anatolian</title>
+        
       </titleStmt>
 
       <publicationStmt>
