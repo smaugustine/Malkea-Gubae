@@ -1,7 +1,5 @@
 ---
-name:
-  gez: Yoḥannəs Kamā
-  en: John Kamā
+name: Yoḥannəs Kamā
 commemorations:
   - [25, 4]
 ---
