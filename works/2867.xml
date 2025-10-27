@@ -6,8 +6,8 @@
       <titleStmt>
         
         <title xml:id="t1" xml:lang="gez">መልክአ፡ ጌርሎስ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gerəllos</title>
-        <title corresp="#t1" xml:lang="en">Image of Gerəllos</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gerǝllos</title>
+        <title corresp="#t1" xml:lang="en">Image of Gerǝllos</title>
         
       </titleStmt>
 
@@ -148,11 +148,11 @@
             <listPerson>
               
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait type="category"><desc></desc></trait>
+              <person xml:id="gerellos">
+                <persName xml:lang="gez">ጌርሎስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Gerǝllos</persName>
+                <persName xml:lang="en">Gerǝllos</persName>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>
