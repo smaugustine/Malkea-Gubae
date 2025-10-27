@@ -7,7 +7,7 @@
         
         <title xml:id="t1" xml:lang="gez">መልክአ፡ ጌርሎስ፡</title>
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gerəllos</title>
-        <title corresp="#t1" xml:lang="en">Image of Cyril</title>
+        <title corresp="#t1" xml:lang="en">Image of Gerəllos</title>
         
       </titleStmt>
 
@@ -96,17 +96,17 @@
           <lg type="stanza" n="1">
             
             <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በሰሌዳ፡ ብፅዓን፡ ዘተለክአ፨</l>
-            <l n="2">በኵሉ፡ ተጸውዓ፨</l>
+            <l n="2">በኵሉ፡ ተጸውዐ፨</l>
             <l n="3">ኀይለ፡ ሀኬታት፡ ጌርሎስ፡ ትጋሃ፡ ጸሎትከ፡ እንተ፡ ሞኣ፨</l>
             <l n="4">አጥብበኒ፡ በጥበብከ፡ ወጸግወኒ፡ ጽንዓ፨</l>
-            <l n="5">እስከ፡ በጽሒፍ፡ እፌጽም፡ ዘለከ፡ መልክዓ፨</l>
+            <l n="5">እስከ፡ በጽሒፍ፡ እፌጽም፡ ዘለከ፡ መልክአ፨</l>
 
           </lg>
           
           <lg type="stanza" n="2">
             
             <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ እለ፡ ረስያ፡ ወትረ፨</l>
-            <l n="2">ስርወ፡ መልክዓት፡ ኵሎን፡ ወአባላት፡ መንበረ፨</l>
+            <l n="2">ስርወ፡ መልክኣት፡ ኵሎን፡ ወአባላት፡ መንበረ፨</l>
             <l n="3">ገባሬ፡ ተአምር፡ ጌርሎስ፡ ተአምራቲከ፡ ተነክረ፨</l>
             <l n="4">ያዕርገኒ፡ የማንከ፡ ዘጸጋከ፡ ደብረ፨</l>
             <l n="5">እስከ፡ በመትከፍ፡ እጸውር፡ ዘመስቀል፡ ጾረ፨</l>
@@ -125,7 +125,7 @@
           
           <lg type="stanza" n="51">
             
-            <l n="1">በጻማ፡ ማኅሌት፡ ዘለከ፡ በዘ፡ አንተ፡ አክሀልኮ፨</l>
+            <l n="1">በጻማ፡ ማሕሌት፡ ዘለከ፡ በዘ፡ አንተ፡ አክሀልኮ፨</l>
             <l n="2">አምጣነ፡ ጻመወ፡ ጥቀ፡ ሰብእናየ፡ በኢያውክኮ፨</l>
             <l n="3">ጌርሎስ፡ ዘኮንከ፡ ለእግዚአብሔር፡ ላእኮ፨</l>
             <l n="4">ባርከኒ፡ ባርኮተ፡ ከመ፡ ይስሐቅ፡ ባረኮ፨</l>
@@ -141,6 +141,26 @@
     </body>
     
     <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="">
+                <persName xml:lang="gez"></persName>
+                <persName xml:lang="gez" type="normalized"></persName>
+                <persName xml:lang="en"></persName>
+                <trait type="category"><desc></desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
       
       
     </back>

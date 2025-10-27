@@ -61,7 +61,7 @@
               
               <msItem n="1">
                 
-                <locus>1ra-9rb</locus>
+                <locus facs="1">1ra-9rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -76,7 +76,7 @@
               
               <msItem n="2">
                 
-                <locus>9va-25va</locus>
+                <locus facs="10">9va-25va</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -91,7 +91,7 @@
               
               <msItem n="3">
                 
-                <locus>25va-33ra</locus>
+                <locus facs="26">25va-33ra</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -106,7 +106,7 @@
               
               <msItem n="4">
                 
-                <locus>33ra-41ra</locus>
+                <locus facs="33">33ra-41ra</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -121,7 +121,7 @@
               
               <msItem n="5">
                 
-                <locus>41ra-48va</locus>
+                <locus facs="41">41ra-48va</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -136,7 +136,7 @@
               
               <msItem n="6">
                 
-                <locus>48va-50vb</locus>
+                <locus facs="49">48va-50vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -151,7 +151,7 @@
               
               <msItem n="7">
                 
-                <locus>51ra-55ra</locus>
+                <locus facs="51">51ra-55ra</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -166,7 +166,7 @@
               
               <msItem n="8">
                 
-                <locus>55ra-62ra</locus>
+                <locus facs="55">55ra-62ra</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -181,7 +181,7 @@
               
               <msItem n="9">
                 
-                <locus>62ra-67va</locus>
+                <locus facs="62">62ra-67va</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -196,7 +196,7 @@
               
               <msItem n="10">
                 
-                <locus>67va-76ra</locus>
+                <locus facs="68">67va-76ra</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -211,7 +211,7 @@
               
               <msItem n="11">
                 
-                <locus>76ra-80vb</locus>
+                <locus facs="76">76ra-80vb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -226,7 +226,7 @@
               
               <msItem n="12">
                 
-                <locus>80vb-85va</locus>
+                <locus facs="81">80vb-85va</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -241,7 +241,7 @@
               
               <msItem n="13">
                 
-                <locus>86ra-91va</locus>
+                <locus facs="86">86ra-91va</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -268,7 +268,7 @@
               
               <msItem n="1">
                 
-                <locus>91va-93rb</locus>
+                <locus facs="92">91va-93rb</locus>
                 
                 <textLang mainLang="gez"/>
                 
@@ -298,6 +298,8 @@
       </langUsage>
     </profileDesc>
   </teiHeader>
+  
+  <facsimile source="https://betamasaheft.eu/api/iiif/ESmakm074/manifest"/>
   
   <text>
 
