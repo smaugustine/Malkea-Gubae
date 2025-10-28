@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe7744" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ስብሐተ፡ መስቀል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Sǝbḥata Masqal</title>
+        <title corresp="#t1" xml:lang="en">Praise of the Cross</title>
+        
+        <title xml:id="t2" xml:lang="gez">እንዘ፡ ኣኀትም፡ ገጽየ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">ʾƎnza ʾĀḫattǝm Gaṣṣǝya</title>
+        <title corresp="#t2" xml:lang="en">“As I Sign My Face…”</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/7744/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="EMML9030">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dabra Tābor</settlement>
+                <repository>Dabra Tābor ʾIyyasus</repository>
+                <idno>EMML 9030</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>235ra-236vc</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እንዘ፡ ኣኀትም፡ ገጽየ፡ ለመስቀልከ፡ በማሕተሙ፨</l>
+            <l n="2">ተዝካረ፡ ማሕሌት፡ እጽሕፍ፡ ዘስብሐተ፡ መስቀል፡ ስሙ፨</l>
+            <l n="3">ወስከኒ፡ ክርስቶስ፡ ኀይለ፡ አእምሮትከ፡ ለለ፡ ጌሠሙ፨</l>
+            <l n="4">ወምልአኒ፡ መንፈሰ፡ ጽድቅ፡ ዘኢየሐጽጽ፡ ሰላሙ፨</l>
+            <l n="5">ከመ፡ ኢይምአኒ፡ ለሥጋየ፡ ድካሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ናሁ፡ አኀዝኩ፡ ከመ፡ እትናገር፡ ዕበዮ፨</l>
+            <l n="2">ለዕፀ፡ መስቀልከ፡ ክቡር፡ ዘተተክለ፡ በቀራንዮ፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ ፈጻሜ፡ አምሳል፡ ወተነብዮ፨</l>
+            <l n="4">ቶስሕ፡ በላዕሌየ፡ ለመንፈስከ፡ ዋዕዮ፨</l>
+            <l n="5">ዘያቀሊ፡ ልበ፡ ወይዔምቅ፡ ኀልዮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ኦዘዐርገ፡ ሰማያተ፡ ምስለ፡ ቃለ፡ ስብሐት፡ ወውዋዔ፨</l>
+            <l n="2">ፄዊወከ፡ ፄዋ፡ በመስቀለ፡ ሞትከ፡ ቅድመ፡ ጉባኤ፨</l>
+            <l n="3">በዓለ፡ ገራህይት፡ ክርስቶስ፡ መበይነ፡ ክርዳድ፡ በመስዔ፨</l>
+            <l n="4">አስተጋብእ፡ በሙዳይከ፡ አምሳለ፡ ጸራ[ይ]ቅ፡ ክልኤ፨</l>
+            <l n="5">ኍልቈ፡ ማሕሌትየ፡ ዘኀምስ፡ ሱባዔ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ኦዘፈኖከ፡ መንፈሰከ፡ ናዛዜ፨</l>
+            <l n="2">ኀበ፡ ሐዋርያት፡ ሀለዉ፡ ውሣጤ፡ ጽርሐ፡ ጽዮን፡ ምስለ፡ እንባዜ፨</l>
+            <l n="3">እስመ፡ መልአ፡ ክርስቶስ፡ ስብሐተ፡ መስቀልከ፡ ማየ፡ ተከዜ፨</l>
+            <l n="4">ተውላጠ፡ ዝንቱ፡ ስብሐት፡ እንበለ፡ ታጐንዲ፡ ጊዜ፨</l>
+            <l n="5">ፈንዎተ፡ ጸጋከ፡ ሊተ፡ አስተፋጥን፡ ይእዜ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="cross">
+                <persName xml:lang="gez">መስቀል፡</persName>
+                <persName xml:lang="gez" type="normalized">Masqal</persName>
+                <persName xml:lang="en">The Cross</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

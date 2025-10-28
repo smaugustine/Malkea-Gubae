@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMML9030">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dabra Tābor</settlement>
+                <repository>Dabra Tābor ʾIyyasus</repository>
+                <idno>EMML 9030</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>221va-226rb</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

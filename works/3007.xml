@@ -64,6 +64,17 @@
             <locus>113ra-114ra</locus>
           </witness>
           
+          <witness xml:id="EMML9030">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dabra Tābor</settlement>
+                <repository>Dabra Tābor ʾIyyasus</repository>
+                <idno>EMML 9030</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>188ra-189rc</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe7745" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ተስፋ፡ ቅቡጻን፡ ማርያም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Tasfā Qǝbuṣān Māryām</title>
+        <title corresp="#t1" xml:lang="en">“Mary, Hope of Those in Despair…”</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/7745/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ተስፋ፡ ቅቡጻን፡ ማርያም፡ ወሕይወተ፡ ዓለም፡ ኵሉ፨</l>
+            <l n="2">በኀይለ፡ መንክራት፡ ዘይቀድም፡ ወተኣምራት፡ ዘይተሉ፨</l>
+            <l n="3">ከመ፡ እሰብሕ፡ ስመኪ፡ በዘይረትዕ፡ ወይደሉ፨</l>
+            <l n="4">መግብኒበሣህልኪ፡ ወለወልድኪ፡ በሣህሉ፨</l>
+            <l n="5">እመንፈሰ፡ ደዌ፡ ፀዋግ፡ ዘአርባዕ፡ ፊደሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">አምሳለ፡ አሐቲ፡ መበለት፡ እንተ፡ ይንእዳ፡ መጽሐፍ፨</l>
+            <l n="2">እምነ፡ ተጽናስ፡ ዘልብ፡ ወእምነ፡ ንዴት፡ ዘአፍ፨</l>
+            <l n="3">ጸሪቀ፡ ማሕሌት፡ አቅረብኩ፡ ለዕበይኪ፡ ትሩፍ፨</l>
+            <l n="4">ለኪሰ፡ ማርያም፡ እግዝእተ፡ ማእከል፡ ወጽንፍ፨</l>
+            <l n="5">ኅዳጥ፡ ቃል፡ የአክለኪ፡ እምቃላት፡ አእላፍ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mary">
+                <persName xml:lang="gez">ማርያም፡ ድንግል፡</persName>
+                <persName xml:lang="gez" type="normalized">Māryām Dəngəl</persName>
+                <persName xml:lang="en">Virgin Mary</persName>
+                <trait type="category"><desc>marian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

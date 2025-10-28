@@ -83,6 +83,17 @@
             <locus>158va-161rb</locus>
           </witness>
           
+          <witness xml:id="EMML9030">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dabra Tābor</settlement>
+                <repository>Dabra Tābor ʾIyyasus</repository>
+                <idno>EMML 9030</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>46rb-49rb</locus>
+          </witness>
+          
           <witness xml:id="MAKM074">
             <msDesc>
               <msIdentifier>
