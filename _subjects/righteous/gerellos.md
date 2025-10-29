@@ -1,5 +1,5 @@
 ---
-name: Gerǝllos za-ʾƎfrāz
+name: Gerǝllos za-ʾƎnfrāz
 commemorations:
   - [28, 9]
 ---
