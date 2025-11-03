@@ -110,10 +110,10 @@
                 
                 <textLang mainLang="gez"/>
                 
-                <title>
-                  <title xml:lang="gez"></title>
-                  <title xml:lang="gez" type="normalized"></title>
-                  <title xml:lang="en"></title>
+                <title ref="3067" corresp="https://w3id.org/malke/3067/">
+                  <title xml:lang="gez">መልክአ፡ ሥሉስ፡ ቅዱስ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Śəllus Qəddus</title>
+                  <title xml:lang="en">Image of the Holy Trinity</title>
                 </title>
                 
               </msItem>

@@ -90,6 +90,17 @@
             <locus>21ra-26rc</locus>
           </witness>
           
+          <witness xml:id="MAKM074">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Māy ʾAnbasā Kidāna Mǝḥrat</repository>
+                <idno>MAKM-074</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>33ra-41ra</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>
@@ -114,7 +125,7 @@
                   <date>1913</date>
                 </imprint>
               </monogr>
-              <citedRange unit="item">347</citedRange>
+              <citedRange unit="item">262, 347</citedRange>
             </biblStruct>
             
             
@@ -165,7 +176,7 @@
             
             <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እግዚአብሔር፡ አብ፨</l>
             <l n="2">ወላዴ፡ ወልድ፡ ዋሕድ፡ እንበለ፡ ካዕብ፨</l>
-            <l n="3">እምቅድመ፡ ሰማያት፡ ርቡብ፡ ወእምቅድመ፡ ዓለም፡ ርኂብ</l>
+            <l n="3">እምቅድመ፡ ሰማያት፡ ርቡብ፡ ወእምቅድመ፡ ዓለም፡ ርኂብ፨</l>
             <l n="4">ይገኒ፡ ለዝክረ፡ ስምከ፡ ኀልዮተ፡ ኵሉ፡ አልባብ፨</l>
             <l n="5">ወበአፈ፡ ኵሉ፡ ፍጥረት፡ ዘሀሎ፡ ንባብ፨</l>
 

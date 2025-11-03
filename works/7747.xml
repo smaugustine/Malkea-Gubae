@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe7747" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ሰላምታ፡ ዘደጃዝማች፡ ስብሐት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Salāmtā za-Daǧǧāzmāč Sǝbḥat</title>
+        <title corresp="#t1" xml:lang="en">Salāmtā for Daǧǧāzmāč Sǝbḥat</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2025</date>
+        <ref target="https://w3id.org/malke/7747/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ መኰንነ፡ ፍቅር፡ ወትሕትና፨</l>
+            <l n="2">ከመ፡ ሰሎሞን፡ ጠቢብ፡ ወከመ፡ ዳዊት፡ ምሉአ፡ ልቡና፨</l>
+            <l n="3">ደጃዝማች፡ ስብሐት፡ ለአብ፡ በኵሉ፡ ወበውስተ፡ ኵሉ፡ ጥዑመ፡ ዜና፨</l>
+            <l n="4">ኢይርአይከ፡ ዐይነ፡ ሞት፡ ወኢይርከብከ፡ ሙስና፨</l>
+            <l n="5">ትርዳእከ፡ እመ፡ ብርሃን፡ ዘምስለ፡ ልዑል፡ ሕፃና፨</l>
+            <l n="6">ወቅዱስ፡ ሚካኤል፡ ይዕቀብከ፡ በብሩህ፡ ደመና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለከ፡ ወለሰላም፡ ዘኀረየከ፡ እምጥንት፨</l>
+            <l n="2">ኢየሱስ፡ ክርስቶስ፡ ፈጣሬ፡ ኵሉ፡ ፍጥረታት፨</l>
+            <l n="3">ደጃዝማች፡ ስብሐት፡ ለአብ፡ ተቅዋ_ ወብሩህ፡ እማኅቶት፨</l>
+            <l n="4">በኀይለ፡ ፈጣሪ፡ ሐነጽከ፡ ከመ፡ ኢየሩሳሌም፡ ብርህት፨</l>
+            <l n="5">______ሕፈ፡ በኤዶም፡ ገነት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ከመ፡ ስብሐት፡ ለአብ፡ ቅንዑ፡ ወትግሁ፡ ለጽድቅ፨</l>
+            <l n="2">ዘሀሎክሙ፡በምድር፡ አዕሩግ፡ ወደቂቅ፨</l>
+            <l n="3">ኢይምሰልክሙ፡ ዘትነብሩ፡ ወዘኢተሐውሩ፡ ኀበ፡ ርሑቅ፨</l>
+            <l n="4">ወእንተ፡ ሀለወ፡ ቦቱ፡ መሓሪ፡ ወጻድቅ፨</l>
+            <l n="5">ዘይፌሥጽ፡ ኵሎ፡ በቃሉ፡ መብረቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="10">
+            
+            <l n="1">ብእሲትከ፡ ተዐቢ፡ እምነ፡ ኵሎን፡ አንስት፨</l>
+            <l n="2">እስመ፡ ተቅዋምከ፡ ይእቲ፡ ወልቡናሃ፡ ማኅቶት፨</l>
+            <l n="3">ወእምኅሊናሃ፡ ይውሕዝ፡ አንቅዕትአ፡ ውሂብ፡ ምሕረት፨</l>
+            <l n="4">ወይእቲ፡ ጥቀ፡ ልዕልተ፡ መንበር፡ ወሀብት፨</l>
+            <l n="5">ዘኀረያ፡ ፍጹመ፡ እግዚአ፡ ኀይላት፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="daddazmac-sebhat">
+                <persName xml:lang="gez">ስብሐት፡ ለአብ፡</persName>
+                <persName xml:lang="gez" type="normalized">Sǝbḥat Laʾab</persName>
+                <persName xml:lang="en">Sǝbḥat Laʾab</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>
