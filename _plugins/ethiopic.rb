@@ -372,6 +372,7 @@ module Jekyll::Ethiopic
 
     input = input.gsub(/(\s)/, '፡\1')
     input = input.gsub(/(\b)$/, '፡')
+    input = input.gsub(/(\]|\))$/, '፡\1')
 
     input
 

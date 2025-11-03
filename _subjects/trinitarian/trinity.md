@@ -1,7 +1,7 @@
 ---
 name:
   gez: Qəddəst Śəllāse
-  en: Holy Trinity
+  en: The Holy Trinity
 commemorations:
   - [7, 11]
 ---
