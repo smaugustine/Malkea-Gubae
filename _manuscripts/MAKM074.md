@@ -11,6 +11,7 @@ columns: 2
 lines: 13
 century: 18th century
 
+betmas: ESmakm074
 iiif: https://betamasaheft.eu/api/iiif/ESmakm074/manifest
 
 units:
@@ -25,7 +26,7 @@ units:
       - clavis: 3034
         locus: 25va-33ra
         facs: 26
-      - clavis: 2981
+      - clavis: 3067
         locus: 33ra-41ra
         facs: 33
       - clavis: 2866
