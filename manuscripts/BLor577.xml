@@ -486,9 +486,9 @@
                 <textLang mainLang="gez"/>
                 
                 <title ref="3041" corresp="https://w3id.org/malke/3041/">
-                  <title xml:lang="gez">መልክአ፡ ዮሴፍ፡ ዘእንጂፋት፡</title>
-                  <title xml:lang="gez" type="normalized">Malkəʾa Yosef za-ʾƎnǧifāt</title>
-                  <title xml:lang="en">Image of Yosef of ʾƎnǧifāt</title>
+                  <title xml:lang="gez">መልክአ፡ ዮሴፍ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkǝʾa Yosef</title>
+                  <title xml:lang="en">Image of Joseph</title>
                 </title>
                 
               </msItem>
@@ -502,7 +502,7 @@
                 
                 <title ref="2867" corresp="https://w3id.org/malke/2867/">
                   <title xml:lang="gez">መልክአ፡ ጌርሎስ፡</title>
-                  <title xml:lang="gez" type="normalized">Malkəʾa Gerǝllos</title>
+                  <title xml:lang="gez" type="normalized">Malkǝʾa Gerǝllos</title>
                   <title xml:lang="en">Image of Gerǝllos</title>
                 </title>
                 

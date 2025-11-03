@@ -6,7 +6,7 @@
       <titleStmt>
         
         <title xml:id="t1" xml:lang="gez">መልክአ፡ ጌርሎስ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Gerǝllos</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Gerǝllos</title>
         <title corresp="#t1" xml:lang="en">Image of Gerǝllos</title>
         
       </titleStmt>
@@ -148,10 +148,10 @@
             <listPerson>
               
               
-              <person xml:id="gerellos">
-                <persName xml:lang="gez">ጌርሎስ፡</persName>
-                <persName xml:lang="gez" type="normalized">Gerǝllos</persName>
-                <persName xml:lang="en">Gerǝllos</persName>
+              <person xml:id="gerellos-enferaz">
+                <persName xml:lang="gez">ጌርሎስ፡ ዘእንፍራዝ፡</persName>
+                <persName xml:lang="gez" type="normalized">Gerǝllos za-ʾƎnfǝrāz</persName>
+                <persName xml:lang="en">Gerǝllos of ʾƎnfǝrāz</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
