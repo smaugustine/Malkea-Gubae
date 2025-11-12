@@ -148,10 +148,10 @@
             <listPerson>
               
               
-              <person xml:id="gerellos-enferaz">
+              <person xml:id="gerellos-enfraz">
                 <persName xml:lang="gez">ጌርሎስ፡ ዘእንፍራዝ፡</persName>
-                <persName xml:lang="gez" type="normalized">Gerǝllos za-ʾƎnfǝrāz</persName>
-                <persName xml:lang="en">Gerǝllos of ʾƎnfǝrāz</persName>
+                <persName xml:lang="gez" type="normalized">Gerǝllos za-ʾƎnfrāz</persName>
+                <persName xml:lang="en">Gerǝllos of ʾƎnfrāz</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

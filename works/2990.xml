@@ -144,6 +144,17 @@
 
           </lg>
           
+          <lg type="stanza" n="10">
+            
+            <l n="1">ሰላም፡ ለእስትንፋስከ፡ ወለጕርዔከ፡ አንቀጹ፨</l>
+            <l n="2">ዘያስተፌሥሕ፡ አልባበ፡ ሶበ፡ ይዜምር፡ ንቃወ፡ ድምፁ፨</l>
+            <l n="3">ዮሐንስ፡ ከማ፡ ጌርሎስ፡ ለተንሥአ፡ መድኅን፡ ቢጹ፨</l>
+            <l n="4">ንጽሖሙ፡ ለአሕራርየ፡ ከመ፡ መስቀለ፡ ክርስቶስ፡ በዕፁ፨</l>
+            <l n="5">ከመ፡ መልአከ፡ ሞት፡ ተነጽሐ፡ ወወድቀ፡ በገጹ፨</l>
+            <l n="6"></l>
+
+          </lg>
+          
           <lg type="stanza" n="19">
             
             <l n="1">ሰላም፡ ለአማዑቲከ፡ ወለንዋየ፡ ውሥጥከ፡ ኅሩይ፨</l>
@@ -189,11 +200,11 @@
             <listPerson>
               
               
-              <person xml:id="john-kama">
+              <person xml:id="yohannes-kama">
                 <persName xml:lang="gez">ዮሐንስ፡ ከማ፡</persName>
                 <persName xml:lang="gez" type="normalized">Yoḥannəs Kamā</persName>
                 <persName xml:lang="en">Yoḥannəs Kamā</persName>
-                <trait type="category"><desc>martyr</desc></trait>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>
