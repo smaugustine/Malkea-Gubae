@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa ʾIyyasus</title>
         <title corresp="#t1" xml:lang="en">Image of Jesus</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ማሕየዊ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkǝʾa Māḥyawi</title>
+        <title corresp="#t2" xml:lang="en">Image of the Life-giver</title>
+        
       </titleStmt>
 
       <publicationStmt>

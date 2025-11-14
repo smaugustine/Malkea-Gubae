@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Masqal</title>
         <title corresp="#t1" xml:lang="en">Image of the Cross</title>
         
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ሕማማተ፡ መስቀል፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Ḥǝmāmāta Masqal</title>
+        <title corresp="#t2" xml:lang="en">Image of the Sufferings of the Cross</title>
+        
       </titleStmt>
 
       <publicationStmt>
