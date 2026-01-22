@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe2981" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሥላሴ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Śǝllāse</title>
+        <title corresp="#t1" xml:lang="en">Image of the Trinity</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/2981/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+      <notesStmt>
+        <note>
+          <listBibl>
+            
+            <biblStruct type="journalArticle" xml:id="Chaîne1913" corresp="http://zotero.org/groups/5599348/items/QUQDUQNT">
+              <analytic>
+                <title level="a">Répertoire des Salam et Malkeʾe contenus dans les manuscrits éthiopiens des bibliothèques d’Europe</title>
+                <title type="short">Répertoire des Salam et Malkeʾe</title>
+                <author><forename>Marius</forename><surname>Chaîne</surname></author>
+              </analytic>
+              <monogr>
+                <title level="j">Revue de l’Orient Chrétien</title>
+                <imprint>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="issue">2, 4</biblScope>
+                  <biblScope unit="page">183–203, 337–357</biblScope>
+                  <date>1913</date>
+                </imprint>
+              </monogr>
+              <citedRange unit="item">262</citedRange>
+            </biblStruct>
+            
+            
+            
+          </listBibl>
+        </note>
+      </notesStmt>
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ጥሙቅ፨</l>
+            <l n="2">እብል፡ አንሰ፡ ገባእተ፡ ሥላሴ፡ እምርሑቅ፨</l>
+            <l n="3">በገጸ፡ አዜብ፡ ወመስዕ፡ ወገጸ፡ ዐረብ፡ ወሠርቅ፨</l>
+            <l n="4">በቅስተ፡ አፉየ፡ ሐጸ፡ ስሞሙ፡ ውሡቅ፨</l>
+            <l n="5">ለነዲፈ፡ ዝኩ፡ መብረቅ፡ እምሰማይ፡ ውዱቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ እብል፡ ለአስማተ፡ ቅድስት፡ ሥላሴ፨</l>
+            <l n="2">በአርአያሆሙ፡ ዘፈጠሩ፡ እመሬተ፡ ምድር፡ ብእሴ፨</l>
+            <l n="3">ነሢእየ፡ በስመ፡ ሥላሴ፡ ሜሮነ፡ ቅዳሴ፨</l>
+            <l n="4">ከይድ፡ በከመ፡ ሥላሴ፡ ዘባነ፡ አንበሳ፡ ወከይሴ፨</l>
+            <l n="5">ለሥላሴሆሙ፡ አቄርብ፡ ውዳሴ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስሞሙ፡ በበ፡ ህላዌሁ፡ ወገጹ፨</l>
+            <l n="2">አስማተ፡ ሥላሴ፡ ዘይሬስዮሙ፡ ይንፍጹ፨</l>
+            <l n="3">ለእድውየ፡ ሳጥና፡ ወለመልአከ፡ ሞት፡ ቢጹ፨</l>
+            <l n="4">ወበዘይበረብሮሙ፡ ሥረተ፡ ወድምፁ፨</l>
+            <l n="5">በቀስተ፡ አፉየ፡ ኢይሰስል፡ ሐጹ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ሰላም፡ ለጽሕምክሙ፡ ለሞገስ፡ ዘሤሞ፨</l>
+            <l n="2">በመላትሐ፡ አዳም፡ አስተዐዲሞ፨</l>
+            <l n="3">ዘፈጠርክሙ፡ ከካለ፡ ቆሞ፨</l>
+            <l n="4">ይምኖ፡ ወጽግሞ፡ ከዋላሁ፡ ወፍጽሞ፨</l>
+            <l n="5">ሥጋሁ፡ ወደሙ፡ ሥዕርቶ፡ ወጽሕሞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ሰላም፡ ለቆምክሙ፡ ለአዳም፡ ዘጸለሎ፨</l>
+            <l n="2">በአምጣነ፡ እደው፡ ፫እንዘ፡ ይሜጥን፡ አክሎ፨</l>
+            <l n="3">ሥላሴ፡ ቅረቡኒ፡ ለተሣህሎ፨</l>
+            <l n="4">ለእለ፡ ይፃረሩኒ፡ በተባቅሎ፡ እንዘ፡ ያርእዮሙ፡ ኀይሎ፨</l>
+            <l n="5">ለሥላሴሆሙ፡ ይግሕፎሙ፡ ዐውሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="59">
+            
+            <l n="1">ተዋሕዶቱ፡ ለመንፈስ፡ ቅዱስ፡ ከመዝ፡ ውእቱ፨</l>
+            <l n="2">መንፈስ፡ አብኒ፡ ወመንፈስ፡ ወልድ፡ ውእቱ፨</l>
+            <l n="3">ወፍጻሜ፡ ገጽኒ፡ ሥላሴ፡ ውእቱ፨</l>
+            <l n="4">አእምሮቶሙ፡ ውእቱ፡ ወጥበቦሙ፡ ውእቱ፨</l>
+            <l n="5">ዕመቀ፡ ምክሮሙ፡ ባሕቲቱ፡ የአምር፡ ውእቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="60">
+            
+            <l n="1">____ ባዕደ፡ ዘእንበሌሆሙ፡ አምላከ፨</l>
+            <l n="2">አንሰ፡ እብል፡ በልብየ፡ ነግሀ፡ ወሰርከ፨</l>
+            <l n="3">ሥሉስ፡ ቅዱስ፡ ዘአልብክሙ፡ ተውሳከ፨</l>
+            <l n="4">በሉኒ፡ ሥላሴ፡ ስረይነ፡ ለከ፨</l>
+            <l n="5">ኀጢአተ፡ ኵሎ፡ ዘገበርከ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="trinity">
+                <persName xml:lang="gez">ቅድስት፡ ሥላሴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Qəddəst Śəllāse</persName>
+                <persName xml:lang="en">The Holy Trinity</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

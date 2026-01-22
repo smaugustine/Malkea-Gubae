@@ -7,7 +7,7 @@
         
         <title xml:id="t1" xml:lang="gez">መልክአ፡ ዞሲማስ፡</title>
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zosimās</title>
-        <title corresp="#t1" xml:lang="en">Image of Zosimās</title>
+        <title corresp="#t1" xml:lang="en">Image of Zosimas</title>
         
       </titleStmt>
 
@@ -19,7 +19,7 @@
             <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
-        <date>2025</date>
+        <date>2026</date>
         <ref target="https://w3id.org/malke/0437/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
@@ -141,7 +141,7 @@
               <person xml:id="zosimas">
                 <persName xml:lang="gez">ዞሲማስ፡</persName>
                 <persName xml:lang="gez" type="normalized">Zosimās</persName>
-                <persName xml:lang="en">Zosimās</persName>
+                <persName xml:lang="en">Zosimas</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

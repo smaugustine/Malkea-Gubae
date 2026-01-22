@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe7765" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እንጦንዮስ፡ ዘሰራዬ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎnṭonyos za-Sarāye</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾƎnṭonyos of Sarāye</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/7765/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ መአድመ፡ ስም፡ ወዜና፨</l>
+            <l n="2">እንጦንዮስ፡ ሙሴ፡ ሕፃነ፡ እንበረም፡ ንጽሕና፨</l>
+            <l n="3">ለእስራኤላዊ፡ ወልድከ፡ ማዕከለ፡ ዓለም፡ ሲና፨</l>
+            <l n="4">በጊዜ፡ ረሐብ፡ ሰዓተ፡ ግሩም፡ ሙስና፨</l>
+            <l n="5">ሴሰየኒ፡ ወትረ፡ ረድኤተከ፡ መና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለስዕርትከ፡ ዕረፍተ፡ ጸጋ፡ ቅቡዕ፨</l>
+            <l n="2">ወለርዕስከ፡ ሰላም፡ ክሉለ፡ ጌራ፡ ቆብዕ፨</l>
+            <l n="3">ገብሩ፡ በጸጋ፡ ለዘገብረከ፡ እግዚእ፨</l>
+            <l n="4">ወአንተ፡ አምሳሊሁ፡ በከዊነ፡ ሥጋ፡ ወሰብእ፨</l>
+            <l n="5">እንጦንዮስ፡ መምህር፡ ወቡሩክ፡ ረድእ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="entons-saraye">
+                <persName xml:lang="gez">እንጦንዮስ፡ ዘሰራዬ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎnṭonyos za-Sarāye</persName>
+                <persName xml:lang="en">ʾƎnṭonyos of Sarāye</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

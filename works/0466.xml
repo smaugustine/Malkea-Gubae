@@ -5,8 +5,8 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፍራንቸስኮስ፡ ዘአሲሲ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Frānčaskos za-ʾAssisi</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፍራንቸስኮስ፡ ዘአሲዚ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Frānčaskos za-ʾAssizi</title>
         <title corresp="#t1" xml:lang="en">Image of Francis of Assisi</title>
         
       </titleStmt>
@@ -19,7 +19,7 @@
             <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
-        <date>2025</date>
+        <date>2026</date>
         <ref target="https://w3id.org/malke/0466/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
@@ -109,8 +109,8 @@
               
               
               <person xml:id="francis-assisi">
-                <persName xml:lang="gez">ፍራንቸስኮስ፡ ዘአሲሲ፡</persName>
-                <persName xml:lang="gez" type="normalized">Frānčaskos za-ʾAssisi</persName>
+                <persName xml:lang="gez">ፍራንቸስኮስ፡ ዘአሲዚ፡</persName>
+                <persName xml:lang="gez" type="normalized">Frānčaskos za-ʾAssizi</persName>
                 <persName xml:lang="en">Francis of Assisi</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 

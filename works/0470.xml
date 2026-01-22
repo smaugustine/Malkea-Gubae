@@ -19,7 +19,7 @@
             <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
           </persName>
         </authority>
-        <date>2025</date>
+        <date>2026</date>
         <ref target="https://w3id.org/malke/0470/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
@@ -93,6 +93,56 @@
 
           </lg>
           
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለርእስከ፡ ዘየዐውዶ፡ ሡራሔ፨</l>
+            <l n="2">ወዓዲ፡ ገጽከ፡ ዘምሉእ፡ ሥነ፡ ቅያሔ፨</l>
+            <l n="3">መስተገብረ፡ ጽድቅ፡ ያዕቆብ፡ ዘትዘርእ፡ እንበለ፡ ቱሳሔ፨</l>
+            <l n="4">መግበነ፡ በረድኤትከ፡ ሲሳየ፡ መላእክት፡ ስባሔ፨</l>
+            <l n="5">ከመ፡ ንልሀቅ፡ ቦቱ፡ ለዋሕድ፡ ኤሎሄ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲከ፡ ዘሥነ፡ ራእዮን፡ ኵሕል፨</l>
+            <l n="2">ወለአዕይንቲከ፡ ሰላም፡ ማኅፈዳተ፡ ብርሃን፡ ጽዱል፨</l>
+            <l n="3">ካህነ፡ ቅዳሴ፡ ያዕቆብ፡ ዘውገ፡ ሱራፌል፨</l>
+            <l n="4">አስተስሪ፡ ለነ፡ በጸሎትከ፡ ምልእተ፡ ምሕረት፡ ወሣህል፨</l>
+            <l n="5">እስመ፡ በዓለ፡ ገጽ፡ አንተ፡ ቅድሜሁ፡ ለቃል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ በዝማሬ፡ ወበስብሐት፨</l>
+            <l n="2">እንተ፡ ትጉሃን፡ መላእክት፨</l>
+            <l n="3">ብፁዕ፡ ያዕቆብ፡ ዘበተዐግሦ፡ ብሑት፨</l>
+            <l n="4">ፍዳ፡ ዘመነንከ፡ ዲበ፡ ምድር፡ ክብረ፡ ኀላፊ፡ ሢመት፨</l>
+            <l n="5">መፍትው፡ ለከ፡ ዘሰማይ፡ መንግሥት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="22">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋከ፡ ወለግንዘትከ፡ በክብር፨</l>
+            <l n="2">ወለመቃብሪከ፡ ዓዲ፡ ዘይተልዎ፡ ምሥጢር፨</l>
+            <l n="3">ፈዋሴ፡ ድዉያን፡ ያዕቆብ፡ ወመቅለሌ፡ ብዙኅ፡ ጻዕር፨</l>
+            <l n="4">ተነግረ፡ በውስተ፡ ኵሉ፡ ኀይለ፡ ረድኤትከ፡ መንክር፨</l>
+            <l n="5">ዘተውህበ፡ ለከ፡ እምአምላክ፡ ኄር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">አምኃ፡ ሰላም፡ ወክብር፡ ለውዳሴከ፡ ይደሉ፨</l>
+            <l n="2">ለለ፡ አሐዱ፡ አሐዱ፡ ዘበበ፡ ክፍሉ፨</l>
+            <l n="3">መርሐ፡ ዕዉራን፡ ያዕቆብ፡ ለክርስቶስ፡ ጸዋሬ፡ መስቀሉ፨</l>
+            <l n="4">ከመ፡ አኃዊከ፡ ብፁዓን፡ እለ፡ ገዳማቱ፡ ዔሉ፨</l>
+            <l n="5">መንፈሰ፡ ጥበብ፡ ሀበነ፡ አሠረከ፡ ንትሉ፨</l>
+
+          </lg>
+          
         </div>
 
         
@@ -123,7 +173,7 @@
       </listRelation>
       
       
-<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Raineri1979" corresp="http://zotero.org/groups/5599348/items/74BYPS85"><analytic><title level="a">Il Malke' dell'Abuna Ya'qob nella liturgia etiopica</title><author><forename>Osvaldo</forename><surname>Raineri</surname></author></analytic><monogr><title level="j">Ephemerides liturgicae</title><imprint><biblScope unit="volume">93</biblScope><biblScope unit="page">227-233</biblScope><date>1979</date></imprint></monogr></biblStruct></listBibl>
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="ፍሥሐጽዮን_ባርናባስ" corresp="http://zotero.org/groups/5599348/items/9Q4B5QQK"><monogr><title level="m">ናይ ብፁዕ አቡነ ያዕቆብ (ዩስጢኖስ) ኀጺር ገድልን ማሕሌትን</title><editor><name>ፍሥሐጽዮን ባርናባስ</name></editor><imprint><pubPlace>አሥመራ</pubPlace><publisher>ኮከበ ጽባሕ</publisher><date>፲፱፻፷፯</date></imprint></monogr></biblStruct><biblStruct type="journalArticle" xml:id="Raineri1979" corresp="http://zotero.org/groups/5599348/items/74BYPS85"><analytic><title level="a">Il Malke' dell'Abuna Ya'qob nella liturgia etiopica</title><author><forename>Osvaldo</forename><surname>Raineri</surname></author></analytic><monogr><title level="j">Ephemerides liturgicae</title><imprint><biblScope unit="volume">93</biblScope><biblScope unit="page">227-233</biblScope><date>1979</date></imprint></monogr></biblStruct></listBibl>
     </back>
 
   </text>
