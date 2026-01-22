@@ -1,5 +1,5 @@
 ---
 name: Gerǝllos za-ʾƎnfrāz
 commemorations:
-  - [28, 9]
+  - [27, 9]
 ---
