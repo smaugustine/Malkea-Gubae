@@ -1,0 +1,3 @@
+---
+name: Yāsāy za-Mandābbā
+---

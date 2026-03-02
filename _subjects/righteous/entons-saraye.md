@@ -1,3 +1,0 @@
----
-name: ʾƎnṭonyos za-Sarāye
----
