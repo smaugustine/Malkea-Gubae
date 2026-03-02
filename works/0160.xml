@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe7765" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0160" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ እንጦንስ፡ ዘደብረ፡ ተምቡክ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎnṭonǝs za-Dabra Tambuk</title>
-        <title corresp="#t1" xml:lang="en">Image of ʾƎnṭonǝs of Dabra Tambuk</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፊልጶስ፡ ዘደብረ፡ ሊባኖስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Filəṗṗos za-Dabra Libānos</title>
+        <title corresp="#t1" xml:lang="en">Image of Filəṗṗos of Dabra Libānos</title>
         
       </titleStmt>
 
@@ -20,7 +20,7 @@
           </persName>
         </authority>
         <date>2026</date>
-        <ref target="https://w3id.org/malke/7765/"/>
+        <ref target="https://w3id.org/malke/0160/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -54,21 +54,31 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ መአድመ፡ ስም፡ ወዜና፨</l>
-            <l n="2">እንጦንዮስ፡ ሙሴ፡ ሕፃነ፡ እንበረም፡ ንጽሕና፨</l>
-            <l n="3">ለእስራኤላዊ፡ ወልድከ፡ ማዕከለ፡ ዓለም፡ ሲና፨</l>
-            <l n="4">በጊዜ፡ ረሐብ፡ ሰዓተ፡ ግሩም፡ ሙስና፨</l>
-            <l n="5">ሴሰየኒ፡ ወትረ፡ ረድኤተከ፡ መና፨</l>
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ መኳስየ፡ ፊልጶስ፡ ሐዋርያ፨</l>
+            <l n="2">ሰባኬ፡ ውነጌል፡ ዘኢትዮጵያ፨</l>
+            <l n="3">ፊልጶስ፡ ኪያከ፡ ደበረ፡ ሊባኖስ፡ ርእያ፨</l>
+            <l n="4">ታፈቅረከ፡ ጥቀ፡ ከመ፡ መርዓዊሃ፡ ኬንያ፨</l>
+            <l n="5">እስመ፡ አንተ፡ ማኅቶታ፡ ወአንተ፡ ፀሓያ፨</l>
 
           </lg>
           
-          <lg type="stanza" n="2">
+          <lg type="stanza" n="40">
             
-            <l n="1">ሰላም፡ ለሥዕርትከ፡ ዕረፍተ፡ ጸጋ፡ ቅቡዕ፨</l>
-            <l n="2">ወለርዕስከ፡ ሰላም፡ ክሉለ፡ ጌራ፡ ቆብዕ፨</l>
-            <l n="3">ገብሩ፡ በጸጋ፡ ለዘገብረከ፡ እግዚእ፨</l>
-            <l n="4">ወአንተ፡ አምሳሊሁ፡ በከዊነ፡ ሥጋ፡ ወሰብእ፨</l>
-            <l n="5">እንጦንዮስ፡ መምህር፡ ወቡሩክ፡ ረድእ፨</l>
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ እምነ፡ ሐቃሊት፡ መቅደስ፨</l>
+            <l n="2">ሶበ፡ ፈቀድከ፡ ተመይጦ፡ ደብረ፡ ሊባኖስ፨</l>
+            <l n="3">ተጽዕንከ፡ ፊልጶስ፡ በሰረገላ፡ መንፈስ፨</l>
+            <l n="4">ወተጋብኡ፡ ለቀበላከ፡ እለ፡ ውስተ፡ ባህር፡ ወየብስ፨</l>
+            <l n="5">እንዘ፡ የኀልዩ፡ በዜማ፡ ሐዲስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="41">
+            
+            <l n="1">እስመ፡ ብዙኃን፡ ጽውዓን፡ እለ፡ ጸቢተ፡ አመዱ፨</l>
+            <l n="2">ለባሕረ፡ ገድልከ፡ ፊልጶስ፡ ኢያብሖሙ፡ ሞገዱ፨</l>
+            <l n="3">ሊተሰ፡ በቃሉ፡ ጸውዐኒ፡ ፈቃዱ፨</l>
+            <l n="4">አብ፡ ለተሰብኦ፡ ከመ፡ ፈነዎ፡ ለወልዱ፨</l>
+            <l n="5">እጽሐፍ፡ ጸቢትየ፡ ወፍጡነ፡ አአዱ፨</l>
 
           </lg>
           
@@ -87,10 +97,10 @@
             <listPerson>
               
               
-              <person xml:id="entons-d-tambuk">
-                <persName xml:lang="gez">እንጦንስ፡ ዘደብረ፡ ተምቡክ፡</persName>
-                <persName xml:lang="gez" type="normalized">ʾƎnṭonǝs za-Dabra Tambuk</persName>
-                <persName xml:lang="en">ʾƎnṭonǝs of Dabra Tambuk</persName>
+              <person xml:id="fileppos-d-libanos">
+                <persName xml:lang="gez">ፊልጶስ፡ ዘደብረ፡ ሊባኖስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Filəṗṗos za-Dabra Libānos</persName>
+                <persName xml:lang="en">Filəṗṗos of Dabra Libānos</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
@@ -108,7 +118,7 @@
                       <date>1975</date>
                     </imprint>
                   </monogr>
-                  <citedRange unit="item">45</citedRange>
+                  <citedRange unit="item">54</citedRange>
                 </biblStruct>
                 
               </person>

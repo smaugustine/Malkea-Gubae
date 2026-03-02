@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0124" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ሰላምታ፡ ዘሥላሴ፡ ዘሰብዐቱ፡ ጊዜያት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Salāmtā za-Śǝllāse za-Sabʿattu Gizeyāt</title>
+        <title corresp="#t1" xml:lang="en">Salutations for the Trinity for the Canonical Hours</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0124/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ግናይ፡ ለክሙ፡ ሥሉስ፡ ቅዱስ፡ ዘበአሐቲ፡ ፈቃድ፨</l>
+            <l n="2">አዕማደ፡ ፍጥረታት፡ አቀምክሙ፡ በዕለተ፡ እሑድ፨</l>
+            <l n="3">እምትውልድ፡ እስከ፡ ትውልድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ግናይ፡ ለክሙ፡ ሥሉስ፡ ቅዱስ፡ ዘበአሐቲ፡ መንግሥት፨</l>
+            <l n="2">እምቅድመ፡ ብርሃን፡ ተረክበ፡ ጽልመተ፡ ሌሊት፨</l>
+            <l n="3">ለኍልቈ፡ አዝማን፡ ወዓመታት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ግናይ፡ ለክሙ፡ ሥሉስ፡ ቅዱስ፡ ዘበአሐቲ፡ ምልክና፨</l>
+            <l n="2">ባሕረ፡ ኤርትራ፡ ተከፍለት፡ ከመ፡ ትኩን፡ ፍና፨</l>
+            <l n="3">እስከ፡ ቃዴስ፡ ለሕዝበ፡ ሲና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ግናይ፡ ለክሙ፡ ሥሉስ፡ ቅዱስ፡ ዘትወልዱ፡ ሕይወተ፨</l>
+            <l n="2">ኵሎ፡ ዘመነ፡ ወዓመታተ፤ ረድኤተክሙ፡ ትፈነዉ፡ ሊተ፨</l>
+            <l n="3">ቅድሜክሙ፡ እጼሊ፡ ጸሎተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="trinity">
+                <persName xml:lang="gez">ቅድስት፡ ሥላሴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Qəddəst Śəllāse</persName>
+                <persName xml:lang="en">The Holy Trinity</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

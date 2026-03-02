@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0176" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ተክለ፡ ኢየሱስ፡ ዘደብረ፡ ድማሕ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Takla ʾIyyasus za-Dabra Dəmāḥ</title>
+        <title corresp="#t1" xml:lang="en">Image of Takla ʾIyyasus of Dabra Dəmāḥ</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0176/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኦእግዚአብሔር፡ እሳተ፡ ኮሬብ፡ ዘአንበብከ፨</l>
+            <l n="2">ዘምስለ፡ ነፋስ፡ ወመሬት፡ ምስለ፡ ማየ፡ ናጌብ፡ ዘአሠነይከ፨</l>
+            <l n="3">ፈኑ፡ ሊተ፡ መንፈሰከ፡ ወመንፈስ፡ ቅዱስ፡ አቡከ፨</l>
+            <l n="4">ከመ፡ እንብብ፡ መልክኣቲከ፡ ለተክለ፡ ኢየሱስ፡ ገብርከ፨</l>
+            <l n="5">እስመ፡ ውእቱ፡ ልሕኵትከ፡ ወአዳም፡ ግብርከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተጸውዐ፡ እምንእሱ፨</l>
+            <l n="2">በአፈ፡ መላእክት፡ ወሰብእ፡ ዘሰንዱነ፡ ጥምቀት፡ ለብሱ፨</l>
+            <l n="3">ተክለ፡ ኢየሱስ፡ መሲሕ፡ ወተክለ፡ ኢየሱስ፡ ኢያሱ፨</l>
+            <l n="4">አድኅኖሙ፡ ለደቂቅከ፡ መንገለ፡ አርያም፡ ይፍልሱ፨</l>
+            <l n="5">እምአዘቅተ፡ እሳት፡ መፍርህ፡ ዘግሩም፡ ጢሱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">ሰላም፡ ለእንግድዓከ፡ ዘተወክፈ፡ ምንዳቤ፨</l>
+            <l n="2">በስብሐት፡ ወበይባቤ፨</l>
+            <l n="3">ተክለ፡ ኢየሱስ፡ ምዑዝ፡ ኀበ፡ ደብረ፡ ስኂን፡ ወደብረ፡ ከርቤ፨</l>
+            <l n="4">ዕቀቦሙ፡ ለደቂቅከ፡ ሥርግዋነ፡ ጥበብ፡ ግልባቤ፨</l>
+            <l n="5">በቅድመ፡ መላእክት፡ ወሰብእ፡ መርቆሬዎስ፡ ይቤ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ለሰብእናከ፡ ምስካባ፨</l>
+            <l n="2">ውስተ፡ ደብረ፡ ድማኅ፡ ቅድስት፡ ጸሎተ፡ ዚአከ፡ ዘዐቀባ፨</l>
+            <l n="3">ተክለ፡ ኢየሱስ፡ ምዑዝ፡ በመዐዛ፡ ድንግል፡ ስኂነ፡ ሳባ፨</l>
+            <l n="4">ባርክ፡ በመስቀልከ፡ ለገዳምከ፡ ዋልድባ፨</l>
+            <l n="5">ወአልዕላ፡ ለምስካይከ፡ እብራዊት፡ ስቃባ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="52">
+            
+            <l n="1">ሰላም፡ ለትንሣኤ፡ ሥጋከ፡ በሰዓተ፡ ሌሊት፡ ደኃሪ፨</l>
+            <l n="2">እንዘ፡ አነ፡ ዘንተ፡ ኢተዘካሪ፨</l>
+            <l n="3">ተክለ፡ ኢየሱስ፡ ፈታሒ፡ ወተክለ፡ ኢየሱስ፡ አሳሪ፨</l>
+            <l n="4">አስተምሕር፡ በእንቲአየ፡ እስመ፡ ውእቱ፡ መሓሪ፨</l>
+            <l n="5">አኮኑ፡ አእመርናሁ፡ በኪራም፡ አንበሪ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="53">
+            
+            <l n="1">ስብሐት፡ ለአብ፡ በዘንቱ፡ ፍጻሜ፡ ዘአብጽሐኒ፨</l>
+            <l n="2">አኰቴት፡ ለወልድ፡ በደመ፡ ገቦሁ፡ ዘሐጸበኒ፨</l>
+            <l n="3">ወለመንፈስ፡ ቅዱስ፡ ዕባይ፡ እምድካመ፡ ሥጋ፡ ዘአጽንዐኒ፨</l>
+            <l n="4">ስብሐት፡ ለማርያም፡ እምነ፡ ኵሉ፡ ትኄይሰኒ፨</l>
+            <l n="5">እምነ፡ ፍጡራን፡ አኮኑ፡ ይእቲ፡ ትሤኒ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ተክለ፡ ኢየሱስ፡ ሙሴ፡ ውስተ፡ ደብረ፡ ድማህ፡ ሲና፨</l>
+            <l n="2">ለለ፡ ጊዜ፡ አውርድ፡ ቡራኬከ፡ መና፨</l>
+            <l n="3">እምቃልከ፡ ከርሠ፡ ደመና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ከመ፡ ታድኅነነ፡ ነዓ፡ እምነ፡ አፅራሪነ፡ መንታ፨</l>
+            <l n="2">በጸሎትከ፡ ኲናት፡ ወጽድቅከ፡ ወልታ፨</l>
+            <l n="3">ተክለ፡ ኢየሱስ፡ ዘጎልጎታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="5">
+            
+            <l n="1">ሰላም፡ ለከ፡ ተክለ፡ ኢየሱስ፡ ከርቤ፡ ወተክለ፡ ኢየሱስ፡ አበሜ፨</l>
+            <l n="2">ከመ፡ ትባርከነ፡ በመስቀልከ፡ ሮሜ፨</l>
+            <l n="3">ለሕዝብከ፡ ሰብአ፡ ሰሎሜ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="takla-iyyasus-d-demah">
+                <persName xml:lang="gez">ተክለ፡ ኢየሱስ፡ ዘደብረ፡ ድማሕ፡</persName>
+                <persName xml:lang="gez" type="normalized">Takla ʾIyyasus za-Dabra Dəmāḥ</persName>
+                <persName xml:lang="en">Takla ʾIyyasus of Dabra Dəmāḥ</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

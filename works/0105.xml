@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0105" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ስድስቱ፡ ቅዱሳን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Sǝddǝstu Qǝddusān</title>
+        <title corresp="#t1" xml:lang="en">Image of the Six Saints</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0105/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ወጠንኩ፡ ዘኪያክሙ፡ ሰላመ፨</l>
+            <l n="2">እምኀበ፡ ፈጣሪ፡ ልዑል፡ ዘተጸውዖ፡ ቀዲመ፨</l>
+            <l n="3">ቅዱሳን፡ አበው፡ ዘመነንክሙ፡ ዓለመ፨</l>
+            <l n="4">አጽምዑ፡ በአእዛኒክሙ፡ ከናፍርየ፡ በሐመ፨</l>
+            <l n="5">አመ፡ ዛቲ፡ ምኔት፡ አወትር፡ ቀዊመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ስምክሙ፡ እብል፨</l>
+            <l n="2">ወለሥዕርትክሙ፡ ዓዲ፡ ከመ፡ ሜላተ፡ ወርቅ፡ ፍቱል፨</l>
+            <l n="3">ቅዱሳን፡ አበው፡ ጽጉባነ፡ ስቴ፡ ወንጌል፨</l>
+            <l n="4">ይኩነኒ፡ ዘልፈ፡ ለጽምዕየ፡ እምዋዕየ፡ ጌጋይ፡ ወሀጕል፨</l>
+            <l n="5">ዘያረዊ፡ ጽሙዓነ፡ ስቴክሙ፡ ገድል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለአፃብዒክሙ፡ ወለአጽፋሪክሙ፡ ዘአእጋር፨</l>
+            <l n="2">ለቆምክሙ፡ ሰላም፡ ወለመልክእክሙ፡ ክቡር፨</l>
+            <l n="3">ቅዱሳን፡ አበው፡ ስሙዓተ፡ ዜና፡ መንክር፨</l>
+            <l n="4">ሰላም፡ ለማርያም፡ ንግሥተ፡ ሰማያት፡ ወምድር፨</l>
+            <l n="5">ዘከፈለተኒ፡ እቁም፡ በይእቲ፡ ደብር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">ሰላም፡ ለተኀኦትክሙ፡ ውሳጤ፡ ዐባይ፡ ጾላዕት፨</l>
+            <l n="2">አምሳለ፡ ዕዝራ፡ ወሄኖክ፡ ነቢያተ፡ ኦሪት፡ ቀደምት፨</l>
+            <l n="3">ቅዱሳን፡ አበው፡ እለ፡ ብክሙ፡ ሕይወት፨</l>
+            <l n="4">ይቤ፡ በቃሉ፡ እግዚአ፡ ብዙኅ፡ ትዕግሥት፨</l>
+            <l n="5">በአማን፡ ኅሩያንየ፡ አልብክሙ፡ ሞት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="22">
+            
+            <l n="1">ናሁ፡ ፈጸምኩ፡ ስብሐቲክሙ፡ ገሀደ፨</l>
+            <l n="2">እንዘኒ፡ ብዙኅ፡ ረሲይየ፡ ውሑደ፨</l>
+            <l n="3">ቅዱሳን፡ አበው፡ ዘትትሜሰሉ፡ አዕማደ፨</l>
+            <l n="4">አጠይቁኒ፡ አጋዕዝእትየ፡ ለዘውስተ፡ ምኔት፡ ሰጊደ፨</l>
+            <l n="5">ወሚመ፡ ለዘወሀበ፡ ኅብስተ፡ አሐደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ሰአሉ፡ ለነ፡ ሰአሉ፡ ለነ፨</l>
+            <l n="2">ሰአሉ፡ በእንቲአነ፨</l>
+            <l n="3">ለደቂቀ፡ ዛቲ፡ ምኔት፡ እለ፡ በጸሎት፡ ሀለውነ፨</l>
+            <l n="4">ቅዱሳን፡ አበው፡ ዘነሣእክሙ፡ ኪዳነ፨</l>
+            <l n="5">ኀይለ፡ ጸላኢ፡ ኢይትቃረነነ፡ ወመስቀለክሙ፡ ባርኩ፡ ኪያነ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="six-saints-gwaragwar">
+                <persName xml:lang="gez">ስድስቱ፡ ቅዱሳን፡ ዘገዳመ፡ ጐረጐር፡</persName>
+                <persName xml:lang="gez" type="normalized">Sǝddǝstu Qǝddusān za-Gadāma Gʷaragʷar</persName>
+                <persName xml:lang="en">The Six Saints of Gʷaragʷar</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

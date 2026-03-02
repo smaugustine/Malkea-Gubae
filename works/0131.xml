@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0131" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ [እገሌ፡]</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa [ʾƎgale]</title>
+        <title corresp="#t1" xml:lang="en">Image of [Name]</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0131/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ከመ፡ ትርጓሜሁ፡ ፀሓይ፨</l>
+            <l n="2">ዘህላዌሁ፡ ሰማይ፨</l>
+            <l n="3">ገባሬ፡ መንክራት፡ [እገሌ፡] እምነ፡ አእላፍ፡ ኅሩይ፨</l>
+            <l n="4">አልኆስስ፡ ውስተ፡ እዝንየ፡ ለብእሲ፡ ነዳይ፨</l>
+            <l n="5">መንክራት፡ ማይከ፡ እንግር፡ በመቅድስ፡ ዐባይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዘሕበሪሁ፡ ጸዐዳ፨</l>
+            <l n="2">ወለርእስከ፡ ቀይሕ፡ ከመ፡ ጽጌ፡ ረዳ፨</l>
+            <l n="3">ተወካፌ፡ ሥቃይ፡ [እገሌ፡] ከመ፡ ጊዮርጊስ፡ ኮከበ፡ ልዳ፨</l>
+            <l n="4">ለቤትከ፡ መቅደሰ፡ ጽድቅ፡ እንተ፡ ዘሚካኤል፡ ዐምዳ፨</l>
+            <l n="5">እግረ፡ ምዝባሬ፡ ወሀጕል፡ ኢይቁም፡ በዐውዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለአእናፊከ፡ መሳክወ፡ ምሥጢር፡ _ንታ፨</l>
+            <l n="2">ወለከናፍሪከ፡ ሰላም፡ መዐፁ_፡ ብዙኅ፡ ኀተታ፨</l>
+            <l n="3">ጸዋሬ፡ መስቀል፡ [እገሌ፡] መ፡ አማኑኤል፡ ዘጎልጎታ፨</l>
+            <l n="4">ለሕዝበ፡ ቤትከ፡ እንተ፡ ዘሚካኤል፡ ማኅቶታ፨</l>
+            <l n="5">ጸላሎትከ፡ ይኩነነ፡ ኲናተ፡ ወወልታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="7">
+            
+            <l n="1">ሰላም፡ ለአፉከ፡ መስፈርተ፡ ጸሎትከ፡ _ና፨</l>
+            <l n="2">ወለአስናኒከ፡ ሰላም፡</l>
+            <l n="3"> </l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0135" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ታዴዎስ፡ ዘደብረ፡ ጽላልሽ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tādewos za-Dabra Ṣǝlālǝš</title>
+        <title corresp="#t1" xml:lang="en">Image of Tādewos of Dabra Ṣǝlālǝš</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0135/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሕያው፡ ንጉሠ፡ ወሥዩመ፨</l>
+            <l n="2">ዘበህላዌሁ፡ ይትአኰት፡ እምቅድመ፡ ይፍጥር፡ ዓለመ፨</l>
+            <l n="3">መዝገበ፡ ርኅራኄ፡ ታዴዎስ፡ እስመ፡ ታፈቅር፡ ሰላመ፨</l>
+            <l n="4">ከመ፡ እንግር፡ ኀይለ፡ ዚአከ፡ ወመንክረከ፡ መድምመ፨</l>
+            <l n="5">ዲበ፡ ረቀ፡ ልብየ፡ ጸሐፍ፡ ጸጋከ፡ ቀለመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ በብሥራተ፡ መልአክ፡ ኪሩብ፨</l>
+            <l n="2">ወለልደትከ፡ ሰላም፡ እማሕፀነ፡ እምከ፡ ርግብ፨</l>
+            <l n="3">ታዴዎስ፡ ሳውል፡ ብርሃነ፡ አሕዛብ፡ ወሕዝብ፨</l>
+            <l n="4">ይምልኦ፡ ለእበድየ፡ ጸጋ፡ መንፈስ፡ ቅዱስ፡ ጥበብ፨</l>
+            <l n="5">ወማሕሌተ፡ ጽጌከ፡ ይቅስም፡ ልሳንየ፡ ንህብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እንተ፡ ይጥዕም፡ ለአፍ፨</l>
+            <l n="2">ከመ፡ መዐር፡ ወሦከር፡ ዘወደሶሙ፡ መጽሐፍ፨</l>
+            <l n="3">ዕንቈ፡ ባሕርይ፡ ታዴዎስ፡ እጓለ፡ ማርያም፡ ሰደፍ፨</l>
+            <l n="4">ከመ፡ እንግር፡ ዜና፡ ዝክርከ፡ ውስተ፡ እዝነ፡ ኵሉ፡ አጽናፍ፨</l>
+            <l n="5">ላዕሌየ፡ ይኅድር፡ ጸጋከ፡ ትሩፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="53">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ እምቅድመ፡ ትኑም፡ ውስቴታ፨</l>
+            <l n="2">ኀበ፡ ይእቲ፡ በጻሕከ፡ በጸድፈ፡ ዐባይ፡ በታሕታ፨</l>
+            <l n="3">ሐዋርያ፡ ቃል፡ ታዴዎስ፡ በኀይለ፡ ጸሎትከ፡ ባሕቲታ፨</l>
+            <l n="4">አሐቲ፡ እኅትከ፡ ድኅረ፡ ተቀብረት፡ መዊታ፨</l>
+            <l n="5">ሕያውታ፡ ተንሥአት፡ ወለታ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="56">
+            
+            <l n="1">ስብሐት፡ ይደሉ፡ ለማርያም፡ ዘጸገወተኒ፡ አፈ፨</l>
+            <l n="2">ቅድመ፡ ሰብእ፡ እንብብ፡ ዘውዳሴከ፡ መጽሐፈ፨</l>
+            <l n="3">ገራህተ፡ ሃይማኖት፡ ታዴዎስ፡ እንዘ፡ እጼውዐከ፡ ዘልፈ፨</l>
+            <l n="4">ዘርአ፡ ቃልየ፡ ዘበኀቤከ፡ ተገድፈ፨</l>
+            <l n="5">ይኩነኒ፡ ለወልድከ፡ ዘይፈሪ፡ አእላፈ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="tadewos-d-selales">
+                <persName xml:lang="gez">ታዴዎስ፡ ዘደብረ፡ ጽላልሽ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tādewos za-Dabra Ṣǝlālǝš</persName>
+                <persName xml:lang="en">Tādewos of Dabra Ṣǝlālǝš</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">146</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

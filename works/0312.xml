@@ -149,9 +149,9 @@
               
               
               <person xml:id="marawi-krestos">
-                <persName xml:lang="gez">መርዓዊ፡ ክርስቶስ፡ ዘጻዕዳ፡ እምባ፡</persName>
-                <persName xml:lang="gez" type="normalized">Marʿāwi Krəstos za-Ṣāʿədā ʾƎmbā</persName>
-                <persName xml:lang="en">Marʿāwi Krəstos of Ṣāʿədā ʾƎmbā</persName>
+                <persName xml:lang="gez">መርዓዊ፡ ክርስቶስ፡ ዘጸዐዳ፡ እምባ፡</persName>
+                <persName xml:lang="gez" type="normalized">Marʿāwi Krəstos za-Ṣaʿadā ʾƎmbā</persName>
+                <persName xml:lang="en">Marʿāwi Krəstos of Ṣaʿadā ʾƎmbā</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

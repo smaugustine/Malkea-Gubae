@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0119" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዘኢየሱስ፡ ዘደብረ፡ ሃሌ፡ ሉየ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zaʾiyyasus za-Dabra Hālle Luya</title>
+        <title corresp="#t1" xml:lang="en">Image of Zaʾiyyasus of Dabra Hālle Luya</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0119/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ለመልክእከ፡ ሰላሞ፨</l>
+            <l n="2">ወዜና፡ ኂሩትከ፡ እንግር፡ በብዙኅ፡ አስተሐምሞ፨</l>
+            <l n="3">ዘኢየሱስ፡ ርድአኒ፡ በነቢብ፡ ወበተርጕሞ፨</l>
+            <l n="4">ለሀኬተ፡ ሥጋ፡ ኢያእምር፡ ድካሞ፨</l>
+            <l n="5">እስከ፡ በትጋህ፡ እፌጽም፡ ወአበጽሕ፡ አቅሞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በጊዜ፡ ወፅአ፡ እምከርሥ፨</l>
+            <l n="2">ዘተጸውዐ፡ ፍጹመ፡ በስመ፡ ኢየሱስ፡ ክርስቶስ፨</l>
+            <l n="3">ኪያከ፡ ንሰብሕ፡ በቃለ፡ ማሕሌት፡ ሐዲስ፨</l>
+            <l n="4">እለ፡ ተጋባእነ፡ በዓለመ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="5">ባርከነ፡ አባ፡ በመስቀል፡ ቅዱስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በእደ፡ ኅሩያን፡ አርድእት፨</l>
+            <l n="2">ወለመቃብሪከ፡ ሰላም፡ በዐጸደ፡ ተስፋ፡ ኅሪት፨</l>
+            <l n="3">ዘኢየሱስ፡ ንጹሕ፡ ዘውገ፡ መላእክት፨</l>
+            <l n="4">ጸግወኒ፡ በረከተከ፡ ምስለ፡ ፍጻሜ፡ ረድኤት፨</l>
+            <l n="5">ህየንተ፡ ጻመውከ፡ በዘቀዋሚ፡ መላእክት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">አምኃ፡ ስብሐት፡ ሐዲስ፡ ሀወልተ፡ ወርቅ፡ ወብሩር፨</l>
+            <l n="2">እንተ፡ አቅረብኩ፡ ንስቲተ፡ ለመልክእከ፡ ንኩር፨</l>
+            <l n="3">ዘኢየሱስ፡ ትትወከፍ፡ ወትሠጠው፡ በፍቅር፨</l>
+            <l n="4">ነዓ፡ ነዓ፡ ምስለ፡ ሳሙኤል፡ መምህር፨</l>
+            <l n="5">ወእንጦንዮስ፡ ወላዲሁ፡ ፈላሲ፡ ክቡር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ለመጽሐፈ፡ ብዙኅ፡ ተኣምሪከ፡ ናነብቦ፡ በልሳን፨</l>
+            <l n="2">ወንስምዖ፡ በእዝን፨</l>
+            <l n="3">ሃሌ፡ ሉያ፡ ሳሙኤል፡ አበ፡ ብዙኃን፨</l>
+            <l n="4">ነዓ፡ ሃቤነ፡ ለባርኮ፡ ምስለ፡ መኅበራኒከ፡ ቅዱሳን፨</l>
+            <l n="5">በሥምረተ፡ እሙ፡ ድንግል፡ ወወልዳ፡ መድኅን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">መትልወ፡ እንጦኒ፡ እንጦንስ፡ ገብረ፡ መስቀል፡ ወገብረ፡ ክርስቶስ፨</l>
+            <l n="2">ዘሃሌ፡ ሉያ፡ ሳሙኤል፡ ወዘኢየሱስ፨</l>
+            <l n="3">ላእካነ፡ ማርያም፡ ድንግል፡ ወአግብርተ፡ ወልዳ፡ ክርስቶስ፨</l>
+            <l n="4">ለለ፡ ጸዋዕነ፡ ስመክሙ፡ በቃለ፡ ማሕሌት፡ ሐዲስ፨</l>
+            <l n="5">ለባርኮትነ፡ ንዑ፡ ውስተ፡ ዘመቅደስ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለክሙ፡ እንጦንዮስ፡ ወሳሙኤል፨</l>
+            <l n="2">ዘኢየሱስ፡ ወገብረ፡ ክርስቶስ፡ ወገብረ፡ መስቀል፨</l>
+            <l n="3">ዘሐውጸቶ፡ ፈተወ፡ ቀዳማ፡ ሕዝበ፡ እስራኤል፨</l>
+            <l n="4">በሞገስክሙ፡ ሞገሰ፡ ማርያም፡ ድንግል፨</l>
+            <l n="5">ንግሥተ፡ ስብሐት፡ አክሊል፨</l>
+            <l n="6">ነያ፡ ትትፌሣሕ፡ ወትትኀሠይ፡ ደብረ፡ ሃሌ፡ ሉያ፡ ቤቴል፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="zaiyyasus-d-halle-luya">
+                <persName xml:lang="gez">ዘኢየሱስ፡ ዘደብረ፡ ሃሌ፡ ሉየ፡</persName>
+                <persName xml:lang="gez" type="normalized">Zaʾiyyasus za-Dabra Hālle Luya</persName>
+                <persName xml:lang="en">Zaʾiyyasus of Dabra Hālle Luya</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0127" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ስምዖን፡ አረጋዊ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Sǝmʿon ʾAragāwi</title>
+        <title corresp="#t1" xml:lang="en">Image of Simeon the Elder</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0127/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ዘመልክእከ፡ አኰቴተ፨</l>
+            <l n="2">እምኀበ፡ አምላክ፡ መሓሪ፡ እንዘ፡ እሴፎ፡ ረድኤተ፨</l>
+            <l n="3">ነቢየ፡ ልዑል፡ ስምዖን፡ ከመ፡ ፈጸምከ፡ ተምኔተ፨</l>
+            <l n="4">ፈጽም፡ ለነ፡ ሠናይተከ፡ እንተ፡ ወጠንኩ፡ ስብሐተ፨</l>
+            <l n="5">አኮ፡ በአብዝኆ፡ ባሕቱ፡ ንስቲተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘትርጓሜ፡ ስሙ፡ ብሂል፨</l>
+            <l n="2">እግዚአብሔር፡ ሰምዐኒ፡ ከመ፡ ሳሙኤል፡ ኀያል፨</l>
+            <l n="3">ርኅሩኀ፡ ልብ፡ ስምዖን፡ ኀዳጌ፡ በቀል፨</l>
+            <l n="4">ነዓ፡ ነዓ፡ ለባርኮ፡ ጉባኤ፡ ዝንቱ፡ በዓል፨</l>
+            <l n="5">ምስለ፡ ኢየሱስ፡ ክርስቶስ፡ ወእሙ፡ ድንግል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ ዘየዐቢ፡ ክብሩ፨</l>
+            <l n="2">እምእለ፡ ቀደሙ፡ ሕዝብ፡ ወእለ፡ ተድኅሩ፨</l>
+            <l n="3">ክብረከ፡ ስምዖን፡ ሶበ፡ መላእክት፡ አእመሩ፨</l>
+            <l n="4">ላዕለ፡ ማርያም፡ ጸለሉ፡ ክነፊሆሙ፡ ወስብሐቲከ፡ ዘመሩ፨</l>
+            <l n="5">ወበህየ፡ በዓለከ፡ ገብሩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ስብሐት፡ ለአብ፡ ወለወልድ፡ ቃሉ፨</l>
+            <l n="2">ወለመንፈስ፡ ቅዱስ፡ ሰላም፡ እንተ፡ ምስሌነ፡ የሄሉ፨</l>
+            <l n="3">ለስምዖን፡ አብ፡ ሶበ፡ ይደምፅ፡ በዓሉ፨</l>
+            <l n="4">መላእክት፡ ወሰብእ፡ ቃላቲሆሙ፡ አልዐሉ፨</l>
+            <l n="5">እስመ፡ በሰላም፡ ተፈጸመ፡ ኵሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ይትባረክ፡ እግዚአብሔር፡ ዘኢይጤየቅ፡ ለዐይን፨</l>
+            <l n="2">ወዘኢይርሕቅ፡ ወትረ፡ እምአግብርቲሁ፡ ኄራን፨</l>
+            <l n="3">ከመ፡ ተነበይከ፡ ስምዖን፡ በቃለ፡ ማሕልይ፡ እሙን፨</l>
+            <l n="4">ያስተፌሥሐኒ፡ ጥቀ፡ በሰሚዖቱ፡ ሥነ፡ በዓልከ፡ ወይን፨</l>
+            <l n="5">ከመ፡ መሰንቆ፡ ሐዋዝ፡ ወፋጻ፡ ቀጢን፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="simeon">
+                <persName xml:lang="gez">ስምዖን፡</persName>
+                <persName xml:lang="gez" type="normalized">Səmʿon</persName>
+                <persName xml:lang="en">Simeon</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

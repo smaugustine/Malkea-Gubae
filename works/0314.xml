@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ዘጻዕዳ፡ እምባ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marqorewos za-Ṣāʿədā ʾƎmbā</title>
-        <title corresp="#t1" xml:lang="en">Image of Marqorewos of Ṣāʿədā ʾƎmbā</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ዘጸዐዳ፡ እምባ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marqorewos za-Ṣaʿadā ʾƎmbā</title>
+        <title corresp="#t1" xml:lang="en">Image of Marqorewos of Ṣaʿadā ʾƎmbā</title>
         
       </titleStmt>
 
@@ -120,7 +120,7 @@
             
             <l n="1">ሰላም፡ ለንዋየ፡ ውስጥከ፡ እምዐይነ፡ ሥጋ፡ ዘሰወሮ፨</l>
             <l n="2">በውሳጤ፡ ከርሥ፡ ፈጣሪ፡ ጊዜ፡ በጥበቡ፡ ፈጠሮ፨</l>
-            <l n="3">ኀይል፡ ውስተ፡ ኀይል፡ እስመ፡ ሖርከ፡ በኢተድኅሮ፨</l>
+            <l n="3">እምኀይል፡ ውስተ፡ ኀይል፡ እስመ፡ ሖርከ፡ በኢተድኅሮ፨</l>
             <l n="4">መርቆሬዎስ፡ ትረስ፡ ደለወከ፡ ልዑለ፡ መንበሮ፨</l>
             <l n="5">ለመርዓዊ፡ ክርስቶስ፡ ዘሐጸነቶ፡ ሐጻኒት፡ አእምሮ፨</l>
 
@@ -180,10 +180,10 @@
             <listPerson>
               
               
-              <person xml:id="marqorewos-saeda-emba">
-                <persName xml:lang="gez">መርቆሬዎስ፡ ዘጻዕዳ፡ እምባ፡</persName>
-                <persName xml:lang="gez" type="normalized">Marqorewos za-Ṣāʿədā ʾƎmbā</persName>
-                <persName xml:lang="en">Marqorewos of Ṣāʿədā ʾƎmbā</persName>
+              <person xml:id="marqorewos-saada-emba">
+                <persName xml:lang="gez">መርቆሬዎስ፡ ዘጸዐዳ፡ እምባ፡</persName>
+                <persName xml:lang="gez" type="normalized">Marqorewos za-Ṣaʿadā ʾƎmbā</persName>
+                <persName xml:lang="en">Marqorewos of Ṣaʿadā ʾƎmbā</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

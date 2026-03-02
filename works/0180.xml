@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0180" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ዘደብረ፡ ድማሕ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Marqorewos za-Dabra Dəmāḥ</title>
+        <title corresp="#t1" xml:lang="en">Image of Marqorewos of Dabra Dəmāḥ</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0180/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">አዕይንተ፡ ልብየ፡ አብርህ፡ ከመ፡ ይሰስል፡ ፁገ፨</l>
+            <l n="2">ወበልሳንየ፡ ይትከሠት፡ በእግረ፡ ሕሊና፡ ዘዐርገ፨</l>
+            <l n="3">እግዚአብሔር፡ ሀበኒ፡ ድርሳነ፡ መርቆሬዎስ፡ ደርገ፨</l>
+            <l n="4">ይሰወጥ፡ ውስተ፡ ከርሥየ፡ እሰከ፡ ይመልእ፡ ድንጋገ፨</l>
+            <l n="5">በገይበ፡ ከናፍር፡ እቅዳሕ፡ ፍቅረከ፡ ፈለገ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ሞገሰ፡ ረድኤት፡ ዘባቲ፨</l>
+            <l n="2">ከመ፡ ዮሐንስ፡ መጥመቅ፡ ወይነ፡ አሰክሮ፡ ዘኢይሰቲ፨</l>
+            <l n="3">መርቆሬዎስ፡ አቡየ፡ እንቀ፡ ሃይማኖት፡ ከሣቲ፨</l>
+            <l n="4">እዜኑ፡ ዕበያቲከ፡ ወሠናያቲከ፡ እንታክቲ፨</l>
+            <l n="5">ያስተፌሥሕ፡ መላእክተ፡ ወልበ፡ ሰብእ፡ መዋቲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለቆብዐ፡ ርእስከ፡ ከመ፡ ቃለ፡ መጽሐፍ፡ ጠቢብ፨</l>
+            <l n="2">በቆብዐ፡ ክርስቶስ፡ ይትሜሰል፡ እንተ፡ ተወክፈ፡ በዐርብ፨</l>
+            <l n="3">ወባዬ፡ ጸቃውዕ፡ መርቆሬዎስ፡ ዘምሳሌከ፡ ንህብ፨</l>
+            <l n="4">ወአክናፊከ፡ ጽጌ፡ አቅማሕ፡ ርቡብ፨</l>
+            <l n="5">መርዓ፡ እምቤትከ፡ ይውሕዝ፡ ሐሊብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለሥእርተ፡ ርእስከ፡ ዘውገ፡ እንጦንዮስ፡ ቀዳሚ፨</l>
+            <l n="2">ዘኢፀፈሮ፡ ኬንያ፡ ለተወድሶ፡ ዓለም፡ በእደ፡ ቀሳሚ፨</l>
+            <l n="3">መርቆሬዎስ፡ አቡየ፡ መምህረ፡ ሃይማኖት፡ ኢተቀያሚ፨</l>
+            <l n="4">አልቦ፡ አይሁድ፡ ወአልቦ፡ አረሚ፨</l>
+            <l n="5">ዘተገድፈ፡ ውስተ፡ በድው፡ ስመከ፡ ዘይሰሚ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ድኅረ፡ ነሣእከ፡ ነገረ፡ ኪዳን፨</l>
+            <l n="2">ኃጥኣነ፡ ዓለም፡ ኵሎ፡ በዘታድኅን፨</l>
+            <l n="3">ወበእንተዝ፡ ትሰመይ፡ በማኅሌተ፡ ምዑዝ፡ ልሳን፨</l>
+            <l n="4">እክለ፡ አሕይዎ፡ መርቆሬዎስ፡ ወስቴ፡ መድኃኒተ፡ ወይን፨</l>
+            <l n="5">ሰሚዐ፡ ዜናከ፡ ኢትጸግብ፡ እዝን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም፡ ለተአምሪከ፡ በሰዓተ፡ ቅዳሴ፡ ግሩም፨</l>
+            <l n="2">ቤተ፡ ክርስቲያን፡ ቅድስት፡ አመ፡ ትትገለበብ፡ በፍሕም፨</l>
+            <l n="3">መርቆሬዎስ፡ አርሳኒ፡ ምንኵስናከ፡ ፍጹም፨</l>
+            <l n="4">ሐፀነተከ፡ ተጋድሎ፡ ወአልሐቀተከ፡ ጾም፨</l>
+            <l n="5">ወበእንተዝ፡ ትትዌደስ፡ በዜማ፡ ጥዑም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ሰላም፡ ለተአምሪከ፡ እንተ፡ ይበዝኅ፡ እምኆፃ፨</l>
+            <l n="2">ወረድኤትከኒ፡ ይረውፅ፡ እምአሕፃ፨</l>
+            <l n="3">መርቆሬዎስ፡ ዐፅቅ፡ ለጒንደ፡ ሕይወት፡ ሠርፃ፨</l>
+            <l n="4">ሰይጣንሰ፡ መሠረተ፡ ኵሉ፡ ዐመፃ፨</l>
+            <l n="5">ይትነጻሕ፡ እመርሕበ፡ ቤትከ፡ ዘክርስቶስ፡ ሐነፃ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለዝክረ፡ ውዳሴከ፡ ዘልፈ፨</l>
+            <l n="2">ለለ፡ አሐዱ፡ አሐዱ፡ እንዘ፡ እከሥት፡ አፈ፨</l>
+            <l n="3">መርቆሬዎስ፡ ሀበኒ፡ ዘኢተኀልፍ፡ ኀሊፈ፨</l>
+            <l n="4">ጽዋዔ፡ መልክዕከ፡ በኢኊልቈ፡ ኀምሳ፡ ተጽሕፈ፨</l>
+            <l n="5">ወእምዝ፡ በድካም፡ መብዝኅቶሰ፡ ተርፈ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="marqorewos-d-demah">
+                <persName xml:lang="gez">መርቆሬዎስ፡ ዘደብረ፡ ድማሕ፡</persName>
+                <persName xml:lang="gez" type="normalized">Marqorewos za-Dabra Dəmāḥ</persName>
+                <persName xml:lang="en">Marqorewos of Dabra Dəmāḥ</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">106</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

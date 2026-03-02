@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0173" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መስቀል፡ ኃምስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Masqal Ḫāmǝs</title>
+        <title corresp="#t1" xml:lang="en">Fifth Image of the Cross</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0173/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘመልዕልተ፡ ኵሉ፡ ቅዱስ፨</l>
+            <l n="2">በሰማይ፡ ወበምድር፡ በባሕር፡ ወበየብስ፨</l>
+            <l n="3">ስቁለ፡ መስቀል፡ እግዚእየ፡ ቅዳሴ፡ ሥጋ፡ ወነፍስ፨</l>
+            <l n="4">በመስቀልከ፡ ዘተሰፍሐ፡ ደመ፡ ሕዋሳቲከ፡ ልብስ፨</l>
+            <l n="5">መንጦላዕተ፡ ምሕረት፡ ይኩነኒ፡ ለብእሲ፡ ጽኑስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ በደመ፡ ተኰርዖ፡ ዘተጠብለለ፨</l>
+            <l n="2">ወለርእስከ፡ ዘጾረ፡ ሥርግወ፡ አስዋክ፡ አክሊለ፨</l>
+            <l n="3">አምላከ፡ ርኅራኄ፡ ክርስቶስ፡ ዘኢተአምር፡ በቀለ፨</l>
+            <l n="4">ቤዛ፡ ይኩነኒ፡ መስቀልከ፡ ወይጸግወኒ፡ ኀይለ፨</l>
+            <l n="5">እማኦ፡ ለፀርየ፡ ዘይፈቅድ፡ ሀጕለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ሰላም፡ ለዕርገትከ፡ ኀበ፡ አቡከ፡ ዘሀሎ፨</l>
+            <l n="2">እንተ፡ ኢያውረድከ፡ ሥጋ፡ ነሢአከ፡ ለተሣህሎ፨</l>
+            <l n="3">ወሃቤ፡ ሕይወት፡ ክርስቶስ፡ ለትሑት፡ ዘታሌዕሎ፨</l>
+            <l n="4">ከመ፡ ተለዐልኮ፡ አዕረገ፡ ለሕማምከ፡ መስቀሎ፨</l>
+            <l n="5">ውስተ፡ ደብረ፡ ከርቤ፡ ቅድስት፡ ዘትቄድስ፡ ኵሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ሚዕፀብ፡ እግዝእትየ፡ ብዝኀ፡ ሐዘንኪ፡ በጊዜሁ፨</l>
+            <l n="2">ሶበ፡ ነጸርኪ፡ ስቁለ፡ ወዕሩቀ፡ ለወልድኪ፡ ሕዋሳቲሁ፨</l>
+            <l n="3">ወድኅረ፡ ሞቱ፡ ክብርት፡ ዘረገዝዎ፡ ገቦሁ፨</l>
+            <l n="4">ተመነይኩ፡ ሞተ፡ ወመቃብረ፡ ወተገንዞተ፡ ከማሁ፨</l>
+            <l n="5">እስመ፡ ለሕማሙ፡ አምሳለ፡ ኢረከብኪ፡ ናሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">ስብሐት፡ ለከ፡ አምላኪየ፡ በኍልቈ፡ ብዙኀ፡ አርምሞትከ፨</l>
+            <l n="2">ስብሐት፡ ለከ፡ አምላኪየ፡ በኍልቈ፡ ብዙኀ፡ ትሕትናከ፨</l>
+            <l n="3">ስብሐት፡ ለከ፡ አምላኪየ፡ በኍልቈ፡ ብዙኀ፡ ተራኅርኆትከ፨</l>
+            <l n="4">ወእንዘ፡ እኩያን፡ አይሁድ፡ ያፈድፍዱ፡ ሣቅዮትከ፨</l>
+            <l n="5">ከመ፡ ለዓለም፡ ኢያጥፍዕዎ፡ መላእክት፡ በኂርትከ፡ ከላእከ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="cross">
+                <persName xml:lang="gez">መስቀል፡</persName>
+                <persName xml:lang="gez" type="normalized">Masqal</persName>
+                <persName xml:lang="en">The Cross</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

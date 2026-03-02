@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0140" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ በርባራ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Barbārā</title>
+        <title corresp="#t1" xml:lang="en">Image of Barbara</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0140/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እግዚአብሔር፡ እግዚእ፡ ዘኢተጸርዐ፡ ስብሐቲከ፨</l>
+            <l n="2">እንበለ፡ ትፍጥር፡ መላእክተ፡ ዘይሴብሑ፡ ኪያከ፨</l>
+            <l n="3">መልክአ፡ በርባራ፡ እድርስ፡ እንዘ፡ እጼውዕ፡ ስመከ፨</l>
+            <l n="4">ተማሕፀንኩ፡ አንሰ፡ በማርያም፡ እምከ፨</l>
+            <l n="5">እስመ፡ ለማርያም፡ እምከ፡ ኪዳነ፡ ወሀብከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ በስመ፡ ክርስቶስ፡ ዘተጸውአ፨</l>
+            <l n="2">በዕለተ፡ ጥምቀት፡ አሐቲ፡ ሀብተ፡ መንፈስ፡ ቅዱስ፡ በጊዜ፡ ነሥአ፨</l>
+            <l n="3">በርባራ፡ ቅድስት፡ ዘኢትፈርሂ፡ ግፍአ፨</l>
+            <l n="4">ሐውጽኒ፡ በኪዳንኪ፡ በበ፡ ስብዕ፡ ስብዐ፨</l>
+            <l n="5">በአንብቦ፡ ጽኑዕ፡ ገድልኪ፡ እኩንኪ፡ መርድአ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="39">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋኪ፡ እግዚአብሔር፡ ዘአልዐሎ፨</l>
+            <l n="2">በነደ፡ እሳት፡ በላዒ፡ እስከ፡ ለዐላዊ፡ አህጐሎ፨</l>
+            <l n="3">እኅተ፡ ሰማዕታት፡ በርባራ፡ ዘጸናዕኪ፡ በተወክሎ፨</l>
+            <l n="4">ሰአሊዮ፡ ለአምላክኪ፡ ዘአርአየ፡ ኀይሎ፨</l>
+            <l n="5">ለገብርኪ፡ የሀበኒ፡ ተምኔትየ፡ ኵሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="40">
+            
+            <l n="1">እግዚአብሔር፡ አምላከ፡ ኵሉ፡ በአትሕቶ፡ ክሣድ፡ እሴብሐከ፨</l>
+            <l n="2">ኀይላተ፡ ሰማይ፡ ወምድር፡ ዘይሴብሑ፡ ኪያከ፨</l>
+            <l n="3">ለሰማዕትከ፡ በርባራ፡ እንተ፡ አግሀደት፡ ስመከ፨</l>
+            <l n="4">እወድሳ፡ በመሐልይ፡ ነግሀ፡ ወሰርከ፨</l>
+            <l n="5">እስመ፡ ፈቃድከ፡ ኮነ፡ ለኃጥእ፡ ገብርከ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="barbara">
+                <persName xml:lang="gez">በርባራ፡</persName>
+                <persName xml:lang="gez" type="normalized">Barbārā</persName>
+                <persName xml:lang="en">Barbara</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

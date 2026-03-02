@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0153" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ አፈ፡ ወርቅ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannǝs ʾAfa Warq</title>
+        <title corresp="#t1" xml:lang="en">Image of John Chrysostom</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0153/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በዓለ፡ ሐዲስ፡ ፍካሬ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሰላም፡ ዐርዘ፡ ሊባኖስ፡ ምሉአ፡ ፍሬ፨</l>
+            <l n="3">አፈ፡ ወርቅ፡ ዮሐንስ፡ ወልሳነ፡ ዕንቍ፡ ወራውሬ፨</l>
+            <l n="4">ካህናት፡ በብርሃንከ፡ ያስተዋድዱ፡ ዝማሬ፨</l>
+            <l n="5">እስመ፡ ብርሃንከ፡ የሀይድ፡ ንጻሬ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ እምሀገረ፡ ራእይ፡ ፍጥሞ፨</l>
+            <l n="2">በእደ፡ ካህናት፡ ኄራን፡ ኀበ፡ ቀደምትከ፡ ተሰይሞ፨</l>
+            <l n="3">አፈ፡ ወርቅ፡ ዮሐንስ፡ ፍትወተ፡ ምግባር፡ እምቀናንሞ፨</l>
+            <l n="4">መሀርከ፡ ቃለ፡ ወንጌል፡ ወአጽናዕከ፡ ስሞ፨</l>
+            <l n="5">ለእግዚአብሔር፡ ተውላጠ፡ በክርስቶስ፡ ዓለሞ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ገነተ፡ ማሕሌትከ፡ ኀበ፡ ገጽየ፡ ለኑኀ፡ ሰማይ፡ በታሕቱ፨</l>
+            <l n="2">ወሪደ፡ አፍጥን፡ እስመ፡ ጊዜ፡ ወሪድ፡ ውእቱ፨</l>
+            <l n="3">አፈ፡ ወርቅ፡ ዮሐንስ፡ ለእግዚአብሔር፡ መጋቤ፡ ቤቱ፨</l>
+            <l n="4">ትዌድሰከ፡ ብሂለ፡ ቃለ፡ ቤተ፡ ክርስቲያን፡ መርዓቱ፨</l>
+            <l n="5">ወልደ፡ እኁየ፡ ወሪዶ፡ ውስተ፡ ገነቱ፡ አፈዋተ፡ ምዑዞ፡ ልብሰቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="john-chrysostom">
+                <persName xml:lang="gez">ዮሐንስ፡ አፈ፡ ወርቅ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannǝs ʾAfa Warq</persName>
+                <persName xml:lang="en">John Chrysostom</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

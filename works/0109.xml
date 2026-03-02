@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0109" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጰራቅሊጦስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṗarāqliṭos</title>
+        <title corresp="#t1" xml:lang="en">Image of the Paraclete</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0109/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ይነግር፡ አፉየ፡ ወልሳንየ፡ ክሡተ፨</l>
+            <l n="2">ጰራቅሊጦስ፡ ፀሓይ፡ ምሉአ፡ አርያም፡ ስብሐተ፨</l>
+            <l n="3">ናሁ፡ ወጠንኩ፡ በስመ፡ ሥላሴ፡ አስማተ፨</l>
+            <l n="4">በአስተሐምሞ፡ ወጻህቅ፡ እንዘ፡ እብል፡ ሊተ፨</l>
+            <l n="5">ወጣኒ፡ ወፈጻሚ፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እምቅድመ፡ ዓለማት፡ ዘነበረ፨</l>
+            <l n="2">ወእምቅድመ፡ ትፍጥሮ፡ ለገጸ፡ ሰማይ፡ ምዕረ፨</l>
+            <l n="3">ጰራቅሊጦስ፡ ህልው፡ ምስለ፡ ወላዴ፡ ወልድ፡ ኅቡረ፨</l>
+            <l n="4">ለነፍሰ፡ ዚአየ፡ ጸግዋ፡ ማኅደረ፨</l>
+            <l n="5">ምስለ፡ ጻድቃኒከ፡ ዘመነኑ፡ ምድረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ወለርእስከ፡ ጸዐዳ፨</l>
+            <l n="2">ለጸሎተ፡ ጻድቃን፡ መዝሙር፡ ዘአተዋደዳ፨</l>
+            <l n="3">ጰራቅሊጦስ፡ ስቡሕ፡ ዘኢትለብስ፡ ሜላተ፡ ጋዳ፨</l>
+            <l n="4">እሳተ፡ ፍቅርከ፡ እስመ፡ ለነፍስየ፡ አንደዳ፨</l>
+            <l n="5">ተዘከራ፡ እግዚኦ፡ ለጽዮን፡ በዐውዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለሐቌከ፡ ሰይፈ፡ ቅድስና፡ ዘአጠቀ፨</l>
+            <l n="2">ወለአቍያጺከ፡ ሰላም፡ ነበልባለ፡ እሳት፡ መብረቀ፨</l>
+            <l n="3">ጰራቅሊጦስ፡ ሀበኒ፡ ዘእምኀቤከ፡ ጽድቀ፨</l>
+            <l n="4">ወግበር፡ ለነፍስየ፡ መንግሥተ፡ ሰማያት፡ ምርፋቀ፨</l>
+            <l n="5">ወበልብሰ፡ መርዓ፡ ኢትቁም፡ ዕራቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">ሰላም፡ እብል፡ ለአብራኪከ፡ መንበር፨</l>
+            <l n="2">እለ፡ ልጹቃት፡ እማንቱ፡ ዘምስለ፡ አእጋር፨</l>
+            <l n="3">ጰራቅሊጦስ፡ ማሕየዊ፡ እግዚአብሔር፨</l>
+            <l n="4">አርእየኒ፡ መለኮተከ፡ ዘምስለ፡ ሥላሴ፡ ክቡር፨</l>
+            <l n="5">ወውስተ፡ ቤትከ፡ ሰደኒ፡ በፍቅር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ መልክአ፡ መለኮት፡ ኀያል፨</l>
+            <l n="2">ዘኢይረክቦ፡ ኅሊና፡ ወኢይተረጐም፡ በቃል፨</l>
+            <l n="3">ጰራቅሊጦስ፡ ሕይወት፡ መንጽሔ፡ አካል፨</l>
+            <l n="4">ፄውወኒ፡ ከመ፡ ፄዋ፡ እምቀትለ፡ እዴሃ፡ ለሲኦል፨</l>
+            <l n="5">ለክብረ፡ ሥላሴ፡ ገብርከ፡ በወልታ፡ ዘሣህል፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ስብሐት፡ ለከ፡ እግዚአብሔር፡ አብ፡ ማሕየዊ፨</l>
+            <l n="2">ስብሐት፡ ለከ፡ እግዚአብሔር፡ ወልድ፡ ተፈናዊ፨</l>
+            <l n="3">ስብሐት፡ ለከ፡ እግዚአብሔር፡ መንፈስ፡ ቅዱስ፡ ማሕየዊ፨</l>
+            <l n="4">አድኅነኒ፡ አምላኪየ፡ እምእደ፡ እኩይ፡ ፀራዊ፨</l>
+            <l n="5">ከመ፡ አድኀንኮ፡ እምፈርዖን፡ ለሙሴ፡ ዕብራዊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ጰራቅሊጦስ፡ በዓለ፡ ፶፡ አምኃ፡ ሰላም፡ አቅረብኩ፨</l>
+            <l n="2">በኢያእምሮ፡ ገበርኩ፨</l>
+            <l n="3">በኢለብዎ፡ ኢትርግሙኒ፡ በዘኢይደሉ፡ ወስኩ፨</l>
+            <l n="4">እስመ፡ ነደ፡ ልብየ፡ በፍቅሩ፡ ለ፲፻ወ፶፡ ድርሳን፡ በዝየ፡ ፈጸምኩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ኦጰራቅሊጦስ፡ መጥበቤ፡ አብዳን፨</l>
+            <l n="2">ናዛዜ፡ ኅዙናን፡ ወመጽንዔ፡ ድኩማን፨</l>
+            <l n="3">ረዳኤ፡ ምንዱባን፡ ወመጽድቄ፡ ኃጥኣን፨</l>
+            <l n="4">ዕቀበኒ፡ እመሣግሪሁ፡ ለሰይጣን፨</l>
+            <l n="5">ለገብርከ፡ ምስኪን፡ ጰራቅሊጦስ፡ ብርሃን፨</l>
+            <l n="6">ወለኃጥእ፡ ገብርከ፡ ምኑን፡ አድኅነኒ፡ ዘልፈ፡ እመከራ፡ ዘመን፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="paraclete">
+                <persName xml:lang="gez">ጰራቅሊጦስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṗarāqliṭos</persName>
+                <persName xml:lang="en">The Paraclete</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

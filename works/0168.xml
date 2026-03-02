@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0168" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰማንቱ፡ ርቱዓነ፡ ሃይማኖት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śalastu Məʾt ʿAśśartu wa-Samāntu Rətuʿāna Hāymānot</title>
+        <title corresp="#t1" xml:lang="en">Image of the Three-Hundred and Eighteen Orthodox</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0168/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ለወልደ፡ ማርያም፡ ድንግል፡ እለ፡ ኮንዎ፡ ማኅበራነ፨</l>
+            <l n="2">ቃለ፡ ሃይማኖት፡ ይስብኩ፡ እንተ፡ ትመርሕ፡ የማነ፨</l>
+            <l n="3">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰመንቱ፡ አበዊነ፨</l>
+            <l n="4">በሰይፈ፡ ግዘት፡ መተሩ፡ ዕልዋነ፨</l>
+            <l n="5">በቀስታመ፡ መስቀል፡ አድከሙ፡ ፀሮሙ፡ ሰይጣነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሃይማኖትክሙ፡ መስተፍሥሔ፡ ዓዸም፡ እንግዳ፨</l>
+            <l n="2">እምነ፡ ጸቃውዕ፡ ጥዑም፡ ወእምነ፡ ሐሊብ፡ ጸዐዳ፨</l>
+            <l n="3">ሠለስቱ፡ ምእት፡ አናቅጸ፡ ዐምዳ፡ ወድዳ፨</l>
+            <l n="4">ለቤቴል፡ ዘያዕቆብ፡ ሃይማኖተ፡ ድንግል፡ ወወልዳ፨</l>
+            <l n="5">እንተ፡ በዕሪና፡ ተተክሉ፡ ሥላሴ፡ አዕማዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘተወደሰ፡ ብዙኀ፨</l>
+            <l n="2">በዐውደ፡ ቈስጠንጢኖስ፡ በኵር፡ ዘፍትሐ፡ ሃይማኖት፡ ፈትሐ፨</l>
+            <l n="3">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰመንቱ፡ ዘሮሐ፨</l>
+            <l n="4">አመ፡ ፱ለኅዳር፡ ዘወሰንክሙ፡ ንጹሐ፨</l>
+            <l n="5">ጸሎተ፡ ሃይማኖት፡ ዘሊቅ፡ አትናቴዎስ፡ ሎሐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ሰላም፡ ለመቃብሪክሙ፡ ዘየዐውዶ፡ ብርሃኑ፨</l>
+            <l n="2">ለዘእሙታን፡ ተንሥአ፡ በመለኮታዊ፡ ሥልጣኑ፨</l>
+            <l n="3">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰመንቱ፡ ላእካኑ፨</l>
+            <l n="4">ለዘዐርገ፡ ከመ፡ ያለቡ፡ ዕርገተ፡ ንጹሓን፡ ጻድቃኑ፨</l>
+            <l n="5">እለ፡ ይቤሎሙ፡ ንዑ፡ ይቁሙ፡ በይምኑ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">አምኃ፡ ድርሳን፡ ወገድል፡ ለመልክእክሙ፡ ጸሐፍኩ፨</l>
+            <l n="2">እንዘ፡ በበ፡ ክፍሉ፡ እከፍል፡ ወእዌስክ፡ በበ፡ ተውሳኩ፨</l>
+            <l n="3">ሠለስቱ፡ ምእት፡ ለክብርክሙ፡ ሰገድኩ፨</l>
+            <l n="4">ተወከፉኒ፡ ማሕሌትየ፡ መሥዋዕተ፡ ጽባሑ፡ ወሰርኩ፨</l>
+            <l n="5">ዲበ፡ ጠረጴዛ፡ ሐመረ፡ ኖኅ፡ ዘአነ፡ አቅረብኩ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለክሙ፡ ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰመንቱ፡ ዘኒቅያ፨</l>
+            <l n="2">ተፍጻሜተ፡ ሰማዕት፡ ጴጥሮስ፡ ባስልዮስ፡ ዘቂሣርያ፨</l>
+            <l n="3">ዮናክንዲኖስ፡ ዘሮሜ፡ ጎርጎርዮስ፡ ዘአርማንያ፨</l>
+            <l n="4">እለእስክንድሮስ፡ ሊቅ፡ ዘጉባኤ፡ አትናቴዎስ፡ ሐዋርያ፨</l>
+            <l n="5">ያዕቆብ፡ ዘንጽቢን፡ ኤፍሬም፡ ዘሶርያ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="nicaea">
+                <persName xml:lang="gez">ሠለስቱ፡ ምእት፡ ዐሠርቱ፡ ወሰማንቱ፡ ርቱዓነ፡ ሃይማኖት፡</persName>
+                <persName xml:lang="gez" type="normalized">Śalastu Məʾt ʿAśśartu wa-Samāntu Rətuʿāna Hāymānot</persName>
+                <persName xml:lang="en">The Three-Hundred and Eighteen Orthodox</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

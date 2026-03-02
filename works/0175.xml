@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0175" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሚካኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Mikāʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Michael</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0175/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለሢመትከ፡ እምነ፡ መልዕልት፡ መልዕልተ፨</l>
+            <l n="2">ወእምነ፡ ነፋስ፡ ወነድ፡ ተፈጥሮትከ፡ ተከሥተ፨</l>
+            <l n="3">የዋሀ፡ ልቡና፡ ቅዱስ፡ ሚካኤል፡ ዘኢትፈቱ፡ ትዕቢተ፨</l>
+            <l n="4">ለዘለብሰ፡ ትዕቢተ፡ አውረድኮ፡ መትሕተ፨</l>
+            <l n="5">ወለዕርቃኖ፡ መጦከ፡ ሥርጋዌ፡ ጽልመተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ብሂለ፡ ዕጹብ፡ ወመድምም፨</l>
+            <l n="2">ከመ፡ ብሂሎቱ፡ ፈከረ፡ ልሳነ፡ ሄኖክ፡ እምቅድም፨</l>
+            <l n="3">ቅዱስ፡ ሚካኤል፡ ክቡር፡ ዘዲበ፡ ኀይላት፡ ሥዩም፨</l>
+            <l n="4">ይትከዐው፡ ውስተ፡ አፉየ፡ ወይነ፡ ቃልከ፡ ጥዑም፨</l>
+            <l n="5">ከመ፡ ጽምዐ፡ ጕርዔየ፡ ያርዊ፡ ዜናከ፡ አዳም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለመልክእከ፡ ዘተንዕደ፨</l>
+            <l n="2">አፈ፡ መላእክት፡ ወሰብእ፡ በጊዜ፡ ሰበከ፡ ወልደ፨</l>
+            <l n="3">እስከ፡ ምጽንዐት፡ ኃምስ፡ እስመ፡ ተለውከ፡ ዋሕደ፨</l>
+            <l n="4">አርእየነ፡ ቅዱስ፡ ሚካኤል፡ ገጸከ፡ ብዑደ፨</l>
+            <l n="5">ከመ፡ ንንግር፡ ለትውልድ፡ ይእዜ፡ ገሀደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ባርኮት፡ ይደሉ፡ ለማርያም፡ እግዝእተ፡ ሰብእ፡ ወመላእክት፨</l>
+            <l n="2">ወምክሐ፡ ኵሎን፡ አንስት፨</l>
+            <l n="3">ወስብሐት፡ ካዕበ፡ ለንጽሐ፡ ሥጋሃ፡ ቅድስት፨</l>
+            <l n="4">ለድንግልናሃ፡ ክልኤቲ፡ ዘኢሰገደ፡ በትፍሥሕት፨</l>
+            <l n="5">በሰይፈ፡ ቅዱስ፡ ሚካኤል፡ ይትገዘም፡ ወይጥፋዕ፡ በሞት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ለአብ፡ ስብሐት፡ ወለወልድ፡ አኰቴት፨</l>
+            <l n="2">ወለመንፈስ፡ ቅዱስ፡ ባርኮት፨</l>
+            <l n="3">ግናይ፡ ወሰጊድ፡ በኢቡዓዴ፡ በጽምረት፨</l>
+            <l n="4">ይደሉ፡ ለሥላሴ፡ ዘአልቦ፡ ኅልፈት፨</l>
+            <l n="5">በዘቦቱ፡ ነሐዩ፡ እምዳግም፡ ሞት፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="michael">
+                <persName xml:lang="gez">ሚካኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Mikāʾel</persName>
+                <persName xml:lang="en">Michael</persName>
+                <trait type="category"><desc>angelic</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

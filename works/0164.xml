@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0164" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሚካኤል፡ ዘጎሬ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Mikāʾel za-Gore</title>
+        <title corresp="#t1" xml:lang="en">Image of Mikāʾel of Gore</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0164/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እግዚአብሔር፡ አቡነ፡ ዘበሰማያት፡ ሀሎከ፨</l>
+            <l n="2">መንግሥትከ፡ ትምጻእ፡ ወይኩን፡ ፈቃድከ፨</l>
+            <l n="3">ምስለ፡ ሚካኤል፡ መልአክ፡ ዘእምነ፡ ሰማይ፡ ተልእከ፨</l>
+            <l n="4">አኮኑ፡ ሰማዕታት፡ ዘኢትዮጵያውያን፡ ይብሉከ፨</l>
+            <l n="5">በማእከለ፡ ሰማይ፡ ወምድር፡ ይትቀደስ፡ ስምከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ሱቱፈ፡ ሚካኤል፡ መልአክ፨</l>
+            <l n="2">ወሐዋርያ፡ ማርቆስ፡ ዘእስክንድርያ፡ ፓትርያርክ፨</l>
+            <l n="3">ሚካኤል፡ መልአኩ፡ ለእግዚአብሔር፡ አምላክ፨</l>
+            <l n="4">እስመ፡ ሞእከ፡ መልአከ፡ ሞት፡ በከዊነ፡ ሰማዕት፡ ፋሌክ፨</l>
+            <l n="5">ወበመስቀልከ፡ ጐየ፡ ምድረ፡ ደይን፡ ወሀውክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ ታቦተ፡ ሕይወት፡ ለዕድሜ፨</l>
+            <l n="2">ወለበድነ፡ ሥጋከ፡ ጽሌ፡ ህልወ፡ መግነዝ፡ አበሜ፨</l>
+            <l n="3">ሚካኤል፡ መምህር፡ ዘኢትዮጵያ፡ ወሮሜ፨</l>
+            <l n="4">እስመ፡ ኮንከ፡ አባ፡ ከመ፡ እስጢፋኖስ፡ ቀዳሜ፨</l>
+            <l n="5">ወከመ፡ ጳጳስ፡ ጴጥሮስ፡ ዘሰማዕት፡ ተፍጻሜ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ቡራኬ፡ ሐውልት፡ ዘተተክለ፨</l>
+            <l n="2">ወለትንሣኤከ፡ ዋካ፡ ዘበላዕሌሁ፡ ጸደለ፨</l>
+            <l n="3">ሚካኤል፡ አቡነ፡ እንተ፡ ትባርክ፡ መስቀለ፨</l>
+            <l n="4">እምኵሉ፡ ዓለማት፡ ዘኢትዮጵያ፡ አልዐለ፨</l>
+            <l n="5">እግዚአብሔር፡ ይትባረክ፡ እስመ፡ ጴጥሮስ፡ ብህለ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ባርካ፡ እግዚኦ፡ ለዛቲ፡ ለኢትዮጵያ፡ መካን፨</l>
+            <l n="2">ሞተ፡ ላሕም፡ ኢይምጻእ፡ ወሕጸተ፡ ማይ፡ ኢይኩን፨</l>
+            <l n="3">ሚካኤል፡ አቡነ፡ ዘኢትዮጵያ፡ ካህን፨</l>
+            <l n="4">ወይጉየይ፡ በመስቀልከ፡ አባረ፡ ጣልያን፡ ዘመን፨</l>
+            <l n="5">ከመ፡ በጸሎቱ፡ ለጴጥሮስ፡ ተሰደ፡ ሰይጣን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለኪ፡ ብሔረ፡ ብፁዓን፡ ኢትዮጵያ፨</l>
+            <l n="2">ዘዘመረ፡ ለኪ፡ በዓለ፡ መዝሙር፡ በሃሌ፡ ሉያ፨</l>
+            <l n="3">ለወልደ፡ ነጐድጓድ፡ ሚካኤል፡ ወቤተ፡ ክርስቲያን፡ ማርያ፨</l>
+            <l n="4">እግዚእነ፡ እስመ፡ ይቤሎሙ፡ ታሕተ፡ እግረ፡ መስቀልም፡ ሮምያ፨</l>
+            <l n="5">ነዋ፡ ወልድኪ፡ ወእምከ፡ ነያ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mikael-gore">
+                <persName xml:lang="gez">ሚካኤል፡ ዘጎሬ፡</persName>
+                <persName xml:lang="gez" type="normalized">Mikāʾel za-Gore</persName>
+                <persName xml:lang="en">Mikāʾel of Gore</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0136" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ታዴዎስ፡ ዘደብረ፡ ጽላልሽ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tādewos za-Dabra Ṣǝlālǝš</title>
+        <title corresp="#t1" xml:lang="en">Image of Tādewos of Dabra Ṣǝlālǝš</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0136/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ አብ፡ አምላከ፡ አማልክት፡ ለሊሁ፨</l>
+            <l n="2">ወበስመ፡ ማርያም፡ ድንግል፡ እንተ፡ ተሳተፈት፡ ብዕለ፡ ጸጋሁ፨</l>
+            <l n="3">ውዳሴ፡ መልክእከ፡ እንብብ፡ ታዴዎስ፡ ለለ፡ ጽባሑ፨</l>
+            <l n="4">መሀረኒ፡ ሕገ፡ ጥበብ፡ ወአለብወኒ፡ ናሁ፨</l>
+            <l n="5">ከመ፡ ለወልዱ፡ ጥበበ፡ ይሜህር፡ አቡሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በሰሌዳ፡ ሞገስ፡ ልኩእ፨</l>
+            <l n="2">ዘይትበፃዕ፡ ብፅዐ፡ በአፈ፡ መላእክት፡ ወሰብእ፨</l>
+            <l n="3">ምዑዘ፡ ምግባር፡ ታኤድዎስ፡ እምጽጌ፡ ረዳ፡ ወቅብእ፨</l>
+            <l n="4">ሤመከ፡ ወአልዐለከ፡ እግዚአብሔር፡ እግዚእ፨</l>
+            <l n="5">ወውዳሴ፡ ስምከ፡ መልአ፡ በዓለም፡ ርቡዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለትንሣኤከ፡ እምነ፡ ዝኅርከ፡ ለዐውዳ፨</l>
+            <l n="2">ስመ፡ ባሕርያ፡ መሬት፡ እንተ፡ ትሴሰይ፡ እስከ፡ ትትወሐዳ፨</l>
+            <l n="3">አመ፡ ትመጽእ፡ ታዴዎስ፡ ምስለ፡ እግዚእከ፡ በዕለተ፡ ፍዳ፨</l>
+            <l n="4">ተዘኪረከ፡ ስምየ፡ ዘአቅረብኩ፡ ጋዳ፨</l>
+            <l n="5">ዐስበ፡ ሰላምየ፡ ፈኑ፡ እስመ፡ ብየ፡ ዕዳ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለመልክእከ፡ መሠንየ፨</l>
+            <l n="2">እንተ፡ ኢታስተሐቅር፡ ቃለ፡ መጠነ፡ ክሂል፡ ዘብየ፨</l>
+            <l n="3">ተወኪፈከ፡ ዘንተ፡ ታዴዎስ፡ አቡየ፨</l>
+            <l n="4">ከመ፡ ተወክፈ፡ እግዚእከ፡ ጸሪቀ፡ መበለት፡ ሰኑየ፨</l>
+            <l n="5">እምጸጋከ፡ እንሣእ፡ ሀበኒ፡ ዐስብየ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="tadewos-d-selales">
+                <persName xml:lang="gez">ታዴዎስ፡ ዘደብረ፡ ጽላልሽ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tādewos za-Dabra Ṣǝlālǝš</persName>
+                <persName xml:lang="en">Tādewos of Dabra Ṣǝlālǝš</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">146</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

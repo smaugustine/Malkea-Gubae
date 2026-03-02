@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0132" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ያሳይ፡ ዘመንዳባ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yāsāy za-Mandābbā</title>
+        <title corresp="#t1" xml:lang="en">Image of Yāsāy of Mandābbā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0132/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ለዓለም፡ ዘይሄሉ፨</l>
+            <l n="2">ለዓብይ፡ በከመ፡ ባህሉ፨</l>
+            <l n="3">ንጉሠ፡ ሃይማኖት፡ ያሳይ፡ ለገጽ፡ ዘኢታደሉ፨</l>
+            <l n="4">መኑ፡ ከማከ፡ ዲበ፡ እጽ፡ እንተ፡ ፈጸማ፡ ለገድሉ፨</l>
+            <l n="5">ወመኑ፡ ከማከ፡</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ድሉል፡ ወጸሊም፡ ከመ፡ ቋዕ፨</l>
+            <l n="2">ወለርእስከ፡ ሰላም፡ ጠለ፡ ቅድስና፡ ምሉእ፨</l>
+            <l n="3">ኀያል፡ ያሳይ፡ ዘልማድከ፡ መዊእ፨</l>
+            <l n="4">አገብር፡ ዲበ፡ ርእስየ፡ እክለ፡ ____ ወፋግዕ፨</l>
+            <l n="5">ወፅ_እ፡ ሥዕርት፡ በጽድቅከ፡ ቅብእ፨</l>
+            <l n="6"> </l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="yasay">
+                <persName xml:lang="gez">ያሳይ፡ ዘመንዳባ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yāsāy za-Mandābbā</persName>
+                <persName xml:lang="en">Yāsāy of Mandābbā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0117" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገላውዴዎስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Galāwdewos</title>
+        <title corresp="#t1" xml:lang="en">Image of Claudius</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0117/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ዐብየ፡ ላሓ፡ ነፍስየ፡ አምሳለ፡ ውሒዝ፡ ዘገዳም፨</l>
+            <l n="2">ከመ፡ ዐብየ፡ ላሓ፡ ለኢየሩሳሌም፨</l>
+            <l n="3">አመ፡ ዐብየ፡ ፍትሐ፡ ሞት፡ በስነነ፡ ኲናት፡ ጸሊም፨</l>
+            <l n="4">ገላውዴዎስ፡ እንዘ፡ ነፍስከ፡ ሕርትምተ፡ በቀል፡ ወቂም፨</l>
+            <l n="5">ወአእዳዊከ፡ ንጹሓት፡ እምደም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ቦኑ፡ ኢያእመሩ፡ ለምሕረትከ፡ መጠና፨</l>
+            <l n="2">ወኢተዚያነውነ፡ መብዝኅተ፡ ሣህልከ፡ እምሰብአ፡ ዜና፨</l>
+            <l n="3">እለ፡ ቀተሉከ፡ ዕደው፡ በአእብዶ፡ ነፍስ፡ ወኅሊና፨</l>
+            <l n="4">ገላውዴዎስ፡ ፀርከ፡ ዘትስእል፡ ዳኅና፨</l>
+            <l n="5">[line missing]</l>
+
+          </lg>
+          
+          <lg type="stanza" n="18">
+            
+            <l n="1">ጽምው፡ ዖፍ፡ ወኅዱዕ፡ ገላውዴዎስ፡ ኄር፨</l>
+            <l n="2">እንዘ፡ ትጸውር፡ ቈጽለ፡ እምዕፀ፡ ዘይት፡ ሥሙር፨</l>
+            <l n="3">ከመ፡ ታብስሮሙ፡ ነዓ፡ ንትገተ፡ አይኅ፡ እምድር፨</l>
+            <l n="4">ናሁ፡ ኪኣከ፡ ይጸንሑ፡ ውስተ፡ አሐቲ፡ ሐመር፨</l>
+            <l n="5">ኅዳጣን፡ ሰብእ፡ ዘይድኅኑ፡ እምባሕር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ሰላም፡ ለርግዘትከ፡ ከመ፡ ጊዜ፡ ሐለይክዎ፡ በአንክሮ፨</l>
+            <l n="2">አአነብዝ፡ ገባእኩ፡ እምፍናወ፡ ሐዘን፡ ወአንጽሮ፨</l>
+            <l n="3">ባሕቱ፡ ነቃህኩ፡ ሶበ፡ ለክርስቶስ፡ እኔጽሮ፨</l>
+            <l n="4">ወአስተሐይጽ፡ በነፍስየ፡ ዘዕለተ፡ ዐርብ፡ ጻዕሮ፨</l>
+            <l n="5">ከመ፡ ገቦሁ፡ ረገዙ፡ ወቀነዉ፡ እግሮ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="claudius">
+                <persName xml:lang="gez">ገላውዴዎስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Galāwdewos</persName>
+                <persName xml:lang="en">Claudius</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

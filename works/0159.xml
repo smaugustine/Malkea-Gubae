@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0159" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጻድቃን፡ ዘማኅበረ፡ በኵር፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṣādqān za-Māḫbara Bakʷr</title>
+        <title corresp="#t1" xml:lang="en">Image of the Righteous of the Assembly of the Firstborn</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0159/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ሠናየ፡ ዜና፡ መጽሐፍ፨</l>
+            <l n="2">ወለሥዕርትክሙ፡ ሰላም፡ ዘተላጸየ፡ በሐፍ፨</l>
+            <l n="3">አበው፡ ጻድቃን፡ መደንግፃነ፡ ፀር፡ ቈላፍ፨</l>
+            <l n="4">ተፈጸመ፡ በኀቤክሙ፡ ነገረ፡ ተዋሕዶ፡ ትሩፍ፨</l>
+            <l n="5">ምስለ፡ ቃል፡ ተዋሕዶቱ፡ ለሥጋ፡ ግዙፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋክሙ፡ ዘተገንዘ፡ በክብር፨</l>
+            <l n="2">ወሰላም፡ ካዕበ፡ ለዘዚአክሙ፡ መቃብር፨</l>
+            <l n="3">ማኅበረ፡ በኵር፡ ጻድቃን፡ ጽኑዓነ፡ ምስጢር፡ ወምክር፨</l>
+            <l n="4">አንቀዐዱ፡ እምኀቤክሙ፡ ኅጡአ፡ ተስፋ፡ ግዩር፨</l>
+            <l n="5">ከመ፡ እምሰማይ፡ ዝናመ፡ ታንቀዐዱ፡ ምድር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">አበው፡ ጻድቃን፡ አዕረፉ፡ በሰላም፨</l>
+            <l n="2">ይኄይሰነ፡ ይቤሉ፡ ዐጸደ፡ ንጽሕና፡ ገዳም፨</l>
+            <l n="3">እምኢኀልቀ፡ ውዳሴሆሙ፡ በጽሒፈ፡ ኵሉ፡ ዓለም፨</l>
+            <l n="4">በሰማይ፡ ሰሌዳ፡ ወዝናም፡ ቀለም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ንስጥሮስ፡ ወድቀ፡ ዘጸልአ፡ ተዋሕዶ፨</l>
+            <l n="2">ወልዮን፡ ረከበ፡ እምነ፡ ሀገሩ፡ ተሰዶ፨</l>
+            <l n="3">እምድኅረ፡ ዝንቱ፡ ዘመን፡ ዘአስተምሀረ፡ ተባዕዶ፨</l>
+            <l n="4">ይሳተፍ፡ ከመ፡ ለአምላከ፡ ሰማይ፡ ነዶ፨</l>
+            <l n="5">ወያንኰርኵር፡ ታሕተ፡ ደይን፡ ሲኦለ፡ ወሪዶ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="sad-mahbara-bakwr">
+                <persName xml:lang="gez">ጻድቃን፡ ዘማኅበረ፡ በኵር፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṣādqān za-Māḫbara Bakʷr</persName>
+                <persName xml:lang="en">The Righteous of the Assembly of the Firstborn</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0115" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ወልደ፡ ትንሣኤ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Walda Tǝnśāʾe</title>
+        <title corresp="#t1" xml:lang="en">Image of Walda Tǝnśāʾe</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0115/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ በተዐድዎ፡ ሕግ፡ ዘኮነ፨</l>
+            <l n="2">ወለልደትከ፡ ሰላም፡ እንዘ፡ ትፈትሕ፡ ማሕፀነ፨</l>
+            <l n="3">ወልደ፡ ትንሣኤ፡ እምአብ፡ እንተ፡ ነሣእከ፡ ሥልጣነ፨</l>
+            <l n="4">እምልብየ፡ ዝንጋኤ፡ ልብ፡ አእትት፡ ፍጡነ፨</l>
+            <l n="5">[line missing]</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘአስተዛለፋ፡ ቀባዒ፨</l>
+            <l n="2">ኀበ፡ ትንሣኤ፡ በቋዒ፨</l>
+            <l n="3">ወልደ፡ ትንሣኤ፡ ኀያል፡ ኀያላነ፡ ጽልመት፡ መዋኢ፨</l>
+            <l n="4">አድኅነኒ፡ በረድኤትከ፡ እመልአከ፡ ዓለም፡ ፈጋዒ፨</l>
+            <l n="5">እስመ፡ አበ፡ ግፉዕ፡ አንተ፡ ወአንተ፡ ረዳኢ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ እምዐይነ፡ አእምሮ፡ ሰብአዊ፨</l>
+            <l n="2">ገጸ፡ ኍላቌሁ፡ ዘኀብአ፡ እግዚአብሔር፡ ማሕየዊ፨</l>
+            <l n="3">ወልደ፡ ትንሣኤ፡ መክብብ፡ መምህር፡ እስክንድራዊ፨</l>
+            <l n="4">ኢትትሀከይ፡ አቂቦተነ፡ በአምሳለ፡ ትጉህ፡ ኖላዊ፨</l>
+            <l n="5">ለአባግዒከ፡ እምተኵላ፡ ነዓዊ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ በዝየ፡ ተሰብሐ፨</l>
+            <l n="2">ወስብሐተ፡ ዕበይ፡ ነሥአ፡ እምአፈ፡ መላእክት፡ በከሃ፨</l>
+            <l n="3">ወልደ፡ ትንሣኤ፡ ለገጽ፡ እንተ፡ ታደሉ፡ ፍትሐ፨</l>
+            <l n="4">ለነፍስየ፡ መፍቀሪትከ፡ ተወኪፈከ፡ ጻማሃ፨</l>
+            <l n="5">ኃጣውኢሃ፡ አስተስሪ፡ ወፍዲ፡ ዕዳሃ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">እሴብሖ፡ ለእግዚአብሔር፡ ዘአስተጋብአነ፡ እምርኁቅ፨</l>
+            <l n="2">በዓለ፡ ዕረፍትከ፡ ንግበር፡ ወተዝካረከ፡ በጻህቅ፨</l>
+            <l n="3">ወልደ፡ ትንሣኤ፡ በጸጋ፡ ወላዴ፡ አእላፍ፡ ደቂቅ፨</l>
+            <l n="4">ጉባኤነ፡ ባርክ፡ ባሕቱ፡ በመስቀልከ፡ ዘጻድቅ፨</l>
+            <l n="5">ወበጸሎትከ፡ ይድኅን፡ ሕዝበከ፡ እምድድቅ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ለማርያም፡ ዘአለበወተኒ፡ ዘንተ፨</l>
+            <l n="2">ድርሳነ፡ መልክእከ፡ አባ፡ እንዘ፡ ትከውን፡ ረድኤተ፨</l>
+            <l n="3">ወልደ፡ ትንሣኤ፡ ለኵሉ፡ ዘታስተበቍዕ፡ ምሕረተ፨</l>
+            <l n="4">ሰሚዐከ፡ በቃለ፡ አፉየ፡ ወዘልብየ፡ ስእለተ፨</l>
+            <l n="5">ሀብተ፡ በረከት፡ ሀበኒ፡ ዕሤተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="walda-tensae">
+                <persName xml:lang="gez">ወልደ፡ ትንሣኤ፡</persName>
+                <persName xml:lang="gez" type="normalized">Walda Tǝnśāʾe</persName>
+                <persName xml:lang="en">Walda Tǝnśāʾe</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0171" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ መለኮት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Malakot</title>
+        <title corresp="#t1" xml:lang="en">Image of Divinity</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0171/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለመለኮትከ፡ ዘአስተዳለወ፡ ስመ፨</l>
+            <l n="2">በእሳት፡ ወማይ፡ ድኅረ፡ ፈጠረ፡ ዓለመ፨</l>
+            <l n="3">እግዚአብሔር፡ አብ፡ ዘኢተአምር፡ ድካመ፨</l>
+            <l n="4">መድኃኔ፡ ዓለም፡ ወልድ፡ በቅድመ፡ ጲላጦስ፡ ቆመ፨</l>
+            <l n="5">ወበስቅለቱ፡ ቅድስት፡ ኀጢአተ፡ ዓለም፡ ሐተመ፨</l>
+            <l n="6">ኀጢአትየ፡ ኅትም፡ ወአዕጽፈኒ፡ ሰላመ፨</l>
+            <l n="7">ወመንፈስ፡ ቅዱስ፡ እሳት፡ አፍዕመኒ፡ ፍሕመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለመለኮትከ፡ ዘሥዕርተ፡ ርእስ፡ አልቦቱ፨</l>
+            <l n="2">እስመ፡ ገባሬ፡ ርእስ፡ ዘሰብእ፡ ወዓለመ፡ ኵሉ፡ ውእቱ፨</l>
+            <l n="3">እግዚአብሔር፡ አሐዱ፡ ወበአካላት፡ ሠለስቱ፨</l>
+            <l n="4">ለእስራኤል፡ ዘአግባእኮ፡ ኀበ፡ ምድረ፡ ከነዓን፡ ርስቱ፨</l>
+            <l n="5">መድኃኔ፡ ዓለም፡ ወልድ፡ ማሕየዌ፡ ዓዸም፡ በሞቱ፨</l>
+            <l n="6">ወመንፈስ፡ ቅዱስ፡ ሐዋጼ፡ ትጉህ፡ ለለ፡ ዕለቱ፨</l>
+            <l n="7">ውሳጤ፡ ልብየ፡ ይብራህ፡ ወፍጡነ፡ ይኅቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ሰላም፡ ለመለኮትከ፡ እግዚአብሔር፡ ሕያው፨</l>
+            <l n="2">አንተ፡ ትሁብ፡ ወአንተ፡ ትፄውው፨</l>
+            <l n="3">መኑ፡ ከማከ፡ በውስተ፡ ኵሉ፡ ሕልው፨</l>
+            <l n="4">መድኃኔ፡ ዓለም፡ ወልድ፡ ለቤዛ፡ ዓዸም፡ ድልው፨</l>
+            <l n="5">በስህሐት፡ አሀሉ፡ ምስለ፡ ኅሩያን፡ አበው፨</l>
+            <l n="6">ፈኑ፡ ሊተ፡ መንፈስከ፡ ይጸልለኒ፡ በበድው፨</l>
+            <l n="7">እምተዐቅፎ፡ በብርሃን፡ ጽዕድው፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="trinity">
+                <persName xml:lang="gez">ቅድስት፡ ሥላሴ፡</persName>
+                <persName xml:lang="gez" type="normalized">Qəddəst Śəllāse</persName>
+                <persName xml:lang="en">The Holy Trinity</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0178" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቴዎድሮስ፡ ዘዓዲ፡ ቂታ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tewodros za-ʿĀddi Qitā</title>
+        <title corresp="#t1" xml:lang="en">Image of Tewodros of ʿĀddi Qitā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0178/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘሆህያቲሁ፡ ኀምስ፨</l>
+            <l n="2">ወምዑዝ፡ ጼናሁ፡ ከመ፡ ናርዶስ፨</l>
+            <l n="3">ዝክረ፡ ስምከ፡ ቴዎድሮስ፡ በአፈ፡ ኵሉ፡ ውዱስ፨</l>
+            <l n="4">ውዱቃነ፡ ከመ፡ ታንሥእ፡ ወግዱፋነ፡ ትኅሥሥ፨</l>
+            <l n="5">ተፈነው፡ አንተ፡ እምሰማይ፡ ምክማስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ ዘእመቃብሩ፡ ምስካቡ፨</l>
+            <l n="2">ወእምነ፡ ኅቡእ፡ መዝገቡ፨</l>
+            <l n="3">ለፍልሰትከ፡ ቴዎድሮስ፡ አምኃ፡ ሰላም፡ አቅረቡ፨</l>
+            <l n="4">ተፈሥሑ፡ በዲበ፡ ምድር፡ ሰራዊተ፡ ሰብእ፡ ወሕዝቡ፨</l>
+            <l n="5">ወመላእክት፡ በሰማይ፡ የበቡ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ሰላም፡ ለቴዎድሮስ፡ እንተ፡ አብዝኀ፡ ተጋድሎ፨</l>
+            <l n="2">እንዘ፡ በልቡና፡ ያጸንዕ፡ ለቀልደ፡ ማርያም፡ ቃሎ፨</l>
+            <l n="3">ለዘይትአመንዎ፡ ሕዝብ፡ ከመ፡ ያርእዮሙ፡ ኀይሎ፨</l>
+            <l n="4">መሊሖ፡ ሠርወ፡ ዖም፡ በመልዕልተ፡ ኰኵሕ፡ ተከሎ፨</l>
+            <l n="5">ወውእቱ፡ ዖም፡ እስከ፡ ዮም፡ ሀሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">ሰላም፡ ለበዓልከ፡ በበዓለ፡ ብዙኅ፡ ትፍሥሕት፨</l>
+            <l n="2">እንተ፡ ተሳተፈት፡ ደርገ፡ በዓለ፡ ጊዮርጊስ፡ ሰማዕት፨</l>
+            <l n="3">ከዳኒነ፡ እግዚእ፡ ዮሐንስ፡ ርእሰ፡ ነቢያት፡ ቀደምት፨</l>
+            <l n="4">ባርክ፡ ለነ፡ ዐውደ፡ ዓመት፡ ለደቂቀ፡ ዛቲ፡ ምኔት፨</l>
+            <l n="5">ከመ፡ ታድኅነነ፡ እምኵሉ፡ መንሱት፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="tewodros-addi-qita">
+                <persName xml:lang="gez">ቴዎድሮስ፡ ዘዓዲ፡ ቂታ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tewodros za-ʿĀddi Qitā</persName>
+                <persName xml:lang="en">Tewodros of ʿĀddi Qitā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

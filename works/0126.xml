@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0126" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አቢብ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAbib</title>
+        <title corresp="#t1" xml:lang="en">Image of Phib</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0126/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ስምከ፡ መአድምተ፨</l>
+            <l n="2">ከመ፡ አስተጋብእ፡ ማሕሌተ፨</l>
+            <l n="3">አርአያ፡ ታስተጋብእ፡ ብእሲት፡ እምነ፡ ተቅራም፡ ሕጠተ፨</l>
+            <l n="4">አቢብ፡ ቡላ፡ ዘኢያእመርከ፡ ርስሐተ፨</l>
+            <l n="5">በክነፈ፡ ኅሊና፡ በጺሐከ፡ ግብተ፨</l>
+            <l n="6">ዘያፌጽም፡ ማሕሌተከ፡ መክሥተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለዕርገትከ፡ ልዑለ፡ አርያመ፨</l>
+            <l n="2">እንዘ፡ ትትወፈይ፡ ቡላ፡ እምአፈ፡ መላእክት፡ ሰላመ፨</l>
+            <l n="3">ግበር፡ ሊተ፡ በፍጽምየ፡ ዘትእምርትከ፡ ማሕተመ፨</l>
+            <l n="4">ኢይረክብ፡ ዘይንዕወኒ፡ ወኢይመውአኒ፡ ፍጹመ፨</l>
+            <l n="5">እመ፡ ይተልወኒ፡ ረድኤትከ፡ ከዊኖ፡ ቃውመ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">በከመ፡ ተወክፈ፡ እግዚእከ፡ ጸራይቀ፡ ክልኤቱ፨</l>
+            <l n="2">ዘእምተጽናሳ፡ ብእሲት፡ ለእመ፡ አብአት፡ ሎቱ፨</l>
+            <l n="3">አቢብ፡ ተወከፍ፡ አስትአ፡ ማሕሌትየ፡ ዝንቱ፨</l>
+            <l n="4">ለሰብለ፡ ሥርናይ፡ ከመ፡ ይበዝኅ፡ ሕጠቱ፨</l>
+            <l n="5">ይፈድፍድ፡ በኀቤከ፡ ወይብዛኅ፡ ዕሤቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ አቢብ፡ ንህብ፡ እምሰብአ፡ ትማልም፡ ወዮም፨</l>
+            <l n="2">እምገነተ፡ መስቀል፡ አልቦ፡ ጽጌ፡ ሕማም፨</l>
+            <l n="3">ከማከ፡ ዘይቀስም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለከ፡ አቢብ፡ ቡላ፡ ኀበ፡ ኢየሱስ፡ መድኅን፨</l>
+            <l n="2">ለብእሲ፡ ኪያከ፡ ዘይትአመን፨</l>
+            <l n="3">ሰአል፡ ሎቱ፡ ቁመተ፡ የማን፨</l>
+            <l n="4">አመ፡ ጊዜ፡ ይትነፋሕ፡ ቀርን፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="phib">
+                <persName xml:lang="gez">አቢብ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAbib</persName>
+                <persName xml:lang="en">Phib</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

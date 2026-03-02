@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0151" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዐሥራተ፡ ወልድ፡ ዘዙርዙር፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʿAśrāta Wald za-Zurzur</title>
+        <title corresp="#t1" xml:lang="en">Image of ʿAśrāta Wald of Zurzur</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0151/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለተንሥኦትከ፡ በቃለ፡ ፈጣሪ፡ ልዑል፨</l>
+            <l n="2">ከመ፡ ወሬዛ፡ ግሩም፡ እንበለ፡ ሙስና፡ ወሀጕል፨</l>
+            <l n="3">ዐሥራተ፡ ወልድ፡ አቡነ፡ ጽሙደ፡ ጸሎት፡ ወገድል፨</l>
+            <l n="4">አሰሰልከ፡ ጋዕዝ፡ እምውሉድከ፡ በዘኢይትኄሰው፡ ቃል፨</l>
+            <l n="5">ድልዋኒክሙ፡ ንበሩ፡ እንዘ፡ ትብል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ወለልደትከ፡ መንክር፨</l>
+            <l n="2">እምጽጌ፡ ማርያም፡ ቡርክት፡ ወእምጻማ፡ ክርስቶስ፡ ክቡር፨</l>
+            <l n="3">ዐሥራተ፡ ወልድ፡ እንጦንስ፡ ተላዌ፡ አሠሩ፡ ለኄር፨</l>
+            <l n="4">ናስተበፅዕ፡ ዜና፡ ገድልከ፡ ምስለ፡ ሊቃናት፡ በኅብር፨</l>
+            <l n="5">ውስተ፡ ገዳምከ፡ ቅድስት፡ ዘስማ፡ ዙርዙር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተጸውዐ፡ በኀይሉ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ሰላም፡ ለፈትለ፡ ሜላት፡ አምሳሉ፨</l>
+            <l n="3">ዐሥራተ፡ ወልድ፡ መምህር፡ ለወልደ፡ እግዚአብሔር፡ ወንጌሉ፨</l>
+            <l n="4">እጽሕፍ፡ ዜና፡ ዝክርከ፡ ማእከለ፡ ካህናት፡ እሉ፨</l>
+            <l n="5">አምጣነ፡ ዝክርከ፡ ይትዐወቅ፡ በኵሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ማእከለ፡ አድባር፡ ወሐቅል፨</l>
+            <l n="2">እለ፡ በውስቴታ፡ ነበሩ፡ ማኅበረ፡ ቅዱሳን፡ አህባል፨</l>
+            <l n="3">ዐሥራተ፡ ወልድ፡ አቡነ፡ ዘቤተ፡ ክርስቲያን፡ አክሊል፨</l>
+            <l n="4">ኮነ፡ ምስማከከ፡ እንተ፡ አብ፡ ወንጌል፨</l>
+            <l n="5">ወኮነ፡ መርጉዘከ፡ እንተ፡ ወልድ፡ መስቀል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ናሁ፡ አቅረብኩ፡ ማሕሌትየ፡ ለመልክእከ፡ በእማኄ፨</l>
+            <l n="2">ጸሓፌ፡ መልክእከ፡ አነ፡ እንዘ፡ ሶበ፡ እብል፡ ኤሎሄ፨</l>
+            <l n="3">ዐሥራተ፡ ወልድ፡ ክቡር፡ ዘመልክእከ፡ ሡራሄ፨</l>
+            <l n="4">እስመ፡ ከመ፡ እጽሐፍ፡ አባሕከኒ፡ ዜና፡ ዝክርከ፡ ስባሔ፨</l>
+            <l n="5">ዘይትነገር፡ ለከ፡ በመካን፡ ኵለሄ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ተወከፍ፡ ዘንተ፡ አምኃ፡ መልክእከ፡ በተወክሎ፨</l>
+            <l n="2">እንዘ፡ ኣቄርብ፡ ስብሐተ፡ ወብዙኀ፡ ተማኅልሎ፨</l>
+            <l n="3">ዐሥራተ፡ ወልድ፡ ኤልያስ፡ ነቢየ፡ ቴስብያ፡ ወሴሎ፨</l>
+            <l n="4">አርአየኒ፡ እስኩ፡ በመጽሔተ፡ አእምሮት፡ ኵሎ፨</l>
+            <l n="5">ከመ፡ ያርኢ፡ እግዚእየ፡ ሥልጣኖ፡ ወኀይሎ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="38">
+            
+            <l n="1">ሰላም፡ ለበአትከ፡ ዘትሰመይ፡ ጉርብ፨</l>
+            <l n="2">እንዘ፡ በውስቴታ፡ ትጼሊ፡ ስብሐተ፡ ማርያም፡ ጠባብ፨</l>
+            <l n="3">ዐሥራተ፡ ወልድ፡ ዮናስ፡ ሰባኬ፡ ንስሓ፡ ለሕዝብ፨</l>
+            <l n="4">ያንቅሐኒ፡ እምንዋመ፡ ሀኬት፡ ኀይለ፡ ጸጋከ፡ ዕጹብ፨</l>
+            <l n="5">ከመ፡ አንቅሖ፡ ጳውሎስ፡ ለቲቶ፡ ስኩብ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="asrata-wald">
+                <persName xml:lang="gez">ዐሥራተ፡ ወልድ፡ ዘዙርዙር፡</persName>
+                <persName xml:lang="gez" type="normalized">ʿAśrāta Wald za-Zurzur</persName>
+                <persName xml:lang="en">ʿAśrāta Wald of Zurzur</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

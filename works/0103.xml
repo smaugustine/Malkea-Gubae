@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0103" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዕንቈ፡ ሥላሴ፡ ዘደብረ፡ ሥላሴ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʿƎnqʷa Śǝllāse za-Dabra Śǝllāse</title>
+        <title corresp="#t1" xml:lang="en">Image of ʿƎnqʷa Śǝllāse of Dabra Śǝllāse</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0103/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ አክሊለ፡ ዕበይ፡ ወግርማ፨</l>
+            <l n="2">እንተ፡ ተወፈየ፡ ቅድመ፡ እምእግዚአብሔር፡ ፌማ፨</l>
+            <l n="3">ገባሬ፡ ተኣምር፡ ወኀይል፡ ዕንቈ፡ ሥላሴ፡ ገሪማ፨</l>
+            <l n="4">አድኅነነ፡ ለደቂቅከ፡ እምክረ፡ በላዒ፡ መስቴማ፨</l>
+            <l n="5">በዲበ፡ ትእዛዝ፡ ዘይፈጥር፡ ጻማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ አርአያ፡ በቀልት፡ እንበለ፡ ንትጋ፨</l>
+            <l n="2">ወለርእስከ፡ ጥሉል፡ በቅብአ፡ ሃይማኖት፡ ወጸጋ፨</l>
+            <l n="3">ዕንቈ፡ ሥላሴ፡ ጳውሎስ፡ ለጥበብ፡ ዘትዛወጋ፨</l>
+            <l n="4">አርፍቀነ፡ ለውሉድከ፡ ኀበ፡ ረሰዩ፡ እንግልጋ፨</l>
+            <l n="5">እለ፡ መነኑ፡ ለዓለም፡ ሥርዓታ፡ ወሕጋ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="enqwa-sellase">
+                <persName xml:lang="gez">ዕንቈ፡ ሥላሴ፡ ዘደብረ፡ ሥላሴ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʿƎnqʷa Śǝllāse za-Dabra Śǝllāse</persName>
+                <persName xml:lang="en">ʿƎnqʷa Śǝllāse of Dabra Śǝllāse</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

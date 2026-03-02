@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0118" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐኒ፡ ዘደብረ፡ ዓሣ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥanni za-Dabra ʿĀśā</title>
+        <title corresp="#t1" xml:lang="en">Image of Yoḥanni of Dabra ʿĀśā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0118/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ኦክርስቶስ፡ ባሕርየ፡ ባሕርዩ፡ ለአብ፨</l>
+            <l n="2">ዘይቄድስዎ፡ ዘልፈ፡ ቀዳስያኒሁ፡ አርጋብ፨</l>
+            <l n="3">መንፈሰ፡ አእምሮ፡ ምልአኒ፡ እመዝገብከ፡ ጥበብ፨</l>
+            <l n="4">ከመ፡ እንግር፡ ለኵሉ፡ መዝሙረ፡ ዮሐኒ፡ መክብብ፨</l>
+            <l n="5">ዘዐርገ፡ ሰማያተ፡ ኀበ፡ ቦ፡ ከብካብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እምዝክረ፡ ቅዱሳን፡ ውዱስ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ጥሉል፡ በቅብአ፡ ቅዳሴ፡ ርሑስ፨</l>
+            <l n="3">ዐምደ፡ ንጽሕና፡ ዮሐኒ፡ እምቤተ፡ መንፍሥት፡ ወንግሥ፨</l>
+            <l n="4">ዜናከ፡ እንግር፡ ለኵሉ፡ በልሳነ፡ መንፈስ፡ ቅዱስ፨</l>
+            <l n="5">ያንሥአኒ፡ እምውጺቅ፡ እዴከ፡ ክርስቶስ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለመልክእከ፡ ሱራኄ፡ መብረቅ፡ ግሩም፨</l>
+            <l n="2">ዘየዐውዶ፡ ፍጹመ፡ እመልክአ፡ አዳም፡ ፍጹም፨</l>
+            <l n="3">ዮሐኒ፡ ክቡር፡ በብሔርከ፡ ሰላም፨</l>
+            <l n="4">ሐውጸነ፡ በበዓልከ፡ ለእለ፡ ተጋባእነ፡ ዮም፨</l>
+            <l n="5">ውስተ፡ ጽርሐ፡ ልዑል፡ ጽርሕከ፡ ሐፃኒት፡ እም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ ለዕርገትከ፡ እምብሔረ፡ ድካም፡ ወጻማ፨</l>
+            <l n="2">መንገለ፡ ተሠርዐ፡ ፍጹመ፡ ማዕደ፡ ዕረፍት፡ ዘራማ፨</l>
+            <l n="3">ዮሐኒ፡ ክቡር፡ ለመጽሐፈ፡ ግዕዛን፡ ግርማ፨</l>
+            <l n="4">ክብርከ፡ ማኅቶተ፡ ሌዊ፡ ትሬስዮ፡ ተቅዋማ፨</l>
+            <l n="5">ወበዐምደ፡ ወርቅ፡ ጸሐፍ፡ ለስምየ፡ ስማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ሰላም፡ ለሑረትከ፡ በፍኖተ፡ ነቢይ፡ ዕዝራ፨</l>
+            <l n="2">እንዘ፡ ይመርሑከ፡ ደርገ፡ ሰማያውያን፡ ሐራ፨</l>
+            <l n="3">ዮሐኒ፡ ኤልያስ፡ ክሉለ፡ ሞገስ፡ ወጌራ፨</l>
+            <l n="4">መኒነከ፡ ተድላሃ፡ ወአስተሐቂረከ፡ ክብራ፨</l>
+            <l n="5">ለዛቲ፡ ዓለም፡ ዘምልዕልት፡ መከራ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ሰላም፡ ለህላዌከ፡ እምህላዌ፡ ነገሥት፡ ዘይሤኒ፨</l>
+            <l n="2">ወለትርሲትከ፡ ዕንቍ፡ ዘሥነ፡ ጸዳሉ፡ አዶኒ፨</l>
+            <l n="3">ረድአ፡ ምሥጢሩ፡ ዮሐኒ፡ ለመምህረ፡ ምስር፡ አሞኒ፨</l>
+            <l n="4">አባ፡ ገድልከ፡ ወሬዛ፡ እምገድለ፡ ቅዱሳን፡ ሞአኒ፨</l>
+            <l n="5">ወለተናግሮ፡ በአፍ፡ ዜናከ፡ ኖኀኒ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">ስብሐት፡ ለከ፡ አምላኪየ፡ ዘወሀብከኒ፡ ሥልጣነ፨</l>
+            <l n="2">ወድርሳነ፡ ዮሐኒ፡ ግብረከ፡ ከመ፡ እፈጸም፡ ፍጡነ፨</l>
+            <l n="3">እግዚኦ፡ ተወከፍ፡ ዘልቡናየ፡ ብጽዐነ፨</l>
+            <l n="4">ወኢይበል፡ በልብከ፡ ኢይትዌከፍ፡ አነ፨</l>
+            <l n="5">አኰቴተ፡ ብእሲ፡ ኃጥእ፡ ግዱፈ፡ ኮነ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="yohanni-d-asa">
+                <persName xml:lang="gez">ዮሐኒ፡ ዘደብረ፡ ዓሣ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥanni za-Dabra ʿĀśā</persName>
+                <persName xml:lang="en">Yoḥanni of Dabra ʿĀśā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">184</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

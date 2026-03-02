@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0146" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አብሳዲ፡ ዘደብረ፡ መጒና፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAbsādi za-Dabra Magʷinā</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAbsādi of Dabra Magʷinā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0146/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ ወጠንኩ፡ ውዳሴ፡ መልክእከ፡ ለጽሒፍ፨</l>
+            <l n="2">በስመ፡ እግዚአብሔር፡ ኅጡእ፡ እምገጸ፡ ውሳኔ፡ ወጽንፍ፨</l>
+            <l n="3">አብሳዲ፡ እንጦንስ፡ አበ፡ ብዙኃን፡ አእላፍ፨</l>
+            <l n="4">ሣህለ፡ ትንባሌከ፡ ወሰነ፡ ረድኤትከ፡ ትሩፍ፨</l>
+            <l n="5">ላዕላዐ፡ ልሳን፡ አፈ፡ ይኩነኒ፡ ለዘልፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በሰሌዳ፡ መንፈስ፡ ልኩእ፨</l>
+            <l n="2">ወለሥዕርትከ፡ ጸሊም፡ ዕፍረተ፡ ቅዳሴ፡ ቅቡእ፨</l>
+            <l n="3">ብእሴ፡ ገዳም፡ አብሳዲ፡ ወቢጸ፡ መቃራ፡ ብፁዕ፨</l>
+            <l n="4">ዘተነዝኀ፡ እምልሳንከ፡ አዛበ፡ ዝማሬ፡ ባቍዕ፨</l>
+            <l n="5">ያንጽሐኒ፡ እምግማኔ፡ ለብእሲ፡ ኃጥእ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በአእዳወ፡ ሠላሳ፡ ካህናት፨</l>
+            <l n="2">ወሰላም፡ ካዕበ፡ ለመቃብሪከ፡ በአት፨</l>
+            <l n="3">ታቦተ፡ ቅዳሴ፡ አብሳዲ፡ ወሙዳየ፡ ንጹሕ፡ ጸሎት፨</l>
+            <l n="4">እምሐጸ፡ አርዌ፡ ወእምነዓዊ፡ መሥገርት፨</l>
+            <l n="5">ማኅበረነ፡ ዕቀብ፡ በኵሉ፡ ሰዓት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ዘንተ፡ ንስቲተ፡ ማሕሌተ፡ ለአብናከ፡ ሰፋኒ፨</l>
+            <l n="2">በይነ፡ ዘአቅረብኩ፡ ለከ፡ ወልድከ፡ ተአማኒ፨</l>
+            <l n="3">ወእሳተ፡ ፍቅርከ፡ ልሁብ፡ እስመ፡ አውዐየኒ፨</l>
+            <l n="4">ኦአቡየ፡ አብሳዲ፡ መትለወ፡ ብፁዕ፡ አርሳኒ፨</l>
+            <l n="5">አባ፡ የማንከ፡ ትባርከኒ፡ አባ፡ ጸሎትከ፡ ትቀድሰኒ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ኦእግዚኦ፡ አምላከ፡ ቅዱስ፡ አብሳዲ፨</l>
+            <l n="2">ወእግዚአ፡ ዮሐንስ፡ ቃለ፡ ዐዋዲ፨</l>
+            <l n="3">በእንተ፡ ቅንወ፡ ወልድከ፡ ወበእንተ፡ ማርያም፡ ወለተ፡ ሐዲ፨</l>
+            <l n="4">በብዝኀ፡ ምሕረትከ፡ ወበጸጋ፡ ሣህልከ፡ ዓዲ፨</l>
+            <l n="5">ዐስበ፡ ማሕሌትየ፡ ለገብርከ፡ ፍጡነ፡ ፍዲ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="absadi-d-magwina">
+                <persName xml:lang="gez">አብሳዲ፡ ዘደብረ፡ መጒና፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAbsādi za-Dabra Magʷinā</persName>
+                <persName xml:lang="en">ʾAbsādi of Dabra Magʷinā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

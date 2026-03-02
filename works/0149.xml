@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe7765" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0149" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ እንጦንስ፡ ዘደብረ፡ ተምቡክ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎnṭonǝs za-Dabra Tambuk</title>
-        <title corresp="#t1" xml:lang="en">Image of ʾƎnṭonǝs of Dabra Tambuk</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እንድርያስ፡ ዘደብረ፡ ጽጌ፡ ሰፍዐ፡ ካልእ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa ʾƎndrəyās za-Dabra Ṣəge Saffǝʿa Kālǝʾ</title>
+        <title corresp="#t1" xml:lang="en">Second Image of ʾƎndrəyās of Dabra Ṣəge</title>
         
       </titleStmt>
 
@@ -20,7 +20,7 @@
           </persName>
         </authority>
         <date>2026</date>
-        <ref target="https://w3id.org/malke/7765/"/>
+        <ref target="https://w3id.org/malke/0149/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -54,21 +54,21 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ መአድመ፡ ስም፡ ወዜና፨</l>
-            <l n="2">እንጦንዮስ፡ ሙሴ፡ ሕፃነ፡ እንበረም፡ ንጽሕና፨</l>
-            <l n="3">ለእስራኤላዊ፡ ወልድከ፡ ማዕከለ፡ ዓለም፡ ሲና፨</l>
-            <l n="4">በጊዜ፡ ረሐብ፡ ሰዓተ፡ ግሩም፡ ሙስና፨</l>
-            <l n="5">ሴሰየኒ፡ ወትረ፡ ረድኤተከ፡ መና፨</l>
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ስምከ፡ ጥዑም፨</l>
+            <l n="2">ስመ፡ ቀዳማዊ፡ አዳም፨</l>
+            <l n="3">እንድርያስ፡ አቡየ፡ እንዘ፡ ብእሴ፡ ሥጋ፡ ወደም፨</l>
+            <l n="4">ሴሰይከ፡ ደቂቀከ፡ እክለ፡ አርያም፨</l>
+            <l n="5">፯፡ ዓመት፡ ወሰብዑ፡ አክራም፨</l>
 
           </lg>
           
-          <lg type="stanza" n="2">
+          <lg type="stanza" n="53">
             
-            <l n="1">ሰላም፡ ለሥዕርትከ፡ ዕረፍተ፡ ጸጋ፡ ቅቡዕ፨</l>
-            <l n="2">ወለርዕስከ፡ ሰላም፡ ክሉለ፡ ጌራ፡ ቆብዕ፨</l>
-            <l n="3">ገብሩ፡ በጸጋ፡ ለዘገብረከ፡ እግዚእ፨</l>
-            <l n="4">ወአንተ፡ አምሳሊሁ፡ በከዊነ፡ ሥጋ፡ ወሰብእ፨</l>
-            <l n="5">እንጦንዮስ፡ መምህር፡ ወቡሩክ፡ ረድእ፨</l>
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ለቀርጤሰ፡ ዐረብ፡ ጸዐደ፨</l>
+            <l n="2">እንተ፡ ይእቲ፡ ለኢየሩሳሌም፡ ዘመደ፨</l>
+            <l n="3">እንድርያስ፡ አቡነ፡ ዘተቀርከ፡ በዐውደ፨</l>
+            <l n="4">ተፈወሱ፡ እምደዌሆሙ፡ እለ፡ ተቀብሁ፡ ሐመደ፨</l>
+            <l n="5">ወመካናትኒ፡ በበ፡ ፯ዕ፡ ወለደ፨</l>
 
           </lg>
           
@@ -87,10 +87,10 @@
             <listPerson>
               
               
-              <person xml:id="entons-d-tambuk">
-                <persName xml:lang="gez">እንጦንስ፡ ዘደብረ፡ ተምቡክ፡</persName>
-                <persName xml:lang="gez" type="normalized">ʾƎnṭonǝs za-Dabra Tambuk</persName>
-                <persName xml:lang="en">ʾƎnṭonǝs of Dabra Tambuk</persName>
+              <person xml:id="endreyas-d-sege">
+                <persName xml:lang="gez">እንድርያስ፡ ዘደብረ፡ ጽጌ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎndrəyās za-Dabra Ṣəge</persName>
+                <persName xml:lang="en">ʾƎndrəyās of Dabra Ṣəge</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
@@ -108,7 +108,7 @@
                       <date>1975</date>
                     </imprint>
                   </monogr>
-                  <citedRange unit="item">45</citedRange>
+                  <citedRange unit="item">44</citedRange>
                 </biblStruct>
                 
               </person>

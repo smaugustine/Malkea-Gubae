@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe7821" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0123" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ማርያም፡ እንተ፡ ዕፍረት፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Māryām ʾƎnta ʿƎfrat</title>
-        <title corresp="#t1" xml:lang="en">Image of Mary of the Perfume</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኢየሱስ፡ ክርስቶስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾIyyasus Krəstos</title>
+        <title corresp="#t1" xml:lang="en">Image of Jesus Christ</title>
         
       </titleStmt>
 
@@ -20,7 +20,7 @@
           </persName>
         </authority>
         <date>2026</date>
-        <ref target="https://w3id.org/malke/7821/"/>
+        <ref target="https://w3id.org/malke/0123/"/>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
         </availability>
@@ -54,11 +54,11 @@
           
           <lg type="stanza" n="1">
             
-            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ ዘአፍቅሮ፡ አምላክ፡ ዘትካተ፨</l>
-            <l n="2">ወለሥዕርተ፡ ርእስኪ፡ ሰላም፡ ዘድላሌሁ፡ ተከሥተ፨</l>
-            <l n="3">ማርያም፡ ለክርስቶስ፡ ዘቀባዕኪዮ፡ ዕፍረተ፨</l>
-            <l n="4">መርሒኒ፡ ኦእግዝእትየ፡ እንተ፡ ይሤኒ፡ ፍኖተ፨</l>
-            <l n="5">ወዘእምኵሉ፡ ይኤድም፡ ጽግዊኒ፡ ሀብተ፨</l>
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እንተ፡ ጸሐፎ፡ መሳፍነ፡ ሮም፨</l>
+            <l n="2">ወለሥዕርተ፡ ርእስከ፡ ሲሩይ፡ በርጥበተ፡ ቅይሕ፡ ደም፨</l>
+            <l n="3">ኢየሱስ፡ ክርስቶስ፡ አርአያ፡ ገጸ፡ አብ፡ አዳም፨</l>
+            <l n="4">ተወሐደ፡ በላዕሌከ፡ ተዋሕዶተ፡ አካል፡ ወእም፨</l>
+            <l n="5">መለኮት፡ ትማልሞ፡ ወትስብእት፡ ዮም፨</l>
 
           </lg>
           
@@ -77,11 +77,11 @@
             <listPerson>
               
               
-              <person xml:id="mary-bethany">
-                <persName xml:lang="gez">ማርያም፡ እንተ፡ ዕፍረት፡</persName>
-                <persName xml:lang="gez" type="normalized">Māryām ʾƎnta ʿƎfrat</persName>
-                <persName xml:lang="en">Mary of Bethany</persName>
-                <trait type="category"><desc>righteous</desc></trait>
+              <person xml:id="jesus">
+                <persName xml:lang="gez">ኢየሱስ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyasus Krəstos</persName>
+                <persName xml:lang="en">Jesus Christ</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
 
                 
               </person>

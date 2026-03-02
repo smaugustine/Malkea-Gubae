@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0166" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ማርቆስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Mārqos</title>
+        <title corresp="#t1" xml:lang="en">Image of Mark</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0166/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">እጼውዐከ፡ በተአምኖ፡ ወእስእለከ፡ በተማሕፅኖ፨</l>
+            <l n="2">ክሳደ፡ ልብየ፡ በአጽንኖ፨</l>
+            <l n="3">ማርቆስ፡ አቡየ፡ ለእግዚአብሔር፡ አምላክ፡ አድኅኖ፨</l>
+            <l n="4">በሎ፡ በእንቲአየ፡ በምሕረትከ፡ ክድኖ፨</l>
+            <l n="5">ወሣህልከ፡ ወልታ፡ ጽድቅ፡ ይኩኖ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ወለልደትከ፡ ቡሩክ፨</l>
+            <l n="2">በብስራተ፡ ቅዱስ፡ መልአክ፨</l>
+            <l n="3">ሰባኬ፡ ወንጌል፡ ማርቆስ፡ ሐዋርያ፡ ክርስቶስ፡ አምላክ፨</l>
+            <l n="4">እንዘ፡ ቃለ፡ ወንጌል፡ ትዜኑ፡ እምጊዜ፡ ጽባሕ፡ ወሰርክ፨</l>
+            <l n="5">ላዕለ፡ ጣዖታት፡ ዘግብጽ፡ ተፈነወ፡ ሀውክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘተጸውዐ፡ ቀዲሙ፨</l>
+            <l n="2">ለወልደ፡ መካን፡ በስሙ፨</l>
+            <l n="3">ማርቆስ፡ ሥዩም፡ ለእግዚአብሔር፡ ካህነ፡ አርያሙ፨</l>
+            <l n="4">ኵሎሙ፡ አባላትየ፡ አመ፡ በጌጋይ፡ ሐሙ፨</l>
+            <l n="5">ለአድኅኖ፡ ዚአየ፡ ዘልፈ፡ በጸሎት፡ ጻሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘሀሎ፡ ውስቴቱ፨</l>
+            <l n="2">ሥጋ፡ ዚአከ፡ ንጹሕ፡ እንተ፡ ኀጢአት፡ አልቦቱ፨</l>
+            <l n="3">ገባሬ፡ ተኣምር፡ ማርቆስ፡ ፈዋሴ፡ ድዉያን፡ በንፍሐቱ፨</l>
+            <l n="4">ከመ፡ ይእትት፡ እምቅድሜየ፡ ለአርዌ፡ ዐመፃ፡ መሥገርቱ፨</l>
+            <l n="5">ብርሃነከ፡ ፀሓየ፡ ግብጽ፡ በገጽየ፡ አኅቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">ተወኪፈከ፡ ዘንተ፡ አምኃየ፡ ዘአቅረብኩ፡ በአስተሐምሞ፨</l>
+            <l n="2">ለመልክእከ፡ ሰላሞ፨</l>
+            <l n="3">ማርቆስ፡ ባሕርይ፡ ማርቆስ፡ አበሞ፨</l>
+            <l n="4">ኣአኵቶ፡ ለአምላክከ፡ ወአሌዕል፡ ስሞ፨</l>
+            <l n="5">እስመ፡ በኂሩቱ፡ ብዙኅ፡ ክህልኩ፡ ፈጽሞ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mark">
+                <persName xml:lang="gez">ማርቆስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Mārqos</persName>
+                <persName xml:lang="en">Mark</persName>
+                <trait type="category"><desc>apostle</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

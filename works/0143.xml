@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0143" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አምኃ፡ ጊዮርጊስ፡ ዘደብረ፡ መጒና፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAmmǝḫā Giyorgis za-Dabra Magʷinā</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAmmǝḫā Giyorgis of Dabra Magʷinā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0143/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በኀበ፡ ልዑላን፡ ዘተልዕለ፨</l>
+            <l n="2">እምቀደምትከ፡ ፈድፋደ፡ አምጣነ፡ አፈድፈድከ፡ ገድለ፨</l>
+            <l n="3">አምኃ፡ ጊዮርጊስ፡ ኀያል፡ ዘክበደ፡ መስቀል፡ አቅለለ፨</l>
+            <l n="4">ዜና፡ ውዳሴከ፡ እስመ፡ አፉየ፡ ኢክህለ፨</l>
+            <l n="5">ኀይለ፡ አርያም፡ ጰራቅሊጦስ፡ ይኩነኒ፡ ኀይለ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ መካነ፡ ደመ፡ ግፍዕ፡ ሀገረ፡ ጺማ፨</l>
+            <l n="2">ወለፍልሰትከ፡ ሰላም፡ አምኃ፡ ጊዮርጊስ፡ መንክረ፡ ግርማ፨</l>
+            <l n="3">መጠነ፡ ዓመታት፡ ብዙኅ፡ በምክረ፡ ጸላኢ፡ መስቴማ፨</l>
+            <l n="4">ለብእሲት፡ ነፍሰ፡ ዚአየ፡ ዘደዌ፡ ኀጢአት፡ አልሐማ፨</l>
+            <l n="5">ዘፈረ፡ ልብስከ፡ አምላካዊ፡ ያሰስል፡ ሕማማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">አምኃ፡ ጊዮርጊስ፡ አብ፡ አምጣነ፡ ልብየ፡ ጽህቅ፨</l>
+            <l n="2">ባሕረ፡ ተወክፎትከ፡ ያስጥም፡ ቃለ፡ ወልድከ፡ መልህቀ፨</l>
+            <l n="3">አምላክከ፡ ፈጣሬ፡ ኵሉ፡ እንተ፡ በይሁዳ፡ ተዐውቀ፨</l>
+            <l n="4">በከመ፡ ተወክፍረ፡ እምደ፡ መበለት፡ ጸሪቅ፨</l>
+            <l n="5">እምዘአብዕልተ፡ ወርቅ፡ አብኡ፡ ተረፎሙ፡ ስንቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">መንገለ፡ ኀይል፡ እምኀይል፡ አምጣነ፡ ሖሩ፡ ወነገዱ፨</l>
+            <l n="2">ዜና፡ ውዳሴሆሙ፡ እጽሐፍ፡ ለአባላቲከ፡ ለለ፡ አሐዱ፨</l>
+            <l n="3">ፍዳ፡ ሩጸትየ፡ ኮነ፡ በመዐዛ፡ ፍቅርከ፡ ዕቍረ፡ ንርዱ፨</l>
+            <l n="4">ለጻድቅ፡ አብ፡ እግዚኦ፡ እስመ፡ ከመዝ፡ ልማዱ፨</l>
+            <l n="5">አባ፡ ባርከኒ፡ አምኃ፡ ጊዮርጊስ፡ አባ፡ ከመ፡ ባረኮ፡ አብርሃም፡ ለይስሐቅ፡ ወልዱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="ammeha-giyorgis-d-magwina">
+                <persName xml:lang="gez">አምኃ፡ ጊዮርጊስ፡ ዘደብረ፡ መጒና፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAmmǝḫā Giyorgis za-Dabra Magʷinā</persName>
+                <persName xml:lang="en">ʾAmmǝḫā Giyorgis of Dabra Magʷinā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0156" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ገብረ፡ ማርያም፡ ሐርቤ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Gabra Māryām Ḥarbe</title>
+        <title corresp="#t1" xml:lang="en">Image of Gabra Māryām Ḥarbe</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0156/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ስቡሕ፡ ዘየዐውዶ፡ ስባሔ፨</l>
+            <l n="2">ወበስመ፡ ማርያም፡ ድንግል፡ ምዕዝተ፡ ምግባር፡ እምነርሄ፨</l>
+            <l n="3">ስሐተ፡ መልክእከ፡ እንብብ፡ ዘይደምፅ፡ ውስተ፡ ኵለሄ፨</l>
+            <l n="4">ያብርሆ፡ ለልብየ፡ ሀብተ፡ ጸጋከ፡ መብርሄ፨</l>
+            <l n="5">ገብረ፡ ማርያም፡ ፀሓይ፡ ወጽዱል፡ ሱራሔ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘሆህያቲሁ፡ ሳብዕ፨</l>
+            <l n="2">አቅመ፡ ሰሚዖቱ፡ ለሰብእ፨</l>
+            <l n="3">ገብረ፡ ማርያም፡ በኵሉ፡ ተመሳሌ፡ ዳዊት፡ ብፁዕ፨</l>
+            <l n="4">በዐውድከ፡ ኢያቡሳዊ፡ ምዕራገ፡ ቅዱስ፡ ምሥዋዕ፨</l>
+            <l n="5">ለኀዲጐ፡ መቅሠፍት፡ ይትነሣእ፡ እዴከ፡ ባቍዕ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="48">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ውሳጤ፡ ቅድስት፡ ደብተራ፨</l>
+            <l n="2">ቤተ፡ ሚካኤል፡ ይእቲ፡ እደ፡ ዚአከ፡ ዘገብራ፨</l>
+            <l n="3">ገብረ፡ ማርያም፡ ተወከፍ፡ ለኅሊናየ፡ ገዐራ፨</l>
+            <l n="4">ህየንተ፡ ዘአቅረብኩ፡ ለመልክእከ፡ ምስለ፡ ቃለ፡ ስብሐት፡ ዕንዚራ፨</l>
+            <l n="5">ዶበ፡ ርእሰ፡ ልብየ፡ አንብር፡ ዘመዊእ፡ ጌራ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="49">
+            
+            <l n="1">ስብሐት፡ ወክብር፡ ለማርያም፡ ይደሉ፨</l>
+            <l n="2">ዘከፈለተኒ፡ ቃለ፡ ከመ፡ እወድሰከ፡ ዘበበ፡ ክፍሉ፨</l>
+            <l n="3">ገብረ፡ ማርያም፡ ኀያል፡ ለገብረ፡ መስቀል፡ ሠርጐ፡ አክሊሉ፨</l>
+            <l n="4">ናሁ፡ ፈጸምኩ፡ ለመልክእከ፡ በጽሒፈ፡ ሐዳስ፡ ፊደሉ፨</l>
+            <l n="5">እሴተ፡ ሰላምየ፡ ፈኑ፡ እምሰማይ፡ ዘላዕሉ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="harbe">
+                <persName xml:lang="gez">ሐርቤ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ḥarbe</persName>
+                <persName xml:lang="en">Ḥarbe</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

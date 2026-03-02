@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0125" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ወለተ፡ እስራኤል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Walatta ʾƎsrāʾel</title>
+        <title corresp="#t1" xml:lang="en">Image of Walatta ʾƎsrāʾel</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0125/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ ዘያስተፌሥሕ፡ አልባበ፨</l>
+            <l n="2">ወለሥዕርትኪ፡ ካዕበ፨</l>
+            <l n="3">ወለተ፡ እስራኤል፡ ያዕቆብ፡ ዘይሰመይ፡ ሕዝበ፨</l>
+            <l n="4">ይቤለኪ፡ ብእሴ፡ ጥበብ፡ በዘረከበ፡ ጥበበ፨</l>
+            <l n="5">እንዘ፡ ወለተ፡ ሰብእ፡ አንቲ፡ ትመስሊ፡ ርግበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ሰላም፡ ለበድነ፡ ሥጋኪ፡ ዘገልበብዎ፡ ኄራን፨</l>
+            <l n="2">ወለግንዘትኪ፡ ፀሓይ፡ ለልብሰ፡ ብርሃን፡ ክዱን፨</l>
+            <l n="3">አመ፡ ጠፍዓት፡ ቅድመ፡ ወለተ፡ እስራኤል፡ ዐይን፨</l>
+            <l n="4">በደብረ፡ ጊዮርጊስ፡ ታቦር፡ እንተ፡ ስለሎ፡ ብርሃን፨</l>
+            <l n="5">ካህናት፡ ለሀዉ፡ ወበከዩ፡ ጻድቃን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለመቃብርኪ፡ በደብረ፡ ቍስቋም፡ ዘኮነ፨</l>
+            <l n="2">ባሕረ፡ ዓቤል፡ ሞተ፡ ድኅረ፡ ሥጋኪ፡ መጠነ፨</l>
+            <l n="3">ወለተ፡ እስራኤል፡ ወይን፡ ዘታረስዒ፡ ኀዘነ፨</l>
+            <l n="4">አመ፡ ስብሐትኪ፡ ድኅረ፡ ሞትኪ፡ ሰፈነ፨</l>
+            <l n="5">አድባራተ፡ መልአ፡ ወምድረ፡ ከደነ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">ናሁ፡ ፈጸምኩ፡ እምብዙኅ፡ በበ፡ ኅዳጥ፨</l>
+            <l n="2">ወድሶተ፡ መልክእኪ፡ __፡ ዘአፍአ፡ ወውስጥ፨</l>
+            <l n="3">__ረ፡ ልቡና፡ ሰብእ፡ ዘ_ኪ፡ ወለተ፡ እስራኤል፡ _ላጥ፨</l>
+            <l n="4">ባሕቱ፡ ኢይት__ም፡ እመ፡ ንሣየጥ፡ __ጥ</l>
+            <l n="5">ስብሐተ፡ መላእክት፡ ኵሎሙ፡ በብዙኅ፡ __ላጥ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="walatta-esrael">
+                <persName xml:lang="gez">ወለተ፡ እስራኤል፡</persName>
+                <persName xml:lang="gez" type="normalized">Walatta ʾƎsrāʾel</persName>
+                <persName xml:lang="en">Walatta ʾƎsrāʾel</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

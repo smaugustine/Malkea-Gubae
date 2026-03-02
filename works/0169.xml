@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0169" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሠለስቱ፡ ደቂቅ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Śallastu Daqiq</title>
+        <title corresp="#t1" xml:lang="en">Image of the Three Youths</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0169/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ከመ፡ እወጥን፡ ወእፈጽም፡ በስመ፡ ሥላሴ፡ ዋሕድ፨</l>
+            <l n="2">ነገረ፡ ሠለስቱ፡ ደቂቅ፡ ዘተኰነኑ፡ በዐውድ፨</l>
+            <l n="3">አናንያ፡ ወአዛርያ፡ ወሚሳኤል፡ ውሉድ፨</l>
+            <l n="4">ይባርኩ፡ ዲበ፡ ርእስየ፡ በበረከተ፡ ቃል፡ ወእድ፨</l>
+            <l n="5">ጻድቃን፡ ወሰማዕት፡ ቡሩካን፡ ነገድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለፅንሰትክሙ፡ በዘርአ፡ ቡሩክ፡ ኢዮአቄም፨</l>
+            <l n="2">ወለልደትክሙ፡ ሰላም፡ እማሕፀነ፡ ቅድስት፡ እም፨</l>
+            <l n="3">አናንያ፡ ወአዛርያ፡ ወሚሳኤል፡ ዘደም፨</l>
+            <l n="4">ይባርኩ፡ ውስተ፡ አፉየ፡ ለውዳሴክሙ፡ ዮም፨</l>
+            <l n="5">ኢየሱስ፡ ክርስቶስ፡ ወድንግል፡ ማርያም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ ዘተጸውዐ፡ በኅሬ፨</l>
+            <l n="2">እምአፈ፡ ነቢያት፡ ቀደምት፡ ካህናተ፡ ቀዳሚ፡ ድብታሬ፨</l>
+            <l n="3">አናንያ፡ ወአዛርያ፡ ወሚሳኤል፡ ሰብአ፡ ዝማሬ፨</l>
+            <l n="4">ጸግዉኒ፡ ዐይነ፡ ልባዌ፡ ዘኢይረክቦ፡ ፍካሬ፨</l>
+            <l n="5">ከመ፡ ገጸ፡ ነገር፡ እርአይ፡ ዘአልቦ፡ ስዋሬ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋክሙ፡ በሥርዓተ፡ አበው፡ ዘተገንዘ፨</l>
+            <l n="2">ወለመቃብሪክሙ፡ ሰላም፡ መንገለ፡ ፈጣሪ፡ አዘዘ፨</l>
+            <l n="3">አናንያ፡ ወአዛርያ፡ ወሚሳኤል፡ ሐዋዝ፨</l>
+            <l n="4">በመልክእክሙ፡ ለዘግብረ፡ ጸሎት፡ አኀዘ፨</l>
+            <l n="5">ረስይዎ፡ ይኩን፡ እምጌጋይ፡ ግዑዘ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ጸሪቀ፡ መበለት፡ ቅድመ፡ ከመ፡ ተወክፈ፡ ክርስቶስ፨</l>
+            <l n="2">እመባአ፡ ብሩር፡ ወወርቅ፡ ዘነገሥተ፡ ሜዶን፡ ወፋርስ፨</l>
+            <l n="3">ተወከፉ፡ ዘንተ፡ ከማሁ፡ ደቂቀ፡ ኢዮአቄም፡ ንጉሥ፨</l>
+            <l n="4">ወአንብሩ፡ ዲበ፡ ርእስየ፡ አክሊላተ፡ ሕይወት፡ ኀምስ፨</l>
+            <l n="5">አመ፡ ይሔውጻ፡ በግብት፡ ቃለ፡ ሞት፡ ለነፍስ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="three-youths">
+                <persName xml:lang="gez">ሠለስቱ፡ ደቂቅ፡</persName>
+                <persName xml:lang="gez" type="normalized">Śallastu Daqiq</persName>
+                <persName xml:lang="en">The Three Youths</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

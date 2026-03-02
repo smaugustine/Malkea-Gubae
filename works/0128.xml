@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0128" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዕንቈ፡ ብርሃን፡ ዘአንገብ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʿƎnqʷa Bǝrhān za-ʾAngab</title>
+        <title corresp="#t1" xml:lang="en">Image of ʿƎnqʷa Bǝrhān of ʾAngab</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0128/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሥሉስ፡ ቅዱስ፡ እለ፡ ዕሩያን፡ እንበለ፡ ንትጋ፨</l>
+            <l n="2">ከመ፡ እንግር፡ ውዳሴሁ፡ ለዕንቈ፡ ብርሃን፡ ሰብአ፡ እንግልጋ፨</l>
+            <l n="3">እስመ፡ እምኔክሙ፡ ምክር፡ ወእምኔክሙ፡ ጸጋ፨</l>
+            <l n="4">ጸግዉኒ፡ ለገብርክሙ፡ ለረድኤትክሙ፡ ዘውጋ፨</l>
+            <l n="5">አምጣነ፡ ድኩም፡ አነ፡ ዘመደ፡ ድክምት፡ ሥጋ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘኍላቌ፡ ስሙ፡ ሰብዓቱ፨</l>
+            <l n="2">ዘጸውዖቶ፡ ኢይክሉ፡ እኩያነ፡ ላዕሉ፡ ወታሕቱ፨</l>
+            <l n="3">ዕንቈ፡ ብርሃን፡ አቤል፡ ለእግዚአብሔር፡ መሥዋዕቱ፨</l>
+            <l n="4">ባርከነ፡ ለአግብርቲከ፡ በስመ፡ ሥላሴ፡ ሠለስቱ፨</l>
+            <l n="5">ከመ፡ በሰላም፡ ኑፈር፡ ወበሰላም፡ ንእቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="45">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ እንተ፡ አልቦቱ፡ ውውዓ፨</l>
+            <l n="2">ዘየሐውራሁ፡ አእጋር፡ አንስተ፡ ምእመናን፡ ዘጸንዓ፨</l>
+            <l n="3">ዕንቈ፡ ብርሃን፡ አቡየ፡ ኀበ፡ ሀሎ፡ ፍግዓ፨</l>
+            <l n="4">ለልብየ፡ ሰማርያዊ፡ አመ፡ ኀየሎ፡ ቍጥዓ፨</l>
+            <l n="5">አቅርቦ፡ ኀቤከ፡ ብሂለከ፡ ነዓ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">እግዚአብሔር፡ አብ፡ ምሉአ፡ ኵሉ፡ ስብሐት፨</l>
+            <l n="2">ተረድአኒ፡ ሊተ፡ እምነዘቦ፡ ፍርሀት፨</l>
+            <l n="3">በእንተ፡ ኪዳኑ፡ ጽኑዕ፡ ለዕንቈ፡ ብርሃን፡ ማኅቶት፨</l>
+            <l n="4">ለዘኬዎስ፡ ጸሓፊሁ፡ እመ፡ ሐጸሮ፡ ቁመት፨</l>
+            <l n="5">ዕቀቦ፡ ኵለሄ፡ እምኵሉ፡ ጽዕለት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ናሁ፡ አቅረብኩ፡ ዘመልክእከ፡ ወድሶተ፨</l>
+            <l n="2">አርብዓ፡ ወስድስተ፨</l>
+            <l n="3">ዕንቈ፡ ብርሃን፡ ዘረሳይካሃ፡ ለገዳምከ፡ ጽንዕተ፨</l>
+            <l n="4">ኢይባእ፡ ውስቴታ፡ ዘይሔሊ፡ እካያተ፨</l>
+            <l n="5">ምስሌነ፡ ሀሉ፡ ኵሎ፡ ዕለታተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="enqwa-berhan-angab">
+                <persName xml:lang="gez">ዕንቈ፡ ብርሃን፡ ዘአንገብ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʿƎnqʷa Bǝrhān za-ʾAngab</persName>
+                <persName xml:lang="en">ʿƎnqʷa Bǝrhān of ʾAngab</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

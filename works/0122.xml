@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0122" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">ሰላምታ፡ ዘእስክንድር፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Salāmtā za-ʾƎskǝndǝr</title>
+        <title corresp="#t1" xml:lang="en">Salutations for ʾƎskǝndǝr</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0122/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ወርቀ፡ ፓሩሄም፡ ንጡፍ፨</l>
+            <l n="2">በፍቅረ፡ ማርያም፡ ግሉፍ፨</l>
+            <l n="3">እመክሥተ፡ አፉከ፡ ውሕዘ፡ ፈለገ፡ መጽሐፍ፨</l>
+            <l n="4">እስክንድር፡ ርእሰ፡ አእላፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዕንቍየ፡ ወራውሬ፨</l>
+            <l n="2">ሥርወ፡ ጕንድከ፡ እምኅሬ፨</l>
+            <l n="3">ኀበ፡ ዕፀ፡ ሕይወት፡ ይኩንከ፡ ሚካኤል፡ አማሬ፨</l>
+            <l n="4">እስክንድር፡ ምዑዘ፡ ፍሬ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="19">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዘዐላውያን፡ ጉባኤ፨</l>
+            <l n="2">ዘትዘሩ፡ መስኤ፡ ለእኁከ፡ ናኦድ፡ ኡኖ፡ ረዳኤ፨</l>
+            <l n="3">እስክንድር፡ ቀርነ፡ ውዋኤ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="20">
+            
+            <l n="1">ሰላም፡ ለከ፡ እስክንድር፡ ይርከብ፡ እግዚኦ፡ ቅድመ፡ ገጽከ፡ ሞገሰ፨</l>
+            <l n="2">በእዴከ፡ ሢሞ፡ አርሰያሮስ፡ መልዕልተ፡ ምሥዋዒከ፡ ያዕርግ፡ ቍርባነ፡ ሐዲሰ፨</l>
+            <l n="3">ምስለ፡ ሥጋ፡ ዘይቄድስ፡ ነፍሰ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="eskender">
+                <persName xml:lang="gez">እስክንድር፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎskǝndǝr</persName>
+                <persName xml:lang="en">ʾƎskǝndǝr</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0158" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጴጥሮስ፡ ሰማዕተ፡ ጽድቅ፡ ዘኢትዮጵያ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa Ṗeṭros Samāʿta Ṣǝdq za-ʾItyoṗyā</title>
+        <title corresp="#t1" xml:lang="en">Image of Ṗeṭros, Martyr of Truth of Ethiopia</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0158/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ብፁዕ፡ ጴጥሮስ፡ ምሥራቃዊ፡ ለእግዚአብሔር፡ ፍቁሩ፨</l>
+            <l n="2">እምዓለም፡ ዓለመ፡ አስተሐየሰ፡ በምክሩ፨</l>
+            <l n="3">እምዓለመ፡ ጽልመት፡ መሪር፡ እንተ፡ ኢይትዌሰን፡ ጻዕሩ፨</l>
+            <l n="4">ሎቱ፡ ኀረየ፡ ወአፍረ፡ ዓለመ፡ ተድላሁ፡ ወክብሩ፨</l>
+            <l n="5">ኀበ፡ እለ፡ ዕዝራ፡ ወሄኖክ፡ ማኅበረ፡ ገብሩ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ መሠረተ፡ ሐዲስ፡ ኪዳን፨</l>
+            <l n="2">ለአቡከ፡ ጴጥሮስ፡ ከመ፡ ይቤሎ፡ መድኅን፨</l>
+            <l n="3">ዕጉሠ፡ ሕማማት፡ ጴጥሮስ፡ ዘውገ፡ አልዓዛር፡ ካህን፨</l>
+            <l n="4">ጽሑፍ፡ ዐስብከ፡ በሰማያት፡ ዲበ፡ ዐምደ፡ ጽዱል፡ ብርሃን፨</l>
+            <l n="5">ዘእዝነ፡ ፍጡራን፡ ኢሰምዐ፡ ወኢርእየ፡ ዐይን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="25">
+            
+            <l n="1">ሰላም፡ ለትንሣኤከ፡ ትንሣኤ፡ ሥልጣን፡ ወኀይል፨</l>
+            <l n="2">በትንሣኤ፡ ጻድቃን፡ አእላፍ፡ ውስተ፡ የማኑ፡ ለቃል፨</l>
+            <l n="3">አመ፡ በኁባሬ፡ ትነብር፡ ምስለ፡ ሐዋርያት፡ አሕባል፨</l>
+            <l n="4">ትትቀበሎ፡ ለእግዚእከ፡ ውስተ፡ ገጸ፡ ሰማይ፡ ልዑል፨</l>
+            <l n="5">ትትመሠጥ፡ በደመና፡ ወበዐውሎ፡ ጥብሉል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ተወከፍ፡ ዘንተ፡ አምኃነ፡ ዘአማኅናከ፡ እምቅድም፨</l>
+            <l n="2">ፍቁራን፡ አኀው፡ ውሉደ፡ ብዙኅ፡ ሰላም፨</l>
+            <l n="3">ተፍጻሜተ፡ ሰማዕት፡ ጴጥሮስ፡ በዕለተ፡ በዓልከ፡ ዮም፨</l>
+            <l n="4">እፎ፡ አርመምከ፡ ወተጸመምከ፡ እምተሰጥሞተ፡ ቃል፡ ጥዑም፨</l>
+            <l n="5">እንዘ፡ ማእከሌነ፡ አንተ፡ በአካል፡ ወስም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">በኔሮን፡ ጴጥሮስ፡ ከመ፡ ተሰቅለ፡ ቍልቍሊተ፨</l>
+            <l n="2">ወልድከ፡ ጴጥሮስ፡ በሠራዊተ፡ ሮም፡ ተትሕተ፨</l>
+            <l n="3">እመ፡ ኢየኀድግ፡ ወልድ፡ ግብረ፡ አቡሁ፡ ክሕደተ፨</l>
+            <l n="4">ወይብሎ፡ ለኦኤጥሮስ፡ ሚካኤል፡ ኢንፈርህ፡ ሞተ፨</l>
+            <l n="5">አምጣነ፡ ጳውሎስ፡ አነ፡ እንዘ፡ ጴጥሮስ፡ አንተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ማር፡ ጴጥሮስ፡ ያርብሐዊ፡ ዘሩጸተ፡ ገድሉ፡ ፈጸመ፨</l>
+            <l n="2">እንዘ፡ ከመ፡ አልቦ፡ ይሬሲ፡ እንተ፡ የኀልፍ፡ ዓለመ፨</l>
+            <l n="3">እግዚአብሔር፡ ጸግዋ፡ ለኢትዮጵያ፡ ሰላመ፨</l>
+            <l n="4">ለጴጥሮስ፡ ዝክረ፡ ስሙ፡ ከመ፡ ኢይጥፋእ፡ ዳግመ፨</l>
+            <l n="5">አምጣነ፡ ሐውልቶ፡ ዘስምዕ፡ አቀመት፡ ቀዊመ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="petros">
+                <persName xml:lang="gez">ጴጥሮስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṗeṭros</persName>
+                <persName xml:lang="en">Ṗeṭros</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

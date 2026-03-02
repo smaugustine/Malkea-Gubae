@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0101" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሚናስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Minās</title>
+        <title corresp="#t1" xml:lang="en">Image of Menas</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0101/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">[ሥሉስ፡ ቅዱስ፡] ግሩማነ፡ አካል፡ በዕሪና፨</l>
+            <l n="2">ዘይቄድስዎ፡ ዘልፈ፡ እስመ፡ በአሐዱ፡ መልክና፨</l>
+            <l n="3">ሚናስ፡ እወጥን፡ እንተ፡ ዘውዳሴከ፡ ዜና፨</l>
+            <l n="4">ዲበ፡ እንግድኣየ፡ አክብድ፡ ልቡና፨</l>
+            <l n="5">ከመ፡ ያስልጠኒ፡ ፈጽሞቶ፡ በንጹሕ፡ ኅሊና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ኀበ፡ ዐምደ፡ ብርሃን፡ ጽሑፍ፨</l>
+            <l n="2">ውስተ፡ ቤተ፡ አምላክ፡ ግሩም፡ እንበለ፡ ድምሳሴ፡ ወኀሊፍ፨</l>
+            <l n="3">ሚናስ፡ ሐራ፡ ዘባጤ፡ ረሲዓን፡ በሰይፍ፨</l>
+            <l n="4">ተማሕፀንኩ፡ በትንባሌከ፡ እምአርዌ፡ ዐመፃ፡ ጽሩፍ፨</l>
+            <l n="5">ለለ፡ ጊዜ፡ ዕለት፡ እትዐቀብ፡ ወዓዲ፡ ለዘልፍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ ወለበድነ፡ ሥጋከ፡ ርጢን፨</l>
+            <l n="2">ለግንዘትከ፡ ሰላም፡ ወለመቃብሪከ፡ ሙዳየ፡ ዕፍረት፡ ቀታሌ፡ ተመን፨</l>
+            <l n="3">ላዕሌሁ፡ እንተ፡ ኀደረ፡ ሰይጣን፨</l>
+            <l n="4">ሚናስ፡ ወልደ፡ ብርሃን፤ በዘዚአከ፡ ሥልጣን፨</l>
+            <l n="5">ናዛዜ፡ ኵነኒ፡ እምኀዘን፡ ክቡድ፡ ኀዘን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="17">
+            
+            <l n="1">አብኡ፡ እምተረፎሙ፡ በከመ፡ በወንጌል፡ ተነግረ፨</l>
+            <l n="2">አመ፡ ነበረ፡ እግዚእነ፡ ዘሙዳየ፡ ምጽዋት፡ መንጸረ፨</l>
+            <l n="3">ጸሪቀ፡ መበለት፡ አሐቲ፡ ከመ፡ ተወከፈ፡ ወሠምረ፨</l>
+            <l n="4">ውኩፈ፡ ይኩን፡ በቅድሜከ፡ መሥዋዕተ፡ ሰላምየ፡ ወትረ፨</l>
+            <l n="5">እስከ፡ የኀልፍ፡ ትውልድ፡ ከመ፡ ይኩን፡ ተዝካረ፨</l>
+            <l n="6">ሚናስ፡ ሰለጥከ፡ ወፈጸምከ፡ በድረ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="menas">
+                <persName xml:lang="gez">ሚናስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Minās</persName>
+                <persName xml:lang="en">Menas</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

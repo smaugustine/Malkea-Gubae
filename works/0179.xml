@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0179" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ማቴዎስ፡ ዘደብረ፡ ሐዋርያት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Mātewos za-Dabra Ḥawārǝyāt</title>
+        <title corresp="#t1" xml:lang="en">Image of Mātewos of Dabra Ḥawārǝyāt</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0179/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በአብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ጽሚተ፨</l>
+            <l n="2">አመኒ፡ ወጠንኩ፡ ጽሒፈ፡ መልክእ፡ ክሡተ፨</l>
+            <l n="3">ማቴዎስ፡ አብ፡ ዘተወከፍከ፡ ኪዳናተ፨</l>
+            <l n="4">መጺአከ፡ በተራውጾ፡ ዘዚአየ፡ ቤተ፨</l>
+            <l n="5">አርእየኒ፡ ዘልፈ፡ ዘምሥጢር፡ ፍኖተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘእግዚአብሔር፡ አልዐላ፨</l>
+            <l n="2">እምዝክረ፡ አረሚ፡ ዐብዳን፡ ወእምስመ፡ አንስት፡ ኵላ፨</l>
+            <l n="3">ወልደ፡ ቴዎድሮስ፡ ማቴዎስ፡ ዘተቀጸልከ፡ ቀጸላ፨</l>
+            <l n="4">ማስያስ፡ ጸዋዔ፡ ቃልከ፡ በዘመሐለ፡ መሐላ፨</l>
+            <l n="5">ዕቀበነ፡ ወትረ፡ እምዓለም፡ ደሊላ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="43">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘቤተ፡ መቅደስ፡ ንብረታ፨</l>
+            <l n="2">እለ፡ ሮማኖስ፡ ደቅ፡ ከመ፡ ጠየቁ፡ ሐተታ፨</l>
+            <l n="3">ማቴዎስ፡ ፋኑኤል፡ ተስፋ፡ አዋልድ፡ ዘተከብታ፨</l>
+            <l n="4">ኪያከ፡ አመ፡ ወደስነ፡ በውዳሴ፡ አምላክ፡ ኒቆታ፨</l>
+            <l n="5">ለነፍስነ፡ ዘልፈ፡ እምእከይ፡ ንስታ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="matewos-d-hawareyat">
+                <persName xml:lang="gez">ማቴዎስ፡ ዘደብረ፡ ሐዋርያት፡</persName>
+                <persName xml:lang="gez" type="normalized">Mātewos za-Dabra Ḥawārǝyāt</persName>
+                <persName xml:lang="en">Mātewos of Dabra Ḥawārǝyāt</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

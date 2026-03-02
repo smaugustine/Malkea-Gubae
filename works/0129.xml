@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0129" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዳንኤል፡ ዘወቄን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Dānəʾel za-Waqen</title>
+        <title corresp="#t1" xml:lang="en">Image of Dānəʾel of Waqen</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0129/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ሠናይ፡ ወአዳም፨</l>
+            <l n="2">ውስተ፡ አድባራተ፡ ኵሉ፡ ወዘውስተ፡ ኵሉ፡ ዓለም፨</l>
+            <l n="3">አለብወኒ፡ ዳንኤል፡ ብእሴ፡ ጸሎት፡ ወጾም፨</l>
+            <l n="4">ከመ፡ እንግር፡ ዜና፡ ጽድቅከ፡ ማዕከለ፡ ዛቲ፡ ኤላም፨</l>
+            <l n="5">ኀበ፡ ተጋብኡ፡ ደቂቅከ፡ ዮም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="22">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ በሀሊበ፡ ጸሎት፡ ዘልህቀ፨</l>
+            <l n="2">ወለመልክእከ፡ ይእቲ፡ እንተ፡ ኢሐፀት፡ ሕቀ፨</l>
+            <l n="3">ኢትትሐየኒ፡ ዳንኤል፡ ወኢትኅድገኒ፡ ጥቀ፨</l>
+            <l n="4">ኢይትሜነይ፡ አንሰ፡ አኮኑ፡ ተስፋ፡ መደልዋን፡ ወርቀ፨</l>
+            <l n="5">ባሕቱ፡ በረከትከ፡ እፈቱ፡ ጥዩቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ጊዜ፡ ትወጽእ፡ ነፍስከ፡ እምነ፡ ሥጋ፡ መካና፨</l>
+            <l n="2">በእደ፡ ገብርኤል፡ መልአከ፡ ብስራት፡ ወዜና፨</l>
+            <l n="3">ዳንኤል፡ መምህረ፡ ትዕግሥት፡ ወትሕትና፨</l>
+            <l n="4">አልቦ፡ ዘይትበየጸከ፡ በክብር፡ ወበልዕልና፨</l>
+            <l n="5">እንበለ፡ ፃና፡ ቤተ፡ ቂርቆስ፡ ወካልእታ፡ ሲና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ አመ፡ አሚሩ፡ ለወርኀ፡ ታስዕ፨</l>
+            <l n="2">በእደ፡ አበው፡ አምኃ፡ ወታዴዎስ፡ ብፁዕ፨</l>
+            <l n="3">ዳንኤል፡ ነበልባላዊ፡ ነበሪ፡ ኀበ፡ እግረ፡ ዕፀ፡ ዐባይ፡ አውልዕ፨</l>
+            <l n="4">እብዕዎ፡ በይባቤ፡ ውስተ፡ ቤተ፡ መቅደስ፡ ምሥዋዕ፨</l>
+            <l n="5">በእደ፡ ማርያም፡ ንጉሥ፡ ወኖብ፡ እግዚእ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለመልክእከ፡ ውዳሴ፨</l>
+            <l n="2">በሥምረተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ሥላሴ፨</l>
+            <l n="3">ዳንኤል፡ መምህረ፡ ሥርዓት፡ ወክናሴ፨</l>
+            <l n="4">በከመ፡ ተወክፈ፡ እግዚእከ፡ ጸሎቶ፡ ለሙሴ፨</l>
+            <l n="5">ተወክፍ፡ አምኃየ፡ ለገብርከ፡ አውሴ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዳንኤል፡ መምህረ፡ ሥርዓት፡ ወሕግ፨</l>
+            <l n="2">ያስተበፅዑከ፡ ኅሩያን፡ በደርግ፨</l>
+            <l n="3">እስከ፡ ደቂቅ፡ ወአእሩግ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="6">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዳንኤል፡ በዕለት፡ አሐቲ፨</l>
+            <l n="2">እምጋኔነ፡ ቀትር፡ ወእምሰይጣን፡ መስሓቲ፨</l>
+            <l n="3">አባ፡ አድኅና፡ ለነፍስየ፡ ዛቲ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="daneel-waqen">
+                <persName xml:lang="gez">ዳንኤል፡ ዘወቄን፡</persName>
+                <persName xml:lang="gez" type="normalized">Dānəʾel za-Waqen</persName>
+                <persName xml:lang="en">Dānəʾel of Waqen</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">37</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0137" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኢዮስያስ፡ ዘደብረ፡ ስብሐት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾIyosyās za-Dabra Sǝbḥat</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾIyosyās of Dabra Sǝbḥat</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0137/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ናሁ፡ አንሣእኩ፡ አዕይንትየ፡ መንገለ፡ ሥላሴ፡ ሠለስቱ፨</l>
+            <l n="2">ረድኤትየ፡ ይብጻሕ፡ አመ፡ ውዳሴከ፡ ዝንቱ፨</l>
+            <l n="3">ኢዮስያስ፡ ኮከብ፡ ዘእምከዋክብት፡ ፯ቱ፨</l>
+            <l n="4">በምድረ፡ አግዓዚ፡ እለ፡ ብርሃነ፡ ከሠቱ፨</l>
+            <l n="5">ወእምኢትዮጵያ፡ ቅድስት፡ ጽልመተ፡ አእተቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ምሉዐ፡ ሞገስ፡ ስም፨</l>
+            <l n="2">ከመ፡ ስመ፡ ቅዱስ፡ ጳውሎስ፡ መምህረ፡ እስያ፡ ወሮም፨</l>
+            <l n="3">ኢዮስያስ፡ አብ፡ በገራህተ፡ ሐዲስ፡ ዓለም፨</l>
+            <l n="4">አባ፡ አባ፡ እምትምህርትከ፡ ዝናም፨</l>
+            <l n="5">ጽጌ፡ በረከት፡ ተርእየ፡ ወተውህበ፡ ቀስም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋከ፡ በእደ፡ ካህናት፡ መዘምራን፨</l>
+            <l n="2">ወለመቃብሪከ፡ ቅድስት፡ እንተ፡ የዐውዳ፡ ብፅዓን፨</l>
+            <l n="3">ኢዮስያስ፡ ፀሓይ፡ መጋቤ፡ አዝማን፨</l>
+            <l n="4">አብርህ፡ ሊትአ፡ እግዚኦ፡ እምዘዚአከ፡ ብርሃን፨</l>
+            <l n="5">አመ፡ በጽልመት፡ ተእኅዘ፡ ዘዚአየ፡ ዐይን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">አብዝኆ፡ ውዳሴ፡ እንዘ፡ ይደሉ፡ ለዕበይከ፡ መንክር፨</l>
+            <l n="2">ወለነገርከ፡ ኵሉ፡ ዘመልዕልተ፡ ኵሉ፡ ነገር፨</l>
+            <l n="3">ኢዮስያስ፡ ኰኵሕ፡ መሠረተ፡ ዐበይት፡ አድባር፨</l>
+            <l n="4">ናሁ፡ ጸሐፍኩ፡ ውዳሴከ፡ በኍልቈ፡ ፴፡ ብሩር፨</l>
+            <l n="5">ዘተሠይጠ፡ ቦሙ፡ መለኮት፡ ክቡር፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="iyosyas-d-sebhat">
+                <persName xml:lang="gez">ኢዮስያስ፡ ዘደብረ፡ ስብሐት፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyosyās za-Dabra Sǝbḥat</persName>
+                <persName xml:lang="en">ʾIyosyās of Dabra Sǝbḥat</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0150" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እደ፡ ክርስቶስ፡ ዘደብረ፡ መጒና፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎda Krǝstos za-Dabra Magʷinā</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾƎda Krǝstos of Dabra Magʷinā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0150/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዕለተ፡ ፅንስከ፡ እንተ፡ ባረካ፡ ፈድፉደ፨</l>
+            <l n="2">እምነ፡ ዕለታት፡ ፈጣሪ፡ ከመ፡ ባረከ፡ እሑድ፨</l>
+            <l n="3">እደ፡ ክርስቶስ፡ ያዕቆብ፡ ኀበ፡ ዲበ፡ በትሩ፡ ሰገደ፨</l>
+            <l n="4">ባርክ፡ ባርክ፡ ውሉደከ፡ እንዘ፡ ያስተኅልፍ፡ እደ፨</l>
+            <l n="5">አርአያ፡ ውስተ፡ ግብጽ፡ ባረከ፡ ዘወልዱ፡ ውሉደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለልደትከ፡ እምበረከተ፡ እድ፡ ማሕፀን፨</l>
+            <l n="2">አእላፈ፡ አእላፋት፡ ትለድ፡ ከመ፡ ወለደት፡ መካን፨</l>
+            <l n="3">እደ፡ ክርስቶስ፡ ነጋዲ፡ በዓለ፡ ሃይማኖት፡ ምናን፨</l>
+            <l n="4">በኅዳጥ፡ ምእመነ፡ እስመ፡ ኮንከ፡ ውስተ፡ ቤተ፡ እግዚእ፡ መድኅን፨</l>
+            <l n="5">ብአዲበ፡ ብዙኅ፡ ለሊከ፡ ምእመን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ አበ፡ ብዙኃን፡ ዘተጸውዐ፨</l>
+            <l n="2">በልሳነ፡ ሕዝብ፡ ዘውስጥ፡ ወበአፈ፡ አሕዛብ፡ ዘአፍአ፨</l>
+            <l n="3">ተክለ፡ ሃይማኖት፡ ኢዮብ፡ ሶበ፡ ኪያከ፡ ኃጥአ፨</l>
+            <l n="4">ይቤ፡ ሊተ፡ እደ፡ አምላክ፡ ወልደ፡ ባቍዐ፨</l>
+            <l n="5">እግዚአብሔር፡ ወሀበ፡ ወለሊሁ፡ ነሥአ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="13">
+            
+            <l n="1">ሰላም፡ ለአፉከ፡ አፈ፡ ጳውሎስ፡ ዐዋዲ፨</l>
+            <l n="2">ዘበሃይማኖት፡ አውገዘ፡ አርድእተ፡ መልአክ፡ ከሓዲ፨</l>
+            <l n="3">ተፈሥሐ፡ ብከ፡ አምኃ፡ ጊዮርጊስ፡ ምስለ፡ አብሳዲ፨</l>
+            <l n="4">ውስተ፡ ባሕር፡ መክሊተ፡ ለአርብሖ፡ እደ፡ ክርስቶስ፡ ነጋዲ፨</l>
+            <l n="5">እስመ፡ በጠቢብ፡ ወልድ፡ ይትፌሣሕ፡ ወላዲ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="56">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ በአፈ፡ ብፅዓን፡ ዘተበፅዐ፨</l>
+            <l n="2">እምፍልሰተ፡ ነቢይ፡ ኤልያስ፡ ዘመሥዋዕተ፡ ስብሐት፡ ሦዐ፨</l>
+            <l n="3">ኦእዱ፡ ለዘሥጋ፡ ድንግል፡ ነሥአ፨</l>
+            <l n="4">አባ፡ ሀበኒ፡ ለወልድከ፡ መስተስርየ፡ ጌጋይ፡ አንብዐ፨</l>
+            <l n="5">እስመ፡ ከመ፡ እብን፡ ጽኑዕ፡ ኅሊናየ፡ ጸንዐ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="58">
+            
+            <l n="1">አመ፡ እትወቱ፡ ለሥጋከ፡ እምሀገረ፡ ሕዝብ፡ ነኪር፨</l>
+            <l n="2">መካነ፡ ቅዱሳን፡ መጒና፡ ብአዓልተ፡ ሃይማኖት፡ ወፍቅር፨</l>
+            <l n="3">በትእዛዘ፡ ንጉሥ፡ ኢያሱ፡ ዘአዕማደ፡ ቤቱ፡ ብሩር፨</l>
+            <l n="4">እንዘይብሉ፡ ተቀበሉከ፡ ካህናተ፡ ሐዲስ፡ ምስጢር፨</l>
+            <l n="5">ይበዝኅ፡ ከመ፡ ዘግባ፡ ወይፈሪ፡ ከመ፡ በቀልት፡ ዕሤትከ፡ እደ፡ ኢየሱስ፡ በቅድመ፡ እግዚአብሔር፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="60">
+            
+            <l n="1">ለንጉሠ፡ ነገሥት፡ ፍቅርከ፡ ለዘወሀብኩ፡ አምኃ፨</l>
+            <l n="2">እደ፡ ክርስቶስ፡ ሀበኒ፡ ፍዳ፡ ፍቅርየ፡ ፍሥሓ፨</l>
+            <l n="3">እስመ፡ ጻድቅ፡ ይሁብ፡ እንበይነ፡ ኅዳጥ፡ ብዙኀ፨</l>
+            <l n="4">ኃጥእሰ፡ ዘከማየ፡ ኢይፈዲ፡ ዘተለቅሐ፨</l>
+            <l n="5">ወውስተ፡ ፍትሕ፡ ኢያረትዕ፡ ፍትሐ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="eda-krestos-d-magwina">
+                <persName xml:lang="gez">እደ፡ ክርስቶስ፡ ዘደብረ፡ መጒና፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎda Krǝstos za-Dabra Magʷinā</persName>
+                <persName xml:lang="en">ʾƎda Krǝstos of Dabra Magʷinā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0108" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጴጥሮስ፡ ተፍጻሜተ፡ ሰማዕት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṗeṭros Tafṣāmeta Samāʿt</title>
+        <title corresp="#t1" xml:lang="en">Image of Peter of Alexandria</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0108/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ዋሕድ፡ ወበሥላሴሁ፡ ቀዲሙ፨</l>
+            <l n="2">ናሁ፡ ወጠንኩ፡ መልክኣተ፡ ግብሩ፡ ወስሙ፨</l>
+            <l n="3">ለሊቀ፡ ጳጳሳት፡ ጴጥሮስ፡ ተፍጻሜተ፡ ሰማዕት፡ ኵሎሙ፨</l>
+            <l n="4">ስባሔ፡ ወውዳሴ፡ ከመ፡ ይትናገር፡ በአቅሙ፨</l>
+            <l n="5">አብርሂ፡ ልቡናየ፡ ማርሶሙ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እንተ፡ ጾርዎ፡ በኍልቁ፨</l>
+            <l n="2">ጸወርተ፡ መንበር፡ ኪሩቤል፡ ለእግዚአብሔር፡ ደቁ፨</l>
+            <l n="3">መሥዋዕተ፡ እቤል፡ ሜሌክ፡ ጴጥሮስ፡ ለባሕርየ፡ ዳዊት፡ ስንቁ፨</l>
+            <l n="4">የሐይዉ፡ ብከ፡ ፍቁራን፡ ድኅረ፡ ተገድፉ፡ ወወድቁ፨</l>
+            <l n="5">ወከመ፡ ግዝፈ፡ ምድረ፡ አጽራሮ፡ ዲበ፡ ምድር፡ ተሰጥቁ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="peter-alexandria">
+                <persName xml:lang="gez">ጴጥሮስ፡ ተፍጻሜተ፡ ሰማዕት፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṗeṭros Tafṣāmeta Samāʿt</persName>
+                <persName xml:lang="en">Peter of Alexandria</persName>
+                <trait type="category"><desc>martyr</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

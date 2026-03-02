@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0177" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ቴዎድሮስ፡ ዘዓዲ፡ ቂታ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Tewodros za-ʿĀddi Qitā</title>
+        <title corresp="#t1" xml:lang="en">Image of Tewodros of ʿĀddi Qitā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0177/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በስመ፡ እግዚአብሔር፡ ሕያው፡ ለዕጓለ፡ እመሕያው፡ ዘሠምሮ፨</l>
+            <l n="2">እስመ፡ ይእዜ፡ ወጠንኩ፡ ስብሐተ፡ መልክእከ፡ ለተናግሮ፨</l>
+            <l n="3">ሠናየ፡ ዝብጠት፡ ቴዎድሮስ፡ ድምፀ፡ መክብዩ፡ ከበሮ፨</l>
+            <l n="4">ዘይነግር፡ ዜና፡ ጽድቅከ፡ ወዘያሤኒ፡ ዘምሮ፨</l>
+            <l n="5">እምአእምሮትከ፡ ክፍለኒ፡ አእምሮ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘጽሑፍ፡ ፊደሉ፨</l>
+            <l n="2">ዘያሜንን፡ ወይነ፡ ወዘያረስዕ፡ ነገረ፡ ኵሉ፨</l>
+            <l n="3">ቴዎድሮስ፡ ሆሴዕ፡ ለእግዚአብሔር፡ ነቢየ፡ ቃሉ፨</l>
+            <l n="4">ለእለ፡ ግብሩ፡ ተዝካረከ፡ ወበዓለከ፡ አብዐሉ፨</l>
+            <l n="5">ረድኤተ፡ ፈኑ፡ ወአኅድር፡ በእሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ እምውሳጤ፡ ክዳን፡ መሬት፨</l>
+            <l n="2">አመ፡ ዐሡሩ፡ ወሰኑዩ፡ ለወርኀ፡ የካቲት፨</l>
+            <l n="3">ቴዎድሮስ፡ ባኦስ፡ መፍቀሬ፡ ማርያም፡ ሩት፨</l>
+            <l n="4">ለደብርከ፡ ደብረ፡ ሰላም፡ ይሔውፅዋ፡ መላእክት፨</l>
+            <l n="5">ወይኬልልዋ፡ ብርሃናት፡ ዐበይት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ይባቤ፡ ሚካኤል፡ ተለዐለ፡ በፍልሰትከ፡ ከብካብ፨</l>
+            <l n="2">ወሰማየ፡ ዜማ፡ አጽነነ፡ ድምፀ፡ ገብርኤል፡ ዕጹብ፨</l>
+            <l n="3">ምእላደ፡ ጥበብ፡ ቴዎድሮስ፡ ከመ፡ ሰሎሞን፡ መክበብ፨</l>
+            <l n="4">ጥበበ፡ ዐቅመ፡ ተመልኡ፡ ባስልኤል፡ ወኤልያብ፨</l>
+            <l n="5">ይምላእ፡ ላዕሌየ፡ ዘዚአከ፡ ጥበብ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ዐቅመ፡ ወሀብኩከ፡ ሰላመ፡ ከመ፡ ሰላማዊ፡ መልአክ፨</l>
+            <l n="2">በበ፡ አሐዱ፡ አሐዱ፡ ለመልክእከ፡ ቡሩክ፨</l>
+            <l n="3">ፍትወ፡ መዐዛ፡ ለኵሉ፡ ቴዎድሮስ፡ ሰሊክ፨</l>
+            <l n="4">ተወከፍ፡ ዘንተ፡ አምኃየ፡ እግዚአብሔር፡ አምላክ፨</l>
+            <l n="5">ከመ፡ እምቅዱሳን፡ ትትዌከፍ፡ መሥዋዕተ፡ ዘሠርክ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="tewodros-addi-qita">
+                <persName xml:lang="gez">ቴዎድሮስ፡ ዘዓዲ፡ ቂታ፡</persName>
+                <persName xml:lang="gez" type="normalized">Tewodros za-ʿĀddi Qitā</persName>
+                <persName xml:lang="en">Tewodros of ʿĀddi Qitā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

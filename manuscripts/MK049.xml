@@ -96,9 +96,9 @@
                 <textLang mainLang="gez"/>
                 
                 <title ref="0314" corresp="https://w3id.org/malke/0314/">
-                  <title xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ዘጻዕዳ፡ እምባ፡</title>
-                  <title xml:lang="gez" type="normalized">Malkəʾa Marqorewos za-Ṣāʿədā ʾƎmbā</title>
-                  <title xml:lang="en">Image of Marqorewos of Ṣāʿədā ʾƎmbā</title>
+                  <title xml:lang="gez">መልክአ፡ መርቆሬዎስ፡ ዘጸዐዳ፡ እምባ፡</title>
+                  <title xml:lang="gez" type="normalized">Malkəʾa Marqorewos za-Ṣaʿadā ʾƎmbā</title>
+                  <title xml:lang="en">Image of Marqorewos of Ṣaʿadā ʾƎmbā</title>
                 </title>
                 
               </msItem>

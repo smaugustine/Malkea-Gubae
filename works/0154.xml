@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0154" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ ዘውራ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannǝs za-Wǝrrā</title>
+        <title corresp="#t1" xml:lang="en">Image of Yoḥannǝs of Wǝrrā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0154/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ዘትርጓሜሁ፡ ፍሥሓ፨</l>
+            <l n="2">ወዘይናዝዝ፡ ኵሎ፡ በዝየ፡ ወክሐ፨</l>
+            <l n="3">ዮሐንስ፡ ዘኮንከ፡ እምርስሐተ፡ ዓለም፡ ንጹሐ፨</l>
+            <l n="4">ጸሎትከ፡ ቅድመ፡ ፈጣሪ፡ ትኩነኒ፡ መርሐ፨</l>
+            <l n="5">እስመ፡ ጊዜ፡ ሞትየ፡ እፈርህ፡ ብዙኀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="14">
+            
+            <l n="1">ሰላም፡ ለቃልከ፡ እምድምፀ፡ መሰንቆ፡ ወዕንዚራ፨</l>
+            <l n="2">ዘጥዑም፡ ዜማሁ፡ ወጉህናሁ፡ ነከራ፨</l>
+            <l n="3">ንጹሐ፡ ምግባር፡ ዮሐንስ፡ ርእሰ፡ ምኔተ፡ ውራ፨</l>
+            <l n="4">ይጼልሉ፡ ክነፊሆሙ፡ ትጉሃነ፡ ሰማይ፡ ሐራ፨</l>
+            <l n="5">ላዕለ፡ ምኔትከ፡ ዘባቲ፡ መከራ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="50">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ መዝገበ፡ ባሕርይ፡ ዘቦቱ፨</l>
+            <l n="2">ባሕርይሰ፡ በድነ፡ ሥጋከ፡ ውእቱ፨</l>
+            <l n="3">ዮሐንስ፡ ዜናዊ፡ ምስጢረ፡ ፊደላት፡ ክልኤቱ፨</l>
+            <l n="4">አንበረኒ፡ በየማንከ፡ ጊዜ፡ ፀአተ፡ ነፍስ፡ እምዝንቱ፨</l>
+            <l n="5">እስመ፡ ንብረተዝ፡ ዓለም፡ የኀልፍ፡ በከንቱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="51">
+            
+            <l n="1">አምኃ፡ ሰላም፡ አቅረብኩ፡ ለፍልሰተ፡ ዐፅሙ፡ ወርእሱ፨</l>
+            <l n="2">ሜላተ፡ ብርሃን፡ ንጹሐ፡ እንዘ፡ ይለብሱ፨</l>
+            <l n="3">እምከርሠ፡ መቃብር፡ እሙቅ፡ ውስተ፡ ቤተ፡ ልዑል፡ መቅደሱ፨</l>
+            <l n="4">በኪዳንኪ፡ ማርያም፡ ሕይወተ፡ ሕሙማን፡ ኢያሱ፨</l>
+            <l n="5">በመንግሥተ፡ ሰማይ፡ አዕረፈት፡ ለዮሐንስ፡ ነፍሱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        <div type="textpart" xml:id="tarafa-malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለከ፡ ዮሐንስ፡ መስተጋድል፨</l>
+            <l n="2">ንጹሕ፡ ወድንግል፨</l>
+            <l n="3">ኀበ፡ እግዚእከ፡ አምላክ፡ ሰአሌ፡ ምሕረት፡ ወሣህል፨</l>
+            <l n="4">ጸሊ፡ ለደቂቅከ፡ ወባልሐነ፡ እምሀጕል፨</l>
+            <l n="5">እስመ፡ ጸሎትከ፡ አድኅኖ፡ ዘትክል፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለክሙ፡ ለዮሐንስ፡ አዕማዱ፨</l>
+            <l n="2">ለለ፡ አሐዱ፡ አሐዱ፨</l>
+            <l n="3">ባርኩነ፡ ዘልፈ፡ እንዘ፡ ትሰግዱ፨</l>
+            <l n="4">አብርሃም፡ ከመ፡ ባረኮ፡ ለይስሐቅ፡ ወልዱ፨</l>
+            <l n="5">እስመ፡ ቡራኬ፡ ለመምህር፡ ልማዱ፨</l>
+
+          </lg>
+          
+        </div>
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="yohannes-werra">
+                <persName xml:lang="gez">ዮሐንስ፡ ዘውራ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannǝs za-Wǝrrā</persName>
+                <persName xml:lang="en">Yoḥannǝs of Wǝrrā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>
