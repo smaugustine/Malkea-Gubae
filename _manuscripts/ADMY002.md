@@ -11,6 +11,7 @@ columns: 2
 lines: 26
 origin: 18th-19th century
 
+betmas: ESadmy002
 iiif: https://betamasaheft.eu/api/iiif/ESadmy002/manifest
 
 arrangement:
@@ -103,4 +104,7 @@ units:
       - clavis: 3007
         locus: 119rb-121rb
         facs: 120
+      - clavis: "0131"
+        locus: 122v
+        facs: 124
 ---

@@ -12,8 +12,10 @@ columns: 2
 lines: 31
 origin: 18th century
 
+betmas: BNFabb170
+
 units:
-  - locus: 1r-87v
+  - locus: 1r-85v
     contents:
       - clavis: 2741
         locus: 1ra-4vb
@@ -85,8 +87,10 @@ units:
         locus: 81vb-83rb
       - clavis: 2998
         locus: 83ra-85vb
+  - locus: 1r-86v
+    contents:
       - clavis: ----
         title:
           en: Shadow Tables
-        locus: 86v-87r
+        locus: 86r-87r
 ---
