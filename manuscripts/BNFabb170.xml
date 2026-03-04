@@ -583,10 +583,22 @@
                 
               </msItem>
               
+
+            </msContents>
+
+          </msPart>
+          
+          <msPart n="2">
+            <msIdentifier/>
+
+            <msContents>
+              <summary/>
+
               
-              <msItem n="36">
+              
+              <msItem n="1">
                 
-                <locus>86v-87r</locus>
+                <locus>86r-87r</locus>
                 
                 <textLang mainLang="gez"/>
                 

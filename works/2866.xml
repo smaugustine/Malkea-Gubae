@@ -189,6 +189,28 @@
             <locus>41ra-48va</locus>
           </witness>
           
+          <witness xml:id="MM012">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Māy Wayni</repository>
+                <idno>MM-012</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>180ra-184va</locus>
+          </witness>
+          
+          <witness xml:id="ONBaeth17">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vienna</settlement>
+                <repository>Österreichische Nationalbibliothek</repository>
+                <idno>Aethiopicus 17</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>175va-184ra</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

@@ -119,6 +119,28 @@
             <locus>1ra-9rb</locus>
           </witness>
           
+          <witness xml:id="MM012">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Māy Wayni</repository>
+                <idno>MM-012</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>5ra-9va</locus>
+          </witness>
+          
+          <witness xml:id="ONBaeth17">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vienna</settlement>
+                <repository>Österreichische Nationalbibliothek</repository>
+                <idno>Aethiopicus 17</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>65va-74rb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

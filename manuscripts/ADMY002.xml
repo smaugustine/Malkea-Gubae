@@ -453,6 +453,33 @@
 
           </msPart>
           
+          <msPart n="2">
+            <msIdentifier/>
+
+            <msContents>
+              <summary/>
+
+              
+              
+              <msItem n="1">
+                
+                <locus facs="124">122v</locus>
+                
+                <textLang mainLang="gez"/>
+                
+                <title ref="0131" corresp="https://w3id.org/malke/0131/">
+                  <title xml:lang="gez">መልክአ፡ [እገሌ፡]</title>
+                  <title xml:lang="gez" type="normalized">Malkǝʾa [ʾƎgale]</title>
+                  <title xml:lang="en">Image of [Name]</title>
+                </title>
+                
+              </msItem>
+              
+
+            </msContents>
+
+          </msPart>
+          
 
         </msDesc>
       </sourceDesc>

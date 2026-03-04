@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="MM012">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Māy Wayni</repository>
+                <idno>MM-012</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>86va-90ra</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

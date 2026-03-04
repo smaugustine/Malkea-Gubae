@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="ADMY002">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-002</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>122v</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

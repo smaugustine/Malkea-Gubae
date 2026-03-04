@@ -112,6 +112,17 @@
             <locus>100vb-102vc</locus>
           </witness>
           
+          <witness xml:id="MM012">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Māy Wayni</repository>
+                <idno>MM-012</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>113ra-115va</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

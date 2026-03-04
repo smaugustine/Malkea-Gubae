@@ -119,6 +119,17 @@
             <locus>206ra-211rb</locus>
           </witness>
           
+          <witness xml:id="ONBaeth17">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vienna</settlement>
+                <repository>Österreichische Nationalbibliothek</repository>
+                <idno>Aethiopicus 17</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>194vb-204rb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>
