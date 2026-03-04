@@ -87,7 +87,7 @@ units:
         locus: 81vb-83rb
       - clavis: 2998
         locus: 83ra-85vb
-  - locus: 1r-86v
+  - locus: 86r-87v
     contents:
       - clavis: ----
         title:

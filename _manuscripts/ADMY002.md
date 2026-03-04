@@ -21,7 +21,7 @@ arrangement:
     - righteous: 105r-121r
 
 units:
-  - locus: 
+  - locus: 7r-121rb
     contents:
       # Angels
       - clavis: 2835
@@ -104,6 +104,8 @@ units:
       - clavis: 3007
         locus: 119rb-121rb
         facs: 120
+  - locus: 122v
+    contents:
       - clavis: "0131"
         locus: 122v
         facs: 124
