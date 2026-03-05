@@ -97,6 +97,17 @@
             <locus>68rb-70va</locus>
           </witness>
           
+          <witness xml:id="EMIP0856">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 856</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>117vb-120vb</locus>
+          </witness>
+          
           <witness xml:id="EMML0659">
             <msDesc>
               <msIdentifier>
@@ -117,6 +128,17 @@
               </msIdentifier>
             </msDesc>
             <locus>100va-102ra</locus>
+          </witness>
+          
+          <witness xml:id="EMML3997">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAnkobarr</settlement>
+                <repository>Masč̣ā Māryām</repository>
+                <idno>EMML 3997</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>86ra-90vb</locus>
           </witness>
           
           <witness xml:id="EMML6251">

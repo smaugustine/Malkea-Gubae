@@ -53,6 +53,17 @@
             <locus>49ra-50ra</locus>
           </witness>
           
+          <witness xml:id="EMIP0856">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 856</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>86rb-87vb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

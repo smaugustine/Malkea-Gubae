@@ -42,6 +42,17 @@
             <locus>98ra-103ra</locus>
           </witness>
           
+          <witness xml:id="EMML3997">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAnkobarr</settlement>
+                <repository>Masč̣ā Māryām</repository>
+                <idno>EMML 3997</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>21vb-24vb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

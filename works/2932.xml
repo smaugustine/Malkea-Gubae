@@ -53,6 +53,17 @@
             <locus>71rb-75vb</locus>
           </witness>
           
+          <witness xml:id="DHAS008">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Dabra Hāllelo ʾƎndā ʾAbuna Sāmuʾel</repository>
+                <idno>DHAS-008</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>137rb-138vb</locus>
+          </witness>
+          
           <witness xml:id="EMIP0764">
             <msDesc>
               <msIdentifier>
@@ -62,6 +73,17 @@
               </msIdentifier>
             </msDesc>
             <locus>76ra-77ra</locus>
+          </witness>
+          
+          <witness xml:id="EMIP0856">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 856</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>58rc-59vb</locus>
           </witness>
           
           <witness xml:id="EMML0374">

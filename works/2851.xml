@@ -86,6 +86,17 @@
             <locus>43ra-44rb</locus>
           </witness>
           
+          <witness xml:id="EMIP0856">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 856</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>141rc-143rc</locus>
+          </witness>
+          
           <witness xml:id="EMML0374">
             <msDesc>
               <msIdentifier>

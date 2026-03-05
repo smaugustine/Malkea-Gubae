@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="DHAS008">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Dabra Hāllelo ʾƎndā ʾAbuna Sāmuʾel</repository>
+                <idno>DHAS-008</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>187r-194v</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

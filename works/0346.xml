@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMIP0856">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Təgrāy</settlement>
+                <repository>Č̣alaqot Śəllāse</repository>
+                <idno>EMIP 856</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>143va-147vc</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 
