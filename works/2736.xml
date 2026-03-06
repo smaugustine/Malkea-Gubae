@@ -79,6 +79,17 @@
             <locus>48va-51vb</locus>
           </witness>
           
+          <witness xml:id="PULgarr57">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Princeton</settlement>
+                <repository>Princeton University Library</repository>
+                <idno>Garrett Ethiopic 57</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>3r-14v</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>
