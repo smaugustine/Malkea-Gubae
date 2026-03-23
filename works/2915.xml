@@ -130,6 +130,17 @@
             <locus>183ra-184vb</locus>
           </witness>
           
+          <witness xml:id="EMML8937">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dabra Tābor</settlement>
+                <repository>Māḫədara Māryām</repository>
+                <idno>EMML 8937</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>205rb-205vb, 200ra-200va</locus>
+          </witness>
+          
           <witness xml:id="GG085">
             <msDesc>
               <msIdentifier>

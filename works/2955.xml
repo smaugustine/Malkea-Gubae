@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMML8937">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Dabra Tābor</settlement>
+                <repository>Māḫədara Māryām</repository>
+                <idno>EMML 8937</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>195ra-198ra</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 
