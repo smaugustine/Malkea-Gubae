@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe7840" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">በሰጊድ፡ ስብሐት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Ba-sagid Səbḥat</title>
+        <title corresp="#t1" xml:lang="en">In Prostrating, Glory</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/7840/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ ለዝክረ፡ ስምከ፡ ሰላም፡ እግዚአብሔር፡ ዋሕድ፨</l>
+            <l n="2">በከመ፡ ነገረ፡ ወልደ፡ ነጐድጓድ፨</l>
+            <l n="3">ጸዐዳ፡ ከመ፡ በረድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ ወለርእስከ፡ ሰላም፡ እግዚአብሔር፡ ቡሩክ፨</l>
+            <l n="2">ዘአስተቀጸልዎ፡ ሕዝብ፡ አክሊል፡ ዘሦክ፨</l>
+            <l n="3">ወኰርዕዎ፡ በኢምሒክ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="12">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ ወለጽሕምከ፡ ሰላም፡ እግዚአብሔር፡ አሮን፨</l>
+            <l n="2">ዘይወርድአ፡ እስከነ፡ ሕፃን፨</l>
+            <l n="3">ምዑዝ፡ ዘእምስኂን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ ለመልክእከ፡ ኵሉ፨</l>
+            <l n="2">በነጽሮ፡ ዝንቱ፡ ዘጸልመ፡ ለፀሓይ፡ ጸዳሉ፨</l>
+            <l n="3">ዕርቃነከ፡ ሶበ፡ ሰቀሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ ጊዜ፡ ትወፅእ፡ ነፍስከ፡ መንጦላዕተ፡ ምኵራብ፡ ተሠጠ፨</l>
+            <l n="2">ፀሓይ፡ ደንገጸ፡ ወወርኅ፡ አንሶጠጠ፨</l>
+            <l n="3">እምትስብእት፡ ዘኢተፈልጠ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ ሰሐበቶ፡ ፍቅር፡ አገበረቶ፡ ትሕትና፨</l>
+            <l n="2">ለበድነ፡ ሥጋከ፡ ዘአልቦ፡ ሙስና፨</l>
+            <l n="3">ለመሬት፡ እስከ፡ ተከድና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ ለኅደረትከ፡ ሰላም፡ እንተ፡ ትትከደን፡ መሬተ፨</l>
+            <l n="2">ውስተ፡ ልበ፡ ምድር፡ ሠሉሰ፡ ዕለተ፨</l>
+            <l n="3">ዘትለብስ፡ ብርሃናተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="34">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ ለትንሣኤከ፡ ሰላም፡ እግዚአብሔር፡ ዐቢይ፨</l>
+            <l n="2">ፄዊወከ፡ ፄዋ፡ ወሆከ፡ ቀለይ፨</l>
+            <l n="3">ለዕርገትከ፡ ውስተ፡ ሰማይ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="35">
+            
+            <l n="1">በሰጊድ፡ ስብሐት፡ መሓሪት፡ ዐይንከ፡ ትትመየጠነ፡ እንከ፨</l>
+            <l n="2">በእንተ፡ ኵሎን፡ መልክእከ፨</l>
+            <l n="3">ስእለተ፡ ሕዝብከ፡ ስማዕ፡ ኢይኩን፡ ብከ፨</l>
+            <l n="4">ተወከፎን፡ ነግሀ፡ ወሰርከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="36">
+            
+            <l n="1">መሓሪት፡ ዐይንከ፡ ትትመየጠነ፡ እንከ፨</l>
+            <l n="2">በእንተ፡ ማርያም፡ ወላዲትከ፨</l>
+            <l n="3">ስእለተ፡ ሕዝብከ፡ ስማዕ፡ ኢይኩን፡ ብከ፨</l>
+            <l n="4">ተወከፎን፡ ነግሀ፡ ወሰርከ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="37">
+            
+            <l n="1">መሓሪት፡ ዐይንከ፡ ትትመየጠነ፡ እንከ፨</l>
+            <l n="2">በእንተ፡ ሥጋከ፡ ወደምከ፨</l>
+            <l n="3">ስእለተ፡ ሕዝብከ፡ ስማዕ፡ ኢይኩን፡ ብከ፨</l>
+            <l n="4">ተወከፎን፡ ነግሀ፡ ወሰርከ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="jesus">
+                <persName xml:lang="gez">ኢየሱስ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾIyyasus Krəstos</persName>
+                <persName xml:lang="en">Jesus Christ</persName>
+                <trait type="category"><desc>trinitarian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>
