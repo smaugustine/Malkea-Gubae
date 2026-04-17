@@ -179,11 +179,11 @@ layout: main/default
     </aside>
     {% endif %}
 
-    {% assign witnesses = site.data.items | where: "uid", page.uid %}
+    {% assign witnesses = site.data.items | where: "uid", page.uid | concat: page.witnesses | sort: "short" %}
     {% if witnesses.size > 0 %}
     <aside class="message is-info">
       <div class="message-header">
-        <p>Manuscript Witnesses</p>
+        <p>Manuscript Witness{% if witnesses.size > 1 %}es{% endif %}</p>
       </div>
       <div class="message-body content">
         <table class="table is-fullwidth">

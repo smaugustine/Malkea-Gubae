@@ -56,6 +56,10 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     
     if work.data["complete"] then work.data["full_text"] = work.data["stanzas"].size == work.data["length"] end
 
+    unless work.data.include? "witnesses"
+      work.data["witnesses"] = []
+    end
+
   end
 
 end
