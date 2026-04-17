@@ -179,7 +179,7 @@ layout: main/default
     </aside>
     {% endif %}
 
-    {% assign witnesses = site.data.items | where: "uid", page.uid | concat: page.witnesses | sort: "short" %}
+    {% assign witnesses = site.data.items | where: "uid", page.uid | concat: page.witnesses | sort: "manuscript.short" %}
     {% if witnesses.size > 0 %}
     <aside class="message is-info">
       <div class="message-header">
