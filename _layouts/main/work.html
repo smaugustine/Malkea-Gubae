@@ -179,7 +179,7 @@ layout: main/default
     </aside>
     {% endif %}
 
-    {% assign witnesses = site.data.items | where: "uid", page.uid | concat: page.witnesses | sort: "manuscript.short" %}
+    {% assign witnesses = site.data.items | where: "uid", page.uid | concat: page.witnesses | sort_natural: "manuscript.short" %}
     {% if witnesses.size > 0 %}
     <aside class="message is-info">
       <div class="message-header">
@@ -190,13 +190,13 @@ layout: main/default
           {% for item in witnesses %}
           <tr>
             <td>
-              <a href="{{ item.manuscript.url }}#{{ item.position }}">{{ item.manuscript.short }}</a>
+              <a href="{{ item.manuscript.url }}#{{ item.position }}" {% if item.manuscript.url contains 'http' %}target="_blank"{% endif %}>{{ item.manuscript.short }}</a>
             </td>
             <td class="is-hidden-touch">
-              <a href="{{ item.manuscript.url }}#{{ item.position }}">{{ item.manuscript.origin | repace: "-", "–" }}</a>
+              <a href="{{ item.manuscript.url }}#{{ item.position }}" {% if item.manuscript.url contains 'http' %}target="_blank"{% endif %}>{{ item.manuscript.origin | repace: "-", "–" }}</a>
             </td>
             <td>
-              <a href="{{ item.manuscript.url }}#{{ item.position }}">
+              <a href="{{ item.manuscript.url }}#{{ item.position }}" {% if item.manuscript.url contains 'http' %}target="_blank"{% endif %}>
                 {% unless item.manuscript.paginated %}
                 <span>ff.</span>
                 {% else %}
