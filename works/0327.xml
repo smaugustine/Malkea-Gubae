@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMML3995">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Šawā</settlement>
+                <repository>Masč̣ā Māryām</repository>
+                <idno>EMML 3995</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>120ra-123ra</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

@@ -141,6 +141,17 @@
             <locus>95ra-96rb</locus>
           </witness>
           
+          <witness xml:id="BNFabb144">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 114</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>102ra-103rb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

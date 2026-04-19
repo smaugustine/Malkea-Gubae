@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="BNFabb177">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 177</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>59r-62r</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

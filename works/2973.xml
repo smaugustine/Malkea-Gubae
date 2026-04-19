@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="BLor570">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 570</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>147ra-155r</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

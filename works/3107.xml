@@ -30,6 +30,30 @@
         <listWit>
           
           
+          
+          <witness xml:id="BLor670">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 670</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>118va-119rb</locus>
+          </witness>
+          
+          <witness xml:id="EMML8892">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Gondar</settlement>
+                <repository>Māḫdara Māryām</repository>
+                <idno>EMML 8892</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>1v-3v</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

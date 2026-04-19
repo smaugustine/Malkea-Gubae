@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMML1939">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Wallo</settlement>
+                <repository>Ḥayq ʾƎsṭifānos</repository>
+                <idno>EMML 1939</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>83v–84r, 85r–86v, 87v–84r, 89v–98r, 101v–103r</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

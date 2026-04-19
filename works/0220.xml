@@ -42,6 +42,17 @@
             <locus>113va-116vb</locus>
           </witness>
           
+          <witness xml:id="">
+            <msDesc>
+              <msIdentifier>
+                <settlement></settlement>
+                <repository></repository>
+                <idno></idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>138rb-141rc</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

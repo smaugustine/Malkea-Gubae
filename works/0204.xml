@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMML6996">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Wallo</settlement>
+                <repository>Dabra Zamaddo</repository>
+                <idno>EMML 6996</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>2ra-2vb</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

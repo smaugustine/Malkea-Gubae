@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMML0653">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Private Library of Malʾaka Berhānāt Tasfā Warqnah</repository>
+                <idno>EMML 653</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>85r-91r</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

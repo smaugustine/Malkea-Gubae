@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="EMDA325">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Goǧǧām</settlement>
+                <repository>Dimā Giyorgis</repository>
+                <idno>EMDA 325</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>102va-104vb</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 
