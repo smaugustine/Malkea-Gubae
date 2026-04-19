@@ -31,12 +31,12 @@
           
           
           
-          <witness xml:id="">
+          <witness xml:id="EMML7658">
             <msDesc>
               <msIdentifier>
-                <settlement></settlement>
-                <repository></repository>
-                <idno></idno>
+                <settlement>Wallo</settlement>
+                <repository>Dabra Zamaddo</repository>
+                <idno>EMML 7658</idno>
               </msIdentifier>
             </msDesc>
             <locus>133ra-141vb</locus>

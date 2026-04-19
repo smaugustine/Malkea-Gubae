@@ -31,12 +31,12 @@
           
           
           
-          <witness xml:id="">
+          <witness xml:id="EMDA112">
             <msDesc>
               <msIdentifier>
-                <settlement></settlement>
-                <repository></repository>
-                <idno></idno>
+                <settlement>Goǧǧām</settlement>
+                <repository>Moṭā Giyorgis</repository>
+                <idno>EMDA 112</idno>
               </msIdentifier>
             </msDesc>
             <locus>169ra-169vc</locus>

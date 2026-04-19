@@ -31,12 +31,12 @@
           
           
           
-          <witness xml:id="">
+          <witness xml:id="MAKM009">
             <msDesc>
               <msIdentifier>
-                <settlement></settlement>
-                <repository></repository>
-                <idno></idno>
+                <settlement>Təgrāy</settlement>
+                <repository>Māy ʾAnbasā Kidāna Mǝḥrat</repository>
+                <idno>MAKM-009</idno>
               </msIdentifier>
             </msDesc>
             <locus>4r-18r</locus>

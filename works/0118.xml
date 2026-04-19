@@ -31,12 +31,12 @@
           
           
           
-          <witness xml:id="">
+          <witness xml:id="ADMY003">
             <msDesc>
               <msIdentifier>
-                <settlement></settlement>
-                <repository></repository>
-                <idno></idno>
+                <settlement>Təgrāy</settlement>
+                <repository>ʿAddi ʾĀmḥarā Dabra Madḫānit ʾAbba Yoḥanni</repository>
+                <idno>ADMY-003</idno>
               </msIdentifier>
             </msDesc>
             <locus>24va-32ra</locus>

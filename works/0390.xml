@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="IES0119">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Institute of Ethiopian Studies</repository>
+                <idno>IES 119</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>2ra-9ra</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

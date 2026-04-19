@@ -42,12 +42,12 @@
             <locus>113va-116vb</locus>
           </witness>
           
-          <witness xml:id="">
+          <witness xml:id="EMML0894">
             <msDesc>
               <msIdentifier>
-                <settlement></settlement>
-                <repository></repository>
-                <idno></idno>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Dabra Nāzret Qəddus Yosef</repository>
+                <idno>EMML 894</idno>
               </msIdentifier>
             </msDesc>
             <locus>138rb-141rc</locus>
