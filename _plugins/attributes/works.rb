@@ -56,8 +56,28 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     
     if work.data["complete"] then work.data["full_text"] = work.data["stanzas"].size == work.data["length"] end
 
-    unless work.data.include? "witnesses"
-      work.data["witnesses"] = []
+    if work.data.include? "witnesses"
+      site.data["items"].concat work.data["witnesses"].map{ |item|
+        {
+          "uid" => work.data["uid"],
+          "locus" => item["locus"],
+          "manuscript" => item["manuscript"]
+        }
+      }
+
+      site.data["additional_manuscripts"].concat work.data["witnesses"].map { |item|
+        {
+          "institution" => item["manuscript"]["institution"],
+          "shelfmark" => item["manuscript"]["shelfmark"],
+          "short" => item["manuscript"]["short"],
+          "origin" => item["manuscript"]["origin"],
+          "url" => item["manuscript"]["url"],
+          "work" => {
+            "title" => work.data["titles"][0],
+            "url" => work.url
+          }
+        }
+      }
     end
 
   end

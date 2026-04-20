@@ -1,6 +1,7 @@
 Jekyll::Hooks.register :site, :pre_render do |site|
 
   site.data["items"] = []
+  site.data["additional_manuscripts"] = []
 
   site.collections["manuscripts"].docs.each do |manuscript|
 

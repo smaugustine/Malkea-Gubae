@@ -28,7 +28,7 @@
 
       <sourceDesc>
         <listWit>
-          {% assign witnesses = site.data.items | where: "uid", page.uid | concat: page.witnesses %}
+          {% assign witnesses = site.data.items | where: "uid", page.uid %}
           {% if witnesses.size > 0 %}
           {% for item in witnesses %}
           <witness xml:id="{{ item.manuscript.slug }}">

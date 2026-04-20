@@ -41,3 +41,51 @@ permalink: /manuscripts/
   {% endfor %}
 
 </table>
+
+<div class="my-5">
+  <h2 class="title is-4">Additional Witnesses</h2>
+</div>
+
+<table class="table">
+
+  <thead>
+    <tr>
+      <th class="is-hidden-touch">Institution</th>
+      <th>Shelfmark</th>
+      <th class="is-hidden-touch"></th>
+      <th>Age</th>
+      <th>Work(s)</th>
+    </tr>
+  </thead>
+  
+  {% assign additional_manuscripts = site.data.additional_manuscripts | group_by: "short" | sort_natural: "name" | map: "items" %}
+  {% for manuscript in additional_manuscripts %}
+
+  <tbody>
+    {% for item in manuscript %}
+    <tr>
+      {% if forloop.first %}
+      <td rowspan="{{ manuscript.size }}" class="is-hidden-touch">{{ manuscript[0].institution }}</td>
+      <td rowspan="{{ manuscript.size }}" class="is-hidden-touch">
+        <a href="{{ manuscript[0].url }}">{{ manuscript[0].shelfmark }}</a>
+      </td>
+      <td rowspan="{{ manuscript.size }}" class="is-hidden-desktop">
+        <a href="{{ manuscript[0].url }}">{{ manuscript[0].short }}</a>
+      </td>
+      <td rowspan="{{ manuscript.size }}" class="is-hidden-touch">
+        <a href="{{ manuscript[0].url }}">({{ manuscript[0].short }})</a>
+      </td>
+      <td rowspan="{{ manuscript.size }}">{{ manuscript[0].origin | replace: "-", "–" }}</td>
+      {% endif %}
+      <td>
+        <a href="{{ item.work.url }}#witnesses" style="display: block;">
+          <strong lang="gez">{{ item.work.title.gez | fidal }}</strong>
+          <br><small lang="gez-latn">{{ item.work.title.gez }}</small>
+        </a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+  {% endfor %}
+
+</table>
