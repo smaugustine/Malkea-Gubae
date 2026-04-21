@@ -42,6 +42,28 @@
             <locus>143va-147vc</locus>
           </witness>
           
+          <witness xml:id="BAVcombf30">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Comboniani F 30</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>5-39</locus>
+          </witness>
+          
+          <witness xml:id="ANLcr19">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Rome</settlement>
+                <repository>Biblioteca dell’Accademia Nazionale dei Lincei</repository>
+                <idno>Conti Rossini 19</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>90ra-97rb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

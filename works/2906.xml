@@ -31,6 +31,17 @@
           
           
           
+          <witness xml:id="BAVcombf37">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Vaticani Comboniani F 37</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>51a-74b</locus>
+          </witness>
+          
           <witness xml:id="BLor576">
             <msDesc>
               <msIdentifier>

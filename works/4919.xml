@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="DSethiop10">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Egypt</settlement>
+                <repository>Dayr as-Suryān</repository>
+                <idno>Ethiopic 10</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>91v-109v</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

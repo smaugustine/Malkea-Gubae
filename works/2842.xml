@@ -9,9 +9,13 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Masqal</title>
         <title corresp="#t1" xml:lang="en">Image of the Cross</title>
         
-        <title xml:id="t2" xml:lang="gez">መልክአ፡ ሕማማተ፡ መስቀል፡</title>
-        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa Ḥǝmāmāta Masqal</title>
-        <title corresp="#t2" xml:lang="en">Image of the Sufferings of the Cross</title>
+        <title xml:id="t2" xml:lang="gez">መልክአ፡ ኢየሱስ፡ ዘመስቀል፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Malkəʾa ʾIyyasus za-Masqal</title>
+        <title corresp="#t2" xml:lang="en">Image of Jesus for the Cross</title>
+        
+        <title xml:id="t3" xml:lang="gez">መልክአ፡ ሕማማተ፡ መስቀል፡</title>
+        <title corresp="#t3" xml:lang="gez" type="normalized">Malkəʾa Ḥǝmāmāta Masqal</title>
+        <title corresp="#t3" xml:lang="en">Image of the Sufferings of the Cross</title>
         
       </titleStmt>
 
@@ -34,6 +38,17 @@
         <listWit>
           
           
+          
+          <witness xml:id="BAVcombf43">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Vaticani Comboniani F 43</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>1-14</locus>
+          </witness>
           
           <witness xml:id="BLor576">
             <msDesc>

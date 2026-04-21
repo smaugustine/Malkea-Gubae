@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="BAVet44">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Etiopici 44</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>1r-38v</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

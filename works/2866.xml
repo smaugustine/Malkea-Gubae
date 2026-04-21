@@ -46,6 +46,39 @@
             <locus>59ra-63vb</locus>
           </witness>
           
+          <witness xml:id="BAVcombf36">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Vaticani Comboniani F 36</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>20a-32a</locus>
+          </witness>
+          
+          <witness xml:id="BAVcombf37">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Vaticani Comboniani F 37</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>237a-264b</locus>
+          </witness>
+          
+          <witness xml:id="BAVcombg06">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Vaticani Comboniani G 6</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>127-163</locus>
+          </witness>
+          
           <witness xml:id="BLor576">
             <msDesc>
               <msIdentifier>

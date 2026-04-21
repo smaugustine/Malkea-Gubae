@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="BAVcombf27">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Comboniani F 27</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>139-153</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

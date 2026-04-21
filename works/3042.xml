@@ -130,6 +130,17 @@
             <locus>232va-237rb</locus>
           </witness>
           
+          <witness xml:id="BAVcombf27">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Comboniani F 27</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>17-31</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

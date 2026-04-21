@@ -42,6 +42,17 @@
             <locus>51ra-52vb</locus>
           </witness>
           
+          <witness xml:id="BAVcombf27">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Comboniani F 27</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>70-86</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

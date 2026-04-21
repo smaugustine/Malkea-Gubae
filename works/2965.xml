@@ -42,6 +42,17 @@
             <locus>11va-14rb</locus>
           </witness>
           
+          <witness xml:id="BAVcombf10">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Vatican City</settlement>
+                <repository>Biblioteca Apostolica Vaticana</repository>
+                <idno>Vaticani Comboniani F 10</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>104-127</locus>
+          </witness>
+          
           <witness xml:id="BNFet349">
             <msDesc>
               <msIdentifier>
