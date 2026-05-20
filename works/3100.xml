@@ -42,6 +42,17 @@
             <locus>174vb-175rb</locus>
           </witness>
           
+          <witness xml:id="BLor716">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 716</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>2vb-3va</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAmmānuʾel</title>
         <title corresp="#t1" xml:lang="en">Image of Emmanuel</title>
         
+        <title xml:id="t2" xml:lang="gez">የአማኑኤል፡ መጽሐፍ፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Ya-ʾAmmānuʾel Maṣḥaf</title>
+        <title corresp="#t2" xml:lang="en">Book of Emmanuel</title>
+        
       </titleStmt>
 
       <publicationStmt>
@@ -51,6 +55,17 @@
               </msIdentifier>
             </msDesc>
             <locus>152va-154vb</locus>
+          </witness>
+          
+          <witness xml:id="BNFet361">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien 361</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>1r-18v</locus>
           </witness>
           
           

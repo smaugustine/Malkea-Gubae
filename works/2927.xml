@@ -101,6 +101,28 @@
             <locus>48va-50vb</locus>
           </witness>
           
+          <witness xml:id="BLor716">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <idno>Oriental 716</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>168va-169rb</locus>
+          </witness>
+          
+          <witness xml:id="BNFabb14">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 14</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>84v-87ra</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

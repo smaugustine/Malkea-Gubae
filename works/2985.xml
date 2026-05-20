@@ -42,6 +42,17 @@
             <locus>133rc-137rb</locus>
           </witness>
           
+          <witness xml:id="BNFabb133">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno>Éthiopien d’Abbadie 133</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>107ra-111vb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>
