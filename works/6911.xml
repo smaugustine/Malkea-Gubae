@@ -114,7 +114,7 @@
             <l n="1">ሰላም፡ ለዝክረ፡ ስምኪ፡ ውስተ፡ አፈ፡ አብዳን፡ ጥዑም፨</l>
             <l n="2">በአፈ፡ ማእምራን፡ እኪተ፡ ጽዋዔ፡ ዓለም፨</l>
             <l n="3">እለ፡ ግሑሳን፡ እማኅበርኪ፡ ዘሥጋ፡ ወደም፨</l>
-            <l n="4">ኢየሐምዩ፡ ማኅሌትየ፡ ሶበ፡ ይብሉኪ፡ ሰላም፨</l>
+            <l n="4">ኢየሐምዩ፡ ማሕሌትየ፡ ሶበ፡ ይብሉኪ፡ ሰላም፨</l>
             <l n="5">እስመ፡ በውስቴቱ፡ ዘለፋ፡ ወብዙኅ፡ መርገም፨</l>
 
           </lg>
@@ -644,7 +644,7 @@
             <l n="1">[ዓለም፡] ፍቅርትየ፡ በአምኃ፡ ጕሕሉት፡ አማኅኩኪ፨</l>
             <l n="2">አምሳለ፡ ይሁዳ፡ ረድእኪ፨</l>
             <l n="3">ወቃለ፡ ዘለፋ፡ ቶሳሕኩ፡ በውስቴቱ፡ እንዘ፡ እጌሥጽ፡ ኪያኪ፨</l>
-            <l n="4">እመ፡ ኢነሳ|ሕኪሰ፡ ወታጸንዒ፡ ልበኪ፨</l>
+            <l n="4">እመ፡ ኢነሳሕኪሰ፡ ወታጸንዒ፡ ልበኪ፨</l>
             <l n="5">መቅሠፍተ፡ ወኵነኔ፡ ትዘግቢ፡ ለኪ፨</l>
 
           </lg>
@@ -679,7 +679,7 @@
       </listRelation>
       
       
-<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Dickinson2025" corresp="http://zotero.org/groups/5599348/items/AKHNNXS7"><analytic><title level="a">&lt;hi rend="italics"&gt;Malkəʾa ʿālam&lt;/hi&gt; (‘Image of the World’): An Ethiopic Hymn in Praise of Monasticism</title><author><forename>Augustine</forename><surname>Dickinson</surname></author><author><forename>Michael</forename><surname>Hensley</surname></author></analytic><monogr><title level="j">Aethiopica</title><imprint><biblScope unit="volume">28</biblScope><biblScope unit="page">93-133</biblScope><date>2025</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ገብረ_ሥላሴ" corresp="http://zotero.org/groups/5599348/items/JIICEUUZ"><monogr><title level="m">መልክዐ ጉባኤ ከ380 በላይ የተለያዩ መልክዐ መልኮችንና ምስጋናዎችን አጠቃሎ የያዘ በግዕዝ እና በአማርኛ</title><title type="short">መልክዐ ጉባኤ</title><extent>2</extent><author><name>ገብረ ሥላሴ</name></author><imprint><pubPlace>አዲስ አበባ</pubPlace><date>፳፻፲፮  ዓ/ም</date></imprint></monogr></biblStruct></listBibl>
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Dickinson2025" corresp="http://zotero.org/groups/5599348/items/AKHNNXS7"><analytic><title level="a">&lt;hi rend="italics"&gt;Malkəʾa ʿālam&lt;/hi&gt; (‘Image of the World’): An Ethiopic Hymn in Praise of Monasticism</title><title type="short">&lt;i&gt;Malkəʾa ʿālam&lt;/i&gt; (‘Image of the World’)</title><author><forename>Augustine</forename><surname>Dickinson</surname></author><author><forename>Michael</forename><surname>Hensley</surname></author></analytic><monogr><title level="j">Aethiopica</title><imprint><biblScope unit="volume">28</biblScope><biblScope unit="page">93-133</biblScope><date>2025</date></imprint></monogr></biblStruct><biblStruct type="book" xml:id="ገብረ_ሥላሴ" corresp="http://zotero.org/groups/5599348/items/JIICEUUZ"><monogr><title level="m">መልክዐ ጉባኤ ከ380 በላይ የተለያዩ መልክዐ መልኮችንና ምስጋናዎችን አጠቃሎ የያዘ በግዕዝ እና በአማርኛ</title><title type="short">መልክዐ ጉባኤ</title><extent>2</extent><author><name>ገብረ ሥላሴ</name></author><imprint><pubPlace>አዲስ አበባ</pubPlace><date>፳፻፲፮  ዓ/ም</date></imprint></monogr></biblStruct></listBibl>
     </back>
 
   </text>
