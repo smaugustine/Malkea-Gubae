@@ -1,5 +1,5 @@
 ---
-name: Ṣagā Zaʾab
+name: Ṣaggā Zaʾab
 commemorations:
   - [17, 12]
 ---
