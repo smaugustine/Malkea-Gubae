@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፄዋ፡ ለጽድቅ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ḍewā Laṣədq</title>
-        <title corresp="#t1" xml:lang="en">Image of Ḍewā Laṣədq</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ጼዋ፡ ለጽድቅ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṣewā Laṣədq</title>
+        <title corresp="#t1" xml:lang="en">Image of Ṣewā Laṣədq</title>
         
       </titleStmt>
 
@@ -138,10 +138,10 @@
             <listPerson>
               
               
-              <person xml:id="dewa-lasedq">
-                <persName xml:lang="gez">ፄዋ፡ ለጽድቅ፡</persName>
-                <persName xml:lang="gez" type="normalized">Ḍewā Laṣədq</persName>
-                <persName xml:lang="en">Ḍewā Laṣədq</persName>
+              <person xml:id="sewa-lasedq">
+                <persName xml:lang="gez">ጼዋ፡ ለጽድቅ፡</persName>
+                <persName xml:lang="gez" type="normalized">Ṣewā Laṣədq</persName>
+                <persName xml:lang="en">Ṣewā Laṣədq</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

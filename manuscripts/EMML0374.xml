@@ -155,10 +155,10 @@
                 
                 <textLang mainLang="gez"/>
                 
-                <title>
-                  <title xml:lang="gez">በስመ፡ እግዚአብሔር፡ ቀዳማዊ፡</title>
-                  <title xml:lang="gez" type="normalized">Ba-sǝma ʾƎgziʾabǝḥer Qadāmāwi</title>
-                  <title xml:lang="en">“In the Name of the Lord, the First…”</title>
+                <title ref="2993" corresp="https://w3id.org/malke/2993/">
+                  <title xml:lang="gez">ሰይፈ፡ መለኮት፡</title>
+                  <title xml:lang="gez" type="normalized">Sayfa Malakot</title>
+                  <title xml:lang="en">Sword of Divinity</title>
                 </title>
                 
               </msItem>

@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="ZLV3">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Rome</settlement>
+                <repository>Private collection of G. Zanasi</repository>
+                <idno>Zanasi-Li Volsi 3</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>97r-100v</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 

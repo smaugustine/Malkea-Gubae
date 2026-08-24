@@ -6,8 +6,8 @@
       <titleStmt>
         
         <title xml:id="t1" xml:lang="gez">መልክአ፡ ጸጋ፡ ዘአብ፡ ወእግዚእ፡ ኀረያ፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṣagā Zaʾab wa-ʾƎgziʾ Ḫarayā</title>
-        <title corresp="#t1" xml:lang="en">Image of Ṣagā Zaʾab and ʾƎgziʾ Ḫarayā</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ṣaggā Zaʾab wa-ʾƎgziʾ Ḫarayā</title>
+        <title corresp="#t1" xml:lang="en">Image of Ṣaggā Zaʾab and ʾƎgziʾ Ḫarayā</title>
         
       </titleStmt>
 
@@ -115,10 +115,10 @@
             <listPerson>
               
               
-              <person xml:id="saga-zaab">
+              <person xml:id="sagga-zaab">
                 <persName xml:lang="gez">ጸጋ፡ ዘአብ፡</persName>
-                <persName xml:lang="gez" type="normalized">Ṣagā Zaʾab</persName>
-                <persName xml:lang="en">Ṣagā Zaʾab</persName>
+                <persName xml:lang="gez" type="normalized">Ṣaggā Zaʾab</persName>
+                <persName xml:lang="en">Ṣaggā Zaʾab</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 

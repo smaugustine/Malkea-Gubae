@@ -9,6 +9,10 @@
         <title corresp="#t1" xml:lang="gez" type="normalized">La-kʷǝllon Malkǝʾǝki</title>
         <title corresp="#t1" xml:lang="en">To All the Parts of Your Image</title>
         
+        <title xml:id="t2" xml:lang="gez">ማኅተመ፡ ሰላም፡ ዘእግዝእትነ፡ ማርያም፡</title>
+        <title corresp="#t2" xml:lang="gez" type="normalized">Māḫtama Salām za-ʾƎgzǝʾtǝna Māryām</title>
+        <title corresp="#t2" xml:lang="en">Seal of the Salutation for Our Lady Mary</title>
+        
       </titleStmt>
 
       <publicationStmt>
