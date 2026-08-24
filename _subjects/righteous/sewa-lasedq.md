@@ -1,5 +1,5 @@
 ---
-name: Ḍewā Laṣədq
+name: Ṣewā Laṣədq
 commemorations:
   - [29, 3]
 ---
