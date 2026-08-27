@@ -42,6 +42,17 @@
             <locus>94ra-97va</locus>
           </witness>
           
+          <witness xml:id="EMDA328">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Goǧǧām</settlement>
+                <repository>Dimā Giyorgis</repository>
+                <idno>EMDA 328</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>70va-73rb</locus>
+          </witness>
+          
           
         </listWit>
       </sourceDesc>

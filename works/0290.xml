@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዘሩፋኤል፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zarufāʾel</title>
-        <title corresp="#t1" xml:lang="en">Image of Zarufāʾel</title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዘሩፋኤል፡ ዘደብረ፡ ጽሞና፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Zarufāʾel za-Dabra Ṣəmmonā</title>
+        <title corresp="#t1" xml:lang="en">Image of Zarufāʾel of Dabra Ṣəmmonā</title>
         
       </titleStmt>
 
@@ -123,6 +123,16 @@
 
           </lg>
           
+          <lg type="stanza" n="31">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ወለመልክእከ፡ ዘአስሐኮ፨</l>
+            <l n="2">ምስለ፡ መጠነ፡ ዝ፡ ጽሙና፡ ጻማ፡ ትጋህከ፡ ለአስተብርኮ፨</l>
+            <l n="3">መዝኅነ፡ ማእበል፡ መስቀለ፡ ለኤዎስጣቴዎስ፡ ዘኢያሪኮ፨</l>
+            <l n="4">ጸዊረከ፡ ዲበ፡ መትከፍ፡ ሶበ፡ ዘሩፋኤል፡ ዴገንኮ፨</l>
+            <l n="5">አስተዋረሰከ፡ ቃሉ፡ እምቃሉ፡ ባርኮ፨</l>
+
+          </lg>
+          
           <lg type="stanza" n="34">
             
             <l n="1">ሰላም፡ ለመቃብሪከ፡ ዘያስተጋኒ፡ አእላፈ፨</l>
@@ -185,10 +195,10 @@
             <listPerson>
               
               
-              <person xml:id="zarufael">
-                <persName xml:lang="gez">ዘሩፋኤል፡</persName>
-                <persName xml:lang="gez" type="normalized">Zarufāʾel</persName>
-                <persName xml:lang="en">Zarufāʾel</persName>
+              <person xml:id="zarufael-d-semmona">
+                <persName xml:lang="gez">ዘሩፋኤል፡ ዘደብረ፡ ጽሞና፡</persName>
+                <persName xml:lang="gez" type="normalized">Zarufāʾel za-Dabra Ṣəmmonā</persName>
+                <persName xml:lang="en">Zarufāʾel of Dabra Ṣəmmonā</persName>
                 <trait type="category"><desc>righteous</desc></trait>
 
                 
