@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0581" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ተክለ፡ ሃይማኖት፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Takla Hāymānot</title>
+        <title corresp="#t1" xml:lang="en">Image of Takla Hāymānot</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0581/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="EMML8892">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Gondar</settlement>
+                <repository>Māḫdara Māryām</repository>
+                <idno>EMML 8892</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>4ra-6vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ ውስተ፡ አፈ፡ ዓለም፡ ዘመልኦ፨</l>
+            <l n="2">ኢየሱስ፡ ክርስቶስ፡ ዘፈጸመ፡ ሕገ፡ ተሰብኦ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ጸባኢ፡ ለጸባኢየ፡ ትጽብኦ፨</l>
+            <l n="4">ደብረ፡ ሊባኖስ፡ ትጼውዐከ፡ ጸውዖ፨</l>
+            <l n="5">እንዘ፡ ትልብ፡ ነዓ፡ እግዚኦ፡ እግዚኦ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ወለርእስከ፡ ዘተላጸቀ፨</l>
+            <l n="2">እንዘ፡ ኢይትፈለጥ፡ ሕቀ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ጸሊ፡ ኀበ፡ ረሰይከ፡ ምርፋቀ፨</l>
+            <l n="4">ኢይሑር፡ አነ፡ ፍና፡ ርሑቀ፨</l>
+            <l n="5">ቅድመ፡ ለነፍስየ፡ አስተዳሉ፡ ስንቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለገጽከ፡ ለሙሴ፡ አምሳሉ፨</l>
+            <l n="2">ጽልሙታነ፡ ሕዝብ፡ ዘአብርሃ፡ በመዋዕሉ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ሰአሊ፡ ጳውሎስ፡ መምህረ፡ ኵሉ፨</l>
+            <l n="4">ከመ፡ ይብጽሐኒ፡ ወይርከበኒ፡ ሣህሉ፨</l>
+            <l n="5">ሰአሎ፡ ለአምላክከ፡ ዘሀሎ፡ ወይሄሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="4">
+            
+            <l n="1">ሰላም፡ ለቀራንብቲከ፡ ቀራንብተ፡ ክርስቶስ፡ ሥሉጥ፨</l>
+            <l n="2">እንተ፡ አልቦቱ፡ ተውላጥ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] አጋቶን፡ ዘሀገረ፡ ተስፋ፡ መርዩጥ፨</l>
+            <l n="4">ተራድአኒ፡ ለወልድከ፡ ጊዜ፡ ጸብአ፡ ሰይጣን፡ ስሑት፨</l>
+            <l n="5">አርአያ፡ ረድኦ፡ አብርሃም፡ ለሎጥ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="8">
+            
+            <l n="1">ሰላም፡ ለእስትንፋስከ፡ ዘመዐዛሁ፡ ስኂን፨</l>
+            <l n="2">ወለጕርዔከ፡ መዓርዒር፡ ኅሩመ፡ ስቴ፡ ሜስ፡ ወወይን፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ስጥጥ፡ መጽሐፈ፡ ፀርየ፡ ሰይጣን፨</l>
+            <l n="4">በከመ፡ ሰጠጠ፡ ጦማረ፡ ሮማዊ፡ ልዮን፨</l>
+            <l n="5">ዲዮስቆሮስ፡ ያርብሐዊ፡ በኵሉ፡ ዘመን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="21">
+            
+            <l n="1">ሰላም፡ እብል፡ ለአፃብዐ፡ እግርከ፡ ሰንሰሪቍ፨</l>
+            <l n="2">እለ፡ ተኣምረ፡ ገብራ፡ በዘዚአሆን፡ ኍልቍ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ፀሓይ፡ ዘወርኀ፡ ኵርያቍ፨</l>
+            <l n="4">ስደኒ፡ ውስተ፡ ቤትከ፡ ዘአረፋቲሃ፡ አዕናቍ፨</l>
+            <l n="5">አኮ፡ ዘዕብን፡ ወአኮ፡ ዘኅቍ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ሰላም፡ ለቆምከ፡ ወለመልክእከ፡ ኅቱም፨</l>
+            <l n="2">በማኅተመ፡ አምላክ፡ ግሩም፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] አንበሳ፡ ዘደብረ፡ ሊባኖስ፡ ገዳም፨</l>
+            <l n="4">ተንሥእ፡ እምኅዝአትከ፡ ዘአልቦ፡ ድካም፨</l>
+            <l n="5">ማእረረከ፡ ኢታማስን፡ ላህም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="26">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ ለቤተ፡ ክርስቲያን፡ በፍጽማ፨</l>
+            <l n="2">እንተ፡ ይእቲ፡ ማኅደረ፡ ማርያም፡ ስማ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ካህን፡ ወነቢይ፡ ዘአውቴዝራማ፨</l>
+            <l n="4">ደቂቀ፡ ዚአከ፡ ከመ፡ ኢይሁክ፡ መስቴማ፨</l>
+            <l n="5">ኀይለከ፡ አንሥእ፡ ወአስተርኢ፡ ግርማ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="27">
+            
+            <l n="1">ሰላም፡ ለመቃብሪከ፡ መቃብረ፡ ክርስቶስ፡ ዋሕድ፨</l>
+            <l n="2">ወመንፈስ፡ ቅዱስ፡ ማኅፈድ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ቀዋሚ፡ ካልአ፡ ስምዖን፡ ዘዐምድ፨</l>
+            <l n="4">ተበፃዕከ፡ ነዋ፡ በመርኅበ፡ ንጉሥ፡ ዐውድ፨</l>
+            <l n="5">ወተሰባሕከ፡ በኵሉ፡ ዐጸድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለአዕፅምቲከ፡ አዕፅምተ፡ ብእሲ፡ አዳም፨</l>
+            <l n="2">ዘኢየሩሳሌም፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ግሑሥ፡ ዘንብረትከ፡ ገዳም፨</l>
+            <l n="4">እምብዕለ፡ ነፍስከ፡ ክፍለኒ፡ ዮም፨</l>
+            <l n="5">እስመ፡ ብዕልየ፡ ጽላሎት፡ ወሕልም፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">___ ብፁዕ፡ ዘቀነተ፡ ሰይፈ፨</l>
+            <l n="2">ውስተ፡ ቀርያታርም፡ ናባል፡ አመ፡ ኪያሁ፡ ፀረፈ፨</l>
+            <l n="3">ከመ፡ አዕረፎ፡ በሠናይ፡ ወነፍሰ፡ ዚአሁ፡ ተወክፈ፨</l>
+            <l n="4">[ተክለ፡ ሃይማኖት፡] እግዚእከ፡ ዘአናቅጸ፡ ሞት፡ ኀለፈ፨</l>
+            <l n="5">በርስዓን፡ ጥሉል፡ ኪያከ፡ አዕረፈ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ተኣምሪከ፡ ተከሥተ፡ እምተኀብኦቱ፡ ጥዩቀ፨</l>
+            <l n="2">እግዚአብሔር፡ አምላክ፡ እንተ፡ በይሁዳ፡ ተዐውቀ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ዮሐንስ፡ እንዘ፡ ኢተኀሥሥ፡ አውቀ፨</l>
+            <l n="4">በደሴተ፡ ባሕር፡ አመ፡ ረሰይከ፡ ምርፋቀ፨</l>
+            <l n="5">ሰይጣን፡ ጐየ፡ ወቆመ፡ ርኁቀ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ተኣምሪከ፡ ሕፃን፡ እምከርሠ፡ መቃብር፡ ተወልደ፨</l>
+            <l n="2">ወአስተርአየ፡ ገሀደ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ለክርስቶስ፡ እንዘ፡ ታቄርብ፡ ሰጊደ፨</l>
+            <l n="4">በደሴተ፡ ባሕር፡ አምጣነ፡ ኮንከ፡ ጽሙደ፨</l>
+            <l n="5">ኀቤከ፡ ውእቱ፡ እምሰማይ፡ ወረደ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">___ ንጉሥ፡ እንዘ፡ የኀልፍ፡ ፍኖተ፨</l>
+            <l n="2">ሳሚ፡ ረጋሚ፡ ረገመ፡ ርግምተ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] ኪያከ፡ እመ፡ ጸአለ፡ ጽእለተ፨</l>
+            <l n="4">ብእሲ፡ በሥጋሁ፡ ይረክብ፡ ቍረተ፨</l>
+            <l n="5">ወበነፍሱ፡ ይትዋረስ፡ እሳተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="33">
+            
+            <l n="1">አምጣነ፡ አቅረብኩ፡ ለከ፡ አምኃ፡ ሰላምየ፡ ዘንተ፨</l>
+            <l n="2">በከመ፡ ተክህለኒ፡ ሊተ፨</l>
+            <l n="3">[ተክለ፡ ሃይማኖት፡] አቡየ፡ እስመ፡ መምህረ፡ ሕግ፡ አንተ፨</l>
+            <l n="4">በዝዓለም፡ ሀበኒ፡ በረከተ፨</l>
+            <l n="5">ወበደኃሪ፡ ንሥአኒ፡ ዐሥራተ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="takla-haymanot">
+                <persName xml:lang="gez">ተክለ፡ ሃይማኖት፡</persName>
+                <persName xml:lang="gez" type="normalized">Takla Hāymānot</persName>
+                <persName xml:lang="en">Takla Hāymānot</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">151</citedRange>
+                </biblStruct>
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

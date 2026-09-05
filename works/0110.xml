@@ -30,6 +30,19 @@
         <listWit>
           
           
+          
+          <witness xml:id="IES0139">
+            <msDesc>
+              <msIdentifier>
+                <settlement>ʾAddis ʾAbabā</settlement>
+                <repository>Institute of Ethiopian Studies</repository>
+                <idno>IES 139</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>5r-6v</locus>
+          </witness>
+          
+          
         </listWit>
       </sourceDesc>
 
@@ -69,6 +82,26 @@
             <l n="3">ዲዮስቆሮስ፡ ዝክርከ፡ ዘያስተፌሥሕ፡ አልባበ፨</l>
             <l n="4">ገጸ፡ አምላክ፡ ገጽከ፡ ሚመጠነ፡ ረከበ፨</l>
             <l n="5">ጸጋ፡ ብዙኀ፡ ወሠናየ፡ ዐስበ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="15">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነግስከ፡ ድኅረ፡ ፈጸመት፡ ትእዛዘ፨</l>
+            <l n="2">ወለበድነ፡ ሥጋከ፡ ቅዱስ፡ ዘበእደ፡ ጻድቃን፡ ተገንዘ፨</l>
+            <l n="3">መምህር፡ ዲዮስቆሮስ፡ እንተ፡ ኢተአምር፡ ጋዕዘ፨</l>
+            <l n="4">ዘኢያፈቅር፡ ውዳሴከ፡ እንረስእ፡ ትካዘ፨</l>
+            <l n="5">በልሳነ፡ ቅዱስ፡ ቄርሎስ፡ ለይኩን፡ ውጉዘ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="16">
+            
+            <l n="1">ተዘኪረከ፡ ክርስቶስ፡ ከመ፡ አፈቀሮሙ፡ ጥቀ፨</l>
+            <l n="2">በእንቲአከ፡ ለጻድቃን፡ እስመ፡ ተገበሩ፡ ጽድቀ፨</l>
+            <l n="3">ድኩመ፡ ሥጋየ፡ እመ፡ ተንተነ፡ ወወድቀ፨</l>
+            <l n="4">በጽሐ፡ ሰዊቅ፡ ወጊዜ፡ አንሥአ፡ አልጸቀ፨</l>
+            <l n="5">እመ፡ ከመ፡ ከማከ፡ አብ፡ ያነሥእ፡ ጥዩቀ፨</l>
 
           </lg>
           

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0577" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፅንሰታ፡ ለማርያም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ḍǝnsatā la-Māryām</title>
+        <title corresp="#t1" xml:lang="en">Image of the Conception of Mary</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0577/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+          
+          <witness xml:id="tanasee66">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Goǧǧām</settlement>
+                <repository>Dabra Māryām</repository>
+                <idno>Ṭānāsee 66</idno>
+              </msIdentifier>
+            </msDesc>
+            <locus>14ra-14vb</locus>
+          </witness>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ እንዘ፡ እብል፡ ለዝክረ፡ ስምኪ፡ ብርሃን፨</l>
+            <l n="2">ሎቱ፡ ኣቀርብ፡ ስብሐተ፡ ላዕላዕ፡ ልሳን፨</l>
+            <l n="3">ድንግል፡ እምሐና፡ ወኢዮአቂም፡ ጻድቃን፨</l>
+            <l n="4">አኮኑ፡ ተፀንሶትኪ፡ ሰንበተ፡ ተንሣኤ፡ እሙን፨</l>
+            <l n="5">ርእሰ፡ በዓላት፡ ዘለኪ፡ ዕለታት፡ ኵሎን፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስኪ፡ ቅቡአ፡ ዕፍረት፡ ንጽሕና፨</l>
+            <l n="2">ወለርእስኪ፡ ግልቡብ፡ ትእምርተ፡ መስቀል፡ ደመና፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ጊዜ፡ ተቀድሶ፡ ርእስና፨</l>
+            <l n="4">መንክር፡ ተፀንሶትኪ፡ እግዚአብሔር፡ ዘዮና፨</l>
+            <l n="5">በአርያሙ፡ ኢያቄም፡ ወሐና፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="3">
+            
+            <l n="1">ሰላም፡ ለገጽኪ፡ ዘያስተሐቅር፡ ማኅቶተ፨</l>
+            <l n="2">ወለቀራንብትኪ፡ አፍላግ፡ እለ፡ ያፈለፍላ፡ ሀብተ፨</l>
+            <l n="3">ቈጽላ፡ ሆሳዕና፡ ድንግል፡ ዘታጠፍዒ፡ እሳተ፨</l>
+            <l n="4">ደመስል፡ ተፀንሶትኪ፡ ዘጊዜ፡ ብናሴ፡ ሌሊተ፨</l>
+            <l n="5">ወልደትኪ፡ ዘፀሓይ፡ መዓልተ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="9">
+            
+            <l n="1">ሰላም፡ ለቃልኪ፡ ነባቤ፡ የውሀት፡ በቃሉ፨</l>
+            <l n="2">ወለእስትንፋስኪ፡ ካዕበ፡ ዘይነፍሕ፡ መንገለ፡ ላዕሉ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ለዓመተ፡ ምሕረት፡ አክሊሉ፨</l>
+            <l n="4">ለፅንሰትኪ፡ እግዚአብሔር፡ ይኄይሰነ፡ ናድሉ፨</l>
+            <l n="5">እምነ፡ አድልዎ፡ ለሰብእ፡ ፅንሰ፡ ሰብእ፡ ኵሉ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="28">
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስኪ፡ እምነ፡ ፅንሰትኪ፡ ድኅረ፨</l>
+            <l n="2">ወለበድነ፡ ሥጋኪ፡ ካዕበ፡ በጌቴሴማን፡ ዘተቀብረ፨</l>
+            <l n="3">ኰናኒት፡ ድንግል፡ ሰማየ፡ ወምድረ፨</l>
+            <l n="4">ከመ፡ ይግሥሥ፡ በድነ፡ ሥጋኪ፡ አመ፡ ተሐበለ፡ ምዕረ፨</l>
+            <l n="5">ለአይሁዳዊ፡ እዴሁ፡ ተመትረ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="29">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋኪ፡ እንዘ፡ ጴጥሮስ፡ በትርአሱ፨</l>
+            <l n="2">ወበትርጋሁ፡ ዮሐንስ፡ እንዘ፡ ምስለ፡ ኀዘን፡ ያንሶሱ፨</l>
+            <l n="3">ማርያም፡ ድንግል፡ ለኃጥእ፡ መድኃኒተ፡ ነፍሱ፨</l>
+            <l n="4">ኪያኪ፡ ምልዕተ፡ ጸጋ፡ አመ፡ ድኅረ፡ ውርዙት፡ ፀንሱ፨</l>
+            <l n="5">ሐና፡ ወኢያቄም፡ በሰማይ፡ ነግሡ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="30">
+            
+            <l n="1">ሰላም፡ ለመቃብርኪ፡ ዘብርሃን፡ ዲቤሁ፨</l>
+            <l n="2">ወለተንሣኤኪ፡ ካዕበ፡ ዘተንሣኤ፡ አምላክ፡ ጾታሁ፨</l>
+            <l n="3">ለነቢይ፡ ሚልክያስ፡ ማርያም፡ ጽርሑ፨</l>
+            <l n="4">ጽጌ፡ ወይን፡ ተፀንሶትኪ፡ አስተርአየ፡ ናሁ፨</l>
+            <l n="5">ድኅረ፡ ለኢዮአቂም፡ ወርኅ፡ ኀለፈ፡ ጊዜሁ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="31">
+            
+            <l n="1">ስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ዘመን፡ ቀዳሚት፨</l>
+            <l n="2">ወስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ዘመን፡ ደኃሪት፨</l>
+            <l n="3">ስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ኵሉ፡ ሰዓት፨</l>
+            <l n="4">ወስብሐት፡ ለኪ፡ ማርያም፡ በኍልቈ፡ ኆፃ፡ ወከዋክብት፨</l>
+            <l n="5">ስብሐት፡ ለርኅራኄኪ፡ ለኵሉ፡ ፍጥረት፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="32">
+            
+            <l n="1">ይትባረክ፡ አብ፡ ኪያኪ፡ በአጽንዖቱ፨</l>
+            <l n="2">ወይትቀደስ፡ ወልድ፡ እምኔኪ፡ በተሠግዎቱ፨</l>
+            <l n="3">ወመንፈስ፡ ቅዱስ፡ ይትአኰት፡ ሥጋኪ፡ በአንጽሖቱ፨</l>
+            <l n="4">በኀይልኪ፡ እስመ፡ ፈጸምኩ፡ ድርሳነ፡ ፅንሰትኪ፡ ዝንቱ፨</l>
+            <l n="5">ማርያም፡ እግዝእተ፡ ኵሉ፡ ዘላዕሉ፡ ወታሕቱ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="conception-mary">
+                <persName xml:lang="gez">ፅንሰታ፡ ለማርያም፡</persName>
+                <persName xml:lang="gez" type="normalized">Ḍǝnsatā la-Māryām</persName>
+                <persName xml:lang="en">The Conception of Mary</persName>
+                <trait type="category"><desc>marian</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

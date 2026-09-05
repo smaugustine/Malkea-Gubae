@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0579" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ኤፍሬም፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkǝʾa ʾEfrem</title>
+        <title corresp="#t1" xml:lang="en">Image of Ephrem</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0579/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ በዘርአ፡ ወላዲ፡ ልምላሜ፨</l>
+            <l n="2">ወእምነ፡ እሙ፡ ገራህት፡ ለልደትከ፡ ሰላሜ፨</l>
+            <l n="3">ንስሓ፡ ያዕቆብ፡ ኤፍሬም፡ ነጠብጣበ፡ ድንግል፡ ጊሜ፨</l>
+            <l n="4">ሰላመከ፡ ዘአኀዝክዎ፡ እስከ፡ እፌጽም፡ ፍጻሜ፨</l>
+            <l n="5">ምስለ፡ መንፈስ፡ ቅዱስ፡ ጽንሐኒ፡ ዘመነ፡ ወዕድሜ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="2">
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ እንዘ፡ ፬ አሐዱ፨</l>
+            <l n="2">ወእንዘ፡ አሐዱ፡ በስም፡ ከመ፡ ዮሐንስ፡ ፍቅዱ፨</l>
+            <l n="3">ነፋሰ፡ ____ ኤፍሬም፡ ለባሕረ፡ ውዳሴ፡ ሞገዱ፨</l>
+            <l n="4">መንገሌየ፡ በተማልዖ፡ እምነ፡ ወሰንከ፡ እዱ፨</l>
+            <l n="5">ወድርሳናተ፡ ፻፼ ቅድሜየ፡ ይስግዱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="46">
+            
+            <l n="1">ሰላም፡ ለፍልሰተ፡ ሥጋከ፡ ለወርኀ፡ የክቲት፡ አመ፡ ሠሉሱ፨</l>
+            <l n="2">እምነ፡ መቃብር፡ ባስልዮስ፡ እንተ፡ ቀደሳ፡ በነፍሱ፨</l>
+            <l n="3">ፍቁረ፡ ድንግል፡ ኤፍሬም፡ አብአኒ፡ ቤተ፡ ኢያሱ፨</l>
+            <l n="4">በአትከ፡ ዘቤተ፡ እብሎይ፡ መቅደሱ፨</l>
+            <l n="5">ለለ፡ ዐውደ፡ ዓመት፡ ወወርኅ፡ ላዕሌየ፡ ያንሶሱ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="47">
+            
+            <l n="1">ድርሳናተ፡ ሰላም፡ ለከ፡ ፍዳ፡ አቅረብኩ፡ [ኣቄርቦ]፨</l>
+            <l n="2">መጠነ፡ ፵ ወሰብዕ፡ ስመ፡ ____ ዘቦ፨</l>
+            <l n="3">ስቁለ፡ ጥሪት፡ ኤፍሬም፡ በኢየሩሳሌም፡ ጸልቦ፨</l>
+            <l n="4">ሀበኒ፡ ዐስበ፡ ጻማየ፡ ወኢትበለኒ፡ አልቦ፨</l>
+            <l n="5">እስመ፡ ለዘከማየ፡ ሰብእ፡ ይሁብዎ፡ ዐስቦ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="ephrem">
+                <persName xml:lang="gez">ኤፍሬም፡ ሶርያዊ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾEfrem Soryāwi</persName>
+                <persName xml:lang="en">Ephrem the Syrian</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+    </back>
+
+  </text>
+</TEI>

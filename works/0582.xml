@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAe0582" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ እሌኒ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾƎlleni</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾƎlleni</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+            <idno type="ORCID">https://orcid.org/0000-0002-7732-3524</idno>
+          </persName>
+        </authority>
+        <date>2026</date>
+        <ref target="https://w3id.org/malke/0582/"/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <listWit>
+          
+          
+        </listWit>
+      </sourceDesc>
+
+      
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          <lg type="stanza" n="1">
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለሠናየ፡ ዝክር፡ ዝክረ፡ ስምኪ፨</l>
+            <l n="2">ወለሕብረ፡ ሜላት፡ ፍቱል፡ ሥዕርተ፡ ርእስኪ፨</l>
+            <l n="3">እስመ፡ አንቲ፡ ቅድመ፡ መሠረተ፡ ቤታ፡ አፅናዕኪ፨</l>
+            <l n="4">ትቤለኪ፡ ለስእለቱ፡ መርጡለ፡ ማርያም፡ ደብርኪ፨</l>
+            <l n="5">እሌኒ፡ ንግሥት፡ በሐኪ፡ በሐኪ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="23">
+            
+            <l n="1">ሰላም፡ ለግንዘተ፡ ሥጋኪ፡ በእደ፡ ኅሩያን፡ ነገድ፨</l>
+            <l n="2">ወለመቃብርኪ፡ ልዕልት፡ ደብረ፡ ነጐድጓድ፨</l>
+            <l n="3">መርዓተ፡ ነጋሢ፡ እሌኒ፡ ክብርተ፡ ዘመድ፨</l>
+            <l n="4">ንዒ፡ ንዒ፡ ንግሥትነ፡ መንገለ፡ ዛቲ፡ ዐጸድ፨</l>
+            <l n="5">እስመ፡ ተጋብኡ፡ አእላፍ፡ ውሉድ፨</l>
+
+          </lg>
+          
+          <lg type="stanza" n="24">
+            
+            <l n="1">ኦዘጸውዐኪ፡ እግዚአብሔር፡ አብ፨</l>
+            <l n="2">ውስተ፡ ቤተ፡ መርዓ፡ እሌኒ፡ ወቤተ፡ ከብካብ፨</l>
+            <l n="3">መክሊተ፡ ማሕሌት፡ ፈነወት፡ ምስለ፡ ነጋድያን፡ ሕዝብ፨</l>
+            <l n="4">ልሳንየ፡ መሬታዊት፡ ንግሥተ፡ አዜብ፡ ወ[ድቡ]ብ፨</l>
+            <l n="5">ለቅድስናኪ፡ ሰሎሞን፡ መክብብ፨</l>
+
+          </lg>
+          
+        </div>
+
+        
+        
+      </div>
+    </body>
+    
+    <back>
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="eleni">
+                <persName xml:lang="gez">እሌኒ፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾƎlleni</persName>
+                <persName xml:lang="en">ʾƎlleni</persName>
+                <trait type="category"><desc>righteous</desc></trait>
+
+                
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+      
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="journalArticle" xml:id="Habtamu_M._Tegegne2021" corresp="http://zotero.org/groups/5599348/items/SY2EUHTL"><analytic><title level="a">Fragility and Resilience: Church History and Myth in Nineteenth-Century Ethiopia</title><title type="short">Fragility and Resilience</title><author><name>Habtamu M. Tegegne</name></author></analytic><monogr><title level="j">Aethiopica</title><imprint><biblScope unit="volume">23</biblScope><biblScope unit="page">120-148</biblScope><date>2021</date></imprint></monogr></biblStruct></listBibl>
+    </back>
+
+  </text>
+</TEI>
